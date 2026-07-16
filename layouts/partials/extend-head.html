@@ -1,0 +1,80 @@
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:image" content="https://glp1forwellness.com/og-image.png">
+<meta property="og:title" content="GLP-1 for Wellness">
+<meta property="og:description" content="How GLP-1 medications help with more than weight loss">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- AI Context Files for LLMs -->
+<link rel="llms" href="/llms.txt" type="text/plain" title="LLM Context">
+<link rel="llms-full" href="/llms-full.txt" type="text/plain" title="LLM Full Context">
+
+<!-- Person Schema for E-E-A-T -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "GLP-1 for Wellness",
+  "url": "https://glp1forwellness.com/articles/about/",
+  "description": "Independent health researcher exploring the benefits of GLP-1 medications beyond weight loss — for autoimmune conditions, inflammation, cardiovascular health, and more.",
+  "knowsAbout": [
+    "GLP-1 receptor agonists",
+    "Semaglutide",
+    "Tirzepatide",
+    "GLP-1 anti-inflammatory effects",
+    "GLP-1 and autoimmune conditions",
+    "GLP-1 and lupus",
+    "GLP-1 and sleep apnea",
+    "GLP-1 and arthritis",
+    "GLP-1 and mental health",
+    "GLP-1 and cardiovascular health",
+    "GLP-1 and fatty liver disease",
+    "Telehealth platforms for GLP-1 prescriptions",
+    "Compounded medications"
+  ]
+}
+</script>
+
+<!-- AI Referral Tracking -->
+{{ if hugo.IsProduction }}
+<script>
+(function() {
+  var defined_sources = [
+    { domain: 'chatgpt.com', name: 'ChatGPT' },
+    { domain: 'chat.openai.com', name: 'ChatGPT' },
+    { domain: 'perplexity.ai', name: 'Perplexity' },
+    { domain: 'claude.ai', name: 'Claude' },
+    { domain: 'you.com', name: 'You.com' },
+    { domain: 'copilot.microsoft.com', name: 'Copilot' },
+    { domain: 'gemini.google.com', name: 'Gemini' },
+    { domain: 'phind.com', name: 'Phind' },
+    { domain: 'bing.com/chat', name: 'Bing Chat' }
+  ];
+  try {
+    var ref = document.referrer;
+    if (!ref) return;
+    for (var i = 0; i < defined_sources.length; i++) {
+      if (ref.indexOf(defined_sources[i].domain) !== -1) {
+        if (typeof gtag === 'function') {
+          gtag('event', 'ai_referral', { ai_source: defined_sources[i].name });
+        }
+        break;
+      }
+    }
+  } catch(e) {}
+})();
+</script>
+{{ end }}
+
+<!-- Prevent search form submit on Enter -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var form = document.querySelector('#search-modal form');
+  if (form) form.addEventListener('submit', function(e) { e.preventDefault(); });
+});
+</script>
+
+{{ $custom := resources.Get "css/custom.css" }}
+{{ if $custom }}
+<style>{{ $custom.Content | safeCSS }}</style>
+{{ end }}

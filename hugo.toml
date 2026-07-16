@@ -1,0 +1,179 @@
+# Site Configuration
+baseURL = "https://glp1forwellness.com/"
+languageCode = "en"
+title = "GLP-1 for Wellness"
+theme = "congo"
+# googleAnalytics = "G-XXXXXXXXXX"  # TODO: Add GA4 measurement ID
+
+# Enable emoji rendering
+enableEmoji = true
+
+# Build settings
+enableRobotsTXT = false  # Using custom robots.txt in /static/
+buildDrafts = false
+buildFuture = false
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Markup
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
+# Outputs
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# =============================================================================
+# CONGO THEME CONFIGURATION
+# =============================================================================
+
+[params]
+  # Site metadata
+  description = "How GLP-1 medications help with more than weight loss. Condition-specific guides for lupus, sleep apnea, arthritis, PCOS, mental health, and more — with affordable telehealth options."
+  keywords = ["GLP-1 medications", "semaglutide", "tirzepatide", "GLP-1 health conditions", "GLP-1 inflammation", "GLP-1 autoimmune", "GLP-1 beyond weight loss", "telehealth GLP-1"]
+
+  # Favicon and social sharing
+  favicon = "/favicon.svg"
+  images = ["/og-image.png"]
+
+  # Color scheme
+  colorScheme = "glp1"
+
+  # Appearance
+  defaultAppearance = "light"
+  autoSwitchAppearance = false
+
+  # Enable search
+  enableSearch = true
+  enableCodeCopy = true
+
+  # Main sections for recent content
+  mainSections = ["conditions", "articles"]
+
+  # Robots
+  robots = "index, follow"
+
+  # Date format
+  dateFormat = "January 2, 2006"
+
+  # Display settings
+  showReadingTime = true
+  showDate = true
+  showAuthor = false
+  showBreadcrumbs = true
+  showTableOfContents = false
+  showTaxonomies = true
+  showWordCount = false
+  showPagination = true
+  showRelatedContent = true
+  relatedContentLimit = 3
+
+  # Article settings
+  [params.article]
+    showTableOfContents = false
+    showRelatedContent = true
+    showTaxonomies = false
+    showAuthor = false
+    showDate = true
+    showReadingTime = true
+    showWordCount = false
+    sharingLinks = false
+
+  # List page settings
+  [params.list]
+    showTableOfContents = false
+    showTaxonomies = false
+    showSummary = true
+    showReadingTime = true
+    groupByYear = false
+    paginationWidth = 1
+
+  # Homepage settings
+  [params.homepage]
+    layout = "page"
+    showRecent = false
+    showRecentItems = 0
+    showMoreLink = false
+
+  # Header settings
+  [params.header]
+    layout = "hybrid"
+    showTitle = false
+
+  # Footer settings
+  [params.footer]
+    showCopyright = true
+    showThemeAttribution = false
+    showAppearanceSwitcher = false
+    showScrollToTop = false
+
+# =============================================================================
+# MENUS
+# =============================================================================
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "conditions"
+    name = "Conditions"
+    url = "/conditions/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "telehealth"
+    name = "Telehealth"
+    url = "/articles/best-telehealth-glp1/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    url = "/resources/"
+    weight = 30
+
+  [[menu.footer]]
+    identifier = "privacy"
+    name = "Privacy"
+    url = "/legal/privacy/"
+    weight = 10
+
+  [[menu.footer]]
+    identifier = "disclosure"
+    name = "Affiliate Disclosure"
+    url = "/legal/disclosure/"
+    weight = 20
+
+  [[menu.footer]]
+    identifier = "disclaimer"
+    name = "Medical Disclaimer"
+    url = "/legal/disclaimer/"
+    weight = 30
+
+# =============================================================================
+# PRIVACY (for GDPR compliance)
+# =============================================================================
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = false
+  [privacy.instagram]
+    disable = true
+  [privacy.x]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true

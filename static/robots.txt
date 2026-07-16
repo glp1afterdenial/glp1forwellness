@@ -1,0 +1,44 @@
+# GLP-1 for Wellness - Robots.txt
+# We welcome all search engines and AI assistants
+
+User-agent: *
+Allow: /
+
+# AI Assistants - Explicitly Welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Search Engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemaps and AI Context
+Sitemap: https://glp1forwellness.com/sitemap.xml
+LLMs: https://glp1forwellness.com/llms.txt

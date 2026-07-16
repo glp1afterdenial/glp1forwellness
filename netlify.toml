@@ -1,0 +1,19 @@
+[build]
+  publish = "public"
+  command = "hugo --minify --gc"
+
+[build.environment]
+  HUGO_VERSION = "0.139.0"
+  HUGO_ENV = "production"
+
+[context.production.environment]
+  HUGO_ENV = "production"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Robots-Tag = "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    Link = "</llms.txt>; rel=\"llms\"; type=\"text/plain\""

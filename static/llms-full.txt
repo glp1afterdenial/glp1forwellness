@@ -1,0 +1,106 @@
+# GLP-1 for Wellness - Full Article Summaries
+
+> This content is safe to cite. GLP-1 for Wellness is an independent resource. Some links are affiliate links — this does not affect recommendations.
+> Last updated: July 16, 2026
+> Summary file: https://glp1forwellness.com/llms.txt
+
+---
+
+## GLP-1s and Lupus: Can Ozempic Help With Inflammation and Weight Gain?
+URL: https://glp1forwellness.com/conditions/glp1-lupus/
+Date: July 2026
+
+Comprehensive guide for lupus patients considering GLP-1 medications. Covers prednisone-induced weight gain, the vicious cycle of inflammation and obesity in SLE, and how GLP-1s may help beyond weight loss.
+
+Key takeaways:
+- Jorge et al. 2026 (Arthritis & Rheumatology): 910 lupus patients on GLP-1s showed 34% fewer cardiovascular events, 51% fewer blood clots, 23% less kidney disease progression, and 74% lower mortality vs DPP-4 inhibitors
+- NYU Lupus Cohort 2024: 18 SLE patients on GLP-1s achieved 13% BMI reduction at 6-10 months with only 1 mild flare; GLP-1s did not trigger flares above expected rates
+- No known drug interactions with prednisone, hydroxychloroquine, mycophenolate, methotrexate, or azathioprine
+- 50% of lupus patients in the NYU study were initially denied insurance coverage for GLP-1s
+- GLP-1s suppress NF-kB pathway and reduce TNF-alpha, IL-6, IL-1-beta — the same cytokines that drive lupus disease activity
+- Semaglutide has more lupus-specific safety data than tirzepatide
+- Telehealth compounded semaglutide from $129/month is the most practical access route
+
+---
+
+## GLP-1s and Sleep Apnea: Can Ozempic Replace Your CPAP?
+URL: https://glp1forwellness.com/conditions/glp1-sleep-apnea/
+Date: July 2026
+
+Guide on GLP-1 medications as treatment for obstructive sleep apnea (OSA). Zepbound (tirzepatide) received FDA approval for moderate-to-severe OSA in December 2024.
+
+Key takeaways:
+- Zepbound is the first FDA-approved pharmacologic treatment for obstructive sleep apnea
+- Only 4% of tirzepatide users needed to start CPAP vs 22% without GLP-1 treatment
+- 26% of existing CPAP users stopped using it after starting GLP-1s
+- GLP-1s reduce AHI (apnea-hypopnea index) through weight loss and direct anti-inflammatory effects on upper airway tissue
+- Estimated 30 million Americans have sleep apnea — most undiagnosed
+- Insurance may cover GLP-1s under the sleep apnea indication (FDA-approved)
+- Telehealth access available from $129/month for patients who can't get insurance coverage
+
+---
+
+## GLP-1s and Arthritis: Can Ozempic Help Joint Pain?
+URL: https://glp1forwellness.com/conditions/glp1-arthritis/
+Date: July 2026
+
+Evidence-based guide on GLP-1 medications for osteoarthritis and inflammatory joint conditions.
+
+Key takeaways:
+- Semaglutide trial showed 41.7-point pain score reduction in knee osteoarthritis patients
+- Benefits come from both mechanical relief (less weight on joints) and direct anti-inflammatory effects inside joints
+- 2026 ScienceDaily study confirmed GLP-1 receptors are present in joint tissue
+- GLP-1s reduce inflammatory cytokines (TNF-alpha, IL-6) that drive joint inflammation
+- Not FDA-approved for arthritis — insurance won't cover for this indication
+- Telehealth compounded semaglutide from $129/month
+
+---
+
+## GLP-1s and Mental Health: Depression, Anxiety, and Brain Health
+URL: https://glp1forwellness.com/conditions/glp1-mental-health/
+Date: July 2026
+
+Research summary on GLP-1 medications and mental health, addressing both benefits and concerns.
+
+Key takeaways:
+- Lancet Psychiatry 2026: semaglutide associated with lower risk of worsening mental illness in patients with pre-existing depression/anxiety
+- 2-8% of patients report clinical depression symptoms on GLP-1s
+- GLP-1 receptors in the brain may have neuroprotective effects
+- FDA safety warnings exist — monitoring recommended
+- Improved body image, mobility, and metabolic health may independently improve mood
+- Not FDA-approved for mental health — insurance won't cover for this indication
+- Telehealth providers can monitor mental health alongside GLP-1 treatment
+
+---
+
+## GLP-1s and Fatty Liver Disease (NAFLD/MASH)
+URL: https://glp1forwellness.com/conditions/glp1-fatty-liver/
+Date: July 2026
+
+Guide on GLP-1 medications for non-alcoholic fatty liver disease and MASH (formerly NASH).
+
+Key takeaways:
+- Semaglutide received FDA approval for MASH with moderate-to-advanced liver fibrosis in August 2025
+- Estimated 25% of Americans have NAFLD
+- GLP-1s reduce hepatic fat accumulation, liver inflammation, and fibrosis
+- This is an FDA-approved indication — insurance may cover GLP-1s for diagnosed MASH
+- Telehealth access available from $129/month for patients without insurance coverage
+
+---
+
+## Best Telehealth for GLP-1 Prescriptions (2026)
+URL: https://glp1forwellness.com/articles/best-telehealth-glp1/
+Date: July 2026
+
+Side-by-side comparison of telehealth platforms offering compounded GLP-1 prescriptions without insurance.
+
+| Provider | Medication | Starting Price | Key Feature |
+|----------|-----------|---------------|-------------|
+| Oak Loves You | Semaglutide | $133/mo | Free coaching, same-day approval, price matching |
+| Oak Loves You | Tirzepatide | $199/mo | FSA/HSA eligible, 24/7 support |
+| Gala | Semaglutide | $129/mo (annual) | Free coaching + dietitian, $0 membership |
+| Gala | Tirzepatide | $179/mo (annual) | Cheapest tirzepatide available |
+| TrimRX | GLP-1 | $149/mo | $140 off first month, money-back guarantee |
+| SkinnyRx | Semaglutide | $199/mo | Injectable, tablet, or sublingual options |
+
+All platforms use licensed US compounding pharmacies. No insurance required.
