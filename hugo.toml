@@ -3,7 +3,7 @@ baseURL = "https://glp1forwellness.com/"
 languageCode = "en"
 title = "GLP-1 for Wellness"
 theme = "congo"
-# googleAnalytics = "G-XXXXXXXXXX"  # TODO: Add GA4 measurement ID
+googleAnalytics = "G-06G20Z9FQ1"
 
 # Enable emoji rendering
 enableEmoji = true
