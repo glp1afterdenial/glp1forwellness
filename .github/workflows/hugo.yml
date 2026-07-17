@@ -44,7 +44,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://glp1forwellness.com/"
       - name: Copy CNAME to public
         run: cp CNAME public/CNAME
       - name: Upload artifact
