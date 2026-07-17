@@ -1,8 +1,9 @@
 ---
 title: "GLP-1 Medications & Fatty Liver Disease (NAFLD/MASH): What the Research Shows"
 date: 2026-07-16
-lastmod: 2026-07-16
+lastmod: 2026-07-17
 description: "Semaglutide is now FDA-approved for MASH with liver fibrosis. Learn how GLP-1 medications reduce liver fat, inflammation, and scarring — plus how to access treatment with or without insurance."
+summary: "Semaglutide is now FDA-approved for MASH with liver fibrosis. Learn how GLP-1 medications reduce liver fat, inflammation, and scarring — plus how to access treatment with or without insurance."
 keywords: ["GLP-1 fatty liver", "semaglutide MASH", "semaglutide NAFLD", "GLP-1 liver disease", "MASH treatment 2025", "fatty liver medication", "semaglutide liver fibrosis", "ESSENCE trial semaglutide", "GLP-1 hepatic steatosis", "NAFLD treatment options", "semaglutide FDA approval MASH"]
 ---
 
@@ -76,6 +77,31 @@ keywords: ["GLP-1 fatty liver", "semaglutide MASH", "semaglutide NAFLD", "GLP-1 
       }
     }
   ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "headline": "GLP-1 Medications & Fatty Liver Disease (NAFLD/MASH): What the Research Shows",
+  "description": "Semaglutide is now FDA-approved for MASH with liver fibrosis. Learn how GLP-1 medications reduce liver fat, inflammation, and scarring — plus how to access treatment with or without insurance.",
+  "url": "https://glp1forwellness.com/conditions/glp1-fatty-liver/",
+  "datePublished": "2026-07-16",
+  "dateModified": "2026-07-17",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "name": "GLP-1 for Wellness",
+    "url": "https://glp1forwellness.com/articles/about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GLP-1 for Wellness",
+    "url": "https://glp1forwellness.com/"
+  },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://glp1forwellness.com/conditions/glp1-fatty-liver/" },
+  "about": { "@type": "MedicalCondition", "name": "Metabolic dysfunction-associated steatohepatitis" }
 }
 </script>
 
@@ -451,6 +477,14 @@ Yes. If you meet standard prescribing criteria for weight management (typically 
 </div>
 
 ---
+
+<h2 style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">Related Guides</h2>
+
+<div style="display: grid; gap: 10px; margin: 20px 0 32px;">
+<a href="/conditions/glp1-sleep-apnea/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Sleep Apnea: The First FDA-Approved Drug for OSA <span style="color: #059669;">→</span></a>
+<a href="/conditions/glp1-arthritis/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Arthritis: Can Semaglutide Help Joint Pain? <span style="color: #059669;">→</span></a>
+<a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+</div>
 
 <div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
 <p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor -- just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and does not constitute medical advice. Fatty liver disease requires proper medical evaluation and monitoring. Always consult your healthcare provider -- ideally a hepatologist or gastroenterologist -- before starting any new medication for liver disease.</em></p>

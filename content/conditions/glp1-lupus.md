@@ -1,8 +1,9 @@
 ---
 title: "Lupus and GLP-1s: Can Semaglutide Help With Inflammation and Weight Gain?"
 date: 2026-07-16
-lastmod: 2026-07-16
+lastmod: 2026-07-17
 description: "Living with lupus and struggling with prednisone weight gain? Here's what the research says about GLP-1 medications for lupus patients — anti-inflammatory effects, safety, and how to access them affordably."
+summary: "Living with lupus and struggling with prednisone weight gain? Here's what the research says about GLP-1 medications for lupus patients — anti-inflammatory effects, safety, and how to access them affordably."
 keywords: ["lupus ozempic", "lupus semaglutide", "glp-1 lupus", "lupus weight gain", "prednisone weight gain", "can I take ozempic with lupus", "semaglutide lupus inflammation", "lupus tirzepatide", "lupus weight loss", "glp-1 autoimmune disease", "ozempic lupus nephritis", "semaglutide anti-inflammatory"]
 ---
 
@@ -76,6 +77,31 @@ keywords: ["lupus ozempic", "lupus semaglutide", "glp-1 lupus", "lupus weight ga
       }
     }
   ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "headline": "Lupus and GLP-1s: Can Semaglutide Help With Inflammation and Weight Gain?",
+  "description": "Living with lupus and struggling with prednisone weight gain? Here's what the research says about GLP-1 medications for lupus patients — anti-inflammatory effects, safety, and how to access them affordably.",
+  "url": "https://glp1forwellness.com/conditions/glp1-lupus/",
+  "datePublished": "2026-07-16",
+  "dateModified": "2026-07-17",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "name": "GLP-1 for Wellness",
+    "url": "https://glp1forwellness.com/articles/about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GLP-1 for Wellness",
+    "url": "https://glp1forwellness.com/"
+  },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://glp1forwellness.com/conditions/glp1-lupus/" },
+  "about": { "@type": "MedicalCondition", "name": "Systemic Lupus Erythematosus" }
 }
 </script>
 
@@ -450,6 +476,14 @@ The emerging research is encouraging — GLP-1s appear safe for most lupus patie
 </div>
 
 ---
+
+<h2 style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">Related Guides</h2>
+
+<div style="display: grid; gap: 10px; margin: 20px 0 32px;">
+<a href="/conditions/glp1-arthritis/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Arthritis: Can Semaglutide Help Joint Pain? <span style="color: #059669;">→</span></a>
+<a href="/conditions/glp1-mental-health/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Mental Health: Depression, Anxiety & Brain Health <span style="color: #059669;">→</span></a>
+<a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+</div>
 
 <div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
 <p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. The information here is based on published research and is intended to help you have informed conversations with your healthcare providers. Always consult your rheumatologist before starting any new medication.</em></p>

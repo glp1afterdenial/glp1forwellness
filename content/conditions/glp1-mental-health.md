@@ -1,8 +1,9 @@
 ---
 title: "GLP-1 Medications and Mental Health: Depression, Anxiety & Brain Health (2026)"
 date: 2026-07-16
-lastmod: 2026-07-16
+lastmod: 2026-07-17
 description: "What the research says about GLP-1 medications and mental health — depression, anxiety, brain health, and Alzheimer's. Benefits, risks, suicidality concerns, and how to access treatment safely."
+summary: "What the research says about GLP-1 medications and mental health — depression, anxiety, brain health, and Alzheimer's. Benefits, risks, suicidality concerns, and how to access treatment safely."
 keywords: ["GLP-1 mental health", "semaglutide depression", "GLP-1 anxiety", "Ozempic mental health", "GLP-1 brain health", "semaglutide Alzheimer's", "GLP-1 suicidality", "tirzepatide depression", "GLP-1 neuroprotection", "weight loss medication mental health", "GLP-1 dopamine", "Wegovy depression risk"]
 ---
 
@@ -68,6 +69,31 @@ keywords: ["GLP-1 mental health", "semaglutide depression", "GLP-1 anxiety", "Oz
       }
     }
   ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "headline": "GLP-1 Medications and Mental Health: Depression, Anxiety & Brain Health (2026)",
+  "description": "What the research says about GLP-1 medications and mental health — depression, anxiety, brain health, and Alzheimer's. Benefits, risks, suicidality concerns, and how to access treatment safely.",
+  "url": "https://glp1forwellness.com/conditions/glp1-mental-health/",
+  "datePublished": "2026-07-16",
+  "dateModified": "2026-07-17",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "name": "GLP-1 for Wellness",
+    "url": "https://glp1forwellness.com/articles/about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GLP-1 for Wellness",
+    "url": "https://glp1forwellness.com/"
+  },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://glp1forwellness.com/conditions/glp1-mental-health/" },
+  "about": { "@type": "MedicalCondition", "name": "Depression" }
 }
 </script>
 
@@ -436,6 +462,14 @@ Most mood-related side effects emerge within the first 1-3 months, particularly 
 </div>
 
 ---
+
+<h2 style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">Related Guides</h2>
+
+<div style="display: grid; gap: 10px; margin: 20px 0 32px;">
+<a href="/conditions/glp1-lupus/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Lupus: Inflammation, Prednisone Weight Gain & Access <span style="color: #059669;">→</span></a>
+<a href="/conditions/glp1-sleep-apnea/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Sleep Apnea: The First FDA-Approved Drug for OSA <span style="color: #059669;">→</span></a>
+<a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+</div>
 
 <div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
 <p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is not a substitute for professional medical or psychiatric advice. Always consult your healthcare provider and mental health professional before starting any new medication, especially if you have a history of depression, anxiety, or other mental health conditions.</em></p>
