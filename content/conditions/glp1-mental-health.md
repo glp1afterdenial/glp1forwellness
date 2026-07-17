@@ -435,12 +435,6 @@ Most mood-related side effects emerge within the first 1-3 months, particularly 
 
 ---
 
-### Related Reading
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 20px 0;">
-
-<a href="/articles/best-telehealth-glp1/" style="background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px; text-decoration: none; display: block;">
-<div style="font-weight: 600; color: #1c1917; font-size: 0.95rem; margin-bottom: 4px;">Best Telehealth for GLP-1s</div>
 <div style="color: #78716c; font-size: 0.8rem;">Compare platforms, prices, and features</div>
 </a>
 

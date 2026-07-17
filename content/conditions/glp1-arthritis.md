@@ -442,21 +442,6 @@ These medications are not a magic cure, and they're not FDA-approved for arthrit
 
 ---
 
-## Related Reading
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
-
-<a href="/articles/best-telehealth-glp1/" style="background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px; text-decoration: none; display: block;">
-<div style="font-weight: 600; color: #1c1917; font-size: 0.95rem; margin-bottom: 4px;">Best Telehealth for GLP-1 Prescriptions</div>
-<div style="color: #78716c; font-size: 0.8rem;">Compare platforms, pricing, and options</div>
-</a>
-
-<a href="/conditions/glp1-lupus/" style="background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px; text-decoration: none; display: block;">
-<div style="font-weight: 600; color: #1c1917; font-size: 0.95rem; margin-bottom: 4px;">GLP-1s & Lupus</div>
-<div style="color: #78716c; font-size: 0.8rem;">Anti-inflammatory benefits for autoimmune conditions</div>
-</a>
-
-</div>
 
 ---
 

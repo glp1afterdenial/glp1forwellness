@@ -449,12 +449,6 @@ The emerging research is encouraging — GLP-1s appear safe for most lupus patie
 
 ---
 
-### Related Reading
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 12px; margin: 20px 0;">
-
-<a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 2px solid #059669; border-radius: 8px; padding: 16px; text-decoration: none;">
-<div style="font-weight: 700; color: #059669;">Best Telehealth Platforms</div>
 <div style="font-size: 0.85rem; color: #059669;">Full comparison with pricing →</div>
 </a>
 
