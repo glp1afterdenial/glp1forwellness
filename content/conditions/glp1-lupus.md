@@ -321,7 +321,7 @@ Insurance almost never covers GLP-1s for lupus — it's not an FDA-approved indi
 
 <div style="display: grid; gap: 12px; margin: 24px 0;">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=11290" target="_blank" style="display: block; background: #ffffff; border: 2px solid #059669; border-radius: 12px; padding: 20px; text-decoration: none;">
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="display: block; background: #ffffff; border: 2px solid #059669; border-radius: 12px; padding: 20px; text-decoration: none;">
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
 <div>
 <div style="font-weight: 700; color: #1c1917; font-size: 1.05rem;">🏆 Oak Loves You</div>
@@ -443,7 +443,7 @@ The emerging research is encouraging — GLP-1s appear safe for most lupus patie
 </div>
 
 <div style="text-align: center; margin: 32px 0;">
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=11290" target="_blank" style="display: inline-block; padding: 16px 40px; background: #d1fae5; color: #0f172a; text-decoration: none; border-radius: 8px; font-weight: 700; font-size: 1.1rem;">Get Started with Oak Loves You →</a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="display: inline-block; padding: 16px 40px; background: #d1fae5; color: #0f172a; text-decoration: none; border-radius: 8px; font-weight: 700; font-size: 1.1rem;">Get Started with Oak Loves You →</a>
 <p style="margin: 12px 0 0 0; color: #78716c; font-size: 0.9rem;">Semaglutide from $133/mo, free coaching and price matching</p>
 </div>
 

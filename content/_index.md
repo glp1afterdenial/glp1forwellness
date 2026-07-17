@@ -80,6 +80,138 @@ description: "How GLP-1 medications like semaglutide and tirzepatide help with l
 </span>
 </a>
 
+<a href="/conditions/glp1-heart-health/" class="quick-answer-card">
+<span class="quick-answer-icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/>
+</svg>
+</span>
+<span>
+<span class="quick-answer-title">GLP-1s & Heart Health</span>
+<span class="quick-answer-desc">FDA-approved for cardiovascular risk — 20% reduction in heart attacks</span>
+</span>
+</a>
+
+<a href="/conditions/glp1-pcos/" class="quick-answer-card">
+<span class="quick-answer-icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="12" r="10"/><path d="M8 12h8M12 8v8"/>
+</svg>
+</span>
+<span>
+<span class="quick-answer-title">GLP-1s & PCOS</span>
+<span class="quick-answer-desc">Insulin resistance, hormone balance, and fertility considerations</span>
+</span>
+</a>
+
+<a href="/conditions/glp1-kidney-disease/" class="quick-answer-card">
+<span class="quick-answer-icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M7 3c-1.5 0-3 1.5-3 4s1 4 2 5.5S8 16 8 19c0 1.5.5 2 1.5 2s1.5-.5 1.5-2c0-2-1-3-1-5s1-3 2-3 2 1 2 3-1 3-1 5c0 1.5.5 2 1.5 2s1.5-.5 1.5-2c0-3 1-5.5 2-7s2-3.5 2-5.5S18.5 3 17 3"/>
+</svg>
+</span>
+<span>
+<span class="quick-answer-title">GLP-1s & Kidney Disease</span>
+<span class="quick-answer-desc">FDA-approved for diabetic CKD — slowing progression to dialysis</span>
+</span>
+</a>
+
+<a href="/conditions/glp1-psoriasis/" class="quick-answer-card">
+<span class="quick-answer-icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"/><path d="M8 12s1.5-2 4-2 4 2 4 2"/>
+</svg>
+</span>
+<span>
+<span class="quick-answer-title">GLP-1s & Psoriasis</span>
+<span class="quick-answer-desc">Skin inflammation, TNF-alpha reduction, and biologic interactions</span>
+</span>
+</a>
+
+<a href="/conditions/glp1-ibd/" class="quick-answer-card">
+<span class="quick-answer-icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z"/><path d="M12 6v6l4 2"/>
+</svg>
+</span>
+<span>
+<span class="quick-answer-title">GLP-1s & IBD</span>
+<span class="quick-answer-desc">Crohn's, ulcerative colitis — fewer hospitalizations, no flare signal</span>
+</span>
+</a>
+
+<a href="/conditions/glp1-addiction-alcohol/" class="quick-answer-card">
+<span class="quick-answer-icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M17 3H7a2 2 0 00-2 2v14a2 2 0 002 2h10a2 2 0 002-2V5a2 2 0 00-2-2z"/><path d="M12 8v4M12 16h.01"/>
+</svg>
+</span>
+<span>
+<span class="quick-answer-title">GLP-1s & Addiction</span>
+<span class="quick-answer-desc">Semaglutide reduces alcohol cravings — Lancet 2026 RCT data</span>
+</span>
+</a>
+
+<a href="/conditions/glp1-alzheimers/" class="quick-answer-card">
+<span class="quick-answer-icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/>
+</svg>
+</span>
+<span>
+<span class="quick-answer-title">GLP-1s & Alzheimer's</span>
+<span class="quick-answer-desc">40-70% lower risk in observational studies — prevention vs. treatment</span>
+</span>
+</a>
+
+<a href="/conditions/glp1-migraines/" class="quick-answer-card">
+<span class="quick-answer-icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M9.5 2A5.5 5.5 0 004 7.5c0 3 2 5 5.5 7.5C13 12.5 15 10.5 15 7.5A5.5 5.5 0 009.5 2z"/><path d="M15 7.5c0 3 2 5 5 7.5"/>
+</svg>
+</span>
+<span>
+<span class="quick-answer-title">GLP-1s & Migraines</span>
+<span class="quick-answer-desc">Migraine days cut nearly in half — independent of weight loss</span>
+</span>
+</a>
+
+<a href="/conditions/glp1-menopause/" class="quick-answer-card">
+<span class="quick-answer-icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><path d="M14 2v6h6M12 13v4M10 15h4"/>
+</svg>
+</span>
+<span>
+<span class="quick-answer-title">GLP-1s & Menopause</span>
+<span class="quick-answer-desc">HRT + GLP-1 synergy, visceral fat, and bone density considerations</span>
+</span>
+</a>
+
+<a href="/conditions/glp1-asthma/" class="quick-answer-card">
+<span class="quick-answer-icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"/><path d="M7 12h10"/>
+</svg>
+</span>
+<span>
+<span class="quick-answer-title">GLP-1s & Asthma/COPD</span>
+<span class="quick-answer-desc">14-18% lower respiratory disease risk — airway inflammation reduction</span>
+</span>
+</a>
+
+<a href="/conditions/glp1-aging/" class="quick-answer-card">
+<span class="quick-answer-icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 4"/>
+</svg>
+</span>
+<span>
+<span class="quick-answer-title">GLP-1s & Aging</span>
+<span class="quick-answer-desc">New study: biological age reduced by 3.1 years on semaglutide</span>
+</span>
+</a>
+
 </div>
 
 <div style="text-align: center; margin-top: 24px;">

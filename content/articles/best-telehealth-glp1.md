@@ -117,8 +117,8 @@ keywords: ["best telehealth GLP-1", "compounded semaglutide telehealth", "cheape
 
 | Platform | Starting Price | Medication | Best For |
 |----------|---------------|------------|----------|
-| **[Oak Loves You](https://track.revoffers.com/aff_c?offer_id=1581&aff_id=11290)** | $133/mo (sema), $199/mo (tirz) | Compounded semaglutide & tirzepatide | Free coaching, same-day approval, price matching, all 50 states |
-| **[Gala](https://track.revoffers.com/aff_c?offer_id=1576&aff_id=11290)** | $129/mo sema, $179/mo tirz | Compounded semaglutide & tirzepatide | Cheapest tirzepatide, free coaching & dietitian, $0 membership |
+| **[Oak Loves You](https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095)** | $133/mo (sema), $199/mo (tirz) | Compounded semaglutide & tirzepatide | Free coaching, same-day approval, price matching, all 50 states |
+| **[Gala](https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095)** | $129/mo sema, $179/mo tirz | Compounded semaglutide & tirzepatide | Cheapest tirzepatide, free coaching & dietitian, $0 membership |
 | **[TrimRX](https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290)** | $149/mo (GLP-1 injections) | Compounded semaglutide & tirzepatide | $140 off first month, HSA/FSA, money-back guarantee |
 | **[SkinnyRx](https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290)** | $199/mo (injectable or sublingual) | Semaglutide & tirzepatide (injectable, tablet, sublingual) | Most options — tablets & sublingual for no-injection needed |
 
@@ -128,14 +128,14 @@ keywords: ["best telehealth GLP-1", "compounded semaglutide telehealth", "cheape
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
 <div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
 <div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
 <div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
 <div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
 <div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Best Value</div>
 <div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
 <div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>

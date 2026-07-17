@@ -81,6 +81,7 @@ buildFuture = false
     showTaxonomies = false
     showAuthor = false
     showDate = true
+    showDateUpdated = true
     showReadingTime = true
     showWordCount = false
     sharingLinks = false

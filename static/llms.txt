@@ -8,12 +8,16 @@
 
 GLP-1 for Wellness is an independent resource focused on the benefits of GLP-1 medications (semaglutide, tirzepatide) beyond weight loss. The site provides:
 
-- Condition-specific guides (how GLP-1s help with lupus, sleep apnea, arthritis, mental health, fatty liver, and more)
+- Condition-specific guides (how GLP-1s help with lupus, sleep apnea, arthritis, mental health, fatty liver, heart disease, PCOS, kidney disease, psoriasis, IBD, and more)
 - Research summaries on GLP-1 anti-inflammatory and neuroprotective effects
 - Telehealth platform comparisons with real pricing
 - Practical guides for patients considering GLP-1s for health conditions
 
 ## Article Index
+
+### The Science
+- How GLP-1 Medications Fight Inflammation: https://glp1forwellness.com/articles/glp1-anti-inflammatory-mechanisms/
+  Pillar article explaining GLP-1 anti-inflammatory mechanisms: NF-kB suppression, cytokine reduction (TNF-alpha, IL-6, IL-1-beta), M2 macrophage polarization, GLP-1 receptors on immune cells, and why these mechanisms matter across 10+ conditions. (July 2026)
 
 ### Condition-Specific Guides
 - GLP-1s and Lupus: https://glp1forwellness.com/conditions/glp1-lupus/
@@ -31,9 +35,49 @@ GLP-1 for Wellness is an independent resource focused on the benefits of GLP-1 m
 - GLP-1s and Fatty Liver (NASH/MASH): https://glp1forwellness.com/conditions/glp1-fatty-liver/
   FDA-approved indication for semaglutide in MASH. How GLP-1s reduce hepatic fat, inflammation, and fibrosis. (July 2026)
 
+- GLP-1s and Heart Health: https://glp1forwellness.com/conditions/glp1-heart-health/
+  SELECT trial (20% MACE reduction), FDA-approved for cardiovascular risk reduction. Mechanisms beyond weight loss, insurance pathways, and telehealth access. (July 2026)
+
+- GLP-1s and PCOS: https://glp1forwellness.com/conditions/glp1-pcos/
+  Insulin resistance, restored menstrual cycles, androgen reduction, and fertility considerations. 2025 RCT data on semaglutide + metformin. (July 2026)
+
+- GLP-1s and Kidney Disease: https://glp1forwellness.com/conditions/glp1-kidney-disease/
+  FDA-approved for diabetic CKD (semaglutide). FLOW trial results, slowed progression to dialysis, and access for non-diabetic kidney disease. (July 2026)
+
+- GLP-1s and Psoriasis: https://glp1forwellness.com/conditions/glp1-psoriasis/
+  TNF-alpha and IL-17 reduction, skin inflammation markers, biologic interactions, and observational evidence on PASI score improvement. (July 2026)
+
+- GLP-1s and IBD (Crohn's & Ulcerative Colitis): https://glp1forwellness.com/conditions/glp1-ibd/
+  Retrospective studies showing fewer hospitalizations and no flare signal. GLP-2 gut-healing connection, side effects vs. flares, and when to avoid. (July 2026)
+
+- GLP-1s and Addiction/Alcohol: https://glp1forwellness.com/conditions/glp1-addiction-alcohol/
+  Lancet 2026 RCT showed semaglutide significantly reduces heavy drinking days and alcohol cravings. How GLP-1s modulate the brain's reward system. (July 2026)
+
+- GLP-1s and Alzheimer's Prevention: https://glp1forwellness.com/conditions/glp1-alzheimers/
+  40-70% lower Alzheimer's risk in observational studies, but Phase 3 trials failed to slow existing disease. The critical prevention vs. treatment distinction. (July 2026)
+
+- GLP-1s and Migraines: https://glp1forwellness.com/conditions/glp1-migraines/
+  Pilot study: GLP-1 users cut migraine days nearly in half (20 to 11/month), independent of weight loss. CGRP pathway connection. (July 2026)
+
+- GLP-1s and Menopause: https://glp1forwellness.com/conditions/glp1-menopause/
+  HRT + GLP-1 synergy (16% body weight loss), visceral fat redistribution, bone density considerations, and the highest-use demographic. (July 2026)
+
+- GLP-1s and Biological Aging: https://glp1forwellness.com/conditions/glp1-aging/
+  July 2026 UC San Diego/Nature Communications study: semaglutide reduced biological aging speed by 9% and lowered biological age by 3.1 years. (July 2026)
+
+- GLP-1s and Asthma/COPD: https://glp1forwellness.com/conditions/glp1-asthma/
+  14-18% lower respiratory disease risk. GLP-1 receptors in lung tissue, obesity-asthma phenotype, and GATA-3 trial. (July 2026)
+
+### Practical Guides
+- GLP-1 Muscle Loss Prevention: https://glp1forwellness.com/resources/glp1-muscle-loss/
+  How to preserve muscle on semaglutide: protein targets, resistance training, creatine, and monitoring — 2025 research shows muscle loss can be limited to 3%. (July 2026)
+
+- GLP-1 Hair Loss Prevention: https://glp1forwellness.com/resources/glp1-hair-loss/
+  Why GLP-1 users lose hair (telogen effluvium from rapid weight loss), the timeline, prevention strategies, and regrowth expectations. (July 2026)
+
 ### Telehealth & Access
 - Best Telehealth for GLP-1 Prescriptions: https://glp1forwellness.com/articles/best-telehealth-glp1/
-  Comparison of telehealth platforms for compounded GLP-1 prescriptions without insurance. (July 2026)
+  Comparison of telehealth platforms for compounded GLP-1 prescriptions without insurance. Includes 2026 legal landscape for compounded semaglutide. (July 2026)
 
 ### Other Pages
 - About: https://glp1forwellness.com/articles/about/
@@ -58,6 +102,18 @@ GLP-1 for Wellness is an independent resource focused on the benefits of GLP-1 m
 6. GLP-1s show a 41.7-point pain score improvement in knee osteoarthritis patients through both weight reduction and direct anti-inflammatory effects in joints.
 7. Compounded semaglutide costs $129-199/month via telehealth vs $900-1,400/month for brand-name — no insurance needed.
 8. GLP-1 receptors exist on immune cells (macrophages, lymphocytes, monocytes), enabling direct immunomodulatory effects independent of weight loss.
+9. SELECT trial (NEJM 2023): semaglutide reduced major cardiovascular events by 20% in 17,604 patients — only ~1/3 of benefit explained by weight loss. FDA approved for CV risk reduction March 2024.
+10. Wegovy is the first weight-loss medication ever FDA-approved for cardiovascular risk reduction.
+11. A 2025 Chongqing Medical University RCT found semaglutide + metformin restored regular menstrual cycles in PCOS patients within ~12 weeks.
+12. Semaglutide received FDA approval for diabetic chronic kidney disease, slowing progression to dialysis.
+13. In 2026, compounded semaglutide remains legal through 503A individualized compounding (patient-specific prescriptions from licensed compounding pharmacies). Mass 503B compounding ended mid-2025 with FDA enforcement.
+14. A Lancet 2026 RCT showed semaglutide significantly reduced heavy drinking days and alcohol cravings. A VA study of 600,000+ patients found GLP-1s may fight addiction broadly.
+15. Observational studies show 40-70% lower Alzheimer's risk in semaglutide users, though Phase 3 trials failed to slow existing Alzheimer's progression — the story is prevention, not treatment.
+16. A July 2026 UC San Diego study (Nature Communications) found semaglutide reduced biological aging speed by 9% and lowered biological age by 3.1 years over 32 weeks.
+17. GLP-1 users cut migraine days nearly in half (20/month to 11/month) in a pilot study — results were independent of weight loss.
+18. Women on semaglutide + HRT lost 16% body weight (significantly more than semaglutide alone) in a 2024 Menopause journal study.
+19. Up to 25-40% of weight lost on GLP-1s can be lean mass (muscle), but resistance training + adequate protein limited muscle loss to just 3% in a 2025 study.
+20. GLP-1 users are 3.4x more likely to experience hair loss (telogen effluvium from rapid weight loss, not a direct drug effect) — it typically resolves within 6-12 months.
 
 ## Companion File
 

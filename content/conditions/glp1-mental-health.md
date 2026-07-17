@@ -330,7 +330,7 @@ Here is the reality: **GLP-1 medications are not covered by insurance for mental
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
 <div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
 <div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
 <div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
@@ -429,7 +429,7 @@ Most mood-related side effects emerge within the first 1-3 months, particularly 
 <div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Recommended</div>
 <div style="font-weight: 700; color: #1c1917; font-size: 1.2rem; margin-bottom: 6px;">Ready to explore GLP-1 treatment?</div>
 <div style="color: #78716c; font-size: 0.95rem; margin-bottom: 16px;">Oak Loves You — $133/mo, free coaching and price matching</div>
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=11290" target="_blank" style="display: inline-block; background: #059669; color: white; padding: 12px 32px; border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 1rem;">Get Started</a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="display: inline-block; background: #059669; color: white; padding: 12px 32px; border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 1rem;">Get Started</a>
 <div style="color: #a8a29e; font-size: 0.8rem; margin-top: 10px;">No insurance needed. Same-day approval. Free shipping.</div>
 </div>
 

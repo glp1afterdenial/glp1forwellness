@@ -365,7 +365,7 @@ If you want to start GLP-1 therapy while pursuing a formal diagnosis, or if insu
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
 <div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
 <div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
 <div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
@@ -458,7 +458,7 @@ Yes. If you meet standard prescribing criteria for weight management (typically 
 <div style="font-weight: 700; color: #1c1917; font-size: 1.15rem; margin-bottom: 6px;">Oak Loves You</div>
 <div style="color: #059669; font-size: 1rem; font-weight: 600; margin-bottom: 8px;">$133/mo, free coaching and price matching</div>
 <div style="color: #78716c; font-size: 0.85rem; margin-bottom: 16px;">Same-day approval. Compounded semaglutide or tirzepatide shipped to your door.</div>
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=11290" target="_blank" style="display: inline-block; background: #059669; color: white; padding: 12px 32px; border-radius: 10px; text-decoration: none; font-weight: 700; font-size: 1rem;">Get Started &rarr;</a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="display: inline-block; background: #059669; color: white; padding: 12px 32px; border-radius: 10px; text-decoration: none; font-weight: 700; font-size: 1rem;">Get Started &rarr;</a>
 </div>
 
 ---

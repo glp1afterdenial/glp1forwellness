@@ -6,6 +6,23 @@
 
 ---
 
+## How GLP-1 Medications Fight Inflammation: The Science Behind the Benefits
+URL: https://glp1forwellness.com/articles/glp1-anti-inflammatory-mechanisms/
+Date: July 2026
+
+Pillar article explaining the four core anti-inflammatory mechanisms of GLP-1 receptor agonists, with clinical evidence linking each mechanism to specific conditions.
+
+Key takeaways:
+- GLP-1 medications suppress the NF-kB signaling pathway — the master regulator that controls hundreds of pro-inflammatory genes
+- They reduce three key pro-inflammatory cytokines: TNF-alpha (drives tissue damage in arthritis, IBD, autoimmune diseases), IL-6 (promotes chronic inflammation and CRP production), and IL-1-beta (inflammasome output, drives joint destruction)
+- GLP-1s promote M2 macrophage polarization — reprogramming immune cells from "attack mode" (M1) to "repair mode" (M2), demonstrated in atherosclerotic plaques, liver tissue, joint tissue, and adipose tissue
+- GLP-1 receptors exist on immune cells (macrophages, lymphocytes, monocytes), in joint tissue (2026 discovery), in the brain, heart, kidneys, liver, lungs, and gut — explaining why one medication class affects so many organ systems
+- SELECT trial prespecified analysis: only ~1/3 of semaglutide's cardiovascular benefit was explained by body measurement changes — the remaining ~2/3 came from direct effects including inflammation reduction
+- CRP decreases ~40% on semaglutide — larger than expected from weight loss alone
+- The same NF-kB/cytokine/macrophage mechanisms underlie heart disease, arthritis, fatty liver, lupus, psoriasis, IBD, kidney disease, PCOS, mental health conditions, and sleep apnea — making GLP-1s relevant across all of them
+
+---
+
 ## GLP-1s and Lupus: Can Ozempic Help With Inflammation and Weight Gain?
 URL: https://glp1forwellness.com/conditions/glp1-lupus/
 Date: July 2026
@@ -83,8 +100,234 @@ Key takeaways:
 - Semaglutide received FDA approval for MASH with moderate-to-advanced liver fibrosis in August 2025
 - Estimated 25% of Americans have NAFLD
 - GLP-1s reduce hepatic fat accumulation, liver inflammation, and fibrosis
+- M2 macrophage shift in Kupffer cells (liver macrophages) reduces hepatocyte death
 - This is an FDA-approved indication — insurance may cover GLP-1s for diagnosed MASH
 - Telehealth access available from $129/month for patients without insurance coverage
+
+---
+
+## GLP-1s and Heart Health: The Cardiovascular Benefits
+URL: https://glp1forwellness.com/conditions/glp1-heart-health/
+Date: July 2026
+
+Comprehensive guide on GLP-1 medications for cardiovascular disease, centered on the landmark SELECT trial.
+
+Key takeaways:
+- SELECT trial (NEJM, November 2023): 17,604 participants with cardiovascular disease and overweight/obesity (no diabetes) — semaglutide reduced MACE by 20%, CV death by 15%, all-cause death by 19%
+- FDA approved Wegovy for cardiovascular risk reduction March 8, 2024 — the first weight-loss medication ever approved for this indication
+- Lancet 2025 prespecified analysis: only ~1/3 of CV benefit explained by waist circumference changes — the rest from direct anti-inflammatory effects
+- CRP decreased ~40% on semaglutide
+- Five CV mechanisms beyond weight loss: NF-kB suppression in blood vessels, atherosclerotic plaque stabilization (M2 macrophage shift), CRP/IL-6 reduction, blood pressure improvement, lipid profile improvement
+- Medicare Part D may cover Wegovy under CV risk reduction indication
+- Telehealth access from $129/month for cash-pay patients
+
+---
+
+## GLP-1s and PCOS: Insulin Resistance, Weight, and Hormones
+URL: https://glp1forwellness.com/conditions/glp1-pcos/
+Date: July 2026
+
+Guide on GLP-1 medications for polycystic ovary syndrome, covering the insulin resistance connection and fertility considerations.
+
+Key takeaways:
+- PCOS affects ~10% of reproductive-age women; insulin resistance present in 65-70% of cases
+- 2025 Chongqing Medical University RCT: semaglutide + metformin restored regular menstrual cycles in PCOS patients (average ~12 weeks), with androgen and HOMA-IR reductions
+- 2025 Gynecological Endocrinology meta-analysis confirmed semaglutide effectiveness for BMI and lipid improvements in PCOS
+- CU Anschutz trial (NCT06222437) studying semaglutide for ovulation and androgen levels in PCOS
+- Three mechanisms: insulin sensitization (breaks the hyperinsulinemia-androgen cycle), weight loss, direct ovarian anti-inflammatory effects
+- Critical fertility warning: stop GLP-1 at least 2 months before attempting conception; use contraception during treatment
+- Not FDA-approved for PCOS; telehealth access from $129/month
+
+---
+
+## GLP-1s and Kidney Disease: CKD, Dialysis Prevention, and Access
+URL: https://glp1forwellness.com/conditions/glp1-kidney-disease/
+Date: July 2026
+
+Guide on GLP-1 medications for chronic kidney disease, including the FLOW trial and FDA-approved indications.
+
+Key takeaways:
+- Semaglutide received FDA approval for diabetic chronic kidney disease — the first GLP-1 approved for this indication
+- FLOW trial demonstrated semaglutide slowed progression to dialysis in patients with diabetic CKD
+- GLP-1s reduce glomerular inflammation and oxidative stress in kidneys
+- Lupus nephritis patients may benefit (23% less kidney disease progression in Jorge et al. study)
+- Dose adjustments not typically required for mild-moderate CKD; caution with severe CKD (eGFR <15)
+- Insurance may cover under diabetic CKD indication; telehealth access from $129/month for non-diabetic kidney disease
+
+---
+
+## GLP-1s and Psoriasis: Skin Inflammation and Immune Modulation
+URL: https://glp1forwellness.com/conditions/glp1-psoriasis/
+Date: July 2026
+
+Guide on GLP-1 medications for psoriasis and psoriatic arthritis, covering the immune and metabolic connection.
+
+Key takeaways:
+- Psoriasis is driven by TNF-alpha, IL-17, and IL-23 — GLP-1s reduce TNF-alpha and modulate downstream inflammatory cascades
+- Observational studies show improved PASI scores in psoriasis patients on GLP-1s
+- Obesity worsens psoriasis (adipose tissue produces TNF-alpha) and reduces biologic drug effectiveness
+- GLP-1s can be used alongside biologics (adalimumab, secukinumab, etc.) with no known interactions
+- Psoriatic arthritis patients may benefit from both skin and joint anti-inflammatory effects
+- Not FDA-approved for psoriasis; telehealth access from $129/month
+
+---
+
+## GLP-1s and IBD: Crohn's Disease, Ulcerative Colitis, and Gut Inflammation
+URL: https://glp1forwellness.com/conditions/glp1-ibd/
+Date: July 2026
+
+Honest assessment of GLP-1 medications for inflammatory bowel disease, covering the promising data and real practical concerns.
+
+Key takeaways:
+- Retrospective studies show IBD patients on GLP-1s had fewer hospitalizations and surgeries, with no increased flare rates
+- 15-40% of IBD patients today have obesity — visceral fat secretes TNF-alpha and IL-6, reducing biologic effectiveness
+- GLP-1 and GLP-2 are sister hormones from the same precursor (proglucagon); GLP-2 analog teduglutide is FDA-approved for gut healing in short bowel syndrome
+- GLP-1 receptors exist on intestinal immune cells; preclinical models show preserved epithelial barrier integrity
+- Critical concern: GLP-1 GI side effects (nausea, diarrhea) can mimic IBD flare symptoms — blood in stool and fever are NOT GLP-1 side effects
+- Should NOT start during active flare, with strictures, gastroparesis, or when underweight
+- Best candidate: IBD patient in stable remission, BMI 27+, with gastroenterologist involvement
+- Not FDA-approved for IBD; telehealth access from $129/month
+
+---
+
+## GLP-1s and Addiction/Alcohol: How Semaglutide Reduces Alcohol Cravings
+URL: https://glp1forwellness.com/conditions/glp1-addiction-alcohol/
+Date: July 2026
+
+Guide on GLP-1 medications and addiction, focused on alcohol use disorder with emerging data on broader substance cravings.
+
+Key takeaways:
+- Lancet 2026 RCT: semaglutide significantly reduced heavy drinking days and alcohol cravings
+- VA study of 600,000+ patients found GLP-1s may fight addiction broadly
+- UNC Health 2025 study confirmed reduced cravings for alcohol and heavy drinking
+- Mechanism: GLP-1 receptors in the brain's mesolimbic dopamine (reward) system modulate dopamine signaling
+- GLP-1s reduce the reward response to alcohol without completely blocking pleasure
+- Phase 3 clinical trials underway for alcohol use disorder
+- Anecdotal reports from patients noticing reduced desire to drink align with trial data
+- Not FDA-approved for addiction; telehealth access from $129/month
+
+---
+
+## GLP-1s and Alzheimer's: Neuroprotection, Prevention, and What the Trials Show
+URL: https://glp1forwellness.com/conditions/glp1-alzheimers/
+Date: July 2026
+
+Nuanced guide on GLP-1 medications and Alzheimer's disease — covering both the encouraging prevention data and the failed treatment trial.
+
+Key takeaways:
+- Observational studies: 40-70% lower Alzheimer's risk in semaglutide users
+- CRITICAL NUANCE: Phase 3 clinical trials FAILED to slow existing Alzheimer's progression
+- The story is prevention, not treatment — GLP-1s may protect the brain before damage occurs but cannot reverse established disease
+- GLP-1 receptors exist in the hippocampus, cortex, and substantia nigra
+- Four neuroprotective mechanisms: reduced neuroinflammation, improved cerebral blood flow, brain insulin signaling ("type 3 diabetes" hypothesis), reduced amyloid-beta pathology
+- NEJM editorial highlighted neuroprotective potential
+- Parkinson's disease risk also appears reduced in GLP-1 users (observational data)
+- Not FDA-approved for dementia; telehealth access from $129/month
+
+---
+
+## GLP-1s and Migraines: Can Semaglutide Reduce Headache Days?
+URL: https://glp1forwellness.com/conditions/glp1-migraines/
+Date: July 2026
+
+Guide on GLP-1 medications for migraine prevention, addressing both the therapeutic potential and the headache side effect paradox.
+
+Key takeaways:
+- Pilot study: GLP-1 users cut migraine days nearly in half (20/month to 11/month)
+- Results were independent of weight loss, suggesting direct neurological mechanism
+- GLP-1 receptors in pain-processing brain centers
+- CGRP connection: GLP-1s reduce neuroinflammation via pathways related to CGRP (the target of newer migraine drugs like Aimovig)
+- Reduced ER visits for migraines in GLP-1 users
+- Paradox: headaches are a common temporary GLP-1 side effect (first few weeks), distinct from the longer-term migraine reduction
+- 39 million Americans affected by migraines
+- Not FDA-approved for migraines; telehealth access from $129/month
+
+---
+
+## GLP-1s and Menopause: Weight Gain, Hormones, and What Women Need to Know
+URL: https://glp1forwellness.com/conditions/glp1-menopause/
+Date: July 2026
+
+Guide for menopausal and perimenopausal women considering GLP-1 medications, covering hormonal interactions and safety.
+
+Key takeaways:
+- 2024 Menopause journal study: women on semaglutide + HRT lost 16% body weight (significantly more than semaglutide alone)
+- 2025 study: postmenopausal women on low-dose semaglutide lost fat at rates comparable to premenopausal women
+- Menopause causes weight gain through estrogen decline → insulin resistance, visceral fat redistribution, metabolic slowdown
+- HRT + GLP-1 synergy: they complement each other (HRT addresses hormonal root cause, GLP-1 addresses metabolic consequences)
+- Women 50-64 are the highest GLP-1 user demographic
+- Important safety considerations: bone density (rapid weight loss + post-menopause = increased fracture risk) and muscle preservation
+- Not FDA-approved for menopause; telehealth access from $129/month
+
+---
+
+## GLP-1s and Biological Aging: Can Semaglutide Slow Aging?
+URL: https://glp1forwellness.com/conditions/glp1-aging/
+Date: July 2026
+
+Guide on the brand-new research linking GLP-1 medications to slowed biological aging, with honest caveats.
+
+Key takeaways:
+- July 2026 UC San Diego study (Nature Communications): semaglutide reduced biological aging speed by 9% and lowered biological age by 3.1 years over 32 weeks
+- Biological age measured by epigenetic clocks (DNA methylation patterns) and DunedinPACE (pace of aging metric)
+- Key mechanism: reduced "inflammaging" — the chronic low-grade inflammation that drives aging at the cellular level
+- Connection to NF-kB suppression, cytokine reduction, and M2 macrophage polarization (the same anti-inflammatory mechanisms that help other conditions)
+- Clinical trial recruiting to test aging effects of both semaglutide and tirzepatide
+- Honest caveats: single study, short duration, epigenetic clocks are surrogates not direct health outcomes, weight loss confounding not fully resolved
+- Not FDA-approved for aging (aging is not an FDA indication); telehealth access from $129/month
+
+---
+
+## GLP-1s and Asthma/COPD: Airway Inflammation and Respiratory Benefits
+URL: https://glp1forwellness.com/conditions/glp1-asthma/
+Date: July 2026
+
+Guide on GLP-1 medications for asthma and COPD, covering the obesity-respiratory connection and emerging evidence.
+
+Key takeaways:
+- GLP-1s reduce risk of respiratory diseases by 14-18% in observational studies
+- Semaglutide associated with decreased asthma risk
+- Growing evidence GLP-1s reduce COPD exacerbations
+- GATA-3 trial testing semaglutide in symptomatic asthma patients
+- GLP-1 receptors exist in lung tissue (alveolar and airway cells)
+- Obesity-asthma phenotype: a recognized subtype where weight drives airway inflammation — GLP-1s address this directly
+- 25+ million Americans have asthma, 16+ million have COPD
+- Caution: COPD patients who are underweight/cachectic should NOT take appetite-suppressing medications
+- Not FDA-approved for asthma or COPD; telehealth access from $129/month
+
+---
+
+## GLP-1 Muscle Loss: How to Preserve Muscle on Semaglutide
+URL: https://glp1forwellness.com/resources/glp1-muscle-loss/
+Date: July 2026
+
+Comprehensive practical guide on preventing muscle loss while taking GLP-1 medications.
+
+Key takeaways:
+- Up to 25-40% of weight lost on GLP-1s can be lean mass (muscle)
+- 2025 study: resistance training + adequate protein limited muscle loss to only 3% while losing 13% body weight
+- Protein targets: 1.0-1.2g per kg of GOAL body weight per day
+- Resistance training: 2-3x per week minimum, compound movements prioritized
+- Creatine monohydrate: 3-5g/day, safe, well-studied, and effective for muscle preservation
+- Monitoring: DEXA body composition scans, grip strength, functional measures — the scale alone is insufficient
+- Slower titration may help preserve muscle
+- The LEAN-PREP trial is underway studying optimal muscle preservation strategies
+
+---
+
+## GLP-1 Hair Loss: Why It Happens and How to Prevent It
+URL: https://glp1forwellness.com/resources/glp1-hair-loss/
+Date: July 2026
+
+Practical guide on GLP-1-associated hair loss — causes, timeline, prevention, and regrowth.
+
+Key takeaways:
+- 2025 meta-analysis of 84,000+ participants: GLP-1 users 3.4x more likely to experience hair loss
+- Cause: telogen effluvium (TE) from rapid weight loss stress — hair follicles enter resting phase. NOT a direct drug side effect
+- Timeline: typically starts 2-4 months after starting, peaks at 6 months, regrows within 6-12 months after weight stabilization
+- Prevention: adequate protein (1.0-1.2g/kg/day), ferritin levels >40 ng/mL, biotin (2,500-5,000 mcg), zinc, vitamin D, slower weight loss pace
+- Two types: TE (temporary, weight-loss-related) vs androgenetic alopecia (hormonal, less clear GLP-1 connection)
+- Red flags requiring dermatologist: patchy loss, scalp changes, persistence beyond 12 months
 
 ---
 
@@ -104,3 +347,5 @@ Side-by-side comparison of telehealth platforms offering compounded GLP-1 prescr
 | SkinnyRx | Semaglutide | $199/mo | Injectable, tablet, or sublingual options |
 
 All platforms use licensed US compounding pharmacies. No insurance required.
+
+Legal note (2026): Compounded semaglutide remains legal through 503A individualized compounding (patient-specific prescriptions). Mass 503B compounding ended mid-2025 with FDA enforcement. The FDA proposed removing GLP-1s from the 503B bulk list in April 2026 and issued ~30 warning letters to non-compliant compounders.

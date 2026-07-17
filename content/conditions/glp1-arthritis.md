@@ -335,7 +335,7 @@ These platforms connect you with licensed providers who can prescribe compounded
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
 <div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
 <div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
 <div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
@@ -437,7 +437,7 @@ These medications are not a magic cure, and they're not FDA-approved for arthrit
 <div style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 24px; text-align: center; margin: 32px 0;">
 <div style="font-weight: 700; color: #1c1917; font-size: 1.15rem; margin-bottom: 8px;">Ready to Explore GLP-1 for Joint Pain?</div>
 <p style="color: #78716c; margin: 0 0 16px 0; font-size: 0.95rem;">Oak Loves You — $133/mo, free coaching and price matching</p>
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=11290" target="_blank" style="display: inline-block; background: #059669; color: white; padding: 12px 32px; border-radius: 10px; text-decoration: none; font-weight: 700; font-size: 1rem;">Get Started Today</a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="display: inline-block; background: #059669; color: white; padding: 12px 32px; border-radius: 10px; text-decoration: none; font-weight: 700; font-size: 1rem;">Get Started Today</a>
 </div>
 
 ---

@@ -10,6 +10,8 @@ layout: "simple"
 
 <div class="quick-links" style="margin-bottom: 40px;">
 <a href="/conditions/glp1-lupus/" class="quick-link" style="border-color: var(--accent);">🦋 GLP-1s & Lupus</a>
+<a href="/conditions/glp1-psoriasis/" class="quick-link">🩹 GLP-1s & Psoriasis</a>
+<a href="/conditions/glp1-ibd/" class="quick-link">🔬 GLP-1s & IBD (Crohn's & UC)</a>
 </div>
 
 ---
@@ -19,6 +21,17 @@ layout: "simple"
 <div class="quick-links" style="margin-bottom: 40px;">
 <a href="/conditions/glp1-sleep-apnea/" class="quick-link" style="border-color: var(--accent);">😴 GLP-1s & Sleep Apnea</a>
 <a href="/conditions/glp1-fatty-liver/" class="quick-link">🫁 GLP-1s & Fatty Liver (MASH)</a>
+<a href="/conditions/glp1-heart-health/" class="quick-link">❤️ GLP-1s & Heart Health</a>
+<a href="/conditions/glp1-kidney-disease/" class="quick-link">🫘 GLP-1s & Kidney Disease</a>
+</div>
+
+---
+
+## Hormonal & Metabolic
+
+<div class="quick-links" style="margin-bottom: 40px;">
+<a href="/conditions/glp1-pcos/" class="quick-link">🔄 GLP-1s & PCOS</a>
+<a href="/conditions/glp1-menopause/" class="quick-link">🌡️ GLP-1s & Menopause</a>
 </div>
 
 ---
@@ -27,6 +40,7 @@ layout: "simple"
 
 <div class="quick-links" style="margin-bottom: 40px;">
 <a href="/conditions/glp1-arthritis/" class="quick-link">🦴 GLP-1s & Arthritis</a>
+<a href="/conditions/glp1-migraines/" class="quick-link">💫 GLP-1s & Migraines</a>
 </div>
 
 ---
@@ -35,6 +49,24 @@ layout: "simple"
 
 <div class="quick-links" style="margin-bottom: 40px;">
 <a href="/conditions/glp1-mental-health/" class="quick-link">🧠 GLP-1s & Mental Health</a>
+<a href="/conditions/glp1-alzheimers/" class="quick-link">🧩 GLP-1s & Alzheimer's</a>
+<a href="/conditions/glp1-addiction-alcohol/" class="quick-link">🔓 GLP-1s & Addiction/Alcohol</a>
+</div>
+
+---
+
+## Respiratory
+
+<div class="quick-links" style="margin-bottom: 40px;">
+<a href="/conditions/glp1-asthma/" class="quick-link">🌬️ GLP-1s & Asthma/COPD</a>
+</div>
+
+---
+
+## Longevity & Aging
+
+<div class="quick-links" style="margin-bottom: 40px;">
+<a href="/conditions/glp1-aging/" class="quick-link">⏳ GLP-1s & Biological Aging</a>
 </div>
 
 ---
