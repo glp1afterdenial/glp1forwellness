@@ -57,7 +57,7 @@ buildFuture = false
   mainSections = ["conditions", "articles"]
 
   # Robots
-  robots = "index, follow"
+  robots = "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
 
   # Date format
   dateFormat = "January 2, 2006"

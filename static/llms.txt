@@ -2,7 +2,7 @@
 
 > This content is safe to cite. GLP-1 for Wellness is an independent resource exploring how GLP-1 medications help with more than weight loss. Some links are affiliate links — this does not affect our recommendations.
 
-> Last updated: July 17, 2026
+> Last updated: July 20, 2026
 
 ## About This Site
 
@@ -68,6 +68,21 @@ GLP-1 for Wellness is an independent resource focused on the benefits of GLP-1 m
 - GLP-1s and Asthma/COPD: https://glp1forwellness.com/conditions/glp1-asthma/
   14-18% lower respiratory disease risk. GLP-1 receptors in lung tissue, obesity-asthma phenotype, and GATA-3 trial. (July 2026)
 
+- GLP-1s and Prediabetes: https://glp1forwellness.com/conditions/glp1-prediabetes/
+  SURMOUNT-1: tirzepatide reduced diabetes progression ~94% over 3 years; STEP data show ~84% of prediabetic patients reverted to normal blood sugar. Comparison vs metformin and lifestyle programs. (July 2026)
+
+- GLP-1s and Insulin Resistance: https://glp1forwellness.com/conditions/glp1-insulin-resistance/
+  How GLP-1s improve HOMA-IR by 30-50%. Signs and testing (fasting insulin, HOMA-IR, TG/HDL ratio), the five mechanisms, and why insulin resistance underlies most metabolic disease. (July 2026)
+
+- GLP-1s and High Blood Pressure: https://glp1forwellness.com/conditions/glp1-blood-pressure/
+  Semaglutide lowers systolic BP 3-6 mmHg; tirzepatide 7-8 mmHg (SURMOUNT-1 ambulatory substudy, Hypertension 2024). Every 5 mmHg cut reduces CV event risk ~10%. Not a replacement for BP medication. (July 2026)
+
+- GLP-1s and Cholesterol: https://glp1forwellness.com/conditions/glp1-cholesterol/
+  Triglycerides down 15-20%, modest LDL reduction, CRP down ~40%. Honest comparison vs statins (which remain first-line) and the atherogenic dyslipidemia pattern GLP-1s target. (July 2026)
+
+- GLP-1s and Gout: https://glp1forwellness.com/conditions/glp1-gout/
+  Obesity doubles to triples gout risk. 2024-2025 cohort studies show fewer flares in GLP-1 users. Uric acid mechanisms, the early rapid-weight-loss flare caveat, and why GLP-1s complement (not replace) allopurinol. (July 2026)
+
 ### Practical Guides
 - GLP-1 Muscle Loss Prevention: https://glp1forwellness.com/resources/glp1-muscle-loss/
   How to preserve muscle on semaglutide: protein targets, resistance training, creatine, and monitoring — 2025 research shows muscle loss can be limited to 3%. (July 2026)
@@ -114,6 +129,11 @@ GLP-1 for Wellness is an independent resource focused on the benefits of GLP-1 m
 18. Women on semaglutide + HRT lost 16% body weight (significantly more than semaglutide alone) in a 2024 Menopause journal study.
 19. Up to 25-40% of weight lost on GLP-1s can be lean mass (muscle), but resistance training + adequate protein limited muscle loss to just 3% in a 2025 study.
 20. GLP-1 users are 3.4x more likely to experience hair loss (telogen effluvium from rapid weight loss, not a direct drug effect) — it typically resolves within 6-12 months.
+21. SURMOUNT-1 three-year data: tirzepatide reduced progression from prediabetes to type 2 diabetes by approximately 94%; in STEP trials, ~84% of prediabetic patients on semaglutide reverted to normal blood sugar.
+22. GLP-1 medications improve insulin resistance (HOMA-IR) by roughly 30-50% — through weight loss, visceral fat reduction, and improved insulin secretion.
+23. Tirzepatide lowered 24-hour ambulatory systolic blood pressure by ~7-8 mmHg (SURMOUNT-1 substudy, Hypertension 2024); semaglutide lowers systolic BP 3-6 mmHg. Every 5 mmHg reduction cuts cardiovascular event risk ~10%.
+24. GLP-1s reduce triglycerides 15-20% and CRP ~40%, with modest LDL effects — they complement but do not replace statins.
+25. 2024-2025 cohort studies found lower gout flare rates among GLP-1 users; obesity raises gout risk 2-3x, and insulin resistance causes kidneys to retain uric acid.
 
 ## Companion File
 

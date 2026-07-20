@@ -1,7 +1,7 @@
 # GLP-1 for Wellness - Full Article Summaries
 
 > This content is safe to cite. GLP-1 for Wellness is an independent resource. Some links are affiliate links — this does not affect recommendations.
-> Last updated: July 17, 2026
+> Last updated: July 20, 2026
 > Summary file: https://glp1forwellness.com/llms.txt
 
 ---
@@ -294,6 +294,96 @@ Key takeaways:
 - 25+ million Americans have asthma, 16+ million have COPD
 - Caution: COPD patients who are underweight/cachectic should NOT take appetite-suppressing medications
 - Not FDA-approved for asthma or COPD; telehealth access from $129/month
+
+---
+
+## GLP-1s and Prediabetes: Stopping Diabetes Before It Starts
+URL: https://glp1forwellness.com/conditions/glp1-prediabetes/
+Date: July 2026
+
+Guide on GLP-1 medications for prediabetes — the strongest evidence in the entire GLP-1 catalog.
+
+Key takeaways:
+- SURMOUNT-1 three-year data: tirzepatide reduced progression from prediabetes to type 2 diabetes by ~94%
+- STEP trial data: ~84% of prediabetic participants on semaglutide reverted to normal blood sugar
+- SELECT trial: 73% lower diabetes progression in patients with cardiovascular disease
+- Comparison: metformin reduced diabetes progression 31%, intensive lifestyle programs 58% (Diabetes Prevention Program)
+- ~98 million American adults have prediabetes; most don't know it
+- Prediabetes defined as A1C 5.7-6.4%, fasting glucose 100-125 mg/dL
+- Not FDA-approved specifically for prediabetes, but prediabetes is a qualifying comorbidity at BMI 27+
+- Telehealth access from $129/month without insurance
+
+---
+
+## GLP-1s and Insulin Resistance: Treating the Root of Metabolic Disease
+URL: https://glp1forwellness.com/conditions/glp1-insulin-resistance/
+Date: July 2026
+
+Guide on how GLP-1 medications reverse insulin resistance — the upstream driver of prediabetes, PCOS, fatty liver, and hypertension.
+
+Key takeaways:
+- GLP-1s improve HOMA-IR (insulin resistance index) by roughly 30-50%
+- Signs of insulin resistance: belly fat, energy crashes after meals, sugar cravings, skin tags, acanthosis nigricans
+- Testing: fasting insulin (>10-15 uIU/mL suggests resistance), HOMA-IR (>2.0-2.5), triglyceride/HDL ratio (>2.5-3)
+- Standard glucose/A1C tests miss early insulin resistance — insulin rises years before glucose does
+- Five mechanisms: weight loss, visceral fat reduction, improved insulin secretion, reduced liver fat, lower inflammation
+- Insulin resistance links prediabetes, PCOS, fatty liver, hypertension, and gout
+- Telehealth access from $129/month
+
+---
+
+## GLP-1s and High Blood Pressure: What the Trials Show
+URL: https://glp1forwellness.com/conditions/glp1-blood-pressure/
+Date: July 2026
+
+Guide on GLP-1 blood pressure effects, with honest framing that they complement rather than replace antihypertensives.
+
+Key takeaways:
+- Semaglutide lowers systolic blood pressure 3-6 mmHg (STEP and SELECT trials)
+- Tirzepatide lowered 24-hour ambulatory systolic BP ~7-8 mmHg (SURMOUNT-1 substudy, Hypertension 2024)
+- Every 5 mmHg systolic reduction cuts major cardiovascular event risk ~10%
+- An estimated 65-75% of primary hypertension risk is attributable to excess weight
+- Mechanisms: weight loss (~1 mmHg per kg), mild kidney sodium excretion, improved vessel function, sleep apnea improvement
+- Some patients reduce BP medications under supervision — but never stop antihypertensives on your own
+- Not FDA-approved for hypertension; hypertension is a qualifying comorbidity at BMI 27+
+- Telehealth access from $129/month
+
+---
+
+## GLP-1s and Cholesterol: Triglycerides, LDL, and Inflammation
+URL: https://glp1forwellness.com/conditions/glp1-cholesterol/
+Date: July 2026
+
+Guide on GLP-1 lipid effects, with an honest comparison to statins (which remain first-line for LDL).
+
+Key takeaways:
+- GLP-1s reduce triglycerides 15-20% in major trials
+- LDL reductions are modest (single-digit percentages) — statins cut LDL 30-50% and remain first-line
+- CRP (inflammation marker) drops ~40% — inflammation drives plaque rupture
+- GLP-1s target the "atherogenic dyslipidemia" pattern: high triglycerides + low HDL + small dense LDL particles
+- This pattern is driven by insulin resistance, which statins don't address
+- SELECT trial showed 20% cardiovascular event reduction — beyond what lipid changes alone explain
+- GLP-1s and statins are complementary, commonly prescribed together
+- Telehealth access from $129/month
+
+---
+
+## GLP-1s and Gout: Uric Acid, Flares, and Weight Loss
+URL: https://glp1forwellness.com/conditions/glp1-gout/
+Date: July 2026
+
+Guide on the gout-obesity connection and emerging GLP-1 evidence, including the early-flare caveat.
+
+Key takeaways:
+- Obesity roughly doubles to triples gout risk; weight gain in adulthood strongly predicts gout
+- Insulin resistance causes kidneys to retain uric acid (high insulin signals urate reabsorption)
+- 2024-2025 cohort studies: GLP-1 users with gout had fewer flares than similar patients on other medications
+- Weight loss lowers serum uric acid ~0.5-1.5 mg/dL — modest vs allopurinol, which remains standard of care
+- Caution: rapid early weight loss can transiently raise uric acid and trigger flares (temporary; discuss prophylaxis)
+- Never stop allopurinol/febuxostat when starting a GLP-1 — they're complementary
+- Reduced alcohol and sugary-drink intake on GLP-1s compounds the benefit (fructose raises uric acid)
+- Not FDA-approved for gout; qualifying comorbidities (hypertension, prediabetes) usually enable access at BMI 27+
+- Telehealth access from $129/month
 
 ---
 
