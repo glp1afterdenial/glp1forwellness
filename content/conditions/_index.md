@@ -27,7 +27,18 @@ layout: "simple"
 
 ---
 
-## Hormonal & Metabolic
+## Metabolic & Cardiovascular
+
+<div class="quick-links" style="margin-bottom: 40px;">
+<a href="/conditions/glp1-prediabetes/" class="quick-link" style="border-color: var(--accent);">🩸 GLP-1s & Prediabetes</a>
+<a href="/conditions/glp1-insulin-resistance/" class="quick-link">⚡ GLP-1s & Insulin Resistance</a>
+<a href="/conditions/glp1-blood-pressure/" class="quick-link">🩺 GLP-1s & High Blood Pressure</a>
+<a href="/conditions/glp1-cholesterol/" class="quick-link">🧪 GLP-1s & Cholesterol</a>
+</div>
+
+---
+
+## Hormonal
 
 <div class="quick-links" style="margin-bottom: 40px;">
 <a href="/conditions/glp1-pcos/" class="quick-link">🔄 GLP-1s & PCOS</a>
@@ -40,6 +51,7 @@ layout: "simple"
 
 <div class="quick-links" style="margin-bottom: 40px;">
 <a href="/conditions/glp1-arthritis/" class="quick-link">🦴 GLP-1s & Arthritis</a>
+<a href="/conditions/glp1-gout/" class="quick-link">🦶 GLP-1s & Gout</a>
 <a href="/conditions/glp1-migraines/" class="quick-link">💫 GLP-1s & Migraines</a>
 </div>
 

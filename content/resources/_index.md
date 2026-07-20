@@ -39,25 +39,10 @@ How GLP-1 medications work beyond weight loss.
 
 ## Condition Guides
 
-How GLP-1s work with specific health conditions.
+How GLP-1s work with specific health conditions — 21 research-backed guides, from prediabetes and blood pressure to lupus, sleep apnea, and gout.
 
 <div class="quick-links" style="margin-bottom: 40px;">
-<a href="/conditions/glp1-lupus/" class="quick-link">🦋 GLP-1s & Lupus</a>
-<a href="/conditions/glp1-sleep-apnea/" class="quick-link">😴 GLP-1s & Sleep Apnea</a>
-<a href="/conditions/glp1-arthritis/" class="quick-link">🦴 GLP-1s & Arthritis</a>
-<a href="/conditions/glp1-mental-health/" class="quick-link">🧠 GLP-1s & Mental Health</a>
-<a href="/conditions/glp1-fatty-liver/" class="quick-link">🫁 GLP-1s & Fatty Liver</a>
-<a href="/conditions/glp1-heart-health/" class="quick-link">❤️ GLP-1s & Heart Health</a>
-<a href="/conditions/glp1-pcos/" class="quick-link">🔄 GLP-1s & PCOS</a>
-<a href="/conditions/glp1-kidney-disease/" class="quick-link">🫘 GLP-1s & Kidney Disease</a>
-<a href="/conditions/glp1-psoriasis/" class="quick-link">🩹 GLP-1s & Psoriasis</a>
-<a href="/conditions/glp1-ibd/" class="quick-link">🔬 GLP-1s & IBD</a>
-<a href="/conditions/glp1-addiction-alcohol/" class="quick-link">🔓 GLP-1s & Addiction/Alcohol</a>
-<a href="/conditions/glp1-alzheimers/" class="quick-link">🧩 GLP-1s & Alzheimer's</a>
-<a href="/conditions/glp1-migraines/" class="quick-link">💫 GLP-1s & Migraines</a>
-<a href="/conditions/glp1-menopause/" class="quick-link">🌡️ GLP-1s & Menopause</a>
-<a href="/conditions/glp1-asthma/" class="quick-link">🌬️ GLP-1s & Asthma/COPD</a>
-<a href="/conditions/glp1-aging/" class="quick-link">⏳ GLP-1s & Biological Aging</a>
+<a href="/conditions/" class="quick-link" style="border-color: var(--accent);">📚 Browse All Condition Guides →</a>
 </div>
 
 <div style="background: #ffffff; border: 1px solid #e7e5e4; border-radius: 14px; padding: 28px; text-align: center; margin-top: 40px;">
