@@ -12,6 +12,7 @@ Telehealth platforms and pricing.
 
 <div class="quick-links" style="margin-bottom: 40px;">
 <a href="/articles/best-telehealth-glp1/" class="quick-link" style="border-color: var(--accent);">⭐ Best Telehealth Platforms</a>
+<a href="/articles/cheapest-compounded-semaglutide/" class="quick-link">💰 Cheapest Semaglutide: 7 Platforms Ranked</a>
 </div>
 
 ---
