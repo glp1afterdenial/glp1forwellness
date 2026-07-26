@@ -497,3 +497,62 @@ Key takeaways:
 - No dedicated microdosing RCT exists — protocols based on dose-response extrapolation and clinical experience
 - Weight regain applies at all doses upon cessation — microdosing is appealing because it's tolerable enough to stay on indefinitely
 - Providers: Bodybuilding Health+ (explicit microdosing options, semaglutide from $139/mo, tirzepatide from $209/mo, 1-12mo bundles); Oak Loves You ($133/mo); Gala ($129/mo)
+
+---
+
+## GLP-1 Medications and Cancer Risk: What the 2025-2026 Studies Show
+URL: https://glp1forwellness.com/conditions/glp1-cancer-risk/
+Date: July 2026
+
+Guide on the emerging evidence linking GLP-1 use to significantly reduced cancer risk, with honest caveats about observational data.
+
+Key takeaways:
+- JAMA Oncology 2025: adults with obesity on GLP-1s had 17% lower overall cancer risk
+- ASCO 2026 (160,000+ patients): 41% lower obesity-related cancer risk; men nearly 70% lower
+- Breast cancer 30% lower; endometrial cancer 58% lower; colon cancer significant after 52+ weeks
+- GLP-1s outperformed equivalent weight loss from diet/exercise — suggesting mechanisms beyond weight loss
+- Three pathways: weight/fat reduction, direct anti-inflammatory (NF-kB suppression), reduced insulin/IGF-1 (growth signals for tumors)
+- Thyroid cancer concern: rodent studies showed C-cell tumors at high doses, but multiple large human studies and 2024 systematic review found no increased human thyroid cancer risk — species-specific finding
+- Contraindication: personal/family history of medullary thyroid carcinoma or MEN2 syndrome
+- Not FDA-approved for cancer prevention; cancer risk reduction is a downstream benefit for patients who qualify for GLP-1 therapy
+- Telehealth access from $129/month
+
+---
+
+## GLP-1 Medications and Fertility: 'Ozempic Babies,' PCOS, and What You Need to Know
+URL: https://glp1forwellness.com/conditions/glp1-fertility/
+Date: July 2026
+
+Guide on the widely-reported "Ozempic babies" phenomenon — unexpected pregnancies in women starting GLP-1 medications, particularly those with PCOS.
+
+Key takeaways:
+- "Ozempic babies" = pattern (2025-2026) of women experiencing unexpected pregnancies after starting GLP-1s
+- GLP-1s don't directly boost fertility hormones — they restore ovulation indirectly through: weight loss (5-10% restores ovulation), reduced insulin resistance (30-50%), and normalized androgens
+- Women with PCOS see the largest fertility benefit because anovulation is primarily insulin-driven
+- ObesityWeek 2025: >90% of PCOS patients lost ≥10% weight on tirzepatide within 10 months (mean 18.81%)
+- Semaglutide must be stopped ≥2 months before planned pregnancy (long half-life)
+- Birth control interaction: slowed gastric emptying may reduce oral contraceptive absorption; vomiting reduces effectiveness; tirzepatide label specifically advises backup contraception during titration
+- 2025 prospective study (168 women): no increased birth defects from first-trimester exposure, but sample small
+- Animal studies showed fetal harm at high doses — deliberate use during pregnancy not advised
+- GLP-1s can simultaneously restore fertility while reducing birth control effectiveness — a dangerous combination without awareness
+- Telehealth access from $129/month
+
+---
+
+## GLP-1 Medications and Sexual Health: Libido, ED, and Peptide Solutions
+URL: https://glp1forwellness.com/conditions/glp1-sexual-health/
+Date: July 2026
+
+Guide on how GLP-1 medications affect sexual function, plus peptide treatments (PT-141, tadalafil) for those experiencing desire or performance issues.
+
+Key takeaways:
+- Mixed short-term effects: ~40% of GLP-1 users report improved sexual satisfaction, ~15% report worsening, ~45% no change
+- Worsening is usually temporary (months 1-3 during titration): caloric deficit suppresses sex hormones, fatigue, nausea, dopamine changes
+- Long-term net positive: obesity is #1 modifiable risk factor for ED and low libido; GLP-1 weight loss addresses root cause
+- Men on semaglutide: mean testosterone rose 320→410 ng/dL over 6 months (fat tissue suppresses testosterone via aromatase)
+- PT-141 (bremelanotide/Vyleesi): MC4R agonist peptide, FDA-approved for HSDD in women, off-label for men. Works in the brain to stimulate desire (unlike Viagra which only addresses blood flow). No GLP-1 interaction.
+- Tadalafil: PDE5 inhibitor for blood flow; no GLP-1 interaction; daily 5mg also helps BP and BPH
+- PT-141 is particularly relevant for GLP-1 users because it bypasses the dopamine/reward suppression pathway that GLP-1s affect
+- ShedRx offers dedicated sexual health programs: Rise/Extend/Steady (men), Desire/Euphoria (women)
+- Bodybuilding Health+ offers PT-141 from $129/mo, tadalafil from $96/mo
+- If low libido persists >6 months at stable dose: check testosterone (men), estrogen/progesterone/DHEA-S (women)
