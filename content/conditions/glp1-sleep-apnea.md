@@ -432,6 +432,19 @@ These platforms use FDA-registered compounding pharmacies and include medical ov
 </div>
 </a>
 
+<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="link-card link-card--lg">
+<div class="row-between">
+<div>
+<div class="offer-card__name">ShedRx</div>
+<div class="p-note">Health coaching included, 120-day money-back guarantee, GLP-1 drops & lozenges available.</div>
+</div>
+<div class="u-right">
+<div class="tx-ink-bold">From $159/mo</div>
+<div class="tx-green-sm">Visit Site</div>
+</div>
+</div>
+</a>
+
 <a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="link-card link-card--lg">
 <div class="row-between">
 <div>

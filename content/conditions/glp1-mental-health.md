@@ -349,7 +349,16 @@ Here is the reality: **GLP-1 medications are not covered by insurance for mental
 <div class="offer-card__name">SkinnyRx</div>
 <div class="offer-card__price">From $199/mo</div>
 <div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
-</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</a>
+
+<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
+<div class="offer-card__badge">Money-Back Guarantee</div>
+<div class="offer-card__name">ShedRx</div>
+<div class="offer-card__price">From $159/mo</div>
+<div class="offer-card__desc">Health coaching included, 120-day guarantee, GLP-1 drops & lozenges available</div>
+</a>
+
+<a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

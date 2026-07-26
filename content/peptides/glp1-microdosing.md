@@ -227,7 +227,16 @@ Key insight from the data: **you don't need maximum dose for meaningful benefit.
 <div class="offer-card__name">Gala</div>
 <div class="offer-card__price">From $129/mo</div>
 <div class="offer-card__desc">$129/mo semaglutide, free coaching + dietitian support</div>
-</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</a>
+
+<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
+<div class="offer-card__badge">Money-Back Guarantee</div>
+<div class="offer-card__name">ShedRx</div>
+<div class="offer-card__price">From $159/mo</div>
+<div class="offer-card__desc">Health coaching included, 120-day guarantee, GLP-1 drops & lozenges available</div>
+</a>
+
+<a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 <a href="/peptides/nad-plus-therapy/" class="link-card">NAD+ Therapy: Energy Support While Losing Weight <span class="tx-green">→</span></a>
 <a href="/resources/glp1-muscle-loss/" class="link-card">GLP-1s & Muscle Loss: Prevention Strategies <span class="tx-green">→</span></a>
 </div>

@@ -120,6 +120,7 @@ keywords: ["best telehealth GLP-1", "compounded semaglutide telehealth", "cheape
 | **[Oak Loves You](https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095)** | $133/mo (sema), $199/mo (tirz) | Compounded semaglutide & tirzepatide | Free coaching, same-day approval, price matching, all 50 states |
 | **[Gala](https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095)** | $129/mo sema, $179/mo tirz | Compounded semaglutide & tirzepatide | Cheapest tirzepatide, free coaching & dietitian, $0 membership |
 | **[TrimRX](https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290)** | $149/mo (GLP-1 injections) | Compounded semaglutide & tirzepatide | $140 off first month, HSA/FSA, money-back guarantee |
+| **[ShedRx](https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095)** | $159/mo | Compounded semaglutide & tirzepatide (injections, drops, lozenges) | Health coaching included, 120-day money-back guarantee |
 | **[SkinnyRx](https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290)** | $199/mo (injectable or sublingual) | Semaglutide & tirzepatide (injectable, tablet, sublingual) | Most options — tablets & sublingual for no-injection needed |
 
 <div class="p-note"><strong class="tx-ink">All platforms include:</strong> Licensed provider consultation, prescription, medication shipped to your door. No insurance required.</div>
@@ -147,6 +148,13 @@ keywords: ["best telehealth GLP-1", "compounded semaglutide telehealth", "cheape
 <div class="offer-card__name">TrimRX</div>
 <div class="offer-card__price">From $149/mo</div>
 <div class="offer-card__desc">$140 off first month, money-back guarantee</div>
+</a>
+
+<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
+<div class="offer-card__badge">Money-Back Guarantee</div>
+<div class="offer-card__name">ShedRx</div>
+<div class="offer-card__price">From $159/mo</div>
+<div class="offer-card__desc">Health coaching included, 120-day guarantee, drops & lozenges available</div>
 </a>
 
 <a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
@@ -213,7 +221,7 @@ Short answer: the good ones are, and the bad ones are easy to spot once you know
 </ul>
 </div>
 
-Every platform in the comparison table above passes the green-flag checklist. That's why they're the only four I list.
+Every platform in the comparison table above passes the green-flag checklist. That's why they're the only five I list.
 
 ---
 

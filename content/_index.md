@@ -304,6 +304,13 @@ Beyond Weight Loss
 <td class="cta-cell"><a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="btn--table btn--table-outline">Visit Gala</a></td>
 </tr>
 <tr>
+<td><span class="provider-name">ShedRx</span> <span class="provider-tag tag--value">Money-Back Guarantee</span></td>
+<td class="price-cell">$159<small>/mo</small></td>
+<td><ul class="features-list"><li><span class="check-icon">✓</span> Health coaching included</li><li><span class="check-icon">✓</span> 120-day guarantee</li><li><span class="check-icon">✓</span> Drops & lozenges</li></ul></td>
+<td><div class="best-for">Risk-free trial with coaching support</div></td>
+<td class="cta-cell"><a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="btn--table btn--table-outline">Visit ShedRx</a></td>
+</tr>
+<tr>
 <td><span class="provider-name">SkinnyRx</span> <span class="provider-tag tag--options">Most Options</span></td>
 <td class="price-cell">$199<small>/mo</small></td>
 <td><ul class="features-list"><li><span class="check-icon">✓</span> Injectable option</li><li><span class="check-icon">✓</span> Tablet option</li><li><span class="check-icon">✓</span> Sublingual option</li></ul></td>

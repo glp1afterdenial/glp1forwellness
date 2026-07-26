@@ -14,7 +14,9 @@ We currently have affiliate relationships with:
 - Oak Loves You
 - Gala Health
 - TrimRX
+- ShedRx
 - SkinnyRx
+- Bodybuilding Health+
 
 These relationships are managed through RevOffers.
 
