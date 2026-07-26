@@ -4,21 +4,21 @@ description: "How GLP-1 medications like semaglutide and tirzepatide help with l
 ---
 
 <!-- Hero Section -->
-<div style="max-width: 720px; margin: 0 auto; padding: 40px 20px 24px;">
-<div style="background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%); border: 1px solid #a7f3d0; border-radius: 24px; padding: 52px 40px 48px; text-align: center;">
-<p style="color: #047857; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; margin: 0 0 14px 0;">Beyond Weight Loss</p>
-<h1 style="color: #1c1917; font-size: 2.75rem; font-weight: 800; line-height: 1.08; margin: 0 0 16px 0; letter-spacing: -0.02em;">GLP-1s Do More Than You Think</h1>
-<p style="color: #44403c; font-size: 1.1rem; line-height: 1.65; margin: 0 0 28px 0; max-width: 520px; display: inline-block;">Research shows GLP-1 medications help with inflammation, heart health, liver disease, joint pain, and more. Here's what the science says — and how to access them affordably.</p>
-<a href="/conditions/" style="display: inline-block; background: #059669; color: white; padding: 14px 32px; border-radius: 10px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 2px 8px rgba(5,150,105,0.25);">Explore Conditions →</a>
+<div class="home-hero">
+<div class="home-hero__card">
+<p class="home-hero__label">Beyond Weight Loss</p>
+<h1 class="home-hero__title">GLP-1s Do More Than You Think</h1>
+<p class="home-hero__sub">Research shows GLP-1 medications help with inflammation, heart health, liver disease, joint pain, and more. Here's what the science says — and how to access them affordably.</p>
+<a href="/conditions/" class="btn btn--primary btn--lg">Explore Conditions →</a>
 </div>
 </div>
 
 <!-- Condition Cards -->
-<div style="max-width: 680px; margin: 0 auto 50px; padding: 0 20px;">
+<div class="section-wrap">
 
-<h2 style="color: #1c1917; font-size: 1.5rem; margin: 0 0 24px 0; text-align: center; font-weight: 700;">Condition-Specific Guides</h2>
+<h2 class="section-heading">Condition-Specific Guides</h2>
 
-<div style="display: grid; gap: 12px;">
+<div class="grid-stack">
 
 <a href="/conditions/glp1-lupus/" class="quick-answer-card">
 <span class="quick-answer-icon">
@@ -214,30 +214,30 @@ description: "How GLP-1 medications like semaglutide and tirzepatide help with l
 
 </div>
 
-<div style="text-align: center; margin-top: 24px;">
-<a href="/conditions/" style="display: inline-block; color: #059669; font-weight: 600; text-decoration: none; padding: 10px 20px; border: 1px solid #d1fae5; border-radius: 10px; background: #ecfdf5;">Browse all condition guides →</a>
+<div class="u-center-block">
+<a href="/conditions/" class="btn btn--ghost">Browse all condition guides →</a>
 </div>
 
 </div>
 
 <!-- How GLP-1s Help Beyond Weight Loss -->
-<div style="max-width: 680px; margin: 0 auto 50px; padding: 0 20px;">
+<div class="section-wrap">
 
-<div style="background: #ecfdf5; border-radius: 20px; padding: 32px; margin-bottom: 24px; border: 1px solid #d1fae5;">
-<h2 style="color: #047857; font-size: 1rem; margin: 0 0 14px 0; font-weight: 600;">Why GLP-1s help with more than weight</h2>
-<p style="color: #44403c; margin: 0; line-height: 1.8; font-size: 1rem;">
-<strong style="color: #1c1917;">GLP-1 receptor agonists</strong> (like Ozempic, Wegovy, and Zepbound) do more than reduce appetite. They suppress inflammatory pathways (NF-kB), reduce cytokines (TNF-alpha, IL-6), protect kidneys, and have neuroprotective effects. These mechanisms help explain why GLP-1s show benefits for autoimmune conditions, liver disease, sleep apnea, joint pain, and mental health.
+<div class="panel panel--green u-mb-24">
+<h2 class="panel__heading">Why GLP-1s help with more than weight</h2>
+<p class="p-body">
+<strong class="tx-ink">GLP-1 receptor agonists</strong> (like Ozempic, Wegovy, and Zepbound) do more than reduce appetite. They suppress inflammatory pathways (NF-kB), reduce cytokines (TNF-alpha, IL-6), protect kidneys, and have neuroprotective effects. These mechanisms help explain why GLP-1s show benefits for autoimmune conditions, liver disease, sleep apnea, joint pain, and mental health.
 </p>
 </div>
 
-<div style="background: #f5f5f4; border-radius: 20px; padding: 32px; border: 1px solid #e7e5e4;">
-<h3 style="color: #1c1917; font-size: 1rem; margin: 0 0 20px 0; font-weight: 600;">The problem:</h3>
-<ul style="margin: 0 0 20px 0; padding-left: 0; list-style: none; color: #44403c; line-height: 2.2;">
-<li style="display: flex; align-items: center; gap: 12px;"><span style="color: #dc2626;">✗</span> Insurance rarely covers GLP-1s for conditions beyond diabetes and obesity</li>
-<li style="display: flex; align-items: center; gap: 12px;"><span style="color: #dc2626;">✗</span> Most doctors don't know about the off-label benefits</li>
-<li style="display: flex; align-items: center; gap: 12px;"><span style="color: #dc2626;">✗</span> Brand-name prices are $1,000+/month without coverage</li>
+<div class="panel">
+<h3 class="panel__heading panel__heading--ink">The problem:</h3>
+<ul class="x-list">
+<li class="x-list__item"><span class="tx-red">✗</span> Insurance rarely covers GLP-1s for conditions beyond diabetes and obesity</li>
+<li class="x-list__item"><span class="tx-red">✗</span> Most doctors don't know about the off-label benefits</li>
+<li class="x-list__item"><span class="tx-red">✗</span> Brand-name prices are $1,000+/month without coverage</li>
 </ul>
-<p style="color: #1c1917; margin: 0; font-weight: 600; font-size: 1.05rem;">That's why this site exists. We break down the research and show you how to access GLP-1s affordably through telehealth.</p>
+<p class="p-strong">That's why this site exists. We break down the research and show you how to access GLP-1s affordably through telehealth.</p>
 </div>
 
 </div>
@@ -293,17 +293,17 @@ description: "How GLP-1 medications like semaglutide and tirzepatide help with l
 </div>
 
 <!-- Trust Section -->
-<div style="max-width: 680px; margin: 0 auto 50px; padding: 0 20px;">
-<div style="background: #ffffff; border-radius: 20px; padding: 32px; text-align: center; border: 1px solid #e7e5e4; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<p style="color: #44403c; margin: 0 0 16px 0; font-size: 1rem; line-height: 1.8;">
-<strong style="color: #059669;">Independent and research-backed.</strong> This site isn't run by a telehealth company. Every article cites published research and is written to help you make informed decisions with your healthcare provider.
+<div class="section-wrap">
+<div class="panel panel--white">
+<p class="p-body p-body--mb">
+<strong class="tx-green">Independent and research-backed.</strong> This site isn't run by a telehealth company. Every article cites published research and is written to help you make informed decisions with your healthcare provider.
 </p>
-<a href="/articles/about/" style="color: #059669; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn more about this site →</a>
+<a href="/articles/about/" class="link-more">Learn more about this site →</a>
 </div>
 </div>
 
 <!-- Contact -->
-<div style="text-align: center; padding: 0 20px 20px;">
-<p style="color: #78716c; margin: 0 0 12px 0;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669; text-decoration: none; font-weight: 500;">contact@glp1forwellness.com</a></p>
-<p style="color: #a8a29e; font-size: 0.8rem; margin: 0; font-style: italic;">Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched.</p>
+<div class="contact-block">
+<p class="h-muted">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green-med">contact@glp1forwellness.com</a></p>
+<p class="affiliate-disclosure">Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched.</p>
 </div>

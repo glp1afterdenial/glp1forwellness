@@ -10,8 +10,8 @@ layout: "simple"
 
 Telehealth platforms and pricing.
 
-<div class="quick-links" style="margin-bottom: 40px;">
-<a href="/articles/best-telehealth-glp1/" class="quick-link" style="border-color: var(--accent);">⭐ Best Telehealth Platforms</a>
+<div class="quick-links u-mb-40">
+<a href="/articles/best-telehealth-glp1/" class="quick-link bc-accent">⭐ Best Telehealth Platforms</a>
 <a href="/articles/cheapest-compounded-semaglutide/" class="quick-link">💰 Cheapest Semaglutide: 7 Platforms Ranked</a>
 </div>
 
@@ -21,8 +21,8 @@ Telehealth platforms and pricing.
 
 What to know while taking GLP-1 medications.
 
-<div class="quick-links" style="margin-bottom: 40px;">
-<a href="/resources/glp1-muscle-loss/" class="quick-link" style="border-color: var(--accent);">💪 Preserve Muscle on GLP-1s</a>
+<div class="quick-links u-mb-40">
+<a href="/resources/glp1-muscle-loss/" class="quick-link bc-accent">💪 Preserve Muscle on GLP-1s</a>
 <a href="/resources/glp1-hair-loss/" class="quick-link">💇 GLP-1 Hair Loss: Prevention & Regrowth</a>
 </div>
 
@@ -32,7 +32,7 @@ What to know while taking GLP-1 medications.
 
 How GLP-1 medications work beyond weight loss.
 
-<div class="quick-links" style="margin-bottom: 40px;">
+<div class="quick-links u-mb-40">
 <a href="/articles/glp1-anti-inflammatory-mechanisms/" class="quick-link">🔬 How GLP-1s Fight Inflammation</a>
 </div>
 
@@ -42,11 +42,11 @@ How GLP-1 medications work beyond weight loss.
 
 How GLP-1s work with specific health conditions — 21 research-backed guides, from prediabetes and blood pressure to lupus, sleep apnea, and gout.
 
-<div class="quick-links" style="margin-bottom: 40px;">
-<a href="/conditions/" class="quick-link" style="border-color: var(--accent);">📚 Browse All Condition Guides →</a>
+<div class="quick-links u-mb-40">
+<a href="/conditions/" class="quick-link bc-accent">📚 Browse All Condition Guides →</a>
 </div>
 
-<div style="background: #ffffff; border: 1px solid #e7e5e4; border-radius: 14px; padding: 28px; text-align: center; margin-top: 40px;">
-<h3 style="margin: 0 0 8px 0; font-size: 1.1rem; color: #1c1917;">Not finding what you need?</h3>
-<p style="margin: 0; color: #78716c;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669; font-weight: 500;">contact@glp1forwellness.com</a></p>
+<div class="panel panel--white">
+<h3 class="h-ink-lg">Not finding what you need?</h3>
+<p class="p-muted">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green-med">contact@glp1forwellness.com</a></p>
 </div>

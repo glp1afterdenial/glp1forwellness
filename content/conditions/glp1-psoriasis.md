@@ -105,22 +105,22 @@ keywords: ["GLP-1 psoriasis", "semaglutide psoriasis improvement", "GLP-1 PASI s
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#what-is-psoriasis" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">What Is Psoriasis</a>
-<a href="#obesity-link" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Obesity Link</a>
-<a href="#research" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Research</a>
-<a href="#mechanisms" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Mechanisms</a>
-<a href="#psoriatic-arthritis" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Psoriatic Arthritis</a>
-<a href="#limitations" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Limitations</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#what-is-psoriasis" class="article-nav-pill">What Is Psoriasis</a>
+<a href="#obesity-link" class="article-nav-pill">Obesity Link</a>
+<a href="#research" class="article-nav-pill">Research</a>
+<a href="#mechanisms" class="article-nav-pill">Mechanisms</a>
+<a href="#psoriatic-arthritis" class="article-nav-pill">Psoriatic Arthritis</a>
+<a href="#limitations" class="article-nav-pill">Limitations</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> Psoriasis is an immune-mediated disease, and obesity pours fuel on the fire — fat tissue produces the same inflammatory signals (TNF-alpha, IL-6, IL-17 pathway) that drive plaques, and excess weight makes biologics work worse. Studies show GLP-1 medications improved <strong>PASI scores by 20-75%</strong>, with the biggest gains in patients losing 10%+ of body weight; one 6-month semaglutide study showed a <strong>48% PASI reduction</strong>. GLP-1 receptors sit on immune cells, and some skin improvement appears independent of weight loss. GLP-1s are <strong>not FDA-approved for psoriasis</strong> and don't replace biologics — but telehealth access starts at <strong>$129/month</strong>.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> Psoriasis is an immune-mediated disease, and obesity pours fuel on the fire — fat tissue produces the same inflammatory signals (TNF-alpha, IL-6, IL-17 pathway) that drive plaques, and excess weight makes biologics work worse. Studies show GLP-1 medications improved <strong>PASI scores by 20-75%</strong>, with the biggest gains in patients losing 10%+ of body weight; one 6-month semaglutide study showed a <strong>48% PASI reduction</strong>. GLP-1 receptors sit on immune cells, and some skin improvement appears independent of weight loss. GLP-1s are <strong>not FDA-approved for psoriasis</strong> and don't replace biologics — but telehealth access starts at <strong>$129/month</strong>.</span>
 </div>
 </div>
 
@@ -132,7 +132,7 @@ The early research is genuinely encouraging. Here's what we know.
 
 ---
 
-<h2 id="what-is-psoriasis" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">What Psoriasis Actually Is: An Immune System Problem</h2>
+<h2 id="what-is-psoriasis" class="h2-accent h2-accent--amber">What Psoriasis Actually Is: An Immune System Problem</h2>
 
 Psoriasis happens when the immune system mistakenly attacks healthy skin, sending skin cell production into overdrive. Cells that should mature over a month pile up in days, creating the raised, scaly plaques that define the disease.
 
@@ -142,7 +142,7 @@ The inflammation runs on a specific set of immune signals:
 - **IL-17** — the main driver of plaque formation (targeted by Cosentyx and Taltz)
 - **TNF-alpha** — a broad inflammatory cytokine (targeted by Humira and Enbrel)
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Why "immune-mediated" matters here:** These same cytokines — TNF-alpha, IL-6, and IL-17-promoting signals — are also produced by **fat tissue**. That's the biological bridge between body weight and skin disease, and it's why a metabolic medication could plausibly matter for a dermatologic one. Psoriasis, psoriatic arthritis, lupus, and inflammatory bowel disease all share this immune-driven inflammatory architecture.
 
@@ -152,11 +152,11 @@ Modern biologics are remarkably effective at blocking these signals. But they're
 
 ---
 
-<h2 id="obesity-link" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">The Obesity-Psoriasis Connection: A Two-Way Street</h2>
+<h2 id="obesity-link" class="h2-accent h2-accent--red">The Obesity-Psoriasis Connection: A Two-Way Street</h2>
 
 The relationship between weight and psoriasis runs in both directions, and it's stronger than most people realize.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **How obesity worsens psoriasis:**
 
@@ -174,11 +174,11 @@ The clinical implication is well established: **weight loss improves psoriasis**
 
 ---
 
-<h2 id="research" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">What the Research Shows: GLP-1s and PASI Scores</h2>
+<h2 id="research" class="h2-accent h2-accent--blue">What the Research Shows: GLP-1s and PASI Scores</h2>
 
 Direct evidence on GLP-1 medications in psoriasis has grown rapidly.
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Key findings from the published literature:**
 
@@ -195,7 +195,7 @@ One detail worth underlining: in several studies, skin improvement appeared **at
 
 ---
 
-<h2 id="mechanisms" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">How GLP-1s Might Calm Psoriatic Inflammation</h2>
+<h2 id="mechanisms" class="h2-accent h2-accent--purple">How GLP-1s Might Calm Psoriatic Inflammation</h2>
 
 ### 1. Draining the Inflammatory Reservoir (Weight Loss)
 
@@ -215,7 +215,7 @@ Psoriasis independently raises cardiovascular risk — severe psoriasis is assoc
 
 ---
 
-<h2 id="psoriatic-arthritis" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">The Psoriatic Arthritis Overlap</h2>
+<h2 id="psoriatic-arthritis" class="h2-accent h2-accent--sky">The Psoriatic Arthritis Overlap</h2>
 
 Roughly **30% of people with psoriasis develop psoriatic arthritis (PsA)** — joint inflammation that can become erosive and permanent if untreated.
 
@@ -229,9 +229,9 @@ Rheumatologists increasingly discuss GLP-1s as an adjunct for PsA patients with 
 
 ---
 
-<h2 id="limitations" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Honest Limitations: What GLP-1s Are Not</h2>
+<h2 id="limitations" class="h2-accent h2-accent--amber">Honest Limitations: What GLP-1s Are Not</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Keep expectations calibrated:**
 
@@ -247,9 +247,9 @@ If you're on a biologic, methotrexate, or phototherapy: **stay on it**, and trea
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Medications With Psoriasis</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications With Psoriasis</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The insurance reality:** Because psoriasis is not an approved GLP-1 indication, insurance won't cover semaglutide or tirzepatide for skin disease — and coverage for weight management alone remains restrictive. Telehealth platforms with compounded medications are the practical route for most psoriasis patients, with pricing from $129/month.
 
@@ -259,35 +259,35 @@ If you're on a biologic, methotrexate, or phototherapy: **stay on it**, and trea
 
 These platforms connect you with licensed providers who prescribe compounded GLP-1 medications. You'll qualify based on BMI (27+ with a comorbidity — and psoriasis with its metabolic links is part of your health profile — or 30+).
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Best Support</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Semaglutide $129, tirzepatide $179, free coaching + dietitian</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Best Support</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">Semaglutide $129, tirzepatide $179, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #7c3aed; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #7c3aed; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Most Options</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">SkinnyRx</div>
-<div style="color: #7c3aed; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $199/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Injectable, tablet, or sublingual options</div>
-</a><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Most Options</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="offer-card__price">From $199/mo</div>
+<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
+</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider and dermatologist before starting any new medication or changing your psoriasis treatment plan.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider and dermatologist before starting any new medication or changing your psoriasis treatment plan.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

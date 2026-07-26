@@ -105,22 +105,22 @@ keywords: ["GLP-1 kidney disease", "FLOW trial semaglutide", "Ozempic kidney pro
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#what-is-ckd" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">What Is CKD</a>
-<a href="#flow-trial" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FLOW Trial</a>
-<a href="#fda-approval" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FDA Approval</a>
-<a href="#mechanisms" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Mechanisms</a>
-<a href="#lupus-nephritis" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Lupus Nephritis</a>
-<a href="#egfr-safety" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">eGFR & Safety</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#what-is-ckd" class="article-nav-pill">What Is CKD</a>
+<a href="#flow-trial" class="article-nav-pill">FLOW Trial</a>
+<a href="#fda-approval" class="article-nav-pill">FDA Approval</a>
+<a href="#mechanisms" class="article-nav-pill">Mechanisms</a>
+<a href="#lupus-nephritis" class="article-nav-pill">Lupus Nephritis</a>
+<a href="#egfr-safety" class="article-nav-pill">eGFR & Safety</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> The landmark <strong>FLOW trial (2024)</strong> proved semaglutide reduces major kidney disease events by <strong>24%</strong> in people with type 2 diabetes and chronic kidney disease — and cut cardiovascular death by 29%. On <strong>January 28, 2025</strong>, the FDA approved Ozempic for kidney protection, making it the first GLP-1 ever approved for CKD. The benefits come from reduced albuminuria, lower blood pressure, and direct anti-inflammatory effects on kidney tissue — not just blood sugar control. Insurance covers Ozempic for diabetic CKD; for prevention or non-diabetic use, telehealth platforms offer compounded semaglutide from <strong>$129/month</strong>.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> The landmark <strong>FLOW trial (2024)</strong> proved semaglutide reduces major kidney disease events by <strong>24%</strong> in people with type 2 diabetes and chronic kidney disease — and cut cardiovascular death by 29%. On <strong>January 28, 2025</strong>, the FDA approved Ozempic for kidney protection, making it the first GLP-1 ever approved for CKD. The benefits come from reduced albuminuria, lower blood pressure, and direct anti-inflammatory effects on kidney tissue — not just blood sugar control. Insurance covers Ozempic for diabetic CKD; for prevention or non-diabetic use, telehealth platforms offer compounded semaglutide from <strong>$129/month</strong>.</span>
 </div>
 </div>
 
@@ -132,14 +132,14 @@ This is one of the best-proven benefits of GLP-1 medications outside of weight l
 
 ---
 
-<h2 id="what-is-ckd" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">What Is Chronic Kidney Disease (and Why It Matters So Much)</h2>
+<h2 id="what-is-ckd" class="h2-accent h2-accent--amber">What Is Chronic Kidney Disease (and Why It Matters So Much)</h2>
 
 Chronic kidney disease means your kidneys are damaged and gradually losing their ability to filter blood. It's measured two main ways:
 
 - **eGFR (estimated glomerular filtration rate)** — how much blood your kidneys filter per minute. Normal is 90+; CKD is diagnosed below 60 (or with kidney damage markers). Below 15 is kidney failure.
 - **Albuminuria (urine albumin-to-creatinine ratio, or UACR)** — protein leaking into urine, an early warning sign of kidney damage even when eGFR looks normal.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Why CKD is so dangerous:**
 
@@ -155,11 +155,11 @@ The stakes are enormous: dialysis costs the U.S. healthcare system over $50 bill
 
 ---
 
-<h2 id="flow-trial" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">The FLOW Trial: The Study That Changed Kidney Care</h2>
+<h2 id="flow-trial" class="h2-accent h2-accent--blue">The FLOW Trial: The Study That Changed Kidney Care</h2>
 
 The **FLOW trial** (Evaluate Renal Function with Semaglutide Once Weekly) is the landmark study of GLP-1 medications and kidney disease — and its results were dramatic enough that the trial was stopped early.
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **FLOW trial at a glance (published in NEJM, 2024):**
 
@@ -183,13 +183,13 @@ A few things make FLOW especially convincing. First, participants were already o
 
 ---
 
-<h2 id="fda-approval" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">FDA Approval: Ozempic for Kidney Protection (January 2025)</h2>
+<h2 id="fda-approval" class="h2-accent">FDA Approval: Ozempic for Kidney Protection (January 2025)</h2>
 
 On **January 28, 2025**, the FDA approved a new indication for Ozempic (semaglutide): **reducing the risk of worsening kidney disease, kidney failure, and cardiovascular death in adults with type 2 diabetes and chronic kidney disease**.
 
 This made Ozempic the **first and only GLP-1 receptor agonist approved for kidney protection** — placing it alongside SGLT2 inhibitors (like Jardiance and Farxiga) as a cornerstone of modern kidney care in diabetes.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **What the approval means practically:**
 
@@ -201,7 +201,7 @@ This made Ozempic the **first and only GLP-1 receptor agonist approved for kidne
 
 ---
 
-<h2 id="mechanisms" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">How GLP-1s Protect the Kidneys: Four Mechanisms</h2>
+<h2 id="mechanisms" class="h2-accent h2-accent--purple">How GLP-1s Protect the Kidneys: Four Mechanisms</h2>
 
 The kidney benefit is not just a side effect of better blood sugar. FLOW's benefit exceeded what glucose control alone would predict, and researchers have identified several overlapping mechanisms.
 
@@ -221,7 +221,7 @@ GLP-1s modestly lower blood pressure — typically 3-6 mmHg systolic — through
 
 Obesity forces kidneys into hyperfiltration — working overtime to serve a larger body — which wears out nephrons prematurely. Losing 15-20% of body weight reduces this strain, improves insulin sensitivity, and quiets the inflammatory signaling from fat tissue.
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Important context:** The proven, FDA-recognized benefit is in type 2 diabetes with established CKD. Mechanistically, there's every reason to expect benefit in other kidney-threatening conditions (obesity-related kidney strain, metabolic syndrome, possibly inflammatory kidney disease) — but those uses remain off-label and less studied.
 
@@ -229,7 +229,7 @@ Obesity forces kidneys into hyperfiltration — working overtime to serve a larg
 
 ---
 
-<h2 id="lupus-nephritis" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">A Note for Lupus Nephritis Patients</h2>
+<h2 id="lupus-nephritis" class="h2-accent h2-accent--red">A Note for Lupus Nephritis Patients</h2>
 
 Lupus nephritis — kidney inflammation caused by systemic lupus erythematosus — affects roughly 40% of people with lupus and is one of the disease's most serious complications.
 
@@ -244,11 +244,11 @@ Early observational research in lupus patients on GLP-1s is encouraging, but no 
 
 ---
 
-<h2 id="egfr-safety" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">eGFR Considerations and Safety With Reduced Kidney Function</h2>
+<h2 id="egfr-safety" class="h2-accent h2-accent--sky">eGFR Considerations and Safety With Reduced Kidney Function</h2>
 
 A common worry: "My kidney function is already reduced — is a GLP-1 even safe for me?"
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **The good news on kidney safety:**
 
@@ -258,7 +258,7 @@ A common worry: "My kidney function is already reduced — is a GLP-1 even safe 
 
 </div>
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **The one real caution: dehydration.** GLP-1 side effects — nausea, vomiting, diarrhea, reduced thirst — can lead to dehydration, and dehydration is hard on compromised kidneys. Rare cases of acute kidney injury on GLP-1s have almost always involved severe dehydration. If you have CKD: stay ahead of hydration, titrate doses slowly, and contact your provider promptly if vomiting or diarrhea persists more than a day or two. Anyone with stage 4-5 CKD should use GLP-1s only under close medical supervision.
 
@@ -266,9 +266,9 @@ A common worry: "My kidney function is already reduced — is a GLP-1 even safe 
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Medications for Kidney Health</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications for Kidney Health</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The insurance reality:** If you have **type 2 diabetes and diagnosed CKD**, Ozempic is FDA-approved for your situation and insurance coverage is realistic — ask your doctor to document both diagnoses on the prior authorization. If you're seeking a GLP-1 for **kidney protection without diabetes**, or for prevention alongside weight loss, insurance will not cover it. Telehealth platforms with compounded semaglutide make cash-pay access affordable.
 
@@ -278,35 +278,35 @@ A common worry: "My kidney function is already reduced — is a GLP-1 even safe 
 
 These platforms connect you with licensed providers who can prescribe compounded GLP-1 medications. You'll need to qualify based on BMI (typically 27+ with a comorbidity, or 30+). Always disclose your kidney history in the health questionnaire so your provider can factor it in.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Best Support</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Semaglutide $129, tirzepatide $179, free coaching + dietitian</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Best Support</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">Semaglutide $129, tirzepatide $179, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">$140 Off</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">TrimRX</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $149/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$140 off first month, HSA/FSA, money-back guarantee</div>
-</a><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">$140 Off</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="offer-card__price">From $149/mo</div>
+<div class="offer-card__desc">$140 off first month, HSA/FSA, money-back guarantee</div>
+</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider — and your nephrologist if you have kidney disease — before starting any new medication.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider — and your nephrologist if you have kidney disease — before starting any new medication.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

@@ -105,22 +105,22 @@ keywords: ["GLP-1 for migraines", "semaglutide migraine treatment", "GLP-1 reduc
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#what-are-migraines" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">What Are Migraines</a>
-<a href="#weight-inflammation" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Weight & Inflammation</a>
-<a href="#how-glp1s-help" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How GLP-1s Help</a>
-<a href="#research" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Research</a>
-<a href="#headache-vs-migraine" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Side Effects</a>
-<a href="#current-treatments" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Treatments</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#what-are-migraines" class="article-nav-pill">What Are Migraines</a>
+<a href="#weight-inflammation" class="article-nav-pill">Weight & Inflammation</a>
+<a href="#how-glp1s-help" class="article-nav-pill">How GLP-1s Help</a>
+<a href="#research" class="article-nav-pill">Research</a>
+<a href="#headache-vs-migraine" class="article-nav-pill">Side Effects</a>
+<a href="#current-treatments" class="article-nav-pill">Treatments</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> Pilot study data shows GLP-1 users <strong>cut migraine days nearly in half</strong> — from about 20 per month to 11. The results appeared <strong>independent of weight loss</strong>, pointing to a direct neurological mechanism. GLP-1 receptors in the brain's pain centers may reduce the neuroinflammation that triggers migraines, through pathways related to <strong>CGRP — the same molecule targeted by newer migraine drugs</strong> like Aimovig. GLP-1s are not FDA-approved for migraines, but headaches are also a common (temporary) side effect — read on to understand the difference. Telehealth access starts at <strong>$129/month</strong>.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> Pilot study data shows GLP-1 users <strong>cut migraine days nearly in half</strong> — from about 20 per month to 11. The results appeared <strong>independent of weight loss</strong>, pointing to a direct neurological mechanism. GLP-1 receptors in the brain's pain centers may reduce the neuroinflammation that triggers migraines, through pathways related to <strong>CGRP — the same molecule targeted by newer migraine drugs</strong> like Aimovig. GLP-1s are not FDA-approved for migraines, but headaches are also a common (temporary) side effect — read on to understand the difference. Telehealth access starts at <strong>$129/month</strong>.</span>
 </div>
 </div>
 
@@ -132,7 +132,7 @@ So when patients on GLP-1 medications for weight loss started reporting, often a
 
 ---
 
-<h2 id="what-are-migraines" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">What Are Migraines (and Why They're More Than Headaches)</h2>
+<h2 id="what-are-migraines" class="h2-accent h2-accent--amber">What Are Migraines (and Why They're More Than Headaches)</h2>
 
 Migraines are a complex neurological disorder — not simply a severe headache. They involve abnormal brain activity that affects nerve signaling, blood flow, and neurochemistry. Understanding this distinction matters for understanding why GLP-1 medications might help.
 
@@ -144,7 +144,7 @@ Migraines are a complex neurological disorder — not simply a severe headache. 
 - **Aura** (in about 25% of sufferers) — visual disturbances, numbness, or speech changes before the headache
 - **Prodrome and postdrome** — hours to days of fatigue, mood changes, and cognitive fog before and after the attack itself
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **The scope of the problem:**
 
@@ -161,11 +161,11 @@ The underlying biology involves a cascade: neuronal hyperexcitability triggers c
 
 ---
 
-<h2 id="weight-inflammation" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">Why Weight and Inflammation Matter for Migraines</h2>
+<h2 id="weight-inflammation" class="h2-accent h2-accent--red">Why Weight and Inflammation Matter for Migraines</h2>
 
 The relationship between obesity and migraines is well-established — and it's not just coincidence.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **The obesity-migraine connection:**
 
@@ -183,7 +183,7 @@ The pilot study data showed migraine improvement that was **independent of weigh
 
 ---
 
-<h2 id="how-glp1s-help" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How GLP-1 Medications May Help Migraines: Neuroinflammation and CGRP</h2>
+<h2 id="how-glp1s-help" class="h2-accent">How GLP-1 Medications May Help Migraines: Neuroinflammation and CGRP</h2>
 
 The potential migraine benefits of GLP-1 medications come from at least three overlapping mechanisms.
 
@@ -191,7 +191,7 @@ The potential migraine benefits of GLP-1 medications come from at least three ov
 
 GLP-1 receptors are present throughout the central nervous system, including in areas critical to migraine pathophysiology — the brainstem, hypothalamus, and trigeminal nucleus.
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **How GLP-1s reduce neuroinflammation:**
 
@@ -225,7 +225,7 @@ The power of GLP-1 medications for migraines likely comes from all three mechani
 
 ---
 
-<h2 id="research" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">What the Research Says: Clinical Evidence for GLP-1s and Migraines</h2>
+<h2 id="research" class="h2-accent h2-accent--blue">What the Research Says: Clinical Evidence for GLP-1s and Migraines</h2>
 
 Let's examine the data we have so far.
 
@@ -233,7 +233,7 @@ Let's examine the data we have so far.
 
 The most striking clinical finding to date comes from a pilot study examining GLP-1 medication use in migraine patients:
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Key results:**
 
@@ -263,7 +263,7 @@ The clinical observations are supported by laboratory research:
 - Neuroprotective properties of GLP-1s have been documented across multiple neurological conditions, suggesting a broad CNS anti-inflammatory capability
 - The presence of GLP-1 receptors in pain-processing regions of the brain provides a clear biological basis for the observed effects
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Important context:** The clinical evidence is still early. The pilot study was small, and larger, randomized controlled trials specifically studying GLP-1 medications for migraine prevention are needed. The data is promising enough to warrant serious investigation — and several research groups are pursuing exactly that — but we cannot yet call GLP-1s a proven migraine treatment. If you have migraines, continue your current treatment plan and discuss GLP-1s with your neurologist as a potential complement.
 
@@ -271,13 +271,13 @@ The clinical observations are supported by laboratory research:
 
 ---
 
-<h2 id="headache-vs-migraine" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">The Paradox: Headaches as a Side Effect vs. Migraine Relief</h2>
+<h2 id="headache-vs-migraine" class="h2-accent h2-accent--purple">The Paradox: Headaches as a Side Effect vs. Migraine Relief</h2>
 
 Here's something that understandably confuses many patients: **headache is listed as a common side effect of GLP-1 medications**, yet these same drugs may reduce migraines. How can both be true?
 
 The answer lies in the distinction between different types of headaches and their mechanisms.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 | | GLP-1 Startup Headaches | Migraine Reduction |
 |---|---|---|
@@ -292,7 +292,7 @@ The answer lies in the distinction between different types of headaches and thei
 
 ### What This Means for Migraine Patients Starting a GLP-1
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **Practical guidance for migraine sufferers:**
 
@@ -306,11 +306,11 @@ The answer lies in the distinction between different types of headaches and thei
 
 ---
 
-<h2 id="current-treatments" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">How GLP-1s Compare to Current Migraine Treatments</h2>
+<h2 id="current-treatments" class="h2-accent h2-accent--sky">How GLP-1s Compare to Current Migraine Treatments</h2>
 
 For context, here's how GLP-1 medications fit into the existing migraine treatment landscape.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 | Treatment | Purpose | Key Limitations | GLP-1 Comparison |
 |-----------|---------|----------------|------------------|
@@ -330,9 +330,9 @@ For patients already on a CGRP inhibitor, the question of whether GLP-1 medicati
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Medications for Migraines</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications for Migraines</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The insurance reality:** GLP-1 medications are not FDA-approved for migraines. Insurance will not cover them for headache prevention. Even for approved indications (weight management, diabetes), many insurers deny coverage or impose significant restrictions.
 
@@ -344,42 +344,42 @@ Fortunately, telehealth platforms with compounded medications make access straig
 
 These platforms connect you with licensed providers who can prescribe compounded GLP-1 medications. You'll need to qualify based on BMI (typically 27+ with a comorbidity or 30+). Your migraines, the impact they have on your daily function, and any weight gain from migraine medications are all relevant parts of your health profile.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Best Value</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Lowest monthly cost, licensed providers</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">Best Value</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">Lowest monthly cost, licensed providers</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">$140 Off</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">TrimRX</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $149/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$140 off first month, HSA/FSA, money-back guarantee</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">$140 Off</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="offer-card__price">From $149/mo</div>
+<div class="offer-card__desc">$140 off first month, HSA/FSA, money-back guarantee</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #7c3aed; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #7c3aed; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Most Options</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">SkinnyRx</div>
-<div style="color: #7c3aed; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $199/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Injectable, tablet, or sublingual options</div>
-</a><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">&rarr;</span></a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Most Options</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="offer-card__price">From $199/mo</div>
+<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
+</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">&rarr;</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. If you experience severe or sudden changes in your headache pattern, seek immediate medical attention. Always consult your healthcare provider before starting any new medication or changing your migraine treatment plan.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. If you experience severe or sudden changes in your headache pattern, seek immediate medical attention. Always consult your healthcare provider before starting any new medication or changing your migraine treatment plan.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

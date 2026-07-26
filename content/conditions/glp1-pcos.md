@@ -105,22 +105,22 @@ keywords: ["GLP-1 for PCOS", "semaglutide PCOS treatment", "PCOS insulin resista
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#what-is-pcos" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">What Is PCOS</a>
-<a href="#insulin-resistance" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Insulin Resistance</a>
-<a href="#how-glp1s-help" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How GLP-1s Help</a>
-<a href="#research" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Research</a>
-<a href="#vs-metformin" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">vs. Metformin</a>
-<a href="#fertility" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Fertility</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#what-is-pcos" class="article-nav-pill">What Is PCOS</a>
+<a href="#insulin-resistance" class="article-nav-pill">Insulin Resistance</a>
+<a href="#how-glp1s-help" class="article-nav-pill">How GLP-1s Help</a>
+<a href="#research" class="article-nav-pill">Research</a>
+<a href="#vs-metformin" class="article-nav-pill">vs. Metformin</a>
+<a href="#fertility" class="article-nav-pill">Fertility</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> PCOS affects roughly <strong>1 in 10 women</strong>, and insulin resistance drives the condition in <strong>65-70% of cases</strong>. GLP-1 medications like semaglutide attack that root cause: a 2025 randomized trial found semaglutide plus metformin <strong>restored regular menstrual cycles within about 12 weeks</strong> while lowering androgens and insulin resistance. GLP-1s outperform metformin for weight loss (15% vs. 2-5%), but must be <strong>stopped 2 months before trying to conceive</strong>. Insurance rarely covers GLP-1s for PCOS alone — telehealth platforms offer access from <strong>$129/month</strong>, and PCOS usually counts as a qualifying comorbidity at BMI 27+.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> PCOS affects roughly <strong>1 in 10 women</strong>, and insulin resistance drives the condition in <strong>65-70% of cases</strong>. GLP-1 medications like semaglutide attack that root cause: a 2025 randomized trial found semaglutide plus metformin <strong>restored regular menstrual cycles within about 12 weeks</strong> while lowering androgens and insulin resistance. GLP-1s outperform metformin for weight loss (15% vs. 2-5%), but must be <strong>stopped 2 months before trying to conceive</strong>. Insurance rarely covers GLP-1s for PCOS alone — telehealth platforms offer access from <strong>$129/month</strong>, and PCOS usually counts as a qualifying comorbidity at BMI 27+.</span>
 </div>
 </div>
 
@@ -134,7 +134,7 @@ Here's what the research actually says.
 
 ---
 
-<h2 id="what-is-pcos" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">What Is PCOS (and Why It's More Than an Ovary Problem)</h2>
+<h2 id="what-is-pcos" class="h2-accent h2-accent--amber">What Is PCOS (and Why It's More Than an Ovary Problem)</h2>
 
 Despite its name, polycystic ovary syndrome is fundamentally a **metabolic and hormonal disorder**, not simply an ovary problem. It's diagnosed when at least two of three criteria are present: irregular or absent ovulation, elevated androgens ("male" hormones like testosterone), and polycystic-appearing ovaries on ultrasound.
 
@@ -146,7 +146,7 @@ The everyday reality of PCOS often includes:
 - **Fertility struggles** — PCOS is the leading cause of anovulatory infertility
 - **Intense carb cravings and energy crashes** — driven by insulin dysregulation
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **PCOS also raises long-term health risks:**
 
@@ -162,11 +162,11 @@ This is why treating the underlying metabolic dysfunction matters — not just m
 
 ---
 
-<h2 id="insulin-resistance" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">Insulin Resistance: The Engine Driving PCOS</h2>
+<h2 id="insulin-resistance" class="h2-accent h2-accent--red">Insulin Resistance: The Engine Driving PCOS</h2>
 
 Here's the fact that reframes everything: **insulin resistance affects an estimated 65-70% of women with PCOS** — including many who are lean. It's not a side effect of PCOS; for most women, it's the engine.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **The PCOS insulin cascade:**
 
@@ -184,7 +184,7 @@ The clinical implication is direct: **if you lower insulin resistance, androgens
 
 ---
 
-<h2 id="how-glp1s-help" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How GLP-1 Medications Help PCOS: Three Mechanisms</h2>
+<h2 id="how-glp1s-help" class="h2-accent">How GLP-1 Medications Help PCOS: Three Mechanisms</h2>
 
 GLP-1 receptor agonists like semaglutide address PCOS from multiple directions at once — which is why researchers are increasingly interested in them as PCOS therapy, not just weight loss therapy.
 
@@ -202,7 +202,7 @@ Semaglutide produces roughly **15% average body weight loss** in clinical trials
 
 ### Mechanism 3: Reduced Inflammation and Androgen Production
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Beyond insulin and weight, GLP-1 receptor agonists have been shown to:**
 
@@ -217,13 +217,13 @@ Together, these mechanisms explain why GLP-1s in PCOS studies don't just move th
 
 ---
 
-<h2 id="research" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">What the Research Says: Restored Cycles and Falling Androgens</h2>
+<h2 id="research" class="h2-accent h2-accent--blue">What the Research Says: Restored Cycles and Falling Androgens</h2>
 
 PCOS-specific GLP-1 research has accelerated dramatically since 2024. Here are the most important findings.
 
 ### The 2025 Semaglutide + Metformin Randomized Trial
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Key results:** A 2025 prospective, randomized, controlled trial from Chongqing Medical University studied overweight and obese women with PCOS receiving metformin alone or metformin plus semaglutide.
 
@@ -242,7 +242,7 @@ In PCOS patients treated with semaglutide, six months of therapy produced signif
 
 Researchers at the **University of Colorado Anschutz Medical Campus** are running dedicated trials evaluating semaglutide for hormone balance, insulin resistance, and ovulation in PCOS (including NCT06222437, studying semaglutide's effects on ovulation, menstrual regularity, and androgen levels). This is a meaningful shift: PCOS is being studied as a primary indication, not an afterthought.
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Important context:** Most PCOS-specific GLP-1 trials to date are small and relatively short. The results are consistent and biologically plausible — improved insulin sensitivity, lower androgens, restored cycles — but large, long-term randomized trials are still underway. No GLP-1 is yet FDA-approved for PCOS.
 
@@ -250,11 +250,11 @@ Researchers at the **University of Colorado Anschutz Medical Campus** are runnin
 
 ---
 
-<h2 id="vs-metformin" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">Semaglutide vs. Metformin for PCOS</h2>
+<h2 id="vs-metformin" class="h2-accent h2-accent--purple">Semaglutide vs. Metformin for PCOS</h2>
 
 Metformin has been the default insulin-sensitizing drug for PCOS for over two decades. How does semaglutide compare?
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 | Factor | Metformin | Semaglutide |
 |--------|-----------|-------------|
@@ -274,11 +274,11 @@ If cost is the deciding factor, metformin remains a legitimate first step. If yo
 
 ---
 
-<h2 id="fertility" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">Fertility Considerations: Read This Before Starting</h2>
+<h2 id="fertility" class="h2-accent h2-accent--sky">Fertility Considerations: Read This Before Starting</h2>
 
 This section matters for every woman with PCOS considering a GLP-1 — whether or not pregnancy is currently on your radar.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **Two critical rules:**
 
@@ -292,9 +292,9 @@ The flip side is genuinely hopeful: for women with PCOS-related infertility, a p
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Medications for PCOS</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications for PCOS</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The insurance reality:** No GLP-1 medication is FDA-approved for PCOS, so insurance almost never covers one for a PCOS diagnosis alone. Coverage is sometimes possible under the weight-management indication (BMI 30+, or 27+ with a comorbidity), but many plans exclude weight-loss drugs entirely.
 
@@ -306,35 +306,35 @@ The good news: **PCOS typically counts as a qualifying comorbidity at BMI 27+** 
 
 These platforms connect you with licensed providers who can prescribe compounded GLP-1 medications. Your PCOS diagnosis, insulin resistance, and symptoms are directly relevant to qualifying — include them in your intake.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Free Dietitian</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Free Dietitian</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">$140 Off</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">TrimRX</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $149/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$140 off first month, HSA/FSA, money-back guarantee</div>
-</a><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">$140 Off</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="offer-card__price">From $149/mo</div>
+<div class="offer-card__desc">$140 off first month, HSA/FSA, money-back guarantee</div>
+</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider before starting any new medication or changing your PCOS treatment plan, especially if you are pregnant or planning pregnancy.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider before starting any new medication or changing your PCOS treatment plan, especially if you are pregnant or planning pregnancy.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

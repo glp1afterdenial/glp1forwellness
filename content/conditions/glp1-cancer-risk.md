@@ -89,20 +89,20 @@ keywords: ["GLP-1 cancer risk", "semaglutide cancer prevention", "Ozempic cancer
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#the-data" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">The Data</a>
-<a href="#mechanisms" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Why It Happens</a>
-<a href="#thyroid" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Thyroid Concern</a>
-<a href="#who-benefits" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Who Benefits</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#the-data" class="article-nav-pill">The Data</a>
+<a href="#mechanisms" class="article-nav-pill">Why It Happens</a>
+<a href="#thyroid" class="article-nav-pill">Thyroid Concern</a>
+<a href="#who-benefits" class="article-nav-pill">Who Benefits</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> Multiple large studies (2025-2026) show GLP-1 users have significantly lower cancer rates: <strong>17% lower overall, 41% lower for obesity-related cancers, 30% lower breast cancer, 58% lower endometrial cancer</strong>. Men with obesity on GLP-1s saw nearly 70% lower obesity-related cancer risk. ASCO 2026 data showed these drugs cut cancer risk <strong>more than diet and exercise alone</strong> — suggesting mechanisms beyond weight loss (anti-inflammatory effects, reduced insulin/IGF-1). Caveat: this is observational data, not a randomized cancer prevention trial. GLP-1s are not prescribed for cancer prevention, but the signal is large enough to be a compelling bonus for anyone already qualifying for treatment.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> Multiple large studies (2025-2026) show GLP-1 users have significantly lower cancer rates: <strong>17% lower overall, 41% lower for obesity-related cancers, 30% lower breast cancer, 58% lower endometrial cancer</strong>. Men with obesity on GLP-1s saw nearly 70% lower obesity-related cancer risk. ASCO 2026 data showed these drugs cut cancer risk <strong>more than diet and exercise alone</strong> — suggesting mechanisms beyond weight loss (anti-inflammatory effects, reduced insulin/IGF-1). Caveat: this is observational data, not a randomized cancer prevention trial. GLP-1s are not prescribed for cancer prevention, but the signal is large enough to be a compelling bonus for anyone already qualifying for treatment.</span>
 </div>
 </div>
 
@@ -112,7 +112,7 @@ GLP-1 medications entered this picture as weight-loss drugs. But the cancer data
 
 ---
 
-<h2 id="the-data" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">What the Studies Show</h2>
+<h2 id="the-data" class="h2-accent h2-accent--amber">What the Studies Show</h2>
 
 **JAMA Oncology, August 2025 (Dai et al.)**
 - Adults with obesity prescribed GLP-1 medications had **17% lower overall cancer risk** compared to matched nonusers
@@ -132,7 +132,7 @@ GLP-1 medications entered this picture as weight-loss drugs. But the cancer data
 **Colon Cancer**
 - Significant risk reduction with GLP-1 treatment lasting **52+ weeks** — suggesting duration of use matters
 
-<div style="background: #fef2f2; border: 1px solid #fecaca; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--red">
 
 **Critical caveat:** these are observational studies (looking at outcomes in people who happened to use GLP-1s) — not randomized trials specifically designed to test cancer prevention. Observational data can show correlation but not definitively prove causation. Unmeasured confounders (healthier behavior in people who seek treatment, for instance) may contribute. However, the signal is large, consistent across multiple independent studies, and biologically plausible — making it one of the most compelling observational findings in recent oncology.
 
@@ -140,7 +140,7 @@ GLP-1 medications entered this picture as weight-loss drugs. But the cancer data
 
 ---
 
-<h2 id="mechanisms" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Why GLP-1s Might Reduce Cancer Risk</h2>
+<h2 id="mechanisms" class="h2-accent h2-accent--amber">Why GLP-1s Might Reduce Cancer Risk</h2>
 
 Three pathways likely work together:
 
@@ -163,7 +163,7 @@ The ASCO 2026 finding — that GLP-1 drugs outperformed equivalent weight loss f
 
 ---
 
-<h2 id="thyroid" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">The Thyroid Cancer Question</h2>
+<h2 id="thyroid" class="h2-accent h2-accent--amber">The Thyroid Cancer Question</h2>
 
 Every GLP-1 medication carries a boxed warning about thyroid C-cell tumors. This causes justified concern. Here's the full picture:
 
@@ -176,7 +176,7 @@ Every GLP-1 medication carries a boxed warning about thyroid C-cell tumors. This
 
 ---
 
-<h2 id="who-benefits" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Who Benefits Most</h2>
+<h2 id="who-benefits" class="h2-accent h2-accent--amber">Who Benefits Most</h2>
 
 The cancer risk reduction is largest for people with:
 
@@ -190,9 +190,9 @@ The cancer risk reduction is largest for people with:
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Treatment</h2>
+<h2 id="how-to-get" class="h2-accent h2-accent--amber">How to Get GLP-1 Treatment</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The access reality:** no doctor will prescribe a GLP-1 *for cancer prevention* — that's not an approved indication. But BMI 27+ with any weight-related condition (hypertension, prediabetes, high cholesterol, sleep apnea) or BMI 30+ alone qualifies you for GLP-1 weight-management therapy. The cancer risk reduction comes as a downstream benefit. Compounded semaglutide starts at $129/month via telehealth, no insurance needed.
 
@@ -200,35 +200,35 @@ The cancer risk reduction is largest for people with:
 
 ### Telehealth Platforms That Prescribe GLP-1s
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Lowest Price</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Lowest Price</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">GLP-1 + Peptides</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Bodybuilding Health+</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">Semaglutide from $139/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">GLP-1 + NAD+, sermorelin, microdosing options. 1-12mo bundles.</div>
-</a><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">GLP-1 + Peptides</div>
+<div class="offer-card__name">Bodybuilding Health+</div>
+<div class="offer-card__price">Semaglutide from $139/mo</div>
+<div class="offer-card__desc">GLP-1 + NAD+, sermorelin, microdosing options. 1-12mo bundles.</div>
+</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. GLP-1 medications are not approved or prescribed for cancer prevention. Always consult a licensed healthcare provider.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. GLP-1 medications are not approved or prescribed for cancer prevention. Always consult a licensed healthcare provider.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

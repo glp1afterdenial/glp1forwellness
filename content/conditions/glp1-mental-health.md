@@ -97,27 +97,27 @@ keywords: ["GLP-1 mental health", "semaglutide depression", "GLP-1 anxiety", "Oz
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#research" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">Research</a>
-<a href="#brain" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Brain Science</a>
-<a href="#risks" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Risks</a>
-<a href="#alzheimers" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Alzheimer's</a>
-<a href="#which-glp1" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Which GLP-1</a>
-<a href="#access" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Access</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#research" class="article-nav-pill article-nav-pill--active">Research</a>
+<a href="#brain" class="article-nav-pill">Brain Science</a>
+<a href="#risks" class="article-nav-pill">Risks</a>
+<a href="#alzheimers" class="article-nav-pill">Alzheimer's</a>
+<a href="#which-glp1" class="article-nav-pill">Which GLP-1</a>
+<a href="#access" class="article-nav-pill">Access</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1e3a5f; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> Large studies suggest GLP-1 medications may <em>improve</em> mental health outcomes in many patients — but 2-8% report depressive symptoms, and individual responses vary widely. GLP-1s are <strong>not</strong> FDA-approved for mental health conditions. If you have depression or anxiety, work closely with a mental health provider before and during GLP-1 treatment. This is a nuanced topic where the research is encouraging but still evolving.</span>
+<div class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> Large studies suggest GLP-1 medications may <em>improve</em> mental health outcomes in many patients — but 2-8% report depressive symptoms, and individual responses vary widely. GLP-1s are <strong>not</strong> FDA-approved for mental health conditions. If you have depression or anxiety, work closely with a mental health provider before and during GLP-1 treatment. This is a nuanced topic where the research is encouraging but still evolving.</span>
 </div>
 </div>
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
-<span style="color: #991b1b; font-size: 0.95rem; line-height: 1.6;"><strong>If you are in crisis:</strong> Contact the <strong>988 Suicide & Crisis Lifeline</strong> by calling or texting <strong>988</strong>. If you are experiencing suicidal thoughts while taking any medication, contact your healthcare provider or go to your nearest emergency room immediately.</span>
+<div class="tldr-box tldr-box--danger">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+<span class="p-danger"><strong>If you are in crisis:</strong> Contact the <strong>988 Suicide & Crisis Lifeline</strong> by calling or texting <strong>988</strong>. If you are experiencing suicidal thoughts while taking any medication, contact your healthcare provider or go to your nearest emergency room immediately.</span>
 </div>
 </div>
 
@@ -127,7 +127,7 @@ This article breaks down both the potential benefits and the real risks, because
 
 ---
 
-<h2 id="research" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">What the Research Says: GLP-1s and Depression/Anxiety</h2>
+<h2 id="research" class="h2-accent">What the Research Says: GLP-1s and Depression/Anxiety</h2>
 
 The largest and most cited study on this topic is a **2024 analysis published in *The Lancet Psychiatry*** that examined health records of over 1.6 million patients. The key findings:
 
@@ -135,7 +135,7 @@ The largest and most cited study on this topic is a **2024 analysis published in
 - The reduced risk held true for patients **with pre-existing depression and anxiety**
 - Similar trends were seen for anxiety disorders, though with less statistical strength
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 20px 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **What this means in plain language:** Among a very large group of patients, those taking semaglutide were *less likely* to have their depression get worse compared to people taking other weight loss medications. This is an association, not proof of causation, but it is reassuring.
 
@@ -150,7 +150,7 @@ Other supporting evidence:
 
 ### But the picture isn't entirely rosy
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 20px 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The other side of the data:** Clinical trials report that **2-8% of participants** experience clinically significant depressive symptoms while on GLP-1 medications. For some individuals, the experience is distinctly negative. This minority matters, and their experiences are real.
 
@@ -166,7 +166,7 @@ The bottom line: **population-level data is encouraging, but individual experien
 
 ---
 
-<h2 id="brain" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">GLP-1 Receptors in the Brain: Why This Makes Biological Sense</h2>
+<h2 id="brain" class="h2-accent h2-accent--purple">GLP-1 Receptors in the Brain: Why This Makes Biological Sense</h2>
 
 GLP-1 receptors aren't just in your gut and pancreas. They're found throughout the brain, including regions critical to mental health:
 
@@ -187,7 +187,7 @@ One of the most interesting areas of research involves GLP-1 medications and the
 - Potential effects on other compulsive behaviors
 - Possible mood stabilization through normalized reward circuitry
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 20px 24px; margin: 20px 0;">
+<div class="callout">
 
 **Neuroprotection:** Preclinical research suggests GLP-1 receptor agonists may protect neurons by reducing neuroinflammation, decreasing oxidative stress, and supporting mitochondrial function. These effects could have implications far beyond mood disorders — including neurodegenerative diseases like Alzheimer's and Parkinson's.
 
@@ -207,7 +207,7 @@ In many patients, it may be impossible to separate the direct neurological effec
 
 ---
 
-<h2 id="risks" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">Risks, Side Effects & the Suicidality Question</h2>
+<h2 id="risks" class="h2-accent h2-accent--red">Risks, Side Effects & the Suicidality Question</h2>
 
 This section requires honesty and care. There are real concerns, and dismissing them serves no one.
 
@@ -215,7 +215,7 @@ This section requires honesty and care. There are real concerns, and dismissing 
 
 In **2023**, the FDA launched a formal investigation into reports of suicidal ideation among GLP-1 users. Here is what we know as of mid-2026:
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 20px 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **FDA findings (updated through 2025):**
 - The FDA reviewed clinical trial data and post-marketing reports
@@ -238,7 +238,7 @@ If you are taking a GLP-1 medication, be aware of these mental health warning si
 - Sleep disturbances not related to GI side effects
 - Thoughts of self-harm or suicide (seek immediate help)
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 20px 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Practical guidance:** Tell your prescribing provider and your mental health provider (if you have one) that you are starting a GLP-1. Ask someone close to you to watch for mood changes, especially in the first 3 months. Keep a simple mood journal. And remember: stopping a medication abruptly can also cause mood disruption. Always taper under medical supervision.
 
@@ -260,7 +260,7 @@ Several mechanisms could explain why a minority of patients experience worsened 
 
 ---
 
-<h2 id="alzheimers" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">GLP-1s and Alzheimer's: The Neuroprotection Research</h2>
+<h2 id="alzheimers" class="h2-accent h2-accent--blue">GLP-1s and Alzheimer's: The Neuroprotection Research</h2>
 
 Beyond mood disorders, some of the most exciting GLP-1 research involves **neurodegenerative diseases**, particularly Alzheimer's disease.
 
@@ -272,7 +272,7 @@ Beyond mood disorders, some of the most exciting GLP-1 research involves **neuro
 - **Liraglutide** (Victoza/Saxenda) showed promising results in a Phase 2b Alzheimer's trial, slowing cognitive decline by approximately 18% over 12 months
 - Multiple Phase 2 and Phase 3 trials of semaglutide for Alzheimer's are currently underway (EVOKE and EVOKE+, with results expected 2026-2027)
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 20px 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Why this might work:** Alzheimer's disease is increasingly understood as a metabolic condition — sometimes called "type 3 diabetes." Insulin resistance in the brain appears to accelerate neurodegeneration. GLP-1 receptor agonists improve brain insulin signaling, reduce inflammation, and may directly protect neurons. The biological rationale is strong.
 
@@ -286,7 +286,7 @@ GLP-1 receptor agonists are also being studied for **Parkinson's disease**:
 - The mechanism may involve protection of dopamine-producing neurons
 - Larger trials are underway, though results are preliminary
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 20px 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Reality check:** This research is genuinely exciting, but we are years away from GLP-1s being approved for any neurological condition. Do not take a GLP-1 solely to prevent Alzheimer's. The current evidence supports their use for weight management and diabetes, with neuroprotection as a *potential* added benefit that needs more research to confirm.
 
@@ -294,7 +294,7 @@ GLP-1 receptor agonists are also being studied for **Parkinson's disease**:
 
 ---
 
-<h2 id="which-glp1" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Which GLP-1 for Mental Health Considerations?</h2>
+<h2 id="which-glp1" class="h2-accent h2-accent--amber">Which GLP-1 for Mental Health Considerations?</h2>
 
 No GLP-1 medication is FDA-approved for mental health, but there are some differences worth noting:
 
@@ -305,7 +305,7 @@ No GLP-1 medication is FDA-approved for mental health, but there are some differ
 | **Liraglutide** (Saxenda, Victoza) | Alzheimer's Phase 2b trial data; shorter-acting | Older medication, more long-term safety data |
 | **Compounded semaglutide** | Same active ingredient as brand-name semaglutide | Most accessible and affordable option |
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 20px 24px; margin: 20px 0;">
+<div class="callout">
 
 **Bottom line:** If mental health is a concern, semaglutide has the most reassuring large-scale data. But the choice of GLP-1 should primarily be based on your overall health profile, not mental health considerations alone. Your provider can help you weigh all factors.
 
@@ -324,39 +324,39 @@ Always provide your full medication list to both your prescribing provider and y
 
 ---
 
-<h2 id="access" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">How to Access GLP-1 Medications for Mental Health Support</h2>
+<h2 id="access" class="h2-accent h2-accent--sky">How to Access GLP-1 Medications for Mental Health Support</h2>
 
 Here is the reality: **GLP-1 medications are not covered by insurance for mental health conditions.** They are only approved for type 2 diabetes and chronic weight management. If you want to explore GLP-1 medications for their potential mental health benefits alongside weight management, telehealth platforms offer the most accessible path.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">$140 Off</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">TrimRX</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $149/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$140 off first month, money-back guarantee</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">$140 Off</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="offer-card__price">From $149/mo</div>
+<div class="offer-card__desc">$140 off first month, money-back guarantee</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #7c3aed; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #7c3aed; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Most Options</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">SkinnyRx</div>
-<div style="color: #7c3aed; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $199/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Injectable, tablet, or sublingual options</div>
-</a><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Most Options</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="offer-card__price">From $199/mo</div>
+<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
+</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is not a substitute for professional medical or psychiatric advice. Always consult your healthcare provider and mental health professional before starting any new medication, especially if you have a history of depression, anxiety, or other mental health conditions.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is not a substitute for professional medical or psychiatric advice. Always consult your healthcare provider and mental health professional before starting any new medication, especially if you have a history of depression, anxiety, or other mental health conditions.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

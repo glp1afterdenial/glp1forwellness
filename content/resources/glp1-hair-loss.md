@@ -105,22 +105,22 @@ keywords: ["GLP-1 hair loss", "semaglutide hair loss", "Ozempic hair thinning", 
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#why-hair-loss" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Why It Happens</a>
-<a href="#telogen-effluvium" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Telogen Effluvium</a>
-<a href="#the-timeline" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Timeline</a>
-<a href="#prevention" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Prevention</a>
-<a href="#not-normal" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">When It's Not Normal</a>
-<a href="#will-it-grow-back" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Regrowth</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#why-hair-loss" class="article-nav-pill">Why It Happens</a>
+<a href="#telogen-effluvium" class="article-nav-pill">Telogen Effluvium</a>
+<a href="#the-timeline" class="article-nav-pill">Timeline</a>
+<a href="#prevention" class="article-nav-pill">Prevention</a>
+<a href="#not-normal" class="article-nav-pill">When It's Not Normal</a>
+<a href="#will-it-grow-back" class="article-nav-pill">Regrowth</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> A 2025 meta-analysis of <strong>84,000+ participants</strong> confirmed that GLP-1 users are <strong>3.4x more likely</strong> to experience hair loss. But this is NOT a direct drug side effect — it's <strong>telogen effluvium</strong>, a temporary condition caused by the physiological stress of rapid weight loss. Hair shedding typically starts <strong>2-4 months</strong> after beginning treatment, peaks around <strong>6 months</strong>, and <strong>regrows within 6-12 months</strong> after weight stabilizes. Prevention strategies: adequate protein, iron/ferritin monitoring, biotin supplementation, and slower weight loss pace. Telehealth platforms offer affordable GLP-1 access starting at <strong>$129/month</strong>.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> A 2025 meta-analysis of <strong>84,000+ participants</strong> confirmed that GLP-1 users are <strong>3.4x more likely</strong> to experience hair loss. But this is NOT a direct drug side effect — it's <strong>telogen effluvium</strong>, a temporary condition caused by the physiological stress of rapid weight loss. Hair shedding typically starts <strong>2-4 months</strong> after beginning treatment, peaks around <strong>6 months</strong>, and <strong>regrows within 6-12 months</strong> after weight stabilizes. Prevention strategies: adequate protein, iron/ferritin monitoring, biotin supplementation, and slower weight loss pace. Telehealth platforms offer affordable GLP-1 access starting at <strong>$129/month</strong>.</span>
 </div>
 </div>
 
@@ -132,13 +132,13 @@ Hair thinning is one of the most distressing side effects reported by GLP-1 user
 
 ---
 
-<h2 id="why-hair-loss" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Why GLP-1 Users Lose Hair: The Research</h2>
+<h2 id="why-hair-loss" class="h2-accent h2-accent--amber">Why GLP-1 Users Lose Hair: The Research</h2>
 
 Let's start with the data, because the scale of this issue is now well-documented.
 
 ### The Numbers
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **2025 meta-analysis (84,000+ participants):** GLP-1 receptor agonist users were **3.4 times more likely** to report hair loss compared to placebo groups. This is one of the largest analyses to date and confirmed what individual users had been reporting for years.
 
@@ -160,7 +160,7 @@ GLP-1 medications cause rapid, significant weight loss. Rapid weight loss, regar
 
 The common thread is not a specific drug — it's **physiological stress and nutritional deficit**.
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **This distinction matters because it means the hair loss is:** (1) not permanent damage to your hair follicles, (2) not a sign that the medication is harming you, and (3) largely preventable with the right nutritional strategies.
 
@@ -168,7 +168,7 @@ The common thread is not a specific drug — it's **physiological stress and nut
 
 ---
 
-<h2 id="telogen-effluvium" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">Telogen Effluvium Explained: What's Actually Happening to Your Hair</h2>
+<h2 id="telogen-effluvium" class="h2-accent h2-accent--red">Telogen Effluvium Explained: What's Actually Happening to Your Hair</h2>
 
 To understand why your hair is falling out, you need to understand the hair growth cycle.
 
@@ -186,7 +186,7 @@ Normally, only about **10-15% of your hair** is in the telogen (resting/shedding
 
 When your body experiences significant physiological stress — like the rapid caloric deficit and weight loss from GLP-1 medications — it shifts its priorities. Growing hair is not essential for survival. Maintaining organ function is.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **What happens during telogen effluvium:**
 
@@ -218,11 +218,11 @@ Most GLP-1-related hair loss is telogen effluvium. But if your hair loss follows
 
 ---
 
-<h2 id="the-timeline" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">The Timeline: When Hair Loss Starts, Peaks, and Stops</h2>
+<h2 id="the-timeline" class="h2-accent">The Timeline: When Hair Loss Starts, Peaks, and Stops</h2>
 
 Understanding the timeline helps you know what to expect and when to stop worrying.
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Month 0-2 (Starting treatment):** You probably won't notice anything yet. Hair follicles are being pushed into the resting phase, but the affected hairs haven't shed yet.
 
@@ -244,7 +244,7 @@ This delay also means that actions you take **now** won't show immediate results
 
 ---
 
-<h2 id="prevention" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">Prevention Strategies: What Actually Works</h2>
+<h2 id="prevention" class="h2-accent h2-accent--blue">Prevention Strategies: What Actually Works</h2>
 
 You cannot completely eliminate the risk of telogen effluvium during significant weight loss, but you can meaningfully reduce its severity with targeted strategies.
 
@@ -252,7 +252,7 @@ You cannot completely eliminate the risk of telogen effluvium during significant
 
 Protein is the single most important nutritional factor. Hair is made of keratin, a protein. When your body is in a caloric deficit and protein is scarce, it prioritizes vital organs over hair growth.
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Daily protein target:** **1.0-1.2 grams per kilogram of goal body weight**
 
@@ -271,7 +271,7 @@ When GLP-1 medications suppress your appetite, protein intake often drops to 40-
 
 Iron deficiency is one of the most common and most overlooked causes of hair loss in women, and it frequently coexists with GLP-1-related hair thinning.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Key points about iron and hair:**
 
@@ -311,7 +311,7 @@ Vitamin D receptors are present in hair follicles, and deficiency is associated 
 
 ### 6. Slower Weight Loss Pace
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The faster you lose weight, the more likely you are to experience telogen effluvium — and the more severe it may be.** Ask your provider about:
 
@@ -331,11 +331,11 @@ You're better off taking the specific nutrients listed above at the researched d
 
 ---
 
-<h2 id="not-normal" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">When Hair Loss Is NOT Normal: Red Flags to Watch For</h2>
+<h2 id="not-normal" class="h2-accent h2-accent--purple">When Hair Loss Is NOT Normal: Red Flags to Watch For</h2>
 
 Most hair loss during GLP-1 treatment is telogen effluvium and will resolve on its own. But certain patterns warrant a visit to a dermatologist.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **See a dermatologist if:**
 
@@ -362,11 +362,11 @@ This is particularly important for GLP-1 users: thyroid disorders cause hair los
 
 ---
 
-<h2 id="will-it-grow-back" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">Will It Grow Back? What to Expect During Regrowth</h2>
+<h2 id="will-it-grow-back" class="h2-accent h2-accent--sky">Will It Grow Back? What to Expect During Regrowth</h2>
 
 The short answer: **yes, in the vast majority of cases.**
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Telogen effluvium is fully reversible.** The hair follicles are not damaged — they're resting. Once the triggering stress (rapid weight loss and caloric deficit) resolves, follicles re-enter the growth phase and produce new hair at normal thickness and texture.
 
@@ -393,9 +393,9 @@ If you're still actively losing weight on your GLP-1 medication, your hair shedd
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Medications Affordably</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications Affordably</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Knowing about hair loss prevention before you start treatment is ideal.** If you haven't started GLP-1 medications yet, you're in a great position — you can get baseline blood work (ferritin, vitamin D, thyroid), stock up on protein sources, and discuss titration pace with your provider from day one. Telehealth platforms make this process straightforward and affordable.
 
@@ -405,42 +405,42 @@ If you're still actively losing weight on your GLP-1 medication, your hair shedd
 
 These platforms connect you with licensed providers who can prescribe compounded GLP-1 medications. You'll need to qualify based on BMI (typically 27+ with a comorbidity or 30+). When completing your intake questionnaire, mention any history of hair thinning or concerns about hair loss — a good provider will factor this into your treatment plan.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Best Support</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Semaglutide $129, tirzepatide $179, free coaching + dietitian</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Best Support</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">Semaglutide $129, tirzepatide $179, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">$140 Off</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">TrimRX</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $149/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$140 off first month, HSA/FSA, money-back guarantee</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">$140 Off</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="offer-card__price">From $149/mo</div>
+<div class="offer-card__desc">$140 off first month, HSA/FSA, money-back guarantee</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #7c3aed; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #7c3aed; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Most Options</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">SkinnyRx</div>
-<div style="color: #7c3aed; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $199/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Injectable, tablet, or sublingual options</div>
-</a><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Most Options</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="offer-card__price">From $199/mo</div>
+<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
+</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider or a dermatologist about hair loss concerns.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider or a dermatologist about hair loss concerns.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

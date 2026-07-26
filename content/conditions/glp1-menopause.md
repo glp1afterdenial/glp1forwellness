@@ -105,23 +105,23 @@ keywords: ["GLP-1 for menopause weight gain", "semaglutide menopause", "GLP-1 an
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#why-menopause-changes" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Why Menopause Changes Everything</a>
-<a href="#hormonal-weight-trap" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">The Hormonal Trap</a>
-<a href="#how-glp1s-help" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How GLP-1s Help</a>
-<a href="#hrt-glp1" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">HRT + GLP-1</a>
-<a href="#research" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Research</a>
-<a href="#muscle-bone" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Muscle & Bone</a>
-<a href="#safety" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Safety</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#why-menopause-changes" class="article-nav-pill">Why Menopause Changes Everything</a>
+<a href="#hormonal-weight-trap" class="article-nav-pill">The Hormonal Trap</a>
+<a href="#how-glp1s-help" class="article-nav-pill">How GLP-1s Help</a>
+<a href="#hrt-glp1" class="article-nav-pill">HRT + GLP-1</a>
+<a href="#research" class="article-nav-pill">Research</a>
+<a href="#muscle-bone" class="article-nav-pill">Muscle & Bone</a>
+<a href="#safety" class="article-nav-pill">Safety</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> GLP-1 medications like semaglutide are proving especially effective for menopausal weight gain. A 2024 study found women on <strong>semaglutide + HRT lost 16% body weight</strong> — significantly more than semaglutide alone. Postmenopausal women on low-dose semaglutide lost fat at rates <strong>comparable to premenopausal women</strong>. Women 50-64 are the highest GLP-1 user demographic for good reason. Key concerns are preserving muscle and bone density — protein, resistance training, and monitoring are essential. GLP-1s are not FDA-approved for menopause, but telehealth platforms offer affordable access starting at <strong>$129/month</strong>.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> GLP-1 medications like semaglutide are proving especially effective for menopausal weight gain. A 2024 study found women on <strong>semaglutide + HRT lost 16% body weight</strong> — significantly more than semaglutide alone. Postmenopausal women on low-dose semaglutide lost fat at rates <strong>comparable to premenopausal women</strong>. Women 50-64 are the highest GLP-1 user demographic for good reason. Key concerns are preserving muscle and bone density — protein, resistance training, and monitoring are essential. GLP-1s are not FDA-approved for menopause, but telehealth platforms offer affordable access starting at <strong>$129/month</strong>.</span>
 </div>
 </div>
 
@@ -135,7 +135,7 @@ Here's what the science actually shows.
 
 ---
 
-<h2 id="why-menopause-changes" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Why Menopause Changes Everything About Weight</h2>
+<h2 id="why-menopause-changes" class="h2-accent h2-accent--amber">Why Menopause Changes Everything About Weight</h2>
 
 Menopause is not just the end of menstruation. It is a systemic metabolic shift that affects virtually every tissue in your body. The average woman gains **5-8 pounds** during the menopausal transition, and many gain significantly more. But the real story is not the number on the scale — it is *where* the weight goes and *why* it becomes so resistant to the strategies that used to work.
 
@@ -147,7 +147,7 @@ Here's what's happening inside your body:
 - **Metabolic rate drops** — you burn fewer calories at rest, partly from hormonal changes and partly from accelerated muscle loss
 - **Appetite regulation shifts** — changes in leptin and ghrelin signaling can increase hunger and cravings
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **This is not a character flaw.** When women say "I'm eating the same and exercising the same but gaining weight," they are describing a real physiological phenomenon. The metabolic math has changed, and the old equation no longer balances.
 
@@ -155,11 +155,11 @@ Here's what's happening inside your body:
 
 ---
 
-<h2 id="hormonal-weight-trap" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">The Hormonal Weight Trap: Why Diets Stop Working</h2>
+<h2 id="hormonal-weight-trap" class="h2-accent h2-accent--red">The Hormonal Weight Trap: Why Diets Stop Working</h2>
 
 Menopause creates a hormonal environment that is almost perfectly designed to promote weight gain and resist weight loss. Understanding this is critical to understanding why GLP-1 medications make sense.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **The menopausal weight trap:**
 
@@ -186,7 +186,7 @@ GLP-1 medications are particularly effective at reducing visceral fat, which mak
 
 ---
 
-<h2 id="how-glp1s-help" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How GLP-1 Medications Help Menopausal Women</h2>
+<h2 id="how-glp1s-help" class="h2-accent">How GLP-1 Medications Help Menopausal Women</h2>
 
 GLP-1 receptor agonists like semaglutide address menopausal weight gain at multiple points in the hormonal cascade. This is not just an appetite suppressant — it is a metabolic intervention that targets the specific dysfunctions menopause creates.
 
@@ -209,7 +209,7 @@ A 2025 study found that postmenopausal women on low-dose semaglutide **lost fat 
 
 GLP-1s reduce systemic inflammation by lowering TNF-alpha, IL-6, and CRP levels. Since chronic inflammation is both a consequence and a driver of menopausal weight gain, this anti-inflammatory effect helps break the cycle.
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Key insight:** GLP-1 medications don't fix menopause. They address the metabolic consequences of menopause — insulin resistance, visceral fat accumulation, appetite dysregulation, and inflammation — that make weight management so difficult during this transition.
 
@@ -217,7 +217,7 @@ GLP-1s reduce systemic inflammation by lowering TNF-alpha, IL-6, and CRP levels.
 
 ---
 
-<h2 id="hrt-glp1" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">The HRT + GLP-1 Question: Better Together?</h2>
+<h2 id="hrt-glp1" class="h2-accent h2-accent--blue">The HRT + GLP-1 Question: Better Together?</h2>
 
 This is where the research gets genuinely exciting. Hormone replacement therapy (HRT) and GLP-1 medications appear to work synergistically — each addressing a different piece of the menopausal metabolic puzzle.
 
@@ -225,7 +225,7 @@ This is where the research gets genuinely exciting. Hormone replacement therapy 
 
 A landmark 2024 study published in the journal *Menopause* found that women taking **semaglutide combined with HRT lost 16% of their body weight** — significantly more than women on semaglutide alone. This is a striking result because it suggests the two therapies amplify each other's effects.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Why they complement each other:**
 
@@ -243,7 +243,7 @@ Think of it this way: HRT addresses the *upstream* problem by restoring the estr
 
 Together, they create a more complete metabolic intervention than either one alone.
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Important:** The decision to use HRT involves many factors beyond weight management — cardiovascular health, breast cancer risk, bone density, vasomotor symptoms — and should be made with your healthcare provider. Not every woman is a candidate for HRT. GLP-1 medications work well on their own for menopausal weight gain; HRT can enhance the results but is not required.
 
@@ -251,7 +251,7 @@ Together, they create a more complete metabolic intervention than either one alo
 
 ---
 
-<h2 id="research" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">What the Research Shows</h2>
+<h2 id="research" class="h2-accent h2-accent--purple">What the Research Shows</h2>
 
 Let's look at the specific evidence for GLP-1 effectiveness in menopausal and postmenopausal women.
 
@@ -276,7 +276,7 @@ Women aged 50-64 represent the **highest demographic** for GLP-1 medication use.
 
 Excess adipose tissue produces **estrone**, a form of estrogen. While this sounds like it should help with menopausal symptoms, the reality is more complex. Excess estrone from body fat creates erratic hormonal cycling that can actually worsen hot flashes and night sweats. By reducing body fat, GLP-1 medications may help stabilize this fluctuation, indirectly reducing vasomotor symptoms for some women.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Research limitations:** Most of these studies are observational or relatively small. Large, randomized controlled trials specifically studying GLP-1 medications in menopausal populations are ongoing. The evidence is strong enough to inform clinical decisions, but not yet definitive.
 
@@ -284,7 +284,7 @@ Excess adipose tissue produces **estrone**, a form of estrogen. While this sound
 
 ---
 
-<h2 id="muscle-bone" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">Protecting Muscle and Bone: The Critical Safety Conversation</h2>
+<h2 id="muscle-bone" class="h2-accent h2-accent--sky">Protecting Muscle and Bone: The Critical Safety Conversation</h2>
 
 This section may be the most important one for menopausal women considering GLP-1 medications. The benefits of weight loss are clear, but the risks of losing the wrong kind of weight — muscle and bone — are real and must be actively managed.
 
@@ -297,7 +297,7 @@ Menopause accelerates muscle loss (sarcopenia) due to declining estrogen and tes
 - **Less muscle means lower metabolic rate** — making future weight management harder
 - **Less muscle means less functional strength** — affecting balance, mobility, independence
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **Non-negotiable strategies for menopausal women on GLP-1s:**
 
@@ -316,7 +316,7 @@ Postmenopausal women are already at elevated risk for osteoporosis because estro
 - Reducing estrogen from adipose tissue
 - Potentially affecting calcium and vitamin D absorption
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Bone protection strategy:**
 
@@ -332,7 +332,7 @@ Postmenopausal women are already at elevated risk for osteoporosis because estro
 
 ---
 
-<h2 id="safety" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">Safety Considerations for Menopausal Women</h2>
+<h2 id="safety" class="h2-accent h2-accent--purple">Safety Considerations for Menopausal Women</h2>
 
 GLP-1 medications have the same general safety profile in menopausal women as in the broader population, but there are a few specific considerations worth noting.
 
@@ -357,7 +357,7 @@ GLP-1 medications have the same general safety profile in menopausal women as in
 - Active gallbladder disease
 - Pregnancy (not a common concern in menopause, but relevant for perimenopausal women)
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **A note on timing:** Many women start considering GLP-1 medications during perimenopause, when weight gain begins but periods haven't fully stopped. This is a legitimate time to start — you don't need to wait until menopause is "complete." Early intervention can prevent the accumulation of visceral fat that becomes increasingly difficult to lose.
 
@@ -365,9 +365,9 @@ GLP-1 medications have the same general safety profile in menopausal women as in
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Medications During Menopause</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications During Menopause</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The insurance reality:** GLP-1 medications are not FDA-approved for menopause or menopausal weight gain. Insurance coverage for weight management indications varies widely and many plans exclude GLP-1s entirely. Telehealth platforms with compounded medications offer the most straightforward and affordable access.
 
@@ -377,44 +377,44 @@ GLP-1 medications have the same general safety profile in menopausal women as in
 
 These platforms connect you with licensed providers who can prescribe compounded GLP-1 medications. You'll need to qualify based on BMI (typically 27+ with a comorbidity or 30+). Your menopausal symptoms, metabolic changes, and weight concerns are part of your overall health profile.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Best Value</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Lowest starting price, free provider consultations</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">Best Value</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">Lowest starting price, free provider consultations</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">$140 Off</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">TrimRX</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $149/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$140 off first month, HSA/FSA, money-back guarantee</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">$140 Off</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="offer-card__price">From $149/mo</div>
+<div class="offer-card__desc">$140 off first month, HSA/FSA, money-back guarantee</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #7c3aed; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #7c3aed; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Most Options</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">SkinnyRx</div>
-<div style="color: #7c3aed; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $199/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Injectable, tablet, or sublingual options</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Most Options</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="offer-card__price">From $199/mo</div>
+<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
 </a>
 
-</div><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+</div><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider before starting any new medication or changing your menopause treatment plan.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider before starting any new medication or changing your menopause treatment plan.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

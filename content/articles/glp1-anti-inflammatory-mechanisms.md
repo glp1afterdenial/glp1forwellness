@@ -105,21 +105,21 @@ keywords: ["GLP-1 anti-inflammatory", "semaglutide inflammation", "GLP-1 NF-kB p
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#beyond-appetite" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Beyond Appetite</a>
-<a href="#nfkb" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">NF-kB Pathway</a>
-<a href="#cytokines" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Cytokines</a>
-<a href="#macrophages" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Macrophages</a>
-<a href="#receptors" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Where Receptors Are</a>
-<a href="#conditions" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Conditions</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#beyond-appetite" class="article-nav-pill">Beyond Appetite</a>
+<a href="#nfkb" class="article-nav-pill">NF-kB Pathway</a>
+<a href="#cytokines" class="article-nav-pill">Cytokines</a>
+<a href="#macrophages" class="article-nav-pill">Macrophages</a>
+<a href="#receptors" class="article-nav-pill">Where Receptors Are</a>
+<a href="#conditions" class="article-nav-pill">Conditions</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> GLP-1 medications fight inflammation through at least four distinct mechanisms: <strong>suppressing the NF-kB pathway</strong> (the master switch for inflammation), <strong>reducing pro-inflammatory cytokines</strong> (TNF-alpha, IL-6, IL-1-beta), <strong>promoting M2 macrophage polarization</strong> (switching immune cells from attack to repair mode), and <strong>reducing oxidative stress</strong>. These effects happen through GLP-1 receptors found directly on immune cells — not just as a side effect of weight loss. CRP drops ~40% on semaglutide. This anti-inflammatory biology explains why GLP-1s show benefits for <strong>heart disease, arthritis, fatty liver, lupus, psoriasis, IBD, kidney disease, and mental health</strong>.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> GLP-1 medications fight inflammation through at least four distinct mechanisms: <strong>suppressing the NF-kB pathway</strong> (the master switch for inflammation), <strong>reducing pro-inflammatory cytokines</strong> (TNF-alpha, IL-6, IL-1-beta), <strong>promoting M2 macrophage polarization</strong> (switching immune cells from attack to repair mode), and <strong>reducing oxidative stress</strong>. These effects happen through GLP-1 receptors found directly on immune cells — not just as a side effect of weight loss. CRP drops ~40% on semaglutide. This anti-inflammatory biology explains why GLP-1s show benefits for <strong>heart disease, arthritis, fatty liver, lupus, psoriasis, IBD, kidney disease, and mental health</strong>.</span>
 </div>
 </div>
 
@@ -133,11 +133,11 @@ This article explains the science behind those anti-inflammatory mechanisms. Not
 
 ---
 
-<h2 id="beyond-appetite" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Beyond Appetite Suppression: Why GLP-1s Affect So Many Conditions</h2>
+<h2 id="beyond-appetite" class="h2-accent h2-accent--amber">Beyond Appetite Suppression: Why GLP-1s Affect So Many Conditions</h2>
 
 To understand why a "weight loss drug" can help with heart disease, arthritis, fatty liver, and autoimmune conditions, you need to understand one key fact:
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **GLP-1 receptors are everywhere.**
 
@@ -160,13 +160,13 @@ This receptor distribution is why a single medication can show benefits for such
 
 ---
 
-<h2 id="nfkb" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">Mechanism 1: Suppressing the NF-kB Pathway</h2>
+<h2 id="nfkb" class="h2-accent h2-accent--red">Mechanism 1: Suppressing the NF-kB Pathway</h2>
 
 If inflammation is a fire, NF-kB is the match that lights it.
 
 **NF-kB** (nuclear factor kappa-light-chain-enhancer of activated B cells) is a protein complex found in nearly every human cell. When activated, it moves into the cell nucleus and switches on hundreds of pro-inflammatory genes. It's not an exaggeration to call it the **master regulator of inflammation**.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **What NF-kB activation does:**
 
@@ -192,7 +192,7 @@ The result: GLP-1 medications don't just reduce one inflammatory molecule — th
 
 ---
 
-<h2 id="cytokines" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">Mechanism 2: Reducing Pro-Inflammatory Cytokines</h2>
+<h2 id="cytokines" class="h2-accent h2-accent--blue">Mechanism 2: Reducing Pro-Inflammatory Cytokines</h2>
 
 Cytokines are the inflammatory messengers — small proteins that cells use to communicate "there's a problem here, send reinforcements." In chronic disease, the problem signal never stops.
 
@@ -200,7 +200,7 @@ GLP-1 medications reduce three cytokines that are central to chronic inflammatio
 
 ### TNF-alpha (Tumor Necrosis Factor alpha)
 
-<div style="background: #fef2f2; border: 1px solid #fecaca; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--red">
 
 **What it does:** The most potent driver of tissue destruction in inflammatory disease. TNF-alpha breaks down cartilage in arthritis, damages blood vessel walls in atherosclerosis, kills liver cells in MASH, and maintains chronic inflammation in autoimmune diseases.
 
@@ -212,7 +212,7 @@ GLP-1 medications reduce three cytokines that are central to chronic inflammatio
 
 ### IL-6 (Interleukin 6)
 
-<div style="background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--blue">
 
 **What it does:** A cytokine with dual roles, but in chronic disease it primarily drives sustained inflammation. IL-6 tells the liver to produce CRP (C-reactive protein, a marker doctors use to measure inflammation), promotes T-cell differentiation toward inflammatory subtypes, and sensitizes pain pathways in joints.
 
@@ -224,7 +224,7 @@ GLP-1 medications reduce three cytokines that are central to chronic inflammatio
 
 ### IL-1-beta (Interleukin 1 beta)
 
-<div style="background: #fefce8; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **What it does:** The inflammasome's primary output. IL-1-beta is produced when NLRP3 inflammasomes are activated — a process driven by metabolic stress, oxidized LDL, uric acid crystals (gout), and cellular damage signals. It drives fever, recruits neutrophils, and promotes tissue remodeling (fibrosis).
 
@@ -236,13 +236,13 @@ GLP-1 medications reduce three cytokines that are central to chronic inflammatio
 
 ---
 
-<h2 id="macrophages" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">Mechanism 3: Macrophage Reprogramming (M1 to M2 Polarization)</h2>
+<h2 id="macrophages" class="h2-accent">Mechanism 3: Macrophage Reprogramming (M1 to M2 Polarization)</h2>
 
 This mechanism may be the most important — and it's the one least discussed in popular media.
 
 Macrophages are immune cells that exist throughout your body. They're the first responders of your immune system, and they're remarkably adaptable. Think of them as cells that can be reprogrammed depending on the signals they receive.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **The M1/M2 spectrum:**
 
@@ -267,7 +267,7 @@ GLP-1 receptor agonists promote M2 macrophage polarization — essentially repro
 - **Joint tissue** — M1 synovial macrophages produce the TNF-alpha and IL-6 that destroy cartilage. GLP-1-mediated M2 shift reduces this destruction
 - **Adipose tissue** — visceral fat is infiltrated by M1 macrophages that create chronic systemic inflammation. GLP-1s reduce this inflammatory macrophage burden
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Why this matters clinically:** Macrophage reprogramming is not just reducing inflammation — it's shifting the immune environment from tissue destruction to tissue repair. This may explain why GLP-1s show benefits even in conditions where weight loss alone shouldn't be sufficient. You're not just losing weight; you're changing how your immune system behaves in the tissues where disease is happening.
 
@@ -275,13 +275,13 @@ GLP-1 receptor agonists promote M2 macrophage polarization — essentially repro
 
 ---
 
-<h2 id="receptors" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">GLP-1 Receptors on Immune Cells: The Direct Pathway</h2>
+<h2 id="receptors" class="h2-accent h2-accent--purple">GLP-1 Receptors on Immune Cells: The Direct Pathway</h2>
 
 A critical question in GLP-1 research has been: are the anti-inflammatory effects just a downstream consequence of weight loss and metabolic improvement, or are they direct?
 
 The answer is now clear: **both, but direct effects are real and significant.**
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Evidence for direct (weight-independent) anti-inflammatory effects:**
 
@@ -308,11 +308,11 @@ As GLP-1 medications reduce visceral fat, they remove a major ongoing source of 
 
 ---
 
-<h2 id="conditions" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">Why This Matters: Conditions Where GLP-1 Anti-Inflammatory Effects Are Relevant</h2>
+<h2 id="conditions" class="h2-accent h2-accent--sky">Why This Matters: Conditions Where GLP-1 Anti-Inflammatory Effects Are Relevant</h2>
 
 The anti-inflammatory mechanisms described above explain why GLP-1 medications show benefits across a remarkably wide range of conditions. Here's how the science connects:
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 | Condition | Key Anti-Inflammatory Mechanism | Evidence |
 |-----------|-------------------------------|----------|
@@ -339,7 +339,7 @@ This isn't one drug being tried on ten random conditions. It's one drug targetin
 
 The most powerful evidence that GLP-1 anti-inflammatory effects are not just about weight comes from the **SELECT cardiovascular outcomes trial** (NEJM, November 2023):
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **SELECT trial key findings:**
 
@@ -355,9 +355,9 @@ This trial was the basis for Wegovy's FDA approval for cardiovascular risk reduc
 
 ---
 
-<h2 id="faq" style="border-left: 4px solid #44403c; padding-left: 16px; color: #1c1917;">Frequently Asked Questions</h2>
+<h2 id="faq" class="h2-accent h2-accent--slate">Frequently Asked Questions</h2>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Are GLP-1 medications immunosuppressants?**
 
@@ -365,7 +365,7 @@ No. GLP-1 medications are immunomodulatory, not immunosuppressive. They don't su
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **How quickly do the anti-inflammatory effects begin?**
 
@@ -373,7 +373,7 @@ Some anti-inflammatory effects (CRP reduction, cytokine changes) begin within we
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Is semaglutide or tirzepatide more anti-inflammatory?**
 
@@ -381,7 +381,7 @@ Both have anti-inflammatory effects. Tirzepatide, as a dual GIP/GLP-1 agonist, m
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Do the anti-inflammatory effects persist if I stop taking the medication?**
 
@@ -389,7 +389,7 @@ Likely not fully. The direct receptor-mediated effects (NF-kB suppression, macro
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Can I take GLP-1 medications alongside other anti-inflammatory treatments?**
 
@@ -397,7 +397,7 @@ In most cases, yes. GLP-1 medications can be combined with NSAIDs, corticosteroi
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Will insurance cover GLP-1 medications for inflammatory conditions?**
 
@@ -415,10 +415,10 @@ This biology explains why a single class of medication shows benefits for heart 
 
 We're still early in understanding the full scope. But the science is no longer speculative. Between the SELECT trial, the FDA approvals for MASH and sleep apnea, and the growing body of condition-specific research, the anti-inflammatory story of GLP-1 medications has moved from hypothesis to evidence.
 
-<div style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 24px; text-align: center; margin: 32px 0;">
-<div style="font-weight: 700; color: #1c1917; font-size: 1.15rem; margin-bottom: 8px;">Explore GLP-1 Medications for Your Condition</div>
-<p style="color: #78716c; margin: 0 0 16px 0; font-size: 0.95rem;">Telehealth access from $129/month — no insurance needed</p>
-<a href="/articles/best-telehealth-glp1/" style="display: inline-block; background: #059669; color: white; padding: 12px 32px; border-radius: 10px; text-decoration: none; font-weight: 700; font-size: 1rem;">Compare Telehealth Platforms</a>
+<div class="cta-box">
+<div class="cta-box__title">Explore GLP-1 Medications for Your Condition</div>
+<p class="cta-box__desc">Telehealth access from $129/month — no insurance needed</p>
+<a href="/articles/best-telehealth-glp1/" class="btn btn--primary">Compare Telehealth Platforms</a>
 </div>
 
 ---
@@ -426,22 +426,22 @@ We're still early in understanding the full scope. But the science is no longer 
 
 ---
 
-<h2 style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">Condition-Specific Guides</h2>
+<h2 class="h2-accent">Condition-Specific Guides</h2>
 
-<div style="display: grid; gap: 10px; margin: 20px 0 32px;">
-<a href="/conditions/glp1-heart-health/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Heart Health: The Cardiovascular Benefits <span style="color: #059669;">&rarr;</span></a>
-<a href="/conditions/glp1-arthritis/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Arthritis: Joint Pain & Anti-Inflammatory Effects <span style="color: #059669;">&rarr;</span></a>
-<a href="/conditions/glp1-fatty-liver/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Fatty Liver (MASH): FDA-Approved Treatment <span style="color: #059669;">&rarr;</span></a>
-<a href="/conditions/glp1-lupus/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Lupus: Inflammation, Prednisone Weight Gain & Access <span style="color: #059669;">&rarr;</span></a>
-<a href="/conditions/glp1-pcos/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & PCOS: Insulin Resistance, Hormones & Fertility <span style="color: #059669;">&rarr;</span></a>
-<a href="/conditions/glp1-mental-health/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Mental Health: Depression, Anxiety & Neuroprotection <span style="color: #059669;">&rarr;</span></a>
+<div class="related-grid">
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health: The Cardiovascular Benefits <span class="tx-green">&rarr;</span></a>
+<a href="/conditions/glp1-arthritis/" class="link-card">GLP-1s & Arthritis: Joint Pain & Anti-Inflammatory Effects <span class="tx-green">&rarr;</span></a>
+<a href="/conditions/glp1-fatty-liver/" class="link-card">GLP-1s & Fatty Liver (MASH): FDA-Approved Treatment <span class="tx-green">&rarr;</span></a>
+<a href="/conditions/glp1-lupus/" class="link-card">GLP-1s & Lupus: Inflammation, Prednisone Weight Gain & Access <span class="tx-green">&rarr;</span></a>
+<a href="/conditions/glp1-pcos/" class="link-card">GLP-1s & PCOS: Insulin Resistance, Hormones & Fertility <span class="tx-green">&rarr;</span></a>
+<a href="/conditions/glp1-mental-health/" class="link-card">GLP-1s & Mental Health: Depression, Anxiety & Neuroprotection <span class="tx-green">&rarr;</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider before starting any new medication.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider before starting any new medication.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

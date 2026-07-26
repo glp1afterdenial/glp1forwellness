@@ -8,8 +8,8 @@ layout: "simple"
 
 ## Autoimmune & Inflammatory
 
-<div class="quick-links" style="margin-bottom: 40px;">
-<a href="/conditions/glp1-lupus/" class="quick-link" style="border-color: var(--accent);">🦋 GLP-1s & Lupus</a>
+<div class="quick-links u-mb-40">
+<a href="/conditions/glp1-lupus/" class="quick-link bc-accent">🦋 GLP-1s & Lupus</a>
 <a href="/conditions/glp1-psoriasis/" class="quick-link">🩹 GLP-1s & Psoriasis</a>
 <a href="/conditions/glp1-ibd/" class="quick-link">🔬 GLP-1s & IBD (Crohn's & UC)</a>
 </div>
@@ -18,8 +18,8 @@ layout: "simple"
 
 ## FDA-Approved Indications (Beyond Weight Loss)
 
-<div class="quick-links" style="margin-bottom: 40px;">
-<a href="/conditions/glp1-sleep-apnea/" class="quick-link" style="border-color: var(--accent);">😴 GLP-1s & Sleep Apnea</a>
+<div class="quick-links u-mb-40">
+<a href="/conditions/glp1-sleep-apnea/" class="quick-link bc-accent">😴 GLP-1s & Sleep Apnea</a>
 <a href="/conditions/glp1-fatty-liver/" class="quick-link">🫁 GLP-1s & Fatty Liver (MASH)</a>
 <a href="/conditions/glp1-heart-health/" class="quick-link">❤️ GLP-1s & Heart Health</a>
 <a href="/conditions/glp1-kidney-disease/" class="quick-link">🫘 GLP-1s & Kidney Disease</a>
@@ -29,8 +29,8 @@ layout: "simple"
 
 ## Metabolic & Cardiovascular
 
-<div class="quick-links" style="margin-bottom: 40px;">
-<a href="/conditions/glp1-prediabetes/" class="quick-link" style="border-color: var(--accent);">🩸 GLP-1s & Prediabetes</a>
+<div class="quick-links u-mb-40">
+<a href="/conditions/glp1-prediabetes/" class="quick-link bc-accent">🩸 GLP-1s & Prediabetes</a>
 <a href="/conditions/glp1-insulin-resistance/" class="quick-link">⚡ GLP-1s & Insulin Resistance</a>
 <a href="/conditions/glp1-blood-pressure/" class="quick-link">🩺 GLP-1s & High Blood Pressure</a>
 <a href="/conditions/glp1-cholesterol/" class="quick-link">🧪 GLP-1s & Cholesterol</a>
@@ -40,7 +40,7 @@ layout: "simple"
 
 ## Hormonal
 
-<div class="quick-links" style="margin-bottom: 40px;">
+<div class="quick-links u-mb-40">
 <a href="/conditions/glp1-pcos/" class="quick-link">🔄 GLP-1s & PCOS</a>
 <a href="/conditions/glp1-menopause/" class="quick-link">🌡️ GLP-1s & Menopause</a>
 </div>
@@ -49,7 +49,7 @@ layout: "simple"
 
 ## Pain & Mobility
 
-<div class="quick-links" style="margin-bottom: 40px;">
+<div class="quick-links u-mb-40">
 <a href="/conditions/glp1-arthritis/" class="quick-link">🦴 GLP-1s & Arthritis</a>
 <a href="/conditions/glp1-gout/" class="quick-link">🦶 GLP-1s & Gout</a>
 <a href="/conditions/glp1-migraines/" class="quick-link">💫 GLP-1s & Migraines</a>
@@ -59,7 +59,7 @@ layout: "simple"
 
 ## Mental Health & Brain
 
-<div class="quick-links" style="margin-bottom: 40px;">
+<div class="quick-links u-mb-40">
 <a href="/conditions/glp1-mental-health/" class="quick-link">🧠 GLP-1s & Mental Health</a>
 <a href="/conditions/glp1-alzheimers/" class="quick-link">🧩 GLP-1s & Alzheimer's</a>
 <a href="/conditions/glp1-addiction-alcohol/" class="quick-link">🔓 GLP-1s & Addiction/Alcohol</a>
@@ -69,7 +69,7 @@ layout: "simple"
 
 ## Respiratory
 
-<div class="quick-links" style="margin-bottom: 40px;">
+<div class="quick-links u-mb-40">
 <a href="/conditions/glp1-asthma/" class="quick-link">🌬️ GLP-1s & Asthma/COPD</a>
 </div>
 
@@ -77,7 +77,7 @@ layout: "simple"
 
 ## Longevity & Aging
 
-<div class="quick-links" style="margin-bottom: 40px;">
+<div class="quick-links u-mb-40">
 <a href="/conditions/glp1-aging/" class="quick-link">⏳ GLP-1s & Biological Aging</a>
 </div>
 
@@ -85,11 +85,11 @@ layout: "simple"
 
 ## Get Started
 
-<div class="quick-links" style="margin-bottom: 40px;">
-<a href="/articles/best-telehealth-glp1/" class="quick-link" style="border-color: var(--accent);">⭐ Compare Telehealth Platforms</a>
+<div class="quick-links u-mb-40">
+<a href="/articles/best-telehealth-glp1/" class="quick-link bc-accent">⭐ Compare Telehealth Platforms</a>
 </div>
 
-<div style="background: #ffffff; border: 1px solid #e7e5e4; border-radius: 14px; padding: 28px; text-align: center; margin-top: 40px;">
-<h3 style="margin: 0 0 8px 0; font-size: 1.1rem; color: #1c1917;">Want a condition covered?</h3>
-<p style="margin: 0; color: #78716c;">Suggest a topic: <a href="mailto:contact@glp1forwellness.com" style="color: #059669; font-weight: 500;">contact@glp1forwellness.com</a></p>
+<div class="panel panel--white">
+<h3 class="h-ink-lg">Want a condition covered?</h3>
+<p class="p-muted">Suggest a topic: <a href="mailto:contact@glp1forwellness.com" class="tx-green-med">contact@glp1forwellness.com</a></p>
 </div>

@@ -96,24 +96,24 @@ keywords: ["best telehealth GLP-1", "compounded semaglutide telehealth", "cheape
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#platforms" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">Platforms</a>
-<a href="#pricing" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Pricing</a>
-<a href="#legit" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Legit?</a>
-<a href="#legal" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Legal</a>
-<a href="#qualify" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Qualify</a>
-<a href="#timeline" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Timeline</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#platforms" class="article-nav-pill article-nav-pill--active">Platforms</a>
+<a href="#pricing" class="article-nav-pill">Pricing</a>
+<a href="#legit" class="article-nav-pill">Legit?</a>
+<a href="#legal" class="article-nav-pill">Legal</a>
+<a href="#qualify" class="article-nav-pill">Qualify</a>
+<a href="#timeline" class="article-nav-pill">Timeline</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 1px solid #d1fae5;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #047857; font-size: 0.95rem; line-height: 1.6;"><strong>Skip the insurance fight.</strong> These telehealth platforms connect you with licensed providers who prescribe compounded GLP-1 medications — delivered to your door, no insurance needed. Whether you're using GLP-1s for weight management, inflammation, or a specific health condition, the process is the same.</span>
+<div class="callout callout--green">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="p-success"><strong>Skip the insurance fight.</strong> These telehealth platforms connect you with licensed providers who prescribe compounded GLP-1 medications — delivered to your door, no insurance needed. Whether you're using GLP-1s for weight management, inflammation, or a specific health condition, the process is the same.</span>
 </div>
 </div>
 
-<h2 id="platforms" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">Platform Comparison</h2>
+<h2 id="platforms" class="h2-accent">Platform Comparison</h2>
 
 | Platform | Starting Price | Medication | Best For |
 |----------|---------------|------------|----------|
@@ -122,49 +122,49 @@ keywords: ["best telehealth GLP-1", "compounded semaglutide telehealth", "cheape
 | **[TrimRX](https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290)** | $149/mo (GLP-1 injections) | Compounded semaglutide & tirzepatide | $140 off first month, HSA/FSA, money-back guarantee |
 | **[SkinnyRx](https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290)** | $199/mo (injectable or sublingual) | Semaglutide & tirzepatide (injectable, tablet, sublingual) | Most options — tablets & sublingual for no-injection needed |
 
-<div style="color: #78716c; font-size: 0.85rem; margin-top: -8px; margin-bottom: 8px;"><strong style="color: #1c1917;">All platforms include:</strong> Licensed provider consultation, prescription, medication shipped to your door. No insurance required.</div>
+<div class="p-note"><strong class="tx-ink">All platforms include:</strong> Licensed provider consultation, prescription, medication shipped to your door. No insurance required.</div>
 
 ## Quick Comparison
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Best Value</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Cheapest tirzepatide, free coaching + dietitian</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Best Value</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">Cheapest tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">$140 Off</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">TrimRX</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $149/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$140 off first month, money-back guarantee</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">$140 Off</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="offer-card__price">From $149/mo</div>
+<div class="offer-card__desc">$140 off first month, money-back guarantee</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #7c3aed; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #7c3aed; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Most Options</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">SkinnyRx</div>
-<div style="color: #7c3aed; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $199/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Injectable, tablet, or sublingual options</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Most Options</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="offer-card__price">From $199/mo</div>
+<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
 </a>
 
 </div>
 
 ---
 
-<h2 id="pricing" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">Compounded vs Brand-Name: Price Comparison</h2>
+<h2 id="pricing" class="h2-accent h2-accent--blue">Compounded vs Brand-Name: Price Comparison</h2>
 
 Here's the math that drives most people to telehealth in the first place. Brand-name GLP-1 medications cost $1,000-1,349 per month at list price. Compounded versions of the same active ingredients cost $129-329 per month.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 24px 0; overflow-x: auto;">
+<div class="callout table-wrap">
 
 | Medication | Typical Monthly Cost | Notes |
 |-----------|---------------------|-------|
@@ -177,22 +177,22 @@ Here's the math that drives most people to telehealth in the first place. Brand-
 
 </div>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 10px; padding: 20px; margin: 20px 0;">
-<strong style="color: #d97706;">The insurance reality:</strong>
-<span style="color: #92400e;"> Insurance rarely covers GLP-1 medications for anything other than type 2 diabetes or (sometimes) obesity — and even those approvals often require prior authorization and appeals. For off-label uses like the conditions covered on this site (lupus, arthritis, mental health), insurance coverage is essentially zero. That's why cash-pay pricing matters so much.</span>
+<div class="callout callout--amber">
+<strong class="tx-amber">The insurance reality:</strong>
+<span class="tx-amber-deep"> Insurance rarely covers GLP-1 medications for anything other than type 2 diabetes or (sometimes) obesity — and even those approvals often require prior authorization and appeals. For off-label uses like the conditions covered on this site (lupus, arthritis, mental health), insurance coverage is essentially zero. That's why cash-pay pricing matters so much.</span>
 </div>
 
 If your insurance covers brand-name for an FDA-approved indication, take that path. If it doesn't — and for most people it doesn't — the realistic choices are manufacturer self-pay programs at $349-499/month or compounded medication at $129-329/month.
 
 ---
 
-<h2 id="legit" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">Is Telehealth GLP-1 Legit? How to Vet a Platform</h2>
+<h2 id="legit" class="h2-accent">Is Telehealth GLP-1 Legit? How to Vet a Platform</h2>
 
 Short answer: the good ones are, and the bad ones are easy to spot once you know what to look for. Telemedicine prescribing is legal in all 50 states, and the platforms I recommend use licensed providers and state-licensed US pharmacies. But the GLP-1 gold rush attracted sketchy operators too. Here's how to tell the difference.
 
-<div style="background: #ecfdf5; border: 2px solid #059669; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 12px 0; color: #059669;">Green flags — signs a platform is legitimate</h4>
-<ul style="margin: 0; color: #047857; line-height: 1.8;">
+<div class="callout callout--success">
+<h4 class="h-green">Green flags — signs a platform is legitimate</h4>
+<ul class="p-success">
 <li><strong>Licensed providers in your state</strong> — a real clinician reviews your case and can be contacted</li>
 <li><strong>US 503A state-licensed compounding pharmacy</strong> — the platform names its pharmacy partner and it's licensed by a state board of pharmacy</li>
 <li><strong>Requires a health questionnaire (and sometimes labs)</strong> — a platform that screens you is a platform practicing medicine</li>
@@ -201,9 +201,9 @@ Short answer: the good ones are, and the bad ones are easy to spot once you know
 </ul>
 </div>
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 12px 0; color: #dc2626;">Red flags — walk away if you see these</h4>
-<ul style="margin: 0; color: #991b1b; line-height: 1.8;">
+<div class="callout callout--danger">
+<h4 class="h-red">Red flags — walk away if you see these</h4>
+<ul class="p-danger">
 <li><strong>No prescription required</strong> — selling semaglutide without a prescription is illegal, full stop</li>
 <li><strong>Ships from overseas</strong> — no US pharmacy oversight, no quality guarantee, possible customs seizure</li>
 <li><strong>"Research use only" labeling</strong> — research-grade peptides are not made for human use and are not sterile-tested to pharmacy standards</li>
@@ -217,7 +217,7 @@ Every platform in the comparison table above passes the green-flag checklist. Th
 
 ---
 
-<h2 id="legal" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">The 2026 Legal Landscape for Compounded GLP-1s</h2>
+<h2 id="legal" class="h2-accent h2-accent--purple">The 2026 Legal Landscape for Compounded GLP-1s</h2>
 
 This is the part most sites get wrong or leave conveniently vague, so let me be precise about the timeline.
 
@@ -229,20 +229,20 @@ This is the part most sites get wrong or leave conveniently vague, so let me be 
 
 **What happened in April 2026:** The FDA proposed removing semaglutide and tirzepatide from the 503B bulk substances list entirely — which would formally end any remaining pathway for outsourcing facilities to mass-produce these drugs — and issued roughly 30 warning letters to compounders. The public comment period ran through June 29, 2026, and a final decision is pending.
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 10px; padding: 20px; margin: 20px 0;">
-<strong style="color: #059669;">What this means for you:</strong>
-<span style="color: #047857;"> The compounded GLP-1 space in 2026 is significantly more regulated than it was in 2024 — and honestly, that's a quality filter. The fly-by-night operators selling mass-produced vials are being squeezed out. The platforms still standing work with state-licensed 503A pharmacies and write individualized prescriptions. Before you order from anyone, verify two things: the prescription comes from a licensed provider, and the medication comes from a state-licensed US pharmacy.</span>
+<div class="callout callout--green">
+<strong class="tx-green">What this means for you:</strong>
+<span class="tx-green-dark"> The compounded GLP-1 space in 2026 is significantly more regulated than it was in 2024 — and honestly, that's a quality filter. The fly-by-night operators selling mass-produced vials are being squeezed out. The platforms still standing work with state-licensed 503A pharmacies and write individualized prescriptions. Before you order from anyone, verify two things: the prescription comes from a licensed provider, and the medication comes from a state-licensed US pharmacy.</span>
 </div>
 
 I'll keep this section updated as the FDA's 503B decision is finalized.
 
 ---
 
-<h2 id="qualify" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Do I Qualify?</h2>
+<h2 id="qualify" class="h2-accent h2-accent--amber">Do I Qualify?</h2>
 
 Telehealth platforms follow the same prescribing criteria used for FDA-approved weight management medications. The typical requirements:
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 24px 0;">
+<div class="callout">
 
 **You'll typically qualify if you have:**
 
@@ -260,9 +260,9 @@ Telehealth platforms follow the same prescribing criteria used for FDA-approved 
 
 Notice something? The conditions covered on this site — [sleep apnea](/conditions/glp1-sleep-apnea/), [arthritis](/conditions/glp1-arthritis/), [fatty liver](/conditions/glp1-fatty-liver/) — are exactly the kind of comorbidities that qualify you at BMI 27+. Your health condition isn't a barrier to access; it's often the thing that gets you approved.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 12px 0; color: #dc2626;">You will NOT qualify if you have:</h4>
-<ul style="margin: 0; color: #991b1b; line-height: 1.8;">
+<div class="callout callout--danger">
+<h4 class="h-red">You will NOT qualify if you have:</h4>
+<ul class="p-danger">
 <li><strong>Pregnancy or breastfeeding</strong> — GLP-1s should be stopped at least 2 months before trying to conceive</li>
 <li><strong>Personal or family history of medullary thyroid carcinoma (MTC) or MEN2</strong> — absolute contraindication for all GLP-1 medications</li>
 <li><strong>History of pancreatitis</strong> — case-by-case; some providers will decline, others will discuss risks</li>
@@ -274,32 +274,32 @@ Be honest on the questionnaire. The screening exists to protect you, and provide
 
 ---
 
-<h2 id="how-it-works" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How Telehealth GLP-1 Prescriptions Work</h2>
+<h2 id="how-it-works" class="h2-accent">How Telehealth GLP-1 Prescriptions Work</h2>
 
-<div style="background: #ffffff; border: 2px solid #059669; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<div style="display: grid; gap: 16px;">
+<div class="callout callout--highlight">
+<div class="grid-stack">
 
-<div style="display: flex; gap: 14px; align-items: flex-start;">
-<div style="background: #d1fae5; color: #0f172a; min-width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">1</div>
+<div class="step">
+<div class="step__num step__num--lg">1</div>
 <div>
-<strong style="color: #1c1917;">Fill out a health questionnaire</strong>
-<p style="margin: 4px 0 0 0; color: #78716c;">Takes about 10 minutes. Include your health conditions, current medications, and goals.</p>
+<strong class="tx-ink">Fill out a health questionnaire</strong>
+<p class="p-note">Takes about 10 minutes. Include your health conditions, current medications, and goals.</p>
 </div>
 </div>
 
-<div style="display: flex; gap: 14px; align-items: flex-start;">
-<div style="background: #d1fae5; color: #0f172a; min-width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">2</div>
+<div class="step">
+<div class="step__num step__num--lg">2</div>
 <div>
-<strong style="color: #1c1917;">Licensed provider reviews your case</strong>
-<p style="margin: 4px 0 0 0; color: #78716c;">A licensed physician evaluates your health history and determines if GLP-1 medication is appropriate for you.</p>
+<strong class="tx-ink">Licensed provider reviews your case</strong>
+<p class="p-note">A licensed physician evaluates your health history and determines if GLP-1 medication is appropriate for you.</p>
 </div>
 </div>
 
-<div style="display: flex; gap: 14px; align-items: flex-start;">
-<div style="background: #d1fae5; color: #0f172a; min-width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">3</div>
+<div class="step">
+<div class="step__num step__num--lg">3</div>
 <div>
-<strong style="color: #1c1917;">Medication ships to your door</strong>
-<p style="margin: 4px 0 0 0; color: #78716c;">Pre-mixed, ready to inject. Shipped cold with everything you need. Typically arrives in 3-10 business days.</p>
+<strong class="tx-ink">Medication ships to your door</strong>
+<p class="p-note">Pre-mixed, ready to inject. Shipped cold with everything you need. Typically arrives in 3-10 business days.</p>
 </div>
 </div>
 
@@ -308,11 +308,11 @@ Be honest on the questionnaire. The screening exists to protect you, and provide
 
 ---
 
-<h2 id="timeline" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">What to Expect: The First 90 Days</h2>
+<h2 id="timeline" class="h2-accent h2-accent--sky">What to Expect: The First 90 Days</h2>
 
 Here's the realistic timeline from signup to results, based on standard semaglutide titration:
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 24px 0;">
+<div class="callout">
 
 1. **Day 1 — Questionnaire.** Sign up, complete the 10-minute health intake, upload any requested info (photo ID, sometimes weight photos or labs).
 
@@ -328,16 +328,16 @@ Here's the realistic timeline from signup to results, based on standard semaglut
 
 </div>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 10px; padding: 20px; margin: 20px 0;">
-<strong style="color: #d97706;">Manage expectations:</strong>
-<span style="color: #92400e;"> The first month is about tolerance, not transformation. If you quit at week 3 because "nothing is happening," you quit before the medication reached a working dose. Give it the full 12 weeks before judging.</span>
+<div class="callout callout--amber">
+<strong class="tx-amber">Manage expectations:</strong>
+<span class="tx-amber-deep"> The first month is about tolerance, not transformation. If you quit at week 3 because "nothing is happening," you quit before the medication reached a working dose. Give it the full 12 weeks before judging.</span>
 </div>
 
 ---
 
-<h2 id="faq" style="border-left: 4px solid #44403c; padding-left: 16px; color: #1c1917;">FAQ</h2>
+<h2 id="faq" class="h2-accent h2-accent--slate">FAQ</h2>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Is compounded semaglutide legal in 2026?**
 
@@ -345,7 +345,7 @@ It depends on how it's made. The FDA declared the semaglutide shortage over in F
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **What's the difference between compounded and brand-name semaglutide?**
 
@@ -353,7 +353,7 @@ Brand-name semaglutide (Ozempic, Wegovy) is FDA-approved and manufactured by Nov
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Do I need insurance to get GLP-1 medications through telehealth?**
 
@@ -361,7 +361,7 @@ No. All telehealth platforms listed are cash-pay. No insurance needed, no prior 
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Do telehealth GLP-1 platforms take insurance or HSA/FSA?**
 
@@ -369,7 +369,7 @@ These platforms are cash-pay and do not bill insurance. Some accept HSA/FSA card
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **What BMI do I need to qualify for a telehealth GLP-1 prescription?**
 
@@ -377,7 +377,7 @@ Typically BMI 30 or higher, or BMI 27 or higher with at least one weight-related
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Can I switch from Ozempic or Wegovy to compounded semaglutide?**
 
@@ -385,7 +385,7 @@ Yes, and it's common. Tell your telehealth provider your current medication and 
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Are there non-injection GLP-1 options through telehealth?**
 
@@ -393,7 +393,7 @@ Yes. SkinnyRx offers semaglutide and tirzepatide in tablet and sublingual (under
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **What states do telehealth GLP-1 platforms cover?**
 
@@ -401,7 +401,7 @@ Most platforms cover most or all US states — Oak Loves You operates in all 50 
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **How long until I get my medication?**
 
@@ -409,7 +409,7 @@ Typically 3-10 business days after approval. Oak Loves You offers same-day appro
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Can I use telehealth GLP-1s for health conditions beyond weight loss?**
 
@@ -419,19 +419,19 @@ Yes. Telehealth providers prescribe based on your overall health profile. If you
 
 ---
 
-<h2 style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">Related Guides</h2>
+<h2 class="h2-accent">Related Guides</h2>
 
-<div style="display: grid; gap: 10px; margin: 20px 0 32px;">
-<a href="/conditions/glp1-lupus/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Lupus: Inflammation, Prednisone Weight Gain & Access <span style="color: #059669;">→</span></a>
-<a href="/conditions/glp1-sleep-apnea/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Sleep Apnea: The First FDA-Approved Drug for OSA <span style="color: #059669;">→</span></a>
-<a href="/conditions/glp1-fatty-liver/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Fatty Liver (MASH): FDA-Approved Treatment <span style="color: #059669;">→</span></a>
+<div class="related-grid">
+<a href="/conditions/glp1-lupus/" class="link-card">GLP-1s & Lupus: Inflammation, Prednisone Weight Gain & Access <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-sleep-apnea/" class="link-card">GLP-1s & Sleep Apnea: The First FDA-Approved Drug for OSA <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-fatty-liver/" class="link-card">GLP-1s & Fatty Liver (MASH): FDA-Approved Treatment <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. Always consult your healthcare provider before starting any new medication.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. Always consult your healthcare provider before starting any new medication.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

@@ -97,20 +97,20 @@ keywords: ["GLP-1 sleep apnea", "Zepbound sleep apnea FDA approval", "tirzepatid
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #2563eb; font-size: 0.85rem; font-weight: 500;">Quick Answer</a>
-<a href="#what-is-osa" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">What Is OSA</a>
-<a href="#why-cpap-hard" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Why CPAP Is Hard</a>
-<a href="#how-glp1s-help" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How GLP-1s Help</a>
-<a href="#research" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Research</a>
-<a href="#safety" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Safety</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 500;">How to Get It</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--blue">Quick Answer</a>
+<a href="#what-is-osa" class="article-nav-pill">What Is OSA</a>
+<a href="#why-cpap-hard" class="article-nav-pill">Why CPAP Is Hard</a>
+<a href="#how-glp1s-help" class="article-nav-pill">How GLP-1s Help</a>
+<a href="#research" class="article-nav-pill">Research</a>
+<a href="#safety" class="article-nav-pill">Safety</a>
+<a href="#how-to-get" class="article-nav-pill article-nav-pill--active">How to Get It</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border: 2px solid #2563eb; border-radius: 12px; padding: 24px; margin-bottom: 32px;">
-<h4 style="margin: 0 0 12px 0; color: #2563eb;">The Short Answer</h4>
-<p style="margin: 0; color: #78716c; line-height: 1.6;"><strong style="color: #2563eb;">Sleep apnea now has its first FDA-approved medication.</strong> In December 2024, the FDA approved Zepbound (tirzepatide) for moderate-to-severe obstructive sleep apnea in adults with obesity. In clinical trials, only 4% of tirzepatide users needed to start CPAP vs. 22% without it, and 26% of existing CPAP users were able to stop. Because this is an FDA-approved indication, insurance may actually cover it — and telehealth platforms offer compounded tirzepatide from $179/month for those who can't get coverage.</p>
+<div id="tldr" class="callout callout--study">
+<h4 class="h-blue">The Short Answer</h4>
+<p class="p-muted"><strong class="tx-blue">Sleep apnea now has its first FDA-approved medication.</strong> In December 2024, the FDA approved Zepbound (tirzepatide) for moderate-to-severe obstructive sleep apnea in adults with obesity. In clinical trials, only 4% of tirzepatide users needed to start CPAP vs. 22% without it, and 26% of existing CPAP users were able to stop. Because this is an FDA-approved indication, insurance may actually cover it — and telehealth platforms offer compounded tirzepatide from $179/month for those who can't get coverage.</p>
 </div>
 
 If you have sleep apnea, you already know what it's like. The exhaustion that never goes away no matter how many hours you spend in bed. The snoring that affects your partner. The CPAP machine on your nightstand that you probably don't use as much as you should — or maybe at all.
@@ -121,11 +121,11 @@ For decades, the treatment options for obstructive sleep apnea have been limited
 
 ---
 
-<h2 id="what-is-osa" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">What Is Obstructive Sleep Apnea?</h2>
+<h2 id="what-is-osa" class="h2-accent h2-accent--blue">What Is Obstructive Sleep Apnea?</h2>
 
 Obstructive sleep apnea (OSA) is a condition where the muscles in the back of your throat relax during sleep, causing the airway to collapse or become blocked. This leads to repeated pauses in breathing throughout the night — sometimes hundreds of times.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 24px 0;">
+<div class="callout">
 
 **Sleep apnea by the numbers:**
 
@@ -139,7 +139,7 @@ Obstructive sleep apnea (OSA) is a condition where the muscles in the back of yo
 
 Severity is measured by the **AHI (apnea-hypopnea index)** — the number of breathing pauses per hour of sleep:
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 24px 0; overflow-x: auto;">
+<div class="callout table-wrap">
 
 | AHI Score | Severity | What It Means |
 |-----------|----------|---------------|
@@ -153,13 +153,13 @@ The connection between weight and sleep apnea is well established. Excess weight
 
 ---
 
-<h2 id="why-cpap-hard" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Why CPAP Compliance Is So Hard</h2>
+<h2 id="why-cpap-hard" class="h2-accent h2-accent--amber">Why CPAP Compliance Is So Hard</h2>
 
 CPAP (continuous positive airway pressure) is the gold standard treatment for OSA. It works by blowing air through a mask to keep your airway open during sleep. When used correctly, it's highly effective.
 
 The problem? Most people don't use it correctly. Or consistently. Or at all.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 24px 0; overflow-x: auto;">
+<div class="callout table-wrap">
 
 | CPAP Challenge | What Patients Say |
 |----------------|-------------------|
@@ -173,112 +173,112 @@ The problem? Most people don't use it correctly. Or consistently. Or at all.
 
 </div>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 10px; padding: 20px; margin: 20px 0;">
-<strong style="color: #d97706;">The compliance reality:</strong>
-<span style="color: #92400e;"> Studies consistently show that 30-50% of CPAP users abandon the device within the first year. Among those who continue, many don't use it the recommended 7+ hours per night. Medicare defines "compliance" as using it just 4 hours per night on 70% of nights — and even that bar is hard for many patients to meet.</span>
+<div class="callout callout--amber">
+<strong class="tx-amber">The compliance reality:</strong>
+<span class="tx-amber-deep"> Studies consistently show that 30-50% of CPAP users abandon the device within the first year. Among those who continue, many don't use it the recommended 7+ hours per night. Medicare defines "compliance" as using it just 4 hours per night on 70% of nights — and even that bar is hard for many patients to meet.</span>
 </div>
 
 This is exactly why a medication-based treatment is such a big deal. Not as a replacement for CPAP necessarily — but as an option for people who can't or won't use it, and as a complement that can reduce OSA severity enough that CPAP becomes easier (or unnecessary).
 
 ---
 
-<h2 id="how-glp1s-help" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How GLP-1 Medications Help Sleep Apnea</h2>
+<h2 id="how-glp1s-help" class="h2-accent">How GLP-1 Medications Help Sleep Apnea</h2>
 
 GLP-1s improve sleep apnea through two pathways — and this is important, because it's not just about weight loss.
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px; margin: 24px 0;">
+<div class="benefit-grid">
 
-<div style="background: #ffffff; border: 1px solid #d1fae5; border-radius: 12px; padding: 20px;">
-<h4 style="color: #059669; margin: 0 0 12px 0;">Weight Reduction</h4>
-<p style="margin: 0; color: #78716c; font-size: 0.95rem;">Every 1% of body weight lost reduces AHI by approximately 1.5 points. With tirzepatide producing ~20% body weight loss, the math becomes powerful — that's potentially a 30-point drop in AHI, enough to move someone from severe to mild.</p>
+<div class="benefit-card">
+<h4 class="h-green">Weight Reduction</h4>
+<p class="p-muted-sm">Every 1% of body weight lost reduces AHI by approximately 1.5 points. With tirzepatide producing ~20% body weight loss, the math becomes powerful — that's potentially a 30-point drop in AHI, enough to move someone from severe to mild.</p>
 </div>
 
-<div style="background: #ffffff; border: 1px solid #d1fae5; border-radius: 12px; padding: 20px;">
-<h4 style="color: #059669; margin: 0 0 12px 0;">Anti-Inflammatory Airway Effects</h4>
-<p style="margin: 0; color: #78716c; font-size: 0.95rem;">GLP-1 receptors exist in upper airway tissue. GLP-1 medications directly reduce inflammation and edema in the pharyngeal muscles and tissue that collapse during sleep — improving airway patency independent of weight loss.</p>
+<div class="benefit-card">
+<h4 class="h-green">Anti-Inflammatory Airway Effects</h4>
+<p class="p-muted-sm">GLP-1 receptors exist in upper airway tissue. GLP-1 medications directly reduce inflammation and edema in the pharyngeal muscles and tissue that collapse during sleep — improving airway patency independent of weight loss.</p>
 </div>
 
-<div style="background: #ffffff; border: 1px solid #d1fae5; border-radius: 12px; padding: 20px;">
-<h4 style="color: #059669; margin: 0 0 12px 0;">Reduced Neck Circumference</h4>
-<p style="margin: 0; color: #78716c; font-size: 0.95rem;">Weight loss around the neck and upper airway is critical for OSA. GLP-1s tend to reduce visceral and upper-body fat, directly relieving the mechanical pressure on the airway during sleep.</p>
+<div class="benefit-card">
+<h4 class="h-green">Reduced Neck Circumference</h4>
+<p class="p-muted-sm">Weight loss around the neck and upper airway is critical for OSA. GLP-1s tend to reduce visceral and upper-body fat, directly relieving the mechanical pressure on the airway during sleep.</p>
 </div>
 
-<div style="background: #ffffff; border: 1px solid #d1fae5; border-radius: 12px; padding: 20px;">
-<h4 style="color: #059669; margin: 0 0 12px 0;">Improved Metabolic Health</h4>
-<p style="margin: 0; color: #78716c; font-size: 0.95rem;">Sleep apnea drives insulin resistance, and insulin resistance worsens sleep apnea. GLP-1s break this cycle by improving blood sugar regulation, reducing inflammation, and lowering cardiovascular risk.</p>
+<div class="benefit-card">
+<h4 class="h-green">Improved Metabolic Health</h4>
+<p class="p-muted-sm">Sleep apnea drives insulin resistance, and insulin resistance worsens sleep apnea. GLP-1s break this cycle by improving blood sugar regulation, reducing inflammation, and lowering cardiovascular risk.</p>
 </div>
 
 </div>
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 10px; padding: 20px; margin: 20px 0;">
-<strong style="color: #059669;">Why this matters:</strong>
-<span style="color: #047857;"> The fact that GLP-1s help sleep apnea through both weight loss AND direct airway effects means the benefits start before you've lost a significant amount of weight. Some patients report improved sleep quality and reduced snoring within the first few months of treatment.</span>
+<div class="callout callout--green">
+<strong class="tx-green">Why this matters:</strong>
+<span class="tx-green-dark"> The fact that GLP-1s help sleep apnea through both weight loss AND direct airway effects means the benefits start before you've lost a significant amount of weight. Some patients report improved sleep quality and reduced snoring within the first few months of treatment.</span>
 </div>
 
 ---
 
-<h2 id="research" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">What the Research Says</h2>
+<h2 id="research" class="h2-accent h2-accent--blue">What the Research Says</h2>
 
 This is one of the strongest evidence bases for GLP-1s in any condition beyond diabetes and obesity — strong enough for an FDA approval.
 
-<div style="background: #ecfdf5; border: 2px solid #2563eb; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 16px 0; color: #2563eb;">SURMOUNT-OSA Trials (Led to FDA Approval)</h4>
-<p style="margin: 0 0 12px 0; color: #78716c;">Two randomized, double-blind, placebo-controlled trials enrolled 469 adults with moderate-to-severe OSA and obesity. SURMOUNT-OSA 1 included patients who couldn't or wouldn't use CPAP; SURMOUNT-OSA 2 included patients already on CPAP.</p>
+<div class="callout callout--study">
+<h4 class="h-blue">SURMOUNT-OSA Trials (Led to FDA Approval)</h4>
+<p class="h-muted">Two randomized, double-blind, placebo-controlled trials enrolled 469 adults with moderate-to-severe OSA and obesity. SURMOUNT-OSA 1 included patients who couldn't or wouldn't use CPAP; SURMOUNT-OSA 2 included patients already on CPAP.</p>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-top: 16px;">
+<div class="stat-grid">
 
-<div style="background: #ffffff; border-radius: 8px; padding: 16px; text-align: center;">
-<div style="font-size: 1.8rem; font-weight: 800; color: #2563eb;">~50-60%</div>
-<div style="font-size: 0.85rem; color: #78716c;">reduction in AHI from baseline</div>
+<div class="stat">
+<div class="stat__value">~50-60%</div>
+<div class="stat__label">reduction in AHI from baseline</div>
 </div>
 
-<div style="background: #ffffff; border-radius: 8px; padding: 16px; text-align: center;">
-<div style="font-size: 1.8rem; font-weight: 800; color: #2563eb;">4%</div>
-<div style="font-size: 0.85rem; color: #78716c;">of tirzepatide users needed to start CPAP (vs. 22% placebo)</div>
+<div class="stat">
+<div class="stat__value">4%</div>
+<div class="stat__label">of tirzepatide users needed to start CPAP (vs. 22% placebo)</div>
 </div>
 
-<div style="background: #ffffff; border-radius: 8px; padding: 16px; text-align: center;">
-<div style="font-size: 1.8rem; font-weight: 800; color: #2563eb;">26%</div>
-<div style="font-size: 0.85rem; color: #78716c;">of existing CPAP users stopped needing CPAP</div>
+<div class="stat">
+<div class="stat__value">26%</div>
+<div class="stat__label">of existing CPAP users stopped needing CPAP</div>
 </div>
 
-<div style="background: #ffffff; border-radius: 8px; padding: 16px; text-align: center;">
-<div style="font-size: 1.8rem; font-weight: 800; color: #2563eb;">~20%</div>
-<div style="font-size: 0.85rem; color: #78716c;">body weight loss at 52 weeks</div>
+<div class="stat">
+<div class="stat__value">~20%</div>
+<div class="stat__label">body weight loss at 52 weeks</div>
 </div>
 
 </div>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 12px 0; color: #1c1917;">Beyond AHI: Quality of Life Improvements</h4>
-<p style="margin: 0; color: #78716c; line-height: 1.6;">The SURMOUNT-OSA trials also measured patient-reported outcomes. Tirzepatide-treated patients showed significant improvements in daytime sleepiness (Epworth Sleepiness Scale), sleep quality, physical functioning, and C-reactive protein (a marker of systemic inflammation). These quality-of-life improvements were often what patients noticed most — waking up actually feeling rested for the first time in years.</p>
+<div class="callout">
+<h4 class="h-ink">Beyond AHI: Quality of Life Improvements</h4>
+<p class="p-muted">The SURMOUNT-OSA trials also measured patient-reported outcomes. Tirzepatide-treated patients showed significant improvements in daytime sleepiness (Epworth Sleepiness Scale), sleep quality, physical functioning, and C-reactive protein (a marker of systemic inflammation). These quality-of-life improvements were often what patients noticed most — waking up actually feeling rested for the first time in years.</p>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 12px 0; color: #1c1917;">Semaglutide Research in OSA</h4>
-<p style="margin: 0; color: #78716c; line-height: 1.6;">While tirzepatide has the FDA approval, semaglutide has also shown benefits for sleep apnea. The STEP trials demonstrated that semaglutide-treated patients had significant reductions in AHI as a secondary outcome. A 2023 analysis of the STEP 1 trial found that patients who lost more weight had proportionally greater AHI improvements. Semaglutide doesn't have the specific OSA indication, but the mechanism of action is similar.</p>
+<div class="callout">
+<h4 class="h-ink">Semaglutide Research in OSA</h4>
+<p class="p-muted">While tirzepatide has the FDA approval, semaglutide has also shown benefits for sleep apnea. The STEP trials demonstrated that semaglutide-treated patients had significant reductions in AHI as a secondary outcome. A 2023 analysis of the STEP 1 trial found that patients who lost more weight had proportionally greater AHI improvements. Semaglutide doesn't have the specific OSA indication, but the mechanism of action is similar.</p>
 </div>
 
 > "This is the first time we have a medication that can meaningfully treat the underlying cause of obstructive sleep apnea — not just manage symptoms with a device." — *Dr. Atul Malhotra, SURMOUNT-OSA lead investigator*
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 10px; padding: 20px; margin: 20px 0;">
-<strong style="color: #d97706;">Important context:</strong>
-<span style="color: #92400e;"> The SURMOUNT-OSA trials studied tirzepatide specifically in patients with obesity (BMI 30+) and moderate-to-severe OSA. The FDA approval reflects this — it's for adults with obesity who have moderate-to-severe OSA. If your sleep apnea is primarily positional or structural rather than weight-related, the benefit may be smaller.</span>
+<div class="callout callout--amber">
+<strong class="tx-amber">Important context:</strong>
+<span class="tx-amber-deep"> The SURMOUNT-OSA trials studied tirzepatide specifically in patients with obesity (BMI 30+) and moderate-to-severe OSA. The FDA approval reflects this — it's for adults with obesity who have moderate-to-severe OSA. If your sleep apnea is primarily positional or structural rather than weight-related, the benefit may be smaller.</span>
 </div>
 
 ---
 
-<h2 id="safety" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">Safety: What Sleep Apnea Patients Need to Know</h2>
+<h2 id="safety" class="h2-accent h2-accent--red">Safety: What Sleep Apnea Patients Need to Know</h2>
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 12px 0; color: #059669;">The good news</h4>
-<p style="margin: 0; color: #78716c; line-height: 1.6;">GLP-1 medications have a well-established safety profile from years of use in diabetes and obesity. The SURMOUNT-OSA trials didn't reveal any new safety concerns specific to sleep apnea patients. The most common side effects are GI-related: nausea, diarrhea, and constipation — typically worst during dose escalation and improving over time.</p>
+<div class="callout callout--green">
+<h4 class="h-green">The good news</h4>
+<p class="p-muted">GLP-1 medications have a well-established safety profile from years of use in diabetes and obesity. The SURMOUNT-OSA trials didn't reveal any new safety concerns specific to sleep apnea patients. The most common side effects are GI-related: nausea, diarrhea, and constipation — typically worst during dose escalation and improving over time.</p>
 </div>
 
 ### Side effects to be aware of
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0; overflow-x: auto;">
+<div class="callout table-wrap">
 
 | Side Effect | Frequency | What to Know |
 |------------|-----------|--------------|
@@ -292,14 +292,14 @@ This is one of the strongest evidence bases for GLP-1s in any condition beyond d
 
 ### Sleep-specific considerations
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 10px; padding: 20px; margin: 20px 0;">
-<strong style="color: #d97706;">Don't stop CPAP without your doctor:</strong>
-<span style="color: #92400e;"> Even though 26% of trial participants stopped needing CPAP, you should never discontinue CPAP on your own. Weight loss and AHI improvement take time, and stopping CPAP prematurely could leave you with untreated sleep apnea during the months it takes for the medication to work. Your sleep doctor should re-evaluate your AHI with a follow-up sleep study before any changes to CPAP.</span>
+<div class="callout callout--amber">
+<strong class="tx-amber">Don't stop CPAP without your doctor:</strong>
+<span class="tx-amber-deep"> Even though 26% of trial participants stopped needing CPAP, you should never discontinue CPAP on your own. Weight loss and AHI improvement take time, and stopping CPAP prematurely could leave you with untreated sleep apnea during the months it takes for the medication to work. Your sleep doctor should re-evaluate your AHI with a follow-up sleep study before any changes to CPAP.</span>
 </div>
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 12px 0; color: #dc2626;">Do not use GLP-1 medications if you have:</h4>
-<ul style="margin: 0; color: #991b1b; line-height: 1.8;">
+<div class="callout callout--danger">
+<h4 class="h-red">Do not use GLP-1 medications if you have:</h4>
+<ul class="p-danger">
 <li><strong>Personal or family history of medullary thyroid cancer or MEN2</strong> — contraindication for all GLP-1 medications</li>
 <li><strong>History of pancreatitis</strong> — discuss risks carefully with your provider</li>
 <li><strong>Severe gastroparesis</strong> — GLP-1s slow gastric emptying and can worsen this condition</li>
@@ -309,7 +309,7 @@ This is one of the strongest evidence bases for GLP-1s in any condition beyond d
 
 ### What about anesthesia?
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 This is particularly relevant for sleep apnea patients, since some may need procedures requiring sedation or anesthesia. GLP-1 medications slow gastric emptying, which can increase aspiration risk under anesthesia. The American Society of Anesthesiologists recommends stopping GLP-1s before scheduled procedures — typically 1 week for weekly injections. **Always tell your anesthesiologist if you're on a GLP-1 medication.**
 
@@ -317,9 +317,9 @@ This is particularly relevant for sleep apnea patients, since some may need proc
 
 ---
 
-<h2 id="which-glp1" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">Which GLP-1 Is Best for Sleep Apnea?</h2>
+<h2 id="which-glp1" class="h2-accent h2-accent--purple">Which GLP-1 Is Best for Sleep Apnea?</h2>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 24px 0; overflow-x: auto;">
+<div class="callout table-wrap">
 
 | | Tirzepatide (Zepbound/Mounjaro) | Semaglutide (Wegovy/Ozempic) |
 |---|---|---|
@@ -337,15 +337,15 @@ This is particularly relevant for sleep apnea patients, since some may need proc
 
 ---
 
-<h2 id="insurance" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">Insurance Coverage: This One Is Different</h2>
+<h2 id="insurance" class="h2-accent">Insurance Coverage: This One Is Different</h2>
 
 Here's where sleep apnea has an advantage over almost every other condition on this site: **this is an FDA-approved indication.**
 
 Unlike lupus, arthritis, or fatty liver — where GLP-1s are used off-label and insurance almost never covers them — Zepbound has a specific FDA approval for moderate-to-severe OSA. This means insurance companies have a harder time denying it outright.
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 12px 0; color: #059669;">To maximize your chances of coverage:</h4>
-<div style="color: #047857; line-height: 1.8;">
+<div class="callout callout--green">
+<h4 class="h-green">To maximize your chances of coverage:</h4>
+<div class="p-success">
 
 1. **Get a documented sleep study** showing moderate-to-severe OSA (AHI 15+)
 2. **Document CPAP failure or intolerance** — if you've tried CPAP and couldn't tolerate it, that strengthens your case
@@ -356,14 +356,14 @@ Unlike lupus, arthritis, or fatty liver — where GLP-1s are used off-label and 
 </div>
 </div>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 10px; padding: 20px; margin: 20px 0;">
-<strong style="color: #d97706;">The reality check:</strong>
-<span style="color: #92400e;"> Even with FDA approval, coverage is far from universal. Many insurance plans still have GLP-1 exclusions, and some require step therapy (trying CPAP first) or extensive documentation. The approval helps, but it doesn't guarantee coverage. If insurance denies you, telehealth with compounded tirzepatide is the backup plan.</span>
+<div class="callout callout--amber">
+<strong class="tx-amber">The reality check:</strong>
+<span class="tx-amber-deep"> Even with FDA approval, coverage is far from universal. Many insurance plans still have GLP-1 exclusions, and some require step therapy (trying CPAP first) or extensive documentation. The approval helps, but it doesn't guarantee coverage. If insurance denies you, telehealth with compounded tirzepatide is the backup plan.</span>
 </div>
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1s for Sleep Apnea</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1s for Sleep Apnea</h2>
 
 You have two paths, and the right one depends on your situation.
 
@@ -371,27 +371,27 @@ You have two paths, and the right one depends on your situation.
 
 **Path 2: Through telehealth.** If insurance won't cover it, or you don't want to fight for months, telehealth platforms offer compounded tirzepatide and semaglutide without insurance.
 
-<div style="background: #ffffff; border: 2px solid #059669; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 16px 0; color: #059669;">How telehealth works</h4>
-<div style="display: grid; gap: 12px;">
-<div style="display: flex; gap: 12px; align-items: flex-start;">
-<div style="background: #d1fae5; color: #0f172a; min-width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 0.85rem;">1</div>
+<div class="callout callout--highlight">
+<h4 class="h-green">How telehealth works</h4>
+<div class="grid-stack">
+<div class="step">
+<div class="step__num">1</div>
 <div><strong>Fill out a health questionnaire online</strong> — takes about 10 minutes. Include your sleep apnea diagnosis and any current treatments.</div>
 </div>
-<div style="display: flex; gap: 12px; align-items: flex-start;">
-<div style="background: #d1fae5; color: #0f172a; min-width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 0.85rem;">2</div>
+<div class="step">
+<div class="step__num">2</div>
 <div><strong>A licensed provider reviews your case</strong> — they'll evaluate your health history and determine if GLP-1 medication is appropriate for you.</div>
 </div>
-<div style="display: flex; gap: 12px; align-items: flex-start;">
-<div style="background: #d1fae5; color: #0f172a; min-width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 0.85rem;">3</div>
+<div class="step">
+<div class="step__num">3</div>
 <div><strong>Medication ships to your door</strong> — pre-mixed, ready to inject. No reconstitution, no dosing math.</div>
 </div>
 </div>
 </div>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 10px; padding: 20px; margin: 20px 0;">
-<strong style="color: #d97706;">What to tell the telehealth provider:</strong>
-<ul style="margin: 8px 0 0 0; color: #92400e;">
+<div class="callout callout--amber">
+<strong class="tx-amber">What to tell the telehealth provider:</strong>
+<ul class="tx-amber-deep">
 <li>Your sleep apnea diagnosis and severity (AHI if you know it)</li>
 <li>Whether you currently use CPAP (and how well it's working)</li>
 <li>Any cardiovascular conditions (hypertension, heart disease)</li>
@@ -404,57 +404,57 @@ You have two paths, and the right one depends on your situation.
 
 These platforms use FDA-registered compounding pharmacies and include medical oversight from licensed providers.
 
-<div style="display: grid; gap: 12px; margin: 24px 0;">
+<div class="related-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="display: block; background: #ffffff; border: 2px solid #059669; border-radius: 12px; padding: 20px; text-decoration: none;">
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="link-card link-card--green">
+<div class="row-between">
 <div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem;">Oak Loves You</div>
-<div style="color: #78716c; font-size: 0.9rem; margin-top: 4px;">Free coaching, same-day approval, price matching. Semaglutide and tirzepatide available.</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="p-note">Free coaching, same-day approval, price matching. Semaglutide and tirzepatide available.</div>
 </div>
-<div style="text-align: right;">
-<div style="color: #059669; font-weight: 700;">From $133/mo</div>
-<div style="color: #059669; font-size: 0.85rem;">Visit Site</div>
+<div class="u-right">
+<div class="tx-green-bold">From $133/mo</div>
+<div class="tx-green-sm">Visit Site</div>
 </div>
 </div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 20px; text-decoration: none;">
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="link-card link-card--lg">
+<div class="row-between">
 <div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem;">TrimRX</div>
-<div style="color: #78716c; font-size: 0.9rem; margin-top: 4px;">$140 off first month, HSA/FSA eligible, money-back guarantee.</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="p-note">$140 off first month, HSA/FSA eligible, money-back guarantee.</div>
 </div>
-<div style="text-align: right;">
-<div style="color: #1c1917; font-weight: 700;">From $149/mo</div>
-<div style="color: #059669; font-size: 0.85rem;">Visit Site</div>
+<div class="u-right">
+<div class="tx-ink-bold">From $149/mo</div>
+<div class="tx-green-sm">Visit Site</div>
 </div>
 </div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 20px; text-decoration: none;">
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="link-card link-card--lg">
+<div class="row-between">
 <div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem;">SkinnyRx</div>
-<div style="color: #78716c; font-size: 0.9rem; margin-top: 4px;">Injectable, tablet, or sublingual options. Good if you want needle-free.</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="p-note">Injectable, tablet, or sublingual options. Good if you want needle-free.</div>
 </div>
-<div style="text-align: right;">
-<div style="color: #1c1917; font-weight: 700;">From $199/mo</div>
-<div style="color: #059669; font-size: 0.85rem;">Visit Site</div>
+<div class="u-right">
+<div class="tx-ink-bold">From $199/mo</div>
+<div class="tx-green-sm">Visit Site</div>
 </div>
 </div>
 </a>
 
 </div>
 
-<div style="text-align: center; margin: 24px 0;"><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+<div class="u-center-block"><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. The information here is based on published clinical trials and FDA documents. Always consult your sleep specialist and healthcare provider before starting any new medication or making changes to your CPAP therapy.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. The information here is based on published clinical trials and FDA documents. Always consult your sleep specialist and healthcare provider before starting any new medication or making changes to your CPAP therapy.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

@@ -105,22 +105,22 @@ keywords: ["semaglutide biological aging study", "GLP-1 slow aging research 2026
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#biological-aging" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Biological Aging</a>
-<a href="#inflammaging" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Inflammaging</a>
-<a href="#ucsd-study" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">The Study</a>
-<a href="#how-glp1s-slow-aging" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How GLP-1s Help</a>
-<a href="#what-this-means" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">What It Means</a>
-<a href="#honest-caveats" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Caveats</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#biological-aging" class="article-nav-pill">Biological Aging</a>
+<a href="#inflammaging" class="article-nav-pill">Inflammaging</a>
+<a href="#ucsd-study" class="article-nav-pill">The Study</a>
+<a href="#how-glp1s-slow-aging" class="article-nav-pill">How GLP-1s Help</a>
+<a href="#what-this-means" class="article-nav-pill">What It Means</a>
+<a href="#honest-caveats" class="article-nav-pill">Caveats</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> A July 2026 UC San Diego study published in <em>Nature Communications</em> found that semaglutide <strong>reduced the speed of biological aging by 9%</strong> and lowered biological age by <strong>3.1 years</strong> over just 32 weeks. The mechanism appears to center on reducing chronic inflammation ("inflammaging") and improving metabolic health. This is a brand-new finding that needs replication, and GLP-1s are <strong>not FDA-approved for aging</strong>. But it is one of the most exciting developments in longevity research this decade. Telehealth platforms offer access starting at <strong>$129/month</strong>.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> A July 2026 UC San Diego study published in <em>Nature Communications</em> found that semaglutide <strong>reduced the speed of biological aging by 9%</strong> and lowered biological age by <strong>3.1 years</strong> over just 32 weeks. The mechanism appears to center on reducing chronic inflammation ("inflammaging") and improving metabolic health. This is a brand-new finding that needs replication, and GLP-1s are <strong>not FDA-approved for aging</strong>. But it is one of the most exciting developments in longevity research this decade. Telehealth platforms offer access starting at <strong>$129/month</strong>.</span>
 </div>
 </div>
 
@@ -134,13 +134,13 @@ Let me explain what they found, why it matters, and why you should be excited bu
 
 ---
 
-<h2 id="biological-aging" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">What Is Biological Aging (and Why Your Birthday Doesn't Tell the Whole Story)</h2>
+<h2 id="biological-aging" class="h2-accent h2-accent--amber">What Is Biological Aging (and Why Your Birthday Doesn't Tell the Whole Story)</h2>
 
 You have two ages. Your **chronological age** is the one on your driver's license — how many years since you were born. It ticks forward at exactly the same rate for everyone. One year per year. No exceptions.
 
 Your **biological age** is different. It measures how old your body actually is at the cellular and molecular level. And it varies enormously from person to person.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Two 50-year-olds can have very different biological ages:**
 
@@ -163,7 +163,7 @@ The major epigenetic clocks include:
 - **GrimAge** — predicts mortality risk and time to death, incorporating smoking and protein biomarkers
 - **DunedinPACE** (Pace of Aging Computed from the Epigenome) — measures the *speed* at which you are currently aging, rather than just your current biological age
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **DunedinPACE is especially important** because it tells you not just where you are, but how fast you are getting there. A score of 1.0 means you are aging at the average human rate. Below 1.0 means you are aging slower than average. Above 1.0 means you are aging faster. Think of it as a speedometer for aging rather than an odometer.
 
@@ -173,13 +173,13 @@ These are not theoretical abstractions. Epigenetic age has been validated as a p
 
 ---
 
-<h2 id="inflammaging" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">The Inflammation-Aging Connection: Inflammaging</h2>
+<h2 id="inflammaging" class="h2-accent h2-accent--red">The Inflammation-Aging Connection: Inflammaging</h2>
 
 If biological aging can be measured, what drives it? Increasingly, the answer points to one central process: **chronic, low-grade inflammation** — a phenomenon researchers call **"inflammaging."**
 
 Inflammaging is not the acute inflammation you get from a cut or an infection. That is healthy and resolves quickly. Inflammaging is a slow-burning, body-wide inflammatory state that builds over decades and gradually damages tissues, organs, and DNA.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **What drives inflammaging:**
 
@@ -198,11 +198,11 @@ This is where the GLP-1 connection becomes clear. We already know from extensive
 
 ---
 
-<h2 id="ucsd-study" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">The UC San Diego Study: What They Found</h2>
+<h2 id="ucsd-study" class="h2-accent">The UC San Diego Study: What They Found</h2>
 
 In July 2026, researchers at the University of California San Diego published findings in *Nature Communications* that measured, for the first time, the effect of semaglutide on biological aging using validated epigenetic clocks.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Study details:**
 
@@ -215,7 +215,7 @@ In July 2026, researchers at the University of California San Diego published fi
 
 ### The Key Results
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Finding 1: Aging speed decreased by 9%**
 
@@ -239,7 +239,7 @@ This is consistent with what we know about GLP-1 medications from other research
 
 ---
 
-<h2 id="how-glp1s-slow-aging" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">How GLP-1 Medications May Slow Aging: The Mechanisms</h2>
+<h2 id="how-glp1s-slow-aging" class="h2-accent h2-accent--blue">How GLP-1 Medications May Slow Aging: The Mechanisms</h2>
 
 Based on the UC San Diego study and the broader body of GLP-1 research, several mechanisms likely contribute to the biological age reduction:
 
@@ -263,7 +263,7 @@ Metabolic dysfunction is one of the hallmarks of aging. GLP-1 medications addres
 
 ### 3. Reducing Cellular Stress
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Emerging evidence suggests GLP-1 receptor activation may:**
 
@@ -280,13 +280,13 @@ While GLP-1 medications have not been definitively shown to lengthen telomeres (
 
 ---
 
-<h2 id="what-this-means" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">What This Means Practically: Healthspan, Not Just Lifespan</h2>
+<h2 id="what-this-means" class="h2-accent h2-accent--purple">What This Means Practically: Healthspan, Not Just Lifespan</h2>
 
 The longevity field has shifted its focus from **lifespan** (how long you live) to **healthspan** (how long you live in good health). The distinction matters profoundly.
 
 Adding ten years to your life means very little if those years are spent managing chronic disease, losing cognitive function, and progressively losing independence. What matters is compressing the period of decline — staying healthy, active, and cognitively sharp for as long as possible, with a shorter period of deterioration at the end.
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **If the UC San Diego findings hold up, GLP-1 medications could affect healthspan through multiple channels:**
 
@@ -302,11 +302,11 @@ The point is not that GLP-1 medications would make you immortal. It is that they
 
 ---
 
-<h2 id="honest-caveats" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">The Honest Caveats: What We Don't Know Yet</h2>
+<h2 id="honest-caveats" class="h2-accent h2-accent--sky">The Honest Caveats: What We Don't Know Yet</h2>
 
 I want to be direct about the limitations of this research, because the anti-aging space is plagued by hype that outpaces evidence.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **What we do NOT yet know:**
 
@@ -323,7 +323,7 @@ I want to be direct about the limitations of this research, because the anti-agi
 
 The scientific community has responded to the UC San Diego findings with appropriately designed follow-up research. Clinical trials are actively recruiting to study the aging effects of both **semaglutide** and **tirzepatide** using epigenetic clocks and other biomarkers of biological aging. These trials will address the key questions: Is the effect replicable? Does it persist long-term? Does the biological age reduction translate to actual health outcomes?
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **The right way to think about this:** The UC San Diego study is not proof that semaglutide is an anti-aging drug. It is a compelling signal from a respected research group, published in a top-tier journal, using validated measurement tools. It is the kind of finding that justifies larger, longer studies. If those studies confirm the result, it would be transformative. If they do not, it was an interesting but unreplicated observation.
 
@@ -333,9 +333,9 @@ In science, the appropriate response to an exciting initial finding is *controll
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Medications</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The access reality:** GLP-1 medications are FDA-approved for type 2 diabetes and chronic weight management. They are not approved for anti-aging, longevity, or biological age reduction. You will need to qualify based on BMI (27+ with a comorbidity or 30+) or diabetes. If you qualify, the potential anti-aging effects are a fascinating additional benefit of therapy you are already eligible for — not a standalone indication.
 
@@ -345,44 +345,44 @@ In science, the appropriate response to an exciting initial finding is *controll
 
 These platforms connect you with licensed providers who prescribe compounded GLP-1 medications. No insurance needed. Same medications, fraction of the brand-name cost.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Free Dietitian</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Free Dietitian</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">$140 Off</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">TrimRX</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $149/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$140 off first month, HSA/FSA, money-back guarantee</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">$140 Off</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="offer-card__price">From $149/mo</div>
+<div class="offer-card__desc">$140 off first month, HSA/FSA, money-back guarantee</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #7c3aed; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #7c3aed; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Most Options</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">SkinnyRx</div>
-<div style="color: #7c3aed; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $199/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Injectable, tablet, or sublingual options</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Most Options</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="offer-card__price">From $199/mo</div>
+<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
 </a>
 
-</div><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">&rarr;</span></a>
+</div><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">&rarr;</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. The anti-aging findings discussed here are preliminary research, not established medical guidance. Always consult your healthcare provider before starting any new medication.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. The anti-aging findings discussed here are preliminary research, not established medical guidance. Always consult your healthcare provider before starting any new medication.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

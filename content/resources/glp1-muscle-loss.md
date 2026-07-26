@@ -105,23 +105,23 @@ keywords: ["GLP-1 muscle loss", "semaglutide muscle preservation", "how to preve
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#the-muscle-problem" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">The Problem</a>
-<a href="#why-glp1s-cause-muscle-loss" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Why It Happens</a>
-<a href="#protein-solution" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Protein</a>
-<a href="#resistance-training" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Training</a>
-<a href="#supplements" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Supplements</a>
-<a href="#how-to-monitor" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Monitor</a>
-<a href="#slower-titration" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Titration</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#the-muscle-problem" class="article-nav-pill">The Problem</a>
+<a href="#why-glp1s-cause-muscle-loss" class="article-nav-pill">Why It Happens</a>
+<a href="#protein-solution" class="article-nav-pill">Protein</a>
+<a href="#resistance-training" class="article-nav-pill">Training</a>
+<a href="#supplements" class="article-nav-pill">Supplements</a>
+<a href="#how-to-monitor" class="article-nav-pill">Monitor</a>
+<a href="#slower-titration" class="article-nav-pill">Titration</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> Up to <strong>25-40% of weight lost</strong> on GLP-1 medications can be lean mass (muscle) — but this is not inevitable. A 2025 study showed that resistance training plus adequate protein limited muscle loss to <strong>just 3%</strong> while participants lost 13% body weight. The formula is straightforward: eat <strong>1.0-1.2g protein per kg of goal weight</strong> daily, lift weights <strong>2-3x per week</strong>, consider <strong>creatine (3-5g/day)</strong>, and ask your provider about <strong>slower titration</strong>. Monitor with DEXA scans every 3-6 months. Telehealth platforms offer affordable access starting at <strong>$129/month</strong>.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> Up to <strong>25-40% of weight lost</strong> on GLP-1 medications can be lean mass (muscle) — but this is not inevitable. A 2025 study showed that resistance training plus adequate protein limited muscle loss to <strong>just 3%</strong> while participants lost 13% body weight. The formula is straightforward: eat <strong>1.0-1.2g protein per kg of goal weight</strong> daily, lift weights <strong>2-3x per week</strong>, consider <strong>creatine (3-5g/day)</strong>, and ask your provider about <strong>slower titration</strong>. Monitor with DEXA scans every 3-6 months. Telehealth platforms offer affordable access starting at <strong>$129/month</strong>.</span>
 </div>
 </div>
 
@@ -133,13 +133,13 @@ This guide gives you the specific numbers, the exact protocols, and the practica
 
 ---
 
-<h2 id="the-muscle-problem" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">The Muscle Problem: What the Data Actually Shows</h2>
+<h2 id="the-muscle-problem" class="h2-accent h2-accent--amber">The Muscle Problem: What the Data Actually Shows</h2>
 
 Let's start with the numbers that concern people — and then put them in context.
 
 In clinical trials of semaglutide (Wegovy), participants lost an average of 15-17% of their body weight. Body composition analysis revealed that approximately **25-40% of the weight lost was lean mass**, not fat. This means for every 10 pounds lost, roughly 2.5 to 4 pounds was muscle and other lean tissue.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **The concerning numbers:**
 
@@ -156,7 +156,7 @@ The real question is not "will I lose any muscle?" — it's "am I losing more mu
 
 The answer, according to a landmark 2025 study, is a lot.
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **The 2025 breakthrough:** Researchers found that participants who combined **resistance training with adequate protein intake** while on GLP-1 medications lost **13% of their body weight** but only **3% lean mass**. That means over **95% of the weight they lost was fat**. This is a dramatic improvement over the unstructured results.
 
@@ -166,7 +166,7 @@ The message is clear: muscle loss on GLP-1s is not destiny. It's a solvable prob
 
 ---
 
-<h2 id="why-glp1s-cause-muscle-loss" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">Why GLP-1 Medications Cause Muscle Loss</h2>
+<h2 id="why-glp1s-cause-muscle-loss" class="h2-accent h2-accent--red">Why GLP-1 Medications Cause Muscle Loss</h2>
 
 Understanding why GLP-1s lead to muscle loss helps you understand how to prevent it. There are three main mechanisms at work.
 
@@ -182,7 +182,7 @@ This is the sneaky one. When you eat less of everything, you eat less protein to
 
 Some GLP-1 users, particularly during the early weeks with GI side effects, become less physically active. Nausea and reduced energy from eating less can make it hard to maintain (let alone start) an exercise routine. And without the stimulus of resistance training, your body has no reason to prioritize keeping muscle.
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Important distinction:** GLP-1 medications do not appear to directly cause muscle breakdown through a pharmacological mechanism. The muscle loss is a consequence of the **caloric deficit and reduced protein intake** they create. This is good news because it means the problem is addressable through nutrition and exercise — not by changing your medication.
 
@@ -200,13 +200,13 @@ Before diving into solutions, it's worth understanding why preserving muscle is 
 
 ---
 
-<h2 id="protein-solution" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">The Protein Solution: Specific Targets, Timing, and Sources</h2>
+<h2 id="protein-solution" class="h2-accent">The Protein Solution: Specific Targets, Timing, and Sources</h2>
 
 Protein is the single most important nutritional factor for preserving muscle during GLP-1 treatment. Here are the specific numbers.
 
 ### Your Protein Target
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Daily protein goal:** **1.0-1.2 grams per kilogram of GOAL body weight** (or **0.7-1.0 grams per pound of lean body mass**)
 
@@ -241,7 +241,7 @@ When GLP-1 medications suppress your appetite, dense protein sources are more pr
 - **Protein shakes** — 25-40g per serving, the easiest option when solid food is difficult
 - **Bone broth** — 10g per cup, soothing during GI side effects
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Practical tip:** If nausea makes eating difficult in the early weeks, a protein shake is often the most tolerable option. Whey protein isolate is well-studied for muscle preservation, and plant-based blends (pea + rice) are a solid alternative. Sip slowly rather than chugging — this helps with GLP-1-related nausea.
 
@@ -253,7 +253,7 @@ Some days, especially early in treatment, you won't be able to eat enough. That'
 
 ---
 
-<h2 id="resistance-training" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">Resistance Training: The Non-Negotiable for Muscle Preservation</h2>
+<h2 id="resistance-training" class="h2-accent h2-accent--blue">Resistance Training: The Non-Negotiable for Muscle Preservation</h2>
 
 If protein is the raw material, resistance training is the signal that tells your body: **keep this muscle; I'm using it.**
 
@@ -261,7 +261,7 @@ Without that signal, your body will sacrifice muscle during a caloric deficit be
 
 ### The Minimum Effective Dose
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Minimum:** 2 sessions per week, 30-45 minutes each
 **Optimal:** 3 sessions per week, 45-60 minutes each
@@ -289,7 +289,7 @@ You don't need a complicated program. These compound movements give you the most
 
 If you're new to resistance training, here's a practical 3-day-per-week template:
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Day A (Monday):** Squats 3x8-10, Bench Press 3x8-10, Rows 3x8-10
 **Day B (Wednesday):** Deadlifts 3x8-10, Overhead Press 3x8-10, Lat Pulldowns 3x8-10
@@ -305,7 +305,7 @@ Cardio is great for cardiovascular health, but it does not preserve muscle. In f
 
 The ideal approach: prioritize your 2-3 resistance training sessions per week, then add moderate cardio (walking, easy cycling) as you enjoy it.
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **If you have joint pain or physical limitations:** You can still do resistance training. Machines, resistance bands, and bodyweight exercises are effective alternatives to free weights. A single session with a personal trainer or physical therapist to learn safe movements is a worthwhile investment. Many gyms offer one free introductory session.
 
@@ -313,13 +313,13 @@ The ideal approach: prioritize your 2-3 resistance training sessions per week, t
 
 ---
 
-<h2 id="supplements" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">Supplements That Actually Help</h2>
+<h2 id="supplements" class="h2-accent h2-accent--purple">Supplements That Actually Help</h2>
 
 Most supplements are marketing, not science. But a few have solid evidence for muscle preservation during weight loss.
 
 ### Creatine Monohydrate — The Clear Winner
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Dose:** 3-5 grams per day, every day (no loading phase necessary)
 **Form:** Creatine monohydrate (the cheapest form is also the most studied)
@@ -352,7 +352,7 @@ If you're struggling to hit your protein target through food alone, a protein po
 
 ---
 
-<h2 id="how-to-monitor" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">How to Monitor Your Muscle During GLP-1 Treatment</h2>
+<h2 id="how-to-monitor" class="h2-accent h2-accent--sky">How to Monitor Your Muscle During GLP-1 Treatment</h2>
 
 You can't manage what you can't measure. Here are the tools, from most to least precise.
 
@@ -364,7 +364,7 @@ A DEXA scan (dual-energy X-ray absorptiometry) provides detailed measurements of
 - Bone mineral density
 - Regional breakdown (arms, legs, trunk)
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Recommended schedule:**
 - **Baseline scan** before starting GLP-1 treatment (or as soon as possible)
@@ -392,7 +392,7 @@ Waist circumference going down while thigh and arm circumference stays stable is
 
 ### What the Scale Can't Tell You
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **The scale is the worst tool for tracking muscle.** Your weight can go down because you lost fat, muscle, water, or all three. A person who loses 30 pounds of fat and gains 5 pounds of muscle shows only a 25-pound loss on the scale — but their body composition is dramatically improved. Don't rely on weight alone to assess your progress.
 
@@ -400,7 +400,7 @@ Waist circumference going down while thigh and arm circumference stays stable is
 
 ---
 
-<h2 id="slower-titration" style="border-left: 4px solid #78716c; padding-left: 16px; color: #1c1917;">The Slower Titration Strategy</h2>
+<h2 id="slower-titration" class="h2-accent h2-accent--slate">The Slower Titration Strategy</h2>
 
 The standard GLP-1 titration schedule increases your dose every 4 weeks to reach the target dose as quickly as possible. But there's growing recognition that slower titration may help preserve muscle.
 
@@ -413,7 +413,7 @@ The standard GLP-1 titration schedule increases your dose every 4 weeks to reach
 
 ### What to Discuss with Your Provider
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 Consider asking your prescribing provider about:
 - **Extended titration:** Staying at each dose level for 6-8 weeks instead of 4 before increasing
@@ -426,9 +426,9 @@ These conversations are easier through telehealth platforms where you have ongoi
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Medications Affordably</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications Affordably</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The insurance challenge:** Many insurers still deny GLP-1 coverage or impose significant restrictions. Brand-name Wegovy or Zepbound can cost $1,000+ per month without insurance. Compounded versions through telehealth platforms offer the same active ingredients at a fraction of the cost — with the added benefit of providers who understand muscle preservation concerns.
 
@@ -438,42 +438,42 @@ These conversations are easier through telehealth platforms where you have ongoi
 
 These platforms connect you with licensed providers who can prescribe compounded GLP-1 medications. You'll need to qualify based on BMI (typically 27+ with a comorbidity or 30+). When completing your health questionnaire, mention your interest in muscle preservation — good providers will help you with titration pacing and nutrition guidance.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Best Support</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Semaglutide $129, tirzepatide $179, free coaching + dietitian</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Best Support</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">Semaglutide $129, tirzepatide $179, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">$140 Off</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">TrimRX</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $149/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$140 off first month, HSA/FSA, money-back guarantee</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">$140 Off</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="offer-card__price">From $149/mo</div>
+<div class="offer-card__desc">$140 off first month, HSA/FSA, money-back guarantee</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #7c3aed; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #7c3aed; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Most Options</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">SkinnyRx</div>
-<div style="color: #7c3aed; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $199/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Injectable, tablet, or sublingual options</div>
-</a><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Most Options</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="offer-card__price">From $199/mo</div>
+<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
+</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider before starting any new medication, exercise program, or supplement regimen.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider before starting any new medication, exercise program, or supplement regimen.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

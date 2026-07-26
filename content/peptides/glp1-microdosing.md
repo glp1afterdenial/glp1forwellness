@@ -89,20 +89,20 @@ keywords: ["GLP-1 microdosing", "semaglutide low dose", "microdose Ozempic", "se
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#what-is-it" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">What Is It</a>
-<a href="#who-its-for" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Who It's For</a>
-<a href="#evidence" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">The Evidence</a>
-<a href="#protocols" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Protocols</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#what-is-it" class="article-nav-pill">What Is It</a>
+<a href="#who-its-for" class="article-nav-pill">Who It's For</a>
+<a href="#evidence" class="article-nav-pill">The Evidence</a>
+<a href="#protocols" class="article-nav-pill">Protocols</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> GLP-1 microdosing means using semaglutide or tirzepatide at <strong>lower-than-standard doses</strong> — either as a gentler starting ramp or as a long-term maintenance strategy. You trade maximum weight loss for <strong>dramatically fewer side effects</strong> (nausea, GI issues). Research shows GLP-1 benefits are dose-dependent but <strong>even low doses produce meaningful appetite suppression and metabolic improvement</strong>. Best for: people sensitive to side effects, those needing only modest weight loss, and post-loss maintenance. Compounded microdosing options start at <strong>$139/month</strong>.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> GLP-1 microdosing means using semaglutide or tirzepatide at <strong>lower-than-standard doses</strong> — either as a gentler starting ramp or as a long-term maintenance strategy. You trade maximum weight loss for <strong>dramatically fewer side effects</strong> (nausea, GI issues). Research shows GLP-1 benefits are dose-dependent but <strong>even low doses produce meaningful appetite suppression and metabolic improvement</strong>. Best for: people sensitive to side effects, those needing only modest weight loss, and post-loss maintenance. Compounded microdosing options start at <strong>$139/month</strong>.</span>
 </div>
 </div>
 
@@ -112,7 +112,7 @@ Enter microdosing: the recognition that the "right" dose isn't always the highes
 
 ---
 
-<h2 id="what-is-it" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">What GLP-1 Microdosing Means</h2>
+<h2 id="what-is-it" class="h2-accent h2-accent--amber">What GLP-1 Microdosing Means</h2>
 
 There's no official clinical definition of "microdosing" a GLP-1. In practice, it means:
 
@@ -134,7 +134,7 @@ The philosophy: **find your minimum effective dose** — the amount that control
 
 ---
 
-<h2 id="who-its-for" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Who GLP-1 Microdosing Is For</h2>
+<h2 id="who-its-for" class="h2-accent h2-accent--amber">Who GLP-1 Microdosing Is For</h2>
 
 **The side-effect sensitive**
 - People who've tried standard doses and couldn't tolerate the nausea or GI symptoms
@@ -158,7 +158,7 @@ The philosophy: **find your minimum effective dose** — the amount that control
 
 ---
 
-<h2 id="evidence" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">What the Research Shows</h2>
+<h2 id="evidence" class="h2-accent h2-accent--amber">What the Research Shows</h2>
 
 GLP-1 effects are **dose-dependent** — this is established:
 
@@ -168,7 +168,7 @@ GLP-1 effects are **dose-dependent** — this is established:
 
 Key insight from the data: **you don't need maximum dose for meaningful benefit.** The first 5-10% of weight loss produces most of the metabolic health improvement (blood pressure, A1c, lipids, liver fat). If that's achievable at a dose you can tolerate indefinitely, higher dosing may be unnecessary for your goals.
 
-<div style="background: #fef2f2; border: 1px solid #fecaca; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--red">
 
 **Honest limitation:** no trial has specifically studied "microdosing" protocols head-to-head against standard protocols for long-term outcomes. The evidence supports low-dose efficacy, but optimal microdosing schedules are based on clinical experience and extrapolation, not dedicated RCTs. Your provider is working from pharmacology and pattern recognition, not a microdosing-specific trial.
 
@@ -176,7 +176,7 @@ Key insight from the data: **you don't need maximum dose for meaningful benefit.
 
 ---
 
-<h2 id="protocols" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Common Microdosing Protocols</h2>
+<h2 id="protocols" class="h2-accent h2-accent--amber">Common Microdosing Protocols</h2>
 
 **Gentle ramp (for sensitive starters):**
 - Semaglutide: 0.125mg × 4-6 weeks → 0.25mg × 4-6 weeks → hold or advance only if needed
@@ -196,9 +196,9 @@ Key insight from the data: **you don't need maximum dose for meaningful benefit.
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Microdosing</h2>
+<h2 id="how-to-get" class="h2-accent h2-accent--amber">How to Get GLP-1 Microdosing</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The access reality:** branded Ozempic/Mounjaro pens don't support custom microdoses — you're locked into fixed dose increments. Compounded semaglutide and tirzepatide offer flexible dosing, making microdosing practical and often cheaper. Several telehealth platforms now explicitly offer microdosing protocols.
 
@@ -206,37 +206,37 @@ Key insight from the data: **you don't need maximum dose for meaningful benefit.
 
 ### Platforms With Microdosing Options
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Microdosing Available</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Bodybuilding Health+</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">Semaglutide from $139/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Explicit microdosing options for gradual support. Single to 12-month bundles. Licensed providers.</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Microdosing Available</div>
+<div class="offer-card__name">Bodybuilding Health+</div>
+<div class="offer-card__price">Semaglutide from $139/mo</div>
+<div class="offer-card__desc">Explicit microdosing options for gradual support. Single to 12-month bundles. Licensed providers.</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Flexible Dosing</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Custom compounded doses, free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Flexible Dosing</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Custom compounded doses, free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Budget Option</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$129/mo semaglutide, free coaching + dietitian support</div>
-</a><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
-<a href="/peptides/nad-plus-therapy/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">NAD+ Therapy: Energy Support While Losing Weight <span style="color: #059669;">→</span></a>
-<a href="/resources/glp1-muscle-loss/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Muscle Loss: Prevention Strategies <span style="color: #059669;">→</span></a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">Budget Option</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">$129/mo semaglutide, free coaching + dietitian support</div>
+</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+<a href="/peptides/nad-plus-therapy/" class="link-card">NAD+ Therapy: Energy Support While Losing Weight <span class="tx-green">→</span></a>
+<a href="/resources/glp1-muscle-loss/" class="link-card">GLP-1s & Muscle Loss: Prevention Strategies <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Compounded semaglutide and tirzepatide are not FDA-approved and have not been evaluated for safety or effectiveness by the FDA. Always consult a licensed healthcare provider before starting or changing any medication.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Compounded semaglutide and tirzepatide are not FDA-approved and have not been evaluated for safety or effectiveness by the FDA. Always consult a licensed healthcare provider before starting or changing any medication.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

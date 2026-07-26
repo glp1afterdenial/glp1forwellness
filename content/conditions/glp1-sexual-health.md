@@ -89,20 +89,20 @@ keywords: ["GLP-1 libido", "Ozempic sex drive", "semaglutide erectile dysfunctio
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#glp1-effects" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">GLP-1 Effects</a>
-<a href="#why-it-happens" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Why It Happens</a>
-<a href="#peptide-solutions" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Peptide Solutions</a>
-<a href="#who-benefits" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Who Benefits</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#glp1-effects" class="article-nav-pill">GLP-1 Effects</a>
+<a href="#why-it-happens" class="article-nav-pill">Why It Happens</a>
+<a href="#peptide-solutions" class="article-nav-pill">Peptide Solutions</a>
+<a href="#who-benefits" class="article-nav-pill">Who Benefits</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> GLP-1 medications have mixed effects on sexual health — <strong>~40% of users report improvement</strong> (from weight loss, better hormones, more confidence), <strong>~15% report worsening</strong> (usually temporary, during dose escalation), and the rest notice no change. Long-term, GLP-1s generally <strong>help</strong> sexual function because obesity is the #1 modifiable risk factor for ED and low libido. For those experiencing desire or performance issues — whether GLP-1-related or pre-existing — <strong>PT-141 (bremelanotide)</strong> works in the brain to stimulate desire, while <strong>tadalafil</strong> addresses blood flow. Both are safe alongside GLP-1 therapy with no interactions.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> GLP-1 medications have mixed effects on sexual health — <strong>~40% of users report improvement</strong> (from weight loss, better hormones, more confidence), <strong>~15% report worsening</strong> (usually temporary, during dose escalation), and the rest notice no change. Long-term, GLP-1s generally <strong>help</strong> sexual function because obesity is the #1 modifiable risk factor for ED and low libido. For those experiencing desire or performance issues — whether GLP-1-related or pre-existing — <strong>PT-141 (bremelanotide)</strong> works in the brain to stimulate desire, while <strong>tadalafil</strong> addresses blood flow. Both are safe alongside GLP-1 therapy with no interactions.</span>
 </div>
 </div>
 
@@ -112,7 +112,7 @@ Here's what the data actually shows, and what to do if you're on the wrong side 
 
 ---
 
-<h2 id="glp1-effects" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">How GLP-1s Affect Sexual Function</h2>
+<h2 id="glp1-effects" class="h2-accent h2-accent--amber">How GLP-1s Affect Sexual Function</h2>
 
 **The short version:** the net effect is usually positive, but the timeline matters.
 
@@ -140,7 +140,7 @@ Once stabilized, the weight loss itself drives improvements:
 
 ---
 
-<h2 id="why-it-happens" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">The Obesity-Sexual Health Connection</h2>
+<h2 id="why-it-happens" class="h2-accent h2-accent--amber">The Obesity-Sexual Health Connection</h2>
 
 Obesity is the strongest modifiable risk factor for both ED and low libido. The mechanisms:
 
@@ -161,7 +161,7 @@ Obesity is the strongest modifiable risk factor for both ED and low libido. The 
 
 ---
 
-<h2 id="peptide-solutions" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Peptide Solutions for Sexual Health</h2>
+<h2 id="peptide-solutions" class="h2-accent h2-accent--amber">Peptide Solutions for Sexual Health</h2>
 
 For those who need help now — during GLP-1 titration, or with pre-existing issues — several peptide and pharmaceutical options work alongside GLP-1 therapy with no interactions.
 
@@ -197,7 +197,7 @@ Many telehealth platforms now offer sexual health programs designed to work alon
 
 ---
 
-<h2 id="who-benefits" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Who Benefits from Adding Sexual Health Treatment</h2>
+<h2 id="who-benefits" class="h2-accent h2-accent--amber">Who Benefits from Adding Sexual Health Treatment</h2>
 
 **Consider adding PT-141 or tadalafil if:**
 - You're in GLP-1 dose escalation and experiencing libido loss that's affecting your relationship or quality of life
@@ -216,9 +216,9 @@ Many telehealth platforms now offer sexual health programs designed to work alon
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">How to Get Treatment</h2>
+<h2 id="how-to-get" class="h2-accent h2-accent--amber">How to Get Treatment</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Combined approach:** Several telehealth platforms now offer both GLP-1 medications and sexual health treatments under one roof — meaning one provider manages both, understands the interactions, and adjusts dosing as your weight loss progresses and hormonal profile changes. No need to explain your GLP-1 to a separate ED clinic.
 
@@ -226,58 +226,58 @@ Many telehealth platforms now offer sexual health programs designed to work alon
 
 ### Platforms Offering GLP-1 + Sexual Health
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">PT-141 + Tadalafil</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Bodybuilding Health+</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">PT-141 from $129/mo · Tadalafil from $96/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">GLP-1 + sexual health peptides under one roof. PT-141, tadalafil, and GLP-1 prescribed together.</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">PT-141 + Tadalafil</div>
+<div class="offer-card__name">Bodybuilding Health+</div>
+<div class="offer-card__price">PT-141 from $129/mo · Tadalafil from $96/mo</div>
+<div class="offer-card__desc">GLP-1 + sexual health peptides under one roof. PT-141, tadalafil, and GLP-1 prescribed together.</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #0891b2; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #0891b2; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Sexual Wellness Programs</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">ShedRx</div>
-<div style="color: #0891b2; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">Men: Rise · Extend · Steady | Women: Desire · Euphoria</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Dedicated sexual health programs for men and women, plus GLP-1 prescriptions. 120-day money-back guarantee.</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
+<div class="offer-card__badge">Sexual Wellness Programs</div>
+<div class="offer-card__name">ShedRx</div>
+<div class="offer-card__price">Men: Rise · Extend · Steady | Women: Desire · Euphoria</div>
+<div class="offer-card__desc">Dedicated sexual health programs for men and women, plus GLP-1 prescriptions. 120-day money-back guarantee.</div>
 </a>
 
 </div>
 
 ### Also Offering GLP-1 Prescriptions
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Lowest Price</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Lowest Price</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #7c3aed; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #7c3aed; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Insurance Friendly</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">SkinnyRx</div>
-<div style="color: #7c3aed; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $199/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Insurance billing available, brand-name and compounded options</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Insurance Friendly</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="offer-card__price">From $199/mo</div>
+<div class="offer-card__desc">Insurance billing available, brand-name and compounded options</div>
 </a>
 
-<a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+<a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 
 </div>
 
 ---
 
-<h2 id="faq" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Frequently Asked Questions</h2>
+<h2 id="faq" class="h2-accent h2-accent--amber">Frequently Asked Questions</h2>
 
-<div style="background: #f5f5f4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Q: How long does the libido dip last on GLP-1s?**
 
@@ -285,7 +285,7 @@ For most people, 2-4 months during dose escalation. Once you reach a stable dose
 
 </div>
 
-<div style="background: #f5f5f4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Q: Is PT-141 safe? What are the side effects?**
 
@@ -293,7 +293,7 @@ PT-141 is FDA-approved (as Vyleesi) with a well-characterized safety profile. Co
 
 </div>
 
-<div style="background: #f5f5f4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Q: Can I take daily tadalafil with semaglutide?**
 
@@ -301,7 +301,7 @@ Yes. There is no drug interaction between tadalafil and any GLP-1 medication. Ta
 
 </div>
 
-<div style="background: #f5f5f4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Q: Will my testosterone recover with weight loss or do I need TRT?**
 
@@ -309,7 +309,7 @@ Depends on how low it is and the cause. Obesity-related low testosterone (total 
 
 </div>
 
-<div style="background: #f5f5f4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Q: Does PT-141 work for women too?**
 
@@ -329,20 +329,20 @@ GLP-1 medications and sexual health have a complex but ultimately positive relat
 
 ### Related Guides
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 16px 0;">
-<a href="/conditions/glp1-fertility/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1 & Fertility: 'Ozempic Babies' <span style="color: #059669;">→</span></a>
-<a href="/peptides/sermorelin-guide/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Sermorelin (Growth Hormone Peptide) <span style="color: #059669;">→</span></a>
-<a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 (2026) <span style="color: #059669;">→</span></a>
-<a href="/conditions/glp1-cancer-risk/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1 & Cancer Risk Reduction <span style="color: #059669;">→</span></a>
+<div class="offer-grid">
+<a href="/conditions/glp1-fertility/" class="link-card">GLP-1 & Fertility: 'Ozempic Babies' <span class="tx-green">→</span></a>
+<a href="/peptides/sermorelin-guide/" class="link-card">Sermorelin (Growth Hormone Peptide) <span class="tx-green">→</span></a>
+<a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 (2026) <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-cancer-risk/" class="link-card">GLP-1 & Cancer Risk Reduction <span class="tx-green">→</span></a>
 </div>
 
 ---
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications and related treatments thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult a licensed healthcare provider before starting any medication.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications and related treatments thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult a licensed healthcare provider before starting any medication.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

@@ -105,23 +105,23 @@ keywords: ["GLP-1 for Alzheimer's prevention", "semaglutide brain health neuropr
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#alzheimers-crisis" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">The Crisis</a>
-<a href="#brain-insulin" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Brain Insulin</a>
-<a href="#how-glp1s-protect" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How GLP-1s Protect</a>
-<a href="#research" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Research</a>
-<a href="#prevention-vs-treatment" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Prevention vs Treatment</a>
-<a href="#who-benefits" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Who Benefits</a>
-<a href="#safety" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Safety</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#alzheimers-crisis" class="article-nav-pill">The Crisis</a>
+<a href="#brain-insulin" class="article-nav-pill">Brain Insulin</a>
+<a href="#how-glp1s-protect" class="article-nav-pill">How GLP-1s Protect</a>
+<a href="#research" class="article-nav-pill">Research</a>
+<a href="#prevention-vs-treatment" class="article-nav-pill">Prevention vs Treatment</a>
+<a href="#who-benefits" class="article-nav-pill">Who Benefits</a>
+<a href="#safety" class="article-nav-pill">Safety</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> Observational studies show <strong>40-70% lower Alzheimer's risk</strong> in semaglutide users. GLP-1 receptors exist throughout the brain, and these medications reduce neuroinflammation, improve cerebral blood flow, and address brain insulin resistance. However, a <strong>Phase 3 trial failed to slow existing Alzheimer's progression</strong> — the story is about prevention, not treatment. GLP-1s are not FDA-approved for brain health, but telehealth platforms offer access for qualifying conditions starting at <strong>$129/month</strong>.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> Observational studies show <strong>40-70% lower Alzheimer's risk</strong> in semaglutide users. GLP-1 receptors exist throughout the brain, and these medications reduce neuroinflammation, improve cerebral blood flow, and address brain insulin resistance. However, a <strong>Phase 3 trial failed to slow existing Alzheimer's progression</strong> — the story is about prevention, not treatment. GLP-1s are not FDA-approved for brain health, but telehealth platforms offer access for qualifying conditions starting at <strong>$129/month</strong>.</span>
 </div>
 </div>
 
@@ -135,7 +135,7 @@ Let me walk you through what we actually know — the encouraging data, the disa
 
 ---
 
-<h2 id="alzheimers-crisis" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">The Alzheimer's Crisis: Why We Need New Approaches</h2>
+<h2 id="alzheimers-crisis" class="h2-accent h2-accent--amber">The Alzheimer's Crisis: Why We Need New Approaches</h2>
 
 Alzheimer's disease affects over **6.9 million Americans**, a number projected to nearly double by 2050. It is the sixth leading cause of death in the United States and the most common cause of dementia.
 
@@ -146,7 +146,7 @@ The disease is defined by two hallmark brain pathologies:
 
 These pathologies lead to progressive neuronal death, starting in the hippocampus (the brain's memory center) and spreading outward. By the time someone shows symptoms, significant brain damage has already occurred — often a decade or more of silent destruction.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **Why existing treatments fall short:**
 
@@ -163,13 +163,13 @@ This is precisely why the GLP-1 data has generated so much excitement. Not becau
 
 ---
 
-<h2 id="brain-insulin" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">Brain Insulin Resistance: The "Type 3 Diabetes" Hypothesis</h2>
+<h2 id="brain-insulin" class="h2-accent h2-accent--red">Brain Insulin Resistance: The "Type 3 Diabetes" Hypothesis</h2>
 
 To understand why a diabetes and weight loss medication might protect against Alzheimer's, you need to understand what is happening to insulin in the Alzheimer's brain.
 
 Your brain is the most metabolically demanding organ in your body. It consumes roughly **20% of your total energy** despite being only 2% of your body weight. And it relies heavily on insulin signaling to function properly.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **What insulin does in the brain:**
 
@@ -197,7 +197,7 @@ And GLP-1 receptor agonists — medications designed to improve insulin signalin
 
 ---
 
-<h2 id="how-glp1s-protect" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How GLP-1 Medications Protect the Brain: Four Mechanisms</h2>
+<h2 id="how-glp1s-protect" class="h2-accent">How GLP-1 Medications Protect the Brain: Four Mechanisms</h2>
 
 GLP-1 receptors are not just found in the pancreas and gut. They are expressed throughout the brain, including the **hippocampus** (memory), **cortex** (cognition), and **substantia nigra** (movement — relevant to Parkinson's). This means GLP-1 medications have direct access to the neural machinery involved in neurodegeneration.
 
@@ -233,7 +233,7 @@ This is perhaps the most direct mechanism. GLP-1 medications improve insulin sen
 
 ### Mechanism 4: Reducing Amyloid-Beta Pathology
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Preclinical findings on GLP-1s and amyloid:**
 
@@ -248,7 +248,7 @@ This is perhaps the most direct mechanism. GLP-1 medications improve insulin sen
 
 ---
 
-<h2 id="research" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">What the Research Shows: Both Encouraging and Disappointing</h2>
+<h2 id="research" class="h2-accent h2-accent--blue">What the Research Shows: Both Encouraging and Disappointing</h2>
 
 The GLP-1 and Alzheimer's story contains both genuine hope and a significant setback. Being honest about both is essential.
 
@@ -256,7 +256,7 @@ The GLP-1 and Alzheimer's story contains both genuine hope and a significant set
 
 Large-scale observational studies have consistently shown dramatically lower Alzheimer's risk in people taking GLP-1 receptor agonists:
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Key observational findings:**
 
@@ -274,7 +274,7 @@ These numbers are striking. A 40-70% risk reduction, if confirmed in randomized 
 
 And yet — the one Phase 3 clinical trial that directly tested GLP-1 medications in Alzheimer's patients did not work.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **The Phase 3 trial result:**
 
@@ -294,11 +294,11 @@ The neuroprotective story extends beyond Alzheimer's. Observational data also sh
 
 ---
 
-<h2 id="prevention-vs-treatment" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">Prevention vs. Treatment: Why This Distinction Changes Everything</h2>
+<h2 id="prevention-vs-treatment" class="h2-accent h2-accent--purple">Prevention vs. Treatment: Why This Distinction Changes Everything</h2>
 
 This is the most important section of this article. The prevention vs. treatment distinction is not a subtle academic point — it fundamentally changes how you should think about GLP-1s and brain health.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Treatment** means giving a drug to someone who already has a disease and expecting it to slow or reverse their decline. The Phase 3 trial tested treatment. It failed.
 
@@ -314,7 +314,7 @@ Why might GLP-1s work for prevention but not treatment?
 
 This is analogous to how statins prevent heart attacks but cannot reverse a heart attack that has already happened. Or how blood pressure medications prevent strokes but cannot undo stroke damage.
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The honest bottom line on the science:** We do not yet have a randomized controlled prevention trial proving GLP-1 medications prevent Alzheimer's. The observational data is strong but cannot prove causation. People who take semaglutide may be systematically healthier in ways that reduce Alzheimer's risk independently. Dedicated prevention trials are needed — and the scientific community is calling for them.
 
@@ -322,11 +322,11 @@ This is analogous to how statins prevent heart attacks but cannot reverse a hear
 
 ---
 
-<h2 id="who-benefits" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">Who Might Benefit Most From the Neuroprotective Effects</h2>
+<h2 id="who-benefits" class="h2-accent h2-accent--sky">Who Might Benefit Most From the Neuroprotective Effects</h2>
 
 While we await definitive prevention trial data, certain groups may have the most to gain from GLP-1 therapy's potential brain benefits — particularly when they already qualify for these medications on other grounds.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Populations where GLP-1 neuroprotection may be most relevant:**
 
@@ -342,7 +342,7 @@ An important clarification: the potential neuroprotective benefits should be vie
 
 ---
 
-<h2 id="safety" style="border-left: 4px solid #78716c; padding-left: 16px; color: #1c1917;">Safety Considerations</h2>
+<h2 id="safety" class="h2-accent h2-accent--slate">Safety Considerations</h2>
 
 GLP-1 medications have an established safety profile from years of use in diabetes and weight management:
 
@@ -351,7 +351,7 @@ GLP-1 medications have an established safety profile from years of use in diabet
 - **Cardiovascular:** Semaglutide has shown **cardiovascular protective effects** in large trials — a benefit, not a risk
 - **Rare but serious:** Pancreatitis (very rare), gallbladder issues (more common with rapid weight loss)
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **Who should NOT take GLP-1 medications:**
 
@@ -367,9 +367,9 @@ GLP-1 medications have an established safety profile from years of use in diabet
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Medications</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The access reality:** GLP-1 medications are not FDA-approved for Alzheimer's prevention or any neurological condition. You cannot get them prescribed for brain health alone. However, if you qualify based on BMI (27+ with a comorbidity or 30+) or type 2 diabetes, the potential neuroprotective effects are a meaningful additional benefit of therapy you are already eligible for.
 
@@ -379,44 +379,44 @@ GLP-1 medications have an established safety profile from years of use in diabet
 
 These platforms connect you with licensed providers who can prescribe compounded GLP-1 medications at a fraction of brand-name costs. No insurance needed.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Free Dietitian</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Free Dietitian</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">$140 Off</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">TrimRX</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $149/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$140 off first month, HSA/FSA, money-back guarantee</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">$140 Off</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="offer-card__price">From $149/mo</div>
+<div class="offer-card__desc">$140 off first month, HSA/FSA, money-back guarantee</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #7c3aed; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #7c3aed; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Most Options</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">SkinnyRx</div>
-<div style="color: #7c3aed; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $199/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Injectable, tablet, or sublingual options</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Most Options</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="offer-card__price">From $199/mo</div>
+<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
 </a>
 
-</div><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">&rarr;</span></a>
+</div><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">&rarr;</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. If you or a loved one has concerns about Alzheimer's disease or cognitive decline, please consult a neurologist or your healthcare provider.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. If you or a loved one has concerns about Alzheimer's disease or cognitive decline, please consult a neurologist or your healthcare provider.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

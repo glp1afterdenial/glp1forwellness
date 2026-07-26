@@ -105,22 +105,22 @@ keywords: ["GLP-1 for alcohol cravings", "semaglutide alcohol addiction", "GLP-1
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#what-is-aud" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">What Is AUD</a>
-<a href="#brain-reward" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Brain Reward</a>
-<a href="#how-glp1s-affect-cravings" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How GLP-1s Help</a>
-<a href="#research" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Research</a>
-<a href="#current-treatments" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Treatments</a>
-<a href="#safety" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Safety</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#what-is-aud" class="article-nav-pill">What Is AUD</a>
+<a href="#brain-reward" class="article-nav-pill">Brain Reward</a>
+<a href="#how-glp1s-affect-cravings" class="article-nav-pill">How GLP-1s Help</a>
+<a href="#research" class="article-nav-pill">Research</a>
+<a href="#current-treatments" class="article-nav-pill">Treatments</a>
+<a href="#safety" class="article-nav-pill">Safety</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> GLP-1 medications like semaglutide are showing remarkable potential for reducing alcohol cravings and heavy drinking. A <strong>2026 Lancet RCT</strong> found semaglutide significantly reduced heavy drinking days, and a massive <strong>VA study of 600,000+ patients</strong> linked GLP-1 use to lower addiction rates broadly. The mechanism: GLP-1 receptors in the brain's <strong>reward circuits modulate dopamine signaling</strong>, dampening the pleasurable pull of alcohol. GLP-1s are not FDA-approved for addiction, but telehealth platforms offer affordable access starting at <strong>$129/month</strong>.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> GLP-1 medications like semaglutide are showing remarkable potential for reducing alcohol cravings and heavy drinking. A <strong>2026 Lancet RCT</strong> found semaglutide significantly reduced heavy drinking days, and a massive <strong>VA study of 600,000+ patients</strong> linked GLP-1 use to lower addiction rates broadly. The mechanism: GLP-1 receptors in the brain's <strong>reward circuits modulate dopamine signaling</strong>, dampening the pleasurable pull of alcohol. GLP-1s are not FDA-approved for addiction, but telehealth platforms offer affordable access starting at <strong>$129/month</strong>.</span>
 </div>
 </div>
 
@@ -134,7 +134,7 @@ Researchers took notice. And now, the clinical data is catching up to the anecdo
 
 ---
 
-<h2 id="what-is-aud" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">What Is Alcohol Use Disorder (and Why It's So Hard to Treat)</h2>
+<h2 id="what-is-aud" class="h2-accent h2-accent--amber">What Is Alcohol Use Disorder (and Why It's So Hard to Treat)</h2>
 
 Alcohol use disorder (AUD) is a medical condition characterized by an impaired ability to stop or control alcohol use despite negative consequences. It's not a character flaw. It's a brain disorder — one driven by changes in the brain's reward, stress, and executive function circuits.
 
@@ -144,7 +144,7 @@ The spectrum is wide:
 - **Moderate AUD** — cravings, continued use despite relationship or health problems
 - **Severe AUD** — physical dependence, withdrawal symptoms, loss of control
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **The numbers are staggering:**
 
@@ -160,11 +160,11 @@ Current FDA-approved medications for AUD include naltrexone (blocks opioid recep
 
 ---
 
-<h2 id="brain-reward" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">The Brain's Reward System: Why Alcohol Hooks You</h2>
+<h2 id="brain-reward" class="h2-accent h2-accent--red">The Brain's Reward System: Why Alcohol Hooks You</h2>
 
 To understand why GLP-1 medications might help with alcohol cravings, you need to understand the system they're acting on.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **The mesolimbic dopamine system — your brain's reward circuit:**
 
@@ -184,7 +184,7 @@ The same mechanism that makes food less obsessively appealing on semaglutide —
 
 ---
 
-<h2 id="how-glp1s-affect-cravings" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How GLP-1 Medications Affect Alcohol Cravings</h2>
+<h2 id="how-glp1s-affect-cravings" class="h2-accent">How GLP-1 Medications Affect Alcohol Cravings</h2>
 
 The mechanism is elegant, and it's different from how existing addiction medications work.
 
@@ -194,7 +194,7 @@ Naltrexone, the most commonly prescribed medication for AUD, works by blocking o
 
 GLP-1 medications take a different approach. They don't block dopamine or opioid receptors. Instead, they **modulate** dopamine signaling — turning down the volume on the reward response without silencing it entirely.
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **How GLP-1s modulate the reward response to alcohol:**
 
@@ -216,7 +216,7 @@ This is not abstinence through willpower. It's the reward signal being turned do
 
 ---
 
-<h2 id="research" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">What the Research Says: Clinical Evidence for GLP-1s and Alcohol</h2>
+<h2 id="research" class="h2-accent h2-accent--blue">What the Research Says: Clinical Evidence for GLP-1s and Alcohol</h2>
 
 The evidence has moved well beyond anecdotes. Let's walk through the key studies.
 
@@ -224,7 +224,7 @@ The evidence has moved well beyond anecdotes. Let's walk through the key studies
 
 The most significant study to date is the **2026 randomized controlled trial published in The Lancet**, one of the world's most prestigious medical journals:
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Key findings:**
 
@@ -264,7 +264,7 @@ The clinical findings are supported by a robust body of preclinical work:
 - Knockout studies (removing GLP-1 receptors) lead to increased alcohol consumption, confirming the receptor's role
 - These mechanisms are well-characterized and provide a clear biological explanation for the clinical observations
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Important context:** While the research is compelling, GLP-1 medications are not yet FDA-approved for any addiction indication. Phase 3 clinical trials are underway, which will determine whether regulatory approval is pursued. The evidence is strong enough to be genuinely exciting, but this remains an investigational use. Do not stop any current addiction treatment to switch to a GLP-1 without medical guidance.
 
@@ -282,11 +282,11 @@ The common thread is the mesolimbic dopamine system. If GLP-1s can turn down the
 
 ---
 
-<h2 id="current-treatments" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">How GLP-1s Compare to Current AUD Treatments</h2>
+<h2 id="current-treatments" class="h2-accent h2-accent--sky">How GLP-1s Compare to Current AUD Treatments</h2>
 
 If you or someone you love is struggling with alcohol use, understanding how GLP-1s fit into the existing treatment landscape is important.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 | Treatment | Mechanism | Key Limitations | How GLP-1s Differ |
 |-----------|-----------|----------------|-------------------|
@@ -302,13 +302,13 @@ If you or someone you love is struggling with alcohol use, understanding how GLP
 
 ---
 
-<h2 id="safety" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">Safety: Alcohol and GLP-1 Medications Together</h2>
+<h2 id="safety" class="h2-accent h2-accent--purple">Safety: Alcohol and GLP-1 Medications Together</h2>
 
 If you're currently drinking and considering a GLP-1 medication — or if you're already on one and still consuming alcohol — there are important safety considerations.
 
 ### How Alcohol Interacts with GLP-1 Side Effects
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **Key interactions to be aware of:**
 
@@ -338,9 +338,9 @@ GLP-1s are not appropriate for everyone:
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Medications</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The insurance reality:** GLP-1 medications are not FDA-approved for alcohol use disorder or any addiction. Insurance will not cover them for this indication. Even for approved uses (weight management, diabetes), many insurers deny coverage or impose heavy restrictions.
 
@@ -352,42 +352,42 @@ Fortunately, telehealth platforms with compounded medications make access straig
 
 These platforms connect you with licensed providers who can prescribe compounded GLP-1 medications. You'll need to qualify based on BMI (typically 27+ with a comorbidity or 30+). The craving-reduction effects are an additional benefit — not the primary prescribing indication — so be upfront about your full health picture, including your relationship with alcohol.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Best Value</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Lowest monthly cost, licensed providers</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">Best Value</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">Lowest monthly cost, licensed providers</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">$140 Off</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">TrimRX</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $149/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$140 off first month, HSA/FSA, money-back guarantee</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">$140 Off</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="offer-card__price">From $149/mo</div>
+<div class="offer-card__desc">$140 off first month, HSA/FSA, money-back guarantee</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #7c3aed; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #7c3aed; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Most Options</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">SkinnyRx</div>
-<div style="color: #7c3aed; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $199/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Injectable, tablet, or sublingual options</div>
-</a><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">&rarr;</span></a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Most Options</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="offer-card__price">From $199/mo</div>
+<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
+</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">&rarr;</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. If you are struggling with alcohol use disorder, please seek professional help. Always consult your healthcare provider before starting any new medication or changing your treatment plan.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. If you are struggling with alcohol use disorder, please seek professional help. Always consult your healthcare provider before starting any new medication or changing your treatment plan.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

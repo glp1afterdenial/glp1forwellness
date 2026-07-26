@@ -105,22 +105,22 @@ keywords: ["GLP-1 heart health", "semaglutide cardiovascular benefits", "SELECT 
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#obesity-heart" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Obesity & Heart Risk</a>
-<a href="#select-trial" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">SELECT Trial</a>
-<a href="#fda-approval" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FDA Approval</a>
-<a href="#mechanisms" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Mechanisms</a>
-<a href="#who-benefits" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Who Benefits</a>
-<a href="#insurance" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Insurance</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#obesity-heart" class="article-nav-pill">Obesity & Heart Risk</a>
+<a href="#select-trial" class="article-nav-pill">SELECT Trial</a>
+<a href="#fda-approval" class="article-nav-pill">FDA Approval</a>
+<a href="#mechanisms" class="article-nav-pill">Mechanisms</a>
+<a href="#who-benefits" class="article-nav-pill">Who Benefits</a>
+<a href="#insurance" class="article-nav-pill">Insurance</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> The landmark <strong>SELECT trial</strong> (17,604 participants, published November 2023) found semaglutide reduced <strong>major cardiovascular events by 20%</strong> in people with obesity and heart disease — <strong>without diabetes</strong>. The FDA approved Wegovy for cardiovascular risk reduction in <strong>March 2024</strong>, the first weight-loss drug ever approved for that purpose. Only about a third of the benefit is explained by weight loss — GLP-1s also lower blood pressure, improve lipids, cut inflammation (CRP down ~40%), and directly protect blood vessels. Insurance coverage is improving for the CV indication but gaps remain; telehealth access starts at <strong>$129/month</strong>.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> The landmark <strong>SELECT trial</strong> (17,604 participants, published November 2023) found semaglutide reduced <strong>major cardiovascular events by 20%</strong> in people with obesity and heart disease — <strong>without diabetes</strong>. The FDA approved Wegovy for cardiovascular risk reduction in <strong>March 2024</strong>, the first weight-loss drug ever approved for that purpose. Only about a third of the benefit is explained by weight loss — GLP-1s also lower blood pressure, improve lipids, cut inflammation (CRP down ~40%), and directly protect blood vessels. Insurance coverage is improving for the CV indication but gaps remain; telehealth access starts at <strong>$129/month</strong>.</span>
 </div>
 </div>
 
@@ -134,7 +134,7 @@ Here's what the evidence shows, how the protection works, and how to access thes
 
 ---
 
-<h2 id="obesity-heart" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Why Excess Weight Strains the Heart</h2>
+<h2 id="obesity-heart" class="h2-accent h2-accent--amber">Why Excess Weight Strains the Heart</h2>
 
 Cardiovascular disease remains the **leading cause of death in the United States**, and excess weight is one of its most powerful drivers. The connection runs far deeper than "carrying extra pounds makes the heart work harder."
 
@@ -146,7 +146,7 @@ Excess adipose tissue — particularly visceral fat around the organs — is met
 - **It worsens cholesterol profiles** — higher triglycerides, lower HDL, more small dense LDL particles
 - **It promotes sleep apnea**, which independently stresses the cardiovascular system
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **The treatment gap before GLP-1s:**
 
@@ -158,11 +158,11 @@ The SELECT trial was designed to answer the question cardiology had been asking 
 
 ---
 
-<h2 id="select-trial" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">The SELECT Trial: A Landmark in Cardiology</h2>
+<h2 id="select-trial" class="h2-accent h2-accent--red">The SELECT Trial: A Landmark in Cardiology</h2>
 
 SELECT (Semaglutide Effects on Cardiovascular Outcomes in People with Overweight or Obesity) was the **largest cardiovascular outcomes trial ever conducted in people with obesity** — and its results reshaped both cardiology and obesity medicine.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **SELECT trial design and results (NEJM, November 2023):**
 
@@ -186,11 +186,11 @@ A prespecified analysis published in *The Lancet* (2025) quantified this: **only
 
 ---
 
-<h2 id="fda-approval" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">March 2024: FDA Approves Wegovy for Cardiovascular Risk Reduction</h2>
+<h2 id="fda-approval" class="h2-accent h2-accent--purple">March 2024: FDA Approves Wegovy for Cardiovascular Risk Reduction</h2>
 
 On **March 8, 2024**, the FDA expanded Wegovy's label to include **reducing the risk of cardiovascular death, heart attack, and stroke** in adults with established cardiovascular disease and either obesity or overweight.
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Why this approval matters:**
 
@@ -205,7 +205,7 @@ Since then, the evidence base has kept expanding: tirzepatide has shown benefits
 
 ---
 
-<h2 id="mechanisms" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How GLP-1s Protect the Heart: Five Mechanisms Beyond Weight Loss</h2>
+<h2 id="mechanisms" class="h2-accent">How GLP-1s Protect the Heart: Five Mechanisms Beyond Weight Loss</h2>
 
 If weight loss explains only about a third of the benefit, what explains the rest? Research points to a stack of direct cardiovascular effects.
 
@@ -219,7 +219,7 @@ GLP-1 therapy modestly lowers **triglycerides and LDL cholesterol** while improv
 
 ### 3. Anti-Inflammatory Effects
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Inflammation is a core driver of atherosclerosis — and GLP-1s suppress it:**
 
@@ -241,9 +241,9 @@ Research summarized in cardiology statements (including a 2025 ANMCO review) des
 
 ---
 
-<h2 id="who-benefits" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">Who Benefits Most from GLP-1 Cardiovascular Protection?</h2>
+<h2 id="who-benefits" class="h2-accent h2-accent--sky">Who Benefits Most from GLP-1 Cardiovascular Protection?</h2>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Strongest evidence (matches SELECT trial population):**
 
@@ -265,11 +265,11 @@ If you have excess weight plus any cardiovascular risk factors, this conversatio
 
 ---
 
-<h2 id="insurance" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">Insurance Coverage: Better Than Before, Still Full of Gaps</h2>
+<h2 id="insurance" class="h2-accent h2-accent--red">Insurance Coverage: Better Than Before, Still Full of Gaps</h2>
 
 The March 2024 cardiovascular indication genuinely changed the coverage landscape — but not as much as headlines suggested.
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Where coverage stands:**
 
@@ -283,9 +283,9 @@ The March 2024 cardiovascular indication genuinely changed the coverage landscap
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Medications If You've Been Denied</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications If You've Been Denied</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The access reality:** Brand-name Wegovy runs $1,000+/month without coverage. If your insurance denied you — or you don't have a formal CVD diagnosis — telehealth platforms prescribing compounded semaglutide offer the same active ingredient at a fraction of the cost, no insurance required.
 
@@ -295,35 +295,35 @@ You'll typically need a BMI of 27+ with a comorbidity (hypertension, high choles
 
 ### Telehealth Platforms That Prescribe GLP-1s
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Lowest Price</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Lowest Price</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #7c3aed; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #7c3aed; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Most Options</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">SkinnyRx</div>
-<div style="color: #7c3aed; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $199/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Injectable, tablet, or sublingual options</div>
-</a><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Most Options</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="offer-card__price">From $199/mo</div>
+<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
+</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider or cardiologist before starting any new medication or changing your cardiac treatment plan.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider or cardiologist before starting any new medication or changing your cardiac treatment plan.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

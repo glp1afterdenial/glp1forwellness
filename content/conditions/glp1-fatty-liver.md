@@ -105,19 +105,19 @@ keywords: ["GLP-1 fatty liver", "semaglutide MASH", "semaglutide NAFLD", "GLP-1 
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#what-is-fatty-liver" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">What Is It</a>
-<a href="#how-glp1s-help" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">How GLP-1s Help</a>
-<a href="#research" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Research</a>
-<a href="#fda-approval" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FDA Approval</a>
-<a href="#insurance" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Insurance</a>
-<a href="#access" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Access</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#what-is-fatty-liver" class="article-nav-pill">What Is It</a>
+<a href="#how-glp1s-help" class="article-nav-pill article-nav-pill--active">How GLP-1s Help</a>
+<a href="#research" class="article-nav-pill">Research</a>
+<a href="#fda-approval" class="article-nav-pill">FDA Approval</a>
+<a href="#insurance" class="article-nav-pill">Insurance</a>
+<a href="#access" class="article-nav-pill">How to Access</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div style="background: #ecfdf5; border: 2px solid #2563eb; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px;">
-<strong style="color: #1e40af; font-size: 1rem;">TL;DR</strong>
-<ul style="margin: 10px 0 0 0; padding-left: 20px; color: #1c1917; line-height: 1.8;">
+<div class="tldr-box">
+<strong class="tx-blue">TL;DR</strong>
+<ul class="list-plain">
 <li>About 25% of Americans have fatty liver disease (NAFLD) -- most don't know it</li>
 <li>Left untreated, NAFLD can silently progress to MASH, fibrosis, cirrhosis, and liver failure</li>
 <li>Semaglutide received <strong>FDA approval in August 2025</strong> for MASH with moderate-to-advanced liver fibrosis</li>
@@ -139,13 +139,13 @@ Here's what the science actually shows and what your real options are.
 
 ---
 
-<h2 id="what-is-fatty-liver" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">What Is Fatty Liver Disease?</h2>
+<h2 id="what-is-fatty-liver" class="h2-accent h2-accent--amber">What Is Fatty Liver Disease?</h2>
 
 Fatty liver disease is exactly what it sounds like: too much fat stored in your liver cells. Your liver naturally contains some fat, but when fat makes up more than 5-10% of the liver's weight, it crosses into disease territory.
 
 The medical terminology has shifted in recent years, so here's a quick guide:
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 | Old Term | New Term | What It Means |
 |----------|----------|---------------|
@@ -154,7 +154,7 @@ The medical terminology has shifted in recent years, so here's a quick guide:
 | **Fibrosis** | Fibrosis | Scarring from chronic inflammation (stages F1-F4) |
 | **Cirrhosis** | Cirrhosis | Severe, widespread scarring (late-stage F4) |
 
-<p style="color: #78716c; font-size: 0.85rem; margin: 12px 0 0 0;"><em>The name change from NAFLD/NASH to MASLD/MASH happened in 2023 to remove the stigmatizing "non-alcoholic" label. You'll see both terms used. In this article, we use MASH (the newer term) for the inflammatory form and NAFLD when referring to the broader condition.</em></p>
+<p class="p-note"><em>The name change from NAFLD/NASH to MASLD/MASH happened in 2023 to remove the stigmatizing "non-alcoholic" label. You'll see both terms used. In this article, we use MASH (the newer term) for the inflammatory form and NAFLD when referring to the broader condition.</em></p>
 
 </div>
 
@@ -162,33 +162,33 @@ The medical terminology has shifted in recent years, so here's a quick guide:
 
 This is the part that catches people off guard. Fatty liver disease usually has **no symptoms** until it's quite advanced. The progression looks like this:
 
-<div style="background: #ffffff; border: 2px solid #d97706; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 8px; text-align: center;">
-<div style="background: #fef3c7; padding: 10px 16px; border-radius: 8px; font-weight: 600; color: #92400e;">Healthy Liver</div>
-<span style="color: #d97706; font-weight: bold;">&rarr;</span>
-<div style="background: #fef3c7; padding: 10px 16px; border-radius: 8px; font-weight: 600; color: #92400e;">NAFLD (fat)</div>
-<span style="color: #d97706; font-weight: bold;">&rarr;</span>
-<div style="background: #fed7aa; padding: 10px 16px; border-radius: 8px; font-weight: 600; color: #9a3412;">MASH (inflammation)</div>
-<span style="color: #dc2626; font-weight: bold;">&rarr;</span>
-<div style="background: #fecaca; padding: 10px 16px; border-radius: 8px; font-weight: 600; color: #991b1b;">Fibrosis (scarring)</div>
-<span style="color: #dc2626; font-weight: bold;">&rarr;</span>
-<div style="background: #fca5a5; padding: 10px 16px; border-radius: 8px; font-weight: 700; color: #7f1d1d;">Cirrhosis / Liver Failure</div>
+<div class="callout callout--highlight-amber">
+<div class="row-center">
+<div class="chip chip--amber">Healthy Liver</div>
+<span class="tx-amber-bold">&rarr;</span>
+<div class="chip chip--amber">NAFLD (fat)</div>
+<span class="tx-amber-bold">&rarr;</span>
+<div class="chip chip--orange">MASH (inflammation)</div>
+<span class="tx-red-bold">&rarr;</span>
+<div class="chip chip--red">Fibrosis (scarring)</div>
+<span class="tx-red-bold">&rarr;</span>
+<div class="chip chip--red-deep">Cirrhosis / Liver Failure</div>
 </div>
 </div>
 
 Not everyone progresses. Many people with simple NAFLD stay at that stage forever. But about 20-30% of people with NAFLD develop MASH, and once inflammation and fibrosis begin, the risk of serious outcomes increases significantly.
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 20px 24px; margin: 20px 0;">
-<strong style="color: #92400e;">Why you might not know you have it:</strong> Fatty liver disease typically causes no pain and no obvious symptoms. Most people are diagnosed incidentally -- through routine blood work showing elevated ALT/AST liver enzymes, or during an abdominal ultrasound done for something else entirely. By the time symptoms like fatigue, abdominal discomfort, or jaundice appear, the disease may already be advanced.
+<div class="callout callout--amber">
+<strong class="tx-amber-deep">Why you might not know you have it:</strong> Fatty liver disease typically causes no pain and no obvious symptoms. Most people are diagnosed incidentally -- through routine blood work showing elevated ALT/AST liver enzymes, or during an abdominal ultrasound done for something else entirely. By the time symptoms like fatigue, abdominal discomfort, or jaundice appear, the disease may already be advanced.
 </div>
 
 ---
 
-<h2 id="how-glp1s-help" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How GLP-1 Medications Help the Liver</h2>
+<h2 id="how-glp1s-help" class="h2-accent">How GLP-1 Medications Help the Liver</h2>
 
 GLP-1 receptor agonists like semaglutide don't just help with weight loss -- they appear to benefit the liver through multiple distinct pathways. This is important because the liver improvements seen in clinical trials go beyond what weight loss alone would predict.
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **How GLP-1s reduce liver disease -- the key mechanisms:**
 
@@ -205,7 +205,7 @@ The combination of these effects is what makes GLP-1s particularly promising for
 
 ---
 
-<h2 id="research" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">What the Research Shows</h2>
+<h2 id="research" class="h2-accent h2-accent--blue">What the Research Shows</h2>
 
 The evidence base for GLP-1s and liver disease has grown rapidly. Here are the key studies:
 
@@ -213,7 +213,7 @@ The evidence base for GLP-1s and liver disease has grown rapidly. Here are the k
 
 This was the pivotal Phase 3 trial that led to FDA approval. The details matter:
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 - **Design:** Randomized, double-blind, placebo-controlled
 - **Patients:** Adults with biopsy-confirmed MASH and fibrosis stages F2-F3
@@ -243,17 +243,17 @@ Tirzepatide, the dual GIP/GLP-1 agonist, has also shown liver benefits in clinic
 - Early data suggests comparable or potentially superior liver fat reduction
 - Not yet FDA-approved specifically for MASH, but trials are ongoing
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 20px 24px; margin: 20px 0;">
-<strong style="color: #047857;">Bottom line on the research:</strong> The evidence that GLP-1 receptor agonists reduce liver fat, resolve MASH inflammation, and improve fibrosis is strong and growing. Semaglutide's data was convincing enough for FDA approval -- a high bar. This isn't preliminary or speculative; it's backed by large, rigorous clinical trials.
+<div class="callout callout--green">
+<strong class="tx-green-dark">Bottom line on the research:</strong> The evidence that GLP-1 receptor agonists reduce liver fat, resolve MASH inflammation, and improve fibrosis is strong and growing. Semaglutide's data was convincing enough for FDA approval -- a high bar. This isn't preliminary or speculative; it's backed by large, rigorous clinical trials.
 </div>
 
 ---
 
-<h2 id="fda-approval" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">The FDA Approval: What It Means</h2>
+<h2 id="fda-approval" class="h2-accent h2-accent--purple">The FDA Approval: What It Means</h2>
 
 In **August 2025**, the FDA approved semaglutide 2.4mg (marketed as Wegovy) for the treatment of MASH with moderate-to-advanced liver fibrosis (stages F2-F3). Here's why this matters:
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **What the approval covers:**
 - Semaglutide 2.4mg weekly injection
@@ -268,19 +268,19 @@ In **August 2025**, the FDA approved semaglutide 2.4mg (marketed as Wegovy) for 
 
 </div>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 20px 24px; margin: 20px 0;">
-<strong style="color: #92400e;">Important distinction:</strong> The FDA approval is for MASH with documented fibrosis -- not for simple NAFLD (fat without inflammation) or early-stage disease. If you have simple fatty liver without progression to MASH, semaglutide may still be beneficial, but it wouldn't be prescribed under this specific indication. Your doctor can still prescribe it for weight management if you meet those criteria.
+<div class="callout callout--amber">
+<strong class="tx-amber-deep">Important distinction:</strong> The FDA approval is for MASH with documented fibrosis -- not for simple NAFLD (fat without inflammation) or early-stage disease. If you have simple fatty liver without progression to MASH, semaglutide may still be beneficial, but it wouldn't be prescribed under this specific indication. Your doctor can still prescribe it for weight management if you meet those criteria.
 </div>
 
 ---
 
-<h2 id="insurance" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">Insurance Coverage: Better Than You Might Expect</h2>
+<h2 id="insurance" class="h2-accent">Insurance Coverage: Better Than You Might Expect</h2>
 
 Here's the genuinely good news. If you've followed the GLP-1 conversation at all, you know that insurance coverage for these medications has been a nightmare for most people. Weight loss indications are routinely denied. Prior authorizations are byzantine. Appeals go nowhere.
 
 **Fatty liver disease is different.**
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Why insurance is more likely to cover GLP-1s for MASH:**
 
@@ -301,17 +301,17 @@ To maximize your chances of getting insurance to cover semaglutide for MASH:
 4. **Your doctor to prescribe using the MASH indication** -- not the weight loss indication
 5. **Be prepared for prior authorization** -- even with an FDA-approved indication, most insurers will require PA
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 20px 24px; margin: 20px 0;">
-<strong style="color: #92400e;">Reality check:</strong> "More likely to be covered" doesn't mean guaranteed. Insurance companies still deny claims for FDA-approved indications, and formulary coverage varies widely between plans. But the landscape for MASH coverage is meaningfully better than for weight management, and it's expected to improve as more plans update their formularies.
+<div class="callout callout--amber">
+<strong class="tx-amber-deep">Reality check:</strong> "More likely to be covered" doesn't mean guaranteed. Insurance companies still deny claims for FDA-approved indications, and formulary coverage varies widely between plans. But the landscape for MASH coverage is meaningfully better than for weight management, and it's expected to improve as more plans update their formularies.
 </div>
 
 ---
 
-<h2 id="safety" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">Safety Considerations for Liver Patients</h2>
+<h2 id="safety" class="h2-accent h2-accent--red">Safety Considerations for Liver Patients</h2>
 
 If you have liver disease, safety questions around any new medication are especially important. Here's what you should know:
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 20px 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **Important safety notes:**
 
@@ -328,9 +328,9 @@ If you have liver disease, safety questions around any new medication are especi
 
 ---
 
-<h2 id="which-glp1" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">Which GLP-1 Medication for Liver Disease?</h2>
+<h2 id="which-glp1" class="h2-accent h2-accent--sky">Which GLP-1 Medication for Liver Disease?</h2>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 | Medication | FDA-Approved for MASH? | Liver Evidence | Notes |
 |-----------|----------------------|----------------|-------|
@@ -347,7 +347,7 @@ If you have fatty liver concerns but don't have a formal MASH diagnosis, or if i
 
 ---
 
-<h2 id="access" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Access GLP-1 Medications</h2>
+<h2 id="access" class="h2-accent">How to Access GLP-1 Medications</h2>
 
 You have two main paths, and they're not mutually exclusive:
 
@@ -363,35 +363,35 @@ If you have confirmed MASH with fibrosis, work with your hepatologist to:
 
 If you want to start GLP-1 therapy while pursuing a formal diagnosis, or if insurance won't cover you, telehealth platforms offer compounded semaglutide without insurance:
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">$140 Off</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">TrimRX</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $149/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$140 off first month, money-back guarantee</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">$140 Off</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="offer-card__price">From $149/mo</div>
+<div class="offer-card__desc">$140 off first month, money-back guarantee</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #7c3aed; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #7c3aed; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Most Options</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">SkinnyRx</div>
-<div style="color: #7c3aed; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $199/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Injectable, tablet, or sublingual options</div>
-</a><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Most Options</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="offer-card__price">From $199/mo</div>
+<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
+</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor -- just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and does not constitute medical advice. Fatty liver disease requires proper medical evaluation and monitoring. Always consult your healthcare provider -- ideally a hepatologist or gastroenterologist -- before starting any new medication for liver disease.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor -- just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and does not constitute medical advice. Fatty liver disease requires proper medical evaluation and monitoring. Always consult your healthcare provider -- ideally a hepatologist or gastroenterologist -- before starting any new medication for liver disease.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

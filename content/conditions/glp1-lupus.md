@@ -105,18 +105,18 @@ keywords: ["lupus ozempic", "lupus semaglutide", "glp-1 lupus", "lupus weight ga
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f5f5f4; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #2563eb; font-size: 0.85rem; font-weight: 500;">Quick Answer</a>
-<a href="#why-weight-loss-hard" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Why It's Hard</a>
-<a href="#research" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Research</a>
-<a href="#safety" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Safety</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 500;">How to Get It</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--blue">Quick Answer</a>
+<a href="#why-weight-loss-hard" class="article-nav-pill">Why It's Hard</a>
+<a href="#research" class="article-nav-pill">Research</a>
+<a href="#safety" class="article-nav-pill">Safety</a>
+<a href="#how-to-get" class="article-nav-pill article-nav-pill--active">How to Get It</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border: 2px solid #2563eb; border-radius: 12px; padding: 24px; margin-bottom: 32px;">
-<h4 style="margin: 0 0 12px 0; color: #2563eb;">The Short Answer</h4>
-<p style="margin: 0; color: #78716c; line-height: 1.6;"><strong style="color: #2563eb;">Yes, most lupus patients can safely take GLP-1 medications.</strong> Research shows they don't increase flare risk, and they may actually help — a 2026 study found GLP-1s were linked to 34% fewer cardiovascular events and 74% lower mortality in lupus patients. Insurance almost never covers them for lupus, but telehealth platforms offer compounded semaglutide from $129/month.</p>
+<div id="tldr" class="callout callout--study">
+<h4 class="h-blue">The Short Answer</h4>
+<p class="p-muted"><strong class="tx-blue">Yes, most lupus patients can safely take GLP-1 medications.</strong> Research shows they don't increase flare risk, and they may actually help — a 2026 study found GLP-1s were linked to 34% fewer cardiovascular events and 74% lower mortality in lupus patients. Insurance almost never covers them for lupus, but telehealth platforms offer compounded semaglutide from $129/month.</p>
 </div>
 
 If you have lupus, you already know the frustration. The joint pain, the fatigue, the flares that come out of nowhere. And then there's the weight.
@@ -129,11 +129,11 @@ You've heard that GLP-1 medications like Ozempic and Wegovy can help with weight
 
 ---
 
-<h2 id="why-weight-loss-hard" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Why Weight Loss Is So Hard With Lupus</h2>
+<h2 id="why-weight-loss-hard" class="h2-accent h2-accent--amber">Why Weight Loss Is So Hard With Lupus</h2>
 
 It's not you. It's not a lack of willpower. Lupus creates a perfect storm of factors that make weight management genuinely harder than it is for most people.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 24px 0; overflow-x: auto;">
+<div class="callout table-wrap">
 
 | Factor | What's Happening |
 |--------|-----------------|
@@ -146,113 +146,113 @@ It's not you. It's not a lack of willpower. Lupus creates a perfect storm of fac
 
 </div>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 10px; padding: 20px; margin: 20px 0;">
-<strong style="color: #d97706;">The vicious cycle:</strong>
-<span style="color: #92400e;"> Excess weight worsens lupus disease activity, increases cardiovascular risk, and makes flares harder to control. But the medications that control lupus (especially steroids) cause weight gain. Studies show 50-64% of lupus patients are overweight or obese — and standard approaches to weight loss often don't work because of the metabolic factors above.</span>
+<div class="callout callout--amber">
+<strong class="tx-amber">The vicious cycle:</strong>
+<span class="tx-amber-deep"> Excess weight worsens lupus disease activity, increases cardiovascular risk, and makes flares harder to control. But the medications that control lupus (especially steroids) cause weight gain. Studies show 50-64% of lupus patients are overweight or obese — and standard approaches to weight loss often don't work because of the metabolic factors above.</span>
 </div>
 
 This is why GLP-1 medications are so promising for lupus patients. They don't just suppress appetite — they address the underlying metabolic dysfunction that makes weight loss so hard.
 
 ---
 
-<h2 id="how-glp1s-help" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How GLP-1 Medications Help Lupus Patients</h2>
+<h2 id="how-glp1s-help" class="h2-accent">How GLP-1 Medications Help Lupus Patients</h2>
 
 GLP-1s do more than help you lose weight. They have direct anti-inflammatory effects that are particularly relevant for autoimmune conditions like lupus.
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px; margin: 24px 0;">
+<div class="benefit-grid">
 
-<div style="background: #ffffff; border: 1px solid #d1fae5; border-radius: 12px; padding: 20px;">
-<h4 style="color: #059669; margin: 0 0 12px 0;">🎯 Appetite Regulation</h4>
-<p style="margin: 0; color: #78716c; font-size: 0.95rem;">Directly counteracts prednisone-driven hunger by mimicking the GLP-1 hormone that signals fullness to your brain.</p>
+<div class="benefit-card">
+<h4 class="h-green">🎯 Appetite Regulation</h4>
+<p class="p-muted-sm">Directly counteracts prednisone-driven hunger by mimicking the GLP-1 hormone that signals fullness to your brain.</p>
 </div>
 
-<div style="background: #ffffff; border: 1px solid #d1fae5; border-radius: 12px; padding: 20px;">
-<h4 style="color: #059669; margin: 0 0 12px 0;">🔥 Reduces Inflammation</h4>
-<p style="margin: 0; color: #78716c; font-size: 0.95rem;">Suppresses the NF-kB inflammatory pathway and reduces TNF-alpha, IL-6, and IL-1-beta — the same cytokines that drive lupus disease activity.</p>
+<div class="benefit-card">
+<h4 class="h-green">🔥 Reduces Inflammation</h4>
+<p class="p-muted-sm">Suppresses the NF-kB inflammatory pathway and reduces TNF-alpha, IL-6, and IL-1-beta — the same cytokines that drive lupus disease activity.</p>
 </div>
 
-<div style="background: #ffffff; border: 1px solid #d1fae5; border-radius: 12px; padding: 20px;">
-<h4 style="color: #059669; margin: 0 0 12px 0;">🩸 Improved Insulin Sensitivity</h4>
-<p style="margin: 0; color: #78716c; font-size: 0.95rem;">Helps your body use insulin properly again — especially important when steroid use has pushed you toward insulin resistance.</p>
+<div class="benefit-card">
+<h4 class="h-green">🩸 Improved Insulin Sensitivity</h4>
+<p class="p-muted-sm">Helps your body use insulin properly again — especially important when steroid use has pushed you toward insulin resistance.</p>
 </div>
 
-<div style="background: #ffffff; border: 1px solid #d1fae5; border-radius: 12px; padding: 20px;">
-<h4 style="color: #059669; margin: 0 0 12px 0;">🛡️ Kidney Protection</h4>
-<p style="margin: 0; color: #78716c; font-size: 0.95rem;">GLP-1s reduce renal inflammation and lower intraglomerular pressure — a big deal for lupus patients at risk of nephritis.</p>
+<div class="benefit-card">
+<h4 class="h-green">🛡️ Kidney Protection</h4>
+<p class="p-muted-sm">GLP-1s reduce renal inflammation and lower intraglomerular pressure — a big deal for lupus patients at risk of nephritis.</p>
 </div>
 
 </div>
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 10px; padding: 20px; margin: 20px 0;">
-<strong style="color: #059669;">Important distinction:</strong>
-<span style="color: #047857;"> GLP-1 medications are not a lupus treatment. They don't replace hydroxychloroquine, immunosuppressants, or your rheumatologist's treatment plan. But their anti-inflammatory properties may provide additional benefits beyond weight loss — and losing weight itself can improve lupus disease activity.</span>
+<div class="callout callout--green">
+<strong class="tx-green">Important distinction:</strong>
+<span class="tx-green-dark"> GLP-1 medications are not a lupus treatment. They don't replace hydroxychloroquine, immunosuppressants, or your rheumatologist's treatment plan. But their anti-inflammatory properties may provide additional benefits beyond weight loss — and losing weight itself can improve lupus disease activity.</span>
 </div>
 
 ---
 
-<h2 id="research" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">What the Research Says</h2>
+<h2 id="research" class="h2-accent h2-accent--blue">What the Research Says</h2>
 
 The research on GLP-1s in lupus patients is still early, but the results so far are striking.
 
-<div style="background: #ecfdf5; border: 2px solid #2563eb; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 16px 0; color: #2563eb;">Landmark Study: Jorge et al. 2026 (Arthritis & Rheumatology)</h4>
-<p style="margin: 0 0 12px 0; color: #78716c;">The largest study to date compared 910 lupus patients on GLP-1s vs. 1,004 on DPP-4 inhibitors. The results:</p>
+<div class="callout callout--study">
+<h4 class="h-blue">Landmark Study: Jorge et al. 2026 (Arthritis & Rheumatology)</h4>
+<p class="h-muted">The largest study to date compared 910 lupus patients on GLP-1s vs. 1,004 on DPP-4 inhibitors. The results:</p>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-top: 16px;">
+<div class="stat-grid">
 
-<div style="background: #ffffff; border-radius: 8px; padding: 16px; text-align: center;">
-<div style="font-size: 1.8rem; font-weight: 800; color: #2563eb;">34%</div>
-<div style="font-size: 0.85rem; color: #78716c;">fewer cardiovascular events</div>
+<div class="stat">
+<div class="stat__value">34%</div>
+<div class="stat__label">fewer cardiovascular events</div>
 </div>
 
-<div style="background: #ffffff; border-radius: 8px; padding: 16px; text-align: center;">
-<div style="font-size: 1.8rem; font-weight: 800; color: #2563eb;">51%</div>
-<div style="font-size: 0.85rem; color: #78716c;">fewer blood clots (VTE)</div>
+<div class="stat">
+<div class="stat__value">51%</div>
+<div class="stat__label">fewer blood clots (VTE)</div>
 </div>
 
-<div style="background: #ffffff; border-radius: 8px; padding: 16px; text-align: center;">
-<div style="font-size: 1.8rem; font-weight: 800; color: #2563eb;">23%</div>
-<div style="font-size: 0.85rem; color: #78716c;">less kidney disease progression</div>
+<div class="stat">
+<div class="stat__value">23%</div>
+<div class="stat__label">less kidney disease progression</div>
 </div>
 
-<div style="background: #ffffff; border-radius: 8px; padding: 16px; text-align: center;">
-<div style="font-size: 1.8rem; font-weight: 800; color: #2563eb;">74%</div>
-<div style="font-size: 0.85rem; color: #78716c;">lower mortality</div>
+<div class="stat">
+<div class="stat__value">74%</div>
+<div class="stat__label">lower mortality</div>
 </div>
 
 </div>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 12px 0; color: #1c1917;">NYU Lupus Cohort Study (2024)</h4>
-<p style="margin: 0; color: #78716c; line-height: 1.6;">Looked at 18 lupus patients who used GLP-1 medications. Found a <strong>13% BMI reduction at 6-10 months</strong>, with only one mild-to-moderate flare. No patients developed new lupus criteria. The study concluded GLP-1s appeared safe and did not trigger flares above expected background rates.</p>
-<p style="margin: 12px 0 0 0; color: #78716c; line-height: 1.6;"><strong>Notable finding:</strong> 50% of these patients were initially denied insurance coverage for GLP-1s.</p>
+<div class="callout">
+<h4 class="h-ink">NYU Lupus Cohort Study (2024)</h4>
+<p class="p-muted">Looked at 18 lupus patients who used GLP-1 medications. Found a <strong>13% BMI reduction at 6-10 months</strong>, with only one mild-to-moderate flare. No patients developed new lupus criteria. The study concluded GLP-1s appeared safe and did not trigger flares above expected background rates.</p>
+<p class="p-muted"><strong>Notable finding:</strong> 50% of these patients were initially denied insurance coverage for GLP-1s.</p>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 12px 0; color: #1c1917;">Lupus Nephritis Study</h4>
-<p style="margin: 0; color: #78716c; line-height: 1.6;">A separate analysis found that GLP-1 treatment after lupus nephritis diagnosis reduced 5-year progression to end-stage kidney disease by approximately <strong>50%</strong>.</p>
+<div class="callout">
+<h4 class="h-ink">Lupus Nephritis Study</h4>
+<p class="p-muted">A separate analysis found that GLP-1 treatment after lupus nephritis diagnosis reduced 5-year progression to end-stage kidney disease by approximately <strong>50%</strong>.</p>
 </div>
 
 > "GLP-1 receptor agonists were associated with significantly lower cardiovascular, kidney, and mortality risks compared to DPP-4 inhibitors in lupus patients." — *Jorge et al., Arthritis & Rheumatology, 2026*
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 10px; padding: 20px; margin: 20px 0;">
-<strong style="color: #d97706;">Keep in mind:</strong>
-<span style="color: #92400e;"> All current studies are retrospective and observational — no randomized controlled trials exist yet. The Jorge study primarily included patients with comorbid type 2 diabetes. The evidence is promising but still early.</span>
+<div class="callout callout--amber">
+<strong class="tx-amber">Keep in mind:</strong>
+<span class="tx-amber-deep"> All current studies are retrospective and observational — no randomized controlled trials exist yet. The Jorge study primarily included patients with comorbid type 2 diabetes. The evidence is promising but still early.</span>
 </div>
 
 ---
 
-<h2 id="safety" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">Safety: What Lupus Patients Need to Know</h2>
+<h2 id="safety" class="h2-accent h2-accent--red">Safety: What Lupus Patients Need to Know</h2>
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 12px 0; color: #059669;">The good news</h4>
-<p style="margin: 0; color: #78716c; line-height: 1.6;">In the NYU study, GLP-1s did not trigger lupus flares above expected background rates. No patients accumulated new SLE criteria. The current evidence suggests they're safe for most lupus patients.</p>
+<div class="callout callout--green">
+<h4 class="h-green">The good news</h4>
+<p class="p-muted">In the NYU study, GLP-1s did not trigger lupus flares above expected background rates. No patients accumulated new SLE criteria. The current evidence suggests they're safe for most lupus patients.</p>
 </div>
 
 ### Drug interactions
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0; overflow-x: auto;">
+<div class="callout table-wrap">
 
 | Lupus Medication | Interaction with GLP-1s |
 |-----------------|------------------------|
@@ -265,9 +265,9 @@ The research on GLP-1s in lupus patients is still early, but the results so far 
 
 </div>
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 12px 0; color: #dc2626;">Talk to your rheumatologist first if you have:</h4>
-<ul style="margin: 0; color: #991b1b; line-height: 1.8;">
+<div class="callout callout--danger">
+<h4 class="h-red">Talk to your rheumatologist first if you have:</h4>
+<ul class="p-danger">
 <li><strong>Severe lupus nephritis</strong> — GLP-1s are generally not recommended for eGFR under 15</li>
 <li><strong>History of pancreatitis</strong> — lupus can rarely cause pancreatitis, and GLP-1s carry a small pancreatitis risk</li>
 <li><strong>Personal or family history of medullary thyroid cancer or MEN2</strong> — contraindication for all GLP-1s</li>
@@ -276,9 +276,9 @@ The research on GLP-1s in lupus patients is still early, but the results so far 
 
 ---
 
-<h2 id="which-glp1" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">Which GLP-1 Is Best for Lupus?</h2>
+<h2 id="which-glp1" class="h2-accent h2-accent--purple">Which GLP-1 Is Best for Lupus?</h2>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 24px 0; overflow-x: auto;">
+<div class="callout table-wrap">
 
 | | Semaglutide | Tirzepatide |
 |---|---|---|
@@ -295,23 +295,23 @@ The research on GLP-1s in lupus patients is still early, but the results so far 
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1s for Lupus (Through Telehealth)</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1s for Lupus (Through Telehealth)</h2>
 
 Insurance almost never covers GLP-1s for lupus — it's not an FDA-approved indication. In the NYU study, **50% of patients were initially denied**. Telehealth with compounded semaglutide is the fastest, most reliable path.
 
-<div style="background: #ffffff; border: 2px solid #059669; border-radius: 12px; padding: 24px; margin: 24px 0;">
-<h4 style="margin: 0 0 16px 0; color: #059669;">How it works</h4>
-<div style="display: grid; gap: 12px;">
-<div style="display: flex; gap: 12px; align-items: flex-start;">
-<div style="background: #d1fae5; color: #0f172a; min-width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 0.85rem;">1</div>
+<div class="callout callout--highlight">
+<h4 class="h-green">How it works</h4>
+<div class="grid-stack">
+<div class="step">
+<div class="step__num">1</div>
 <div><strong>Fill out a health questionnaire online</strong> — include your lupus diagnosis and medications.</div>
 </div>
-<div style="display: flex; gap: 12px; align-items: flex-start;">
-<div style="background: #d1fae5; color: #0f172a; min-width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 0.85rem;">2</div>
+<div class="step">
+<div class="step__num">2</div>
 <div><strong>A licensed provider reviews your case</strong> — they'll evaluate your health history and make sure GLP-1s are safe for you.</div>
 </div>
-<div style="display: flex; gap: 12px; align-items: flex-start;">
-<div style="background: #d1fae5; color: #0f172a; min-width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 0.85rem;">3</div>
+<div class="step">
+<div class="step__num">3</div>
 <div><strong>Medication ships to your door</strong> — pre-mixed, ready to inject. No reconstitution, no dosing math.</div>
 </div>
 </div>
@@ -319,57 +319,57 @@ Insurance almost never covers GLP-1s for lupus — it's not an FDA-approved indi
 
 ### Recommended platforms
 
-<div style="display: grid; gap: 12px; margin: 24px 0;">
+<div class="related-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="display: block; background: #ffffff; border: 2px solid #059669; border-radius: 12px; padding: 20px; text-decoration: none;">
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="link-card link-card--green">
+<div class="row-between">
 <div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem;">🏆 Oak Loves You</div>
-<div style="color: #78716c; font-size: 0.9rem; margin-top: 4px;">Works with autoimmune patients. Free coaching, same-day approval, price matching.</div>
+<div class="offer-card__name">🏆 Oak Loves You</div>
+<div class="p-note">Works with autoimmune patients. Free coaching, same-day approval, price matching.</div>
 </div>
-<div style="text-align: right;">
-<div style="color: #059669; font-weight: 700;">From $133/mo</div>
-<div style="color: #059669; font-size: 0.85rem;">Visit Site →</div>
+<div class="u-right">
+<div class="tx-green-bold">From $133/mo</div>
+<div class="tx-green-sm">Visit Site →</div>
 </div>
 </div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 20px; text-decoration: none;">
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="link-card link-card--lg">
+<div class="row-between">
 <div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem;">TrimRX</div>
-<div style="color: #78716c; font-size: 0.9rem; margin-top: 4px;">$140 off first month, HSA/FSA eligible, money-back guarantee.</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="p-note">$140 off first month, HSA/FSA eligible, money-back guarantee.</div>
 </div>
-<div style="text-align: right;">
-<div style="color: #1c1917; font-weight: 700;">From $149/mo</div>
-<div style="color: #059669; font-size: 0.85rem;">Visit Site →</div>
+<div class="u-right">
+<div class="tx-ink-bold">From $149/mo</div>
+<div class="tx-green-sm">Visit Site →</div>
 </div>
 </div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 20px; text-decoration: none;">
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="link-card link-card--lg">
+<div class="row-between">
 <div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem;">SkinnyRx</div>
-<div style="color: #78716c; font-size: 0.9rem; margin-top: 4px;">Injectable, tablet, or sublingual options. Good if you want needle-free.</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="p-note">Injectable, tablet, or sublingual options. Good if you want needle-free.</div>
 </div>
-<div style="text-align: right;">
-<div style="color: #1c1917; font-weight: 700;">From $199/mo</div>
-<div style="color: #059669; font-size: 0.85rem;">Visit Site →</div>
+<div class="u-right">
+<div class="tx-ink-bold">From $199/mo</div>
+<div class="tx-green-sm">Visit Site →</div>
 </div>
 </div>
 </a>
 
 </div>
 
-<div style="text-align: center; margin: 24px 0;"><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+<div class="u-center-block"><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. The information here is based on published research and is intended to help you have informed conversations with your healthcare providers. Always consult your rheumatologist before starting any new medication.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. The information here is based on published research and is intended to help you have informed conversations with your healthcare providers. Always consult your rheumatologist before starting any new medication.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

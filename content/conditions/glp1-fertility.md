@@ -89,20 +89,20 @@ keywords: ["Ozempic babies", "GLP-1 fertility", "semaglutide pregnancy", "semagl
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#ozempic-babies" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Ozempic Babies</a>
-<a href="#how-it-works" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How It Works</a>
-<a href="#birth-control" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Birth Control</a>
-<a href="#trying-to-conceive" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Trying to Conceive</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#ozempic-babies" class="article-nav-pill">Ozempic Babies</a>
+<a href="#how-it-works" class="article-nav-pill">How It Works</a>
+<a href="#birth-control" class="article-nav-pill">Birth Control</a>
+<a href="#trying-to-conceive" class="article-nav-pill">Trying to Conceive</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> GLP-1 medications restore ovulation by <strong>fixing insulin resistance and reducing body weight</strong> — the two biggest barriers to fertility in women with PCOS and obesity. This has led to a wave of unexpected <strong>"Ozempic babies"</strong> in women who thought they couldn't conceive. Critical safety info: <strong>stop semaglutide 2 months before planned pregnancy</strong>, switch to non-oral birth control during GLP-1 dose changes (pills may absorb poorly), and if you discover an unplanned pregnancy, stop immediately. GLP-1s are <strong>not fertility drugs</strong> — but they remove the metabolic barriers that were preventing fertility.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> GLP-1 medications restore ovulation by <strong>fixing insulin resistance and reducing body weight</strong> — the two biggest barriers to fertility in women with PCOS and obesity. This has led to a wave of unexpected <strong>"Ozempic babies"</strong> in women who thought they couldn't conceive. Critical safety info: <strong>stop semaglutide 2 months before planned pregnancy</strong>, switch to non-oral birth control during GLP-1 dose changes (pills may absorb poorly), and if you discover an unplanned pregnancy, stop immediately. GLP-1s are <strong>not fertility drugs</strong> — but they remove the metabolic barriers that were preventing fertility.</span>
 </div>
 </div>
 
@@ -112,7 +112,7 @@ This isn't a side effect. It's a restoration of normal function that obesity and
 
 ---
 
-<h2 id="ozempic-babies" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">The "Ozempic Babies" Phenomenon</h2>
+<h2 id="ozempic-babies" class="h2-accent h2-accent--amber">The "Ozempic Babies" Phenomenon</h2>
 
 Starting in late 2024 and accelerating through 2025-2026, clinicians and social media filled with reports of unexpected pregnancies in GLP-1 users. The pattern:
 
@@ -129,7 +129,7 @@ This isn't a fluke or coincidence — it's the predictable result of fixing the 
 
 ---
 
-<h2 id="how-it-works" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">How GLP-1s Restore Fertility</h2>
+<h2 id="how-it-works" class="h2-accent h2-accent--amber">How GLP-1s Restore Fertility</h2>
 
 GLP-1 medications aren't fertility drugs — they don't stimulate the ovaries directly like Clomid or gonadotropins. They work upstream, fixing the metabolic problems that were *preventing* normal ovarian function:
 
@@ -152,7 +152,7 @@ GLP-1 medications aren't fertility drugs — they don't stimulate the ovaries di
 - GLP-1 users typically lose 15-20% — far exceeding that threshold
 - Reduced abdominal fat lowers inflammation (another fertility barrier)
 
-<div style="background: #fef2f2; border: 1px solid #fecaca; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--red">
 
 **The catch:** this means fertility can return *before you expect it*. Women who haven't ovulated in years may assume they still aren't. But GLP-1s can restore ovulation quickly — sometimes within the first 1-2 months of treatment, before significant weight loss is even visible.
 
@@ -160,7 +160,7 @@ GLP-1 medications aren't fertility drugs — they don't stimulate the ovaries di
 
 ---
 
-<h2 id="birth-control" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">GLP-1s and Birth Control: A Double Problem</h2>
+<h2 id="birth-control" class="h2-accent h2-accent--amber">GLP-1s and Birth Control: A Double Problem</h2>
 
 If you're on a GLP-1 and don't want to get pregnant, you face a two-sided issue:
 
@@ -181,7 +181,7 @@ If you're on a GLP-1 and don't want to get pregnant, you face a two-sided issue:
 
 ---
 
-<h2 id="trying-to-conceive" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">If You're Trying to Conceive</h2>
+<h2 id="trying-to-conceive" class="h2-accent h2-accent--amber">If You're Trying to Conceive</h2>
 
 For women who *want* the fertility benefit, here's the approach most reproductive endocrinologists recommend:
 
@@ -200,7 +200,7 @@ For women who *want* the fertility benefit, here's the approach most reproductiv
 - Work with your OB on weight management during pregnancy
 - GLP-1 can be restarted postpartum (discuss timing with your provider, especially if breastfeeding)
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Key insight:** the metabolic improvements from GLP-1 therapy don't vanish instantly when you stop. Women often retain improved insulin sensitivity and hormonal balance for weeks to months after discontinuation — creating a fertile window. This is why many providers recommend "optimize then stop" rather than trying to conceive while on the medication.
 
@@ -208,9 +208,9 @@ For women who *want* the fertility benefit, here's the approach most reproductiv
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Treatment</h2>
+<h2 id="how-to-get" class="h2-accent h2-accent--amber">How to Get GLP-1 Treatment</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The access reality:** GLP-1s aren't prescribed *for* fertility — but PCOS with BMI 27+ or obesity (BMI 30+) easily qualifies for GLP-1 weight-management therapy. The fertility restoration is a downstream benefit of treating insulin resistance and excess weight. Compounded semaglutide starts at $129/month via telehealth, no insurance needed.
 
@@ -218,31 +218,31 @@ For women who *want* the fertility benefit, here's the approach most reproductiv
 
 ### Telehealth Platforms That Prescribe GLP-1s
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Lowest Price</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Lowest Price</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #0891b2; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #0891b2; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Money-Back Guarantee</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">ShedRx</div>
-<div style="color: #0891b2; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $159/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Health coaching included, 120-day guarantee, GLP-1 drops & lozenges available</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
+<div class="offer-card__badge">Money-Back Guarantee</div>
+<div class="offer-card__name">ShedRx</div>
+<div class="offer-card__price">From $159/mo</div>
+<div class="offer-card__desc">Health coaching included, 120-day guarantee, GLP-1 drops & lozenges available</div>
 </a>
 
-<a href="/articles/best-telehealth-glp1/" style="background: #f5f5f4; border: 2px solid #e7e5e4; border-radius: 14px; padding: 20px; text-decoration: none; display: flex; align-items: center; justify-content: center; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-weight: 700; color: #44403c; font-size: 1rem; text-align: center;">Compare All Platforms &rarr;</div>
+<a href="/articles/best-telehealth-glp1/" class="offer-card offer-card--ghost">
+<div class="p-strong u-center">Compare All Platforms &rarr;</div>
 </a>
 
 </div>
@@ -257,9 +257,9 @@ For women who *want* the fertility benefit, here's the approach most reproductiv
 
 ---
 
-<h2 id="faq" style="border-left: 4px solid #44403c; padding-left: 16px; color: #1c1917;">Frequently Asked Questions</h2>
+<h2 id="faq" class="h2-accent h2-accent--slate">Frequently Asked Questions</h2>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **I just found out I'm pregnant and I'm on Ozempic. What do I do?**
 
@@ -267,7 +267,7 @@ Stop immediately and call your provider. Don't panic — a prospective study of 
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Will I gain weight back after stopping for pregnancy?**
 
@@ -275,7 +275,7 @@ Some regain is common after stopping any GLP-1, but: (1) pregnancy itself isn't 
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Does this apply to men's fertility too?**
 
@@ -283,7 +283,7 @@ The data is less clear. Some studies suggest semaglutide may slightly decrease t
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **My periods came back on Ozempic. Does that mean I'm fertile?**
 
@@ -291,7 +291,7 @@ Likely yes. Return of regular menstrual cycles is the strongest clinical indicat
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Should I use a GLP-1 instead of fertility treatments like Clomid or IVF?**
 
@@ -305,28 +305,28 @@ Not "instead of" — potentially "before." If your infertility is driven by obes
 
 "Ozempic babies" aren't a side effect — they're what happens when you remove the metabolic barriers that were preventing normal reproductive function. For women with PCOS or obesity-related infertility, GLP-1 medications offer a faster, more effective path to the weight loss and insulin sensitization that restores ovulation than diet alone. Just know what you're getting into: use reliable contraception if you don't want to conceive, plan a medication-free window if you do, and tell your provider about your reproductive goals before starting treatment.
 
-<div style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 24px; text-align: center; margin: 32px 0;">
-<div style="font-weight: 700; color: #1c1917; font-size: 1.15rem; margin-bottom: 8px;">Ready to Address the Root Cause?</div>
-<p style="color: #78716c; margin: 0 0 16px 0; font-size: 0.95rem;">Oak Loves You — $133/mo, free coaching and price matching</p>
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="display: inline-block; background: #059669; color: white; padding: 12px 32px; border-radius: 10px; text-decoration: none; font-weight: 700; font-size: 1rem;">Get Started Today</a>
+<div class="cta-box">
+<div class="cta-box__title">Ready to Address the Root Cause?</div>
+<p class="cta-box__desc">Oak Loves You — $133/mo, free coaching and price matching</p>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="btn btn--primary">Get Started Today</a>
 </div>
 
 ---
 
-<h2 style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">Related Guides</h2>
+<h2 class="h2-accent">Related Guides</h2>
 
-<div style="display: grid; gap: 10px; margin: 20px 0 32px;">
-<a href="/conditions/glp1-pcos/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & PCOS: Insulin Resistance, Cycles, and Androgens <span style="color: #059669;">→</span></a>
-<a href="/conditions/glp1-insulin-resistance/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Insulin Resistance <span style="color: #059669;">→</span></a>
-<a href="/conditions/glp1-menopause/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Menopause <span style="color: #059669;">→</span></a>
-<a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+<div class="related-grid">
+<a href="/conditions/glp1-pcos/" class="link-card">GLP-1s & PCOS: Insulin Resistance, Cycles, and Androgens <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-insulin-resistance/" class="link-card">GLP-1s & Insulin Resistance <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-menopause/" class="link-card">GLP-1s & Menopause <span class="tx-green">→</span></a>
+<a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Never start, stop, or change medication without consulting your healthcare provider — especially when pregnancy is involved.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Never start, stop, or change medication without consulting your healthcare provider — especially when pregnancy is involved.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

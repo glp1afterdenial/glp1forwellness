@@ -105,23 +105,23 @@ keywords: ["GLP-1 for asthma", "semaglutide asthma research", "GLP-1 COPD exacer
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#obesity-asthma" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Obesity-Asthma Link</a>
-<a href="#weight-breathing" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Weight & Breathing</a>
-<a href="#receptors-in-lungs" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">GLP-1 in Lungs</a>
-<a href="#how-glp1s-help" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How GLP-1s Help</a>
-<a href="#copd" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">COPD</a>
-<a href="#research" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Research</a>
-<a href="#safety" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Safety</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#obesity-asthma" class="article-nav-pill">Obesity-Asthma Link</a>
+<a href="#weight-breathing" class="article-nav-pill">Weight & Breathing</a>
+<a href="#receptors-in-lungs" class="article-nav-pill">GLP-1 in Lungs</a>
+<a href="#how-glp1s-help" class="article-nav-pill">How GLP-1s Help</a>
+<a href="#copd" class="article-nav-pill">COPD</a>
+<a href="#research" class="article-nav-pill">Research</a>
+<a href="#safety" class="article-nav-pill">Safety</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> GLP-1 medications like semaglutide are showing unexpected promise for respiratory conditions. Research shows they <strong>reduce the risk of respiratory diseases by 14-18%</strong>, and semaglutide is associated with decreased asthma risk in observational studies. The mechanism goes beyond weight loss — <strong>GLP-1 receptors exist directly in lung tissue</strong>, suggesting these drugs can reduce airway inflammation at the source. The GATA-3 trial is currently testing semaglutide in symptomatic asthma patients. GLP-1s are not FDA-approved for asthma or COPD, but telehealth platforms offer affordable access starting at <strong>$129/month</strong>.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> GLP-1 medications like semaglutide are showing unexpected promise for respiratory conditions. Research shows they <strong>reduce the risk of respiratory diseases by 14-18%</strong>, and semaglutide is associated with decreased asthma risk in observational studies. The mechanism goes beyond weight loss — <strong>GLP-1 receptors exist directly in lung tissue</strong>, suggesting these drugs can reduce airway inflammation at the source. The GATA-3 trial is currently testing semaglutide in symptomatic asthma patients. GLP-1s are not FDA-approved for asthma or COPD, but telehealth platforms offer affordable access starting at <strong>$129/month</strong>.</span>
 </div>
 </div>
 
@@ -135,7 +135,7 @@ Here's what we know so far.
 
 ---
 
-<h2 id="obesity-asthma" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">The Obesity-Asthma Connection: A Recognized Medical Phenotype</h2>
+<h2 id="obesity-asthma" class="h2-accent h2-accent--amber">The Obesity-Asthma Connection: A Recognized Medical Phenotype</h2>
 
 The relationship between obesity and asthma is not coincidental. It is so well-established that pulmonologists now recognize a distinct clinical subtype called the **obesity-asthma phenotype**. This is not just "asthma in someone who happens to be overweight." It is a specific pattern where excess weight actively drives and worsens airway disease.
 
@@ -146,7 +146,7 @@ Here's what makes this phenotype distinct:
 - **Poor response to standard medications** — inhaled corticosteroids and typical asthma controllers are often less effective
 - **Responds dramatically to weight loss** — studies show that losing 5-10% of body weight can significantly improve symptoms
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The numbers tell the story:** Obese individuals have approximately **2-3 times the risk** of developing asthma compared to those at a normal weight. This is not just correlation — multiple biological mechanisms directly link excess weight to airway dysfunction.
 
@@ -156,7 +156,7 @@ Not every person with asthma has weight-related breathing problems, and not ever
 
 ---
 
-<h2 id="weight-breathing" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">How Weight Affects Breathing: The Mechanics and The Inflammation</h2>
+<h2 id="weight-breathing" class="h2-accent h2-accent--red">How Weight Affects Breathing: The Mechanics and The Inflammation</h2>
 
 Excess weight compromises respiratory function through two distinct pathways, and understanding both is key to understanding why GLP-1 medications are relevant.
 
@@ -164,7 +164,7 @@ Excess weight compromises respiratory function through two distinct pathways, an
 
 Your lungs need room to expand. Excess abdominal and chest wall fat physically restricts this expansion.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **How excess weight mechanically impairs breathing:**
 
@@ -192,13 +192,13 @@ These inflammatory pathways mean that obesity doesn't just squeeze the lungs mec
 
 ---
 
-<h2 id="receptors-in-lungs" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">GLP-1 Receptors in the Lungs: A Direct Pathway</h2>
+<h2 id="receptors-in-lungs" class="h2-accent">GLP-1 Receptors in the Lungs: A Direct Pathway</h2>
 
 Here's the discovery that changes the conversation entirely: **GLP-1 receptors are present in lung tissue**. They've been identified in alveolar cells, airway epithelial cells, and smooth muscle cells in the respiratory tract.
 
 This is significant because it means GLP-1 medications don't just help breathing by making you lighter. They can bind directly to receptors in your airways and modulate inflammation at the source.
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **What GLP-1 receptor activation in the lungs appears to do:**
 
@@ -216,7 +216,7 @@ This is analogous to the discovery of GLP-1 receptors in heart tissue, which hel
 
 ---
 
-<h2 id="how-glp1s-help" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">How GLP-1 Medications May Help Asthma</h2>
+<h2 id="how-glp1s-help" class="h2-accent h2-accent--blue">How GLP-1 Medications May Help Asthma</h2>
 
 Given the obesity-asthma connection and the presence of GLP-1 receptors in the lungs, here's how GLP-1 medications appear to improve respiratory outcomes through multiple pathways.
 
@@ -246,7 +246,7 @@ This is the most novel pathway and the focus of ongoing research:
 - **Airway smooth muscle relaxation** — potentially reducing bronchospasm and improving airflow
 - **Immune modulation in lung tissue** — shifting the local immune environment away from the hyperreactive state that characterizes asthma
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Which patients are most likely to benefit?** The strongest candidates are people with the obesity-asthma phenotype — those whose breathing problems developed or significantly worsened alongside weight gain, and whose asthma responds poorly to standard controllers. If your pulmonologist has ever told you that weight loss would help your asthma, GLP-1 medications may be the most effective way to achieve that loss.
 
@@ -254,7 +254,7 @@ This is the most novel pathway and the focus of ongoing research:
 
 ---
 
-<h2 id="copd" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">COPD: The Emerging Evidence</h2>
+<h2 id="copd" class="h2-accent h2-accent--purple">COPD: The Emerging Evidence</h2>
 
 While asthma gets the most attention in GLP-1 respiratory research, COPD — chronic obstructive pulmonary disease — is showing equally interesting signals. With over **16 million Americans** diagnosed with COPD (and millions more undiagnosed), this is a massive public health concern.
 
@@ -262,7 +262,7 @@ While asthma gets the most attention in GLP-1 respiratory research, COPD — chr
 
 Observational studies have found that GLP-1 medication users have a **14-18% reduced risk of respiratory disease events**, including COPD exacerbations. This is a meaningful reduction — COPD exacerbations are serious events that often require hospitalization and accelerate lung function decline.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **How GLP-1s may help COPD:**
 
@@ -278,7 +278,7 @@ Observational studies have found that GLP-1 medication users have a **14-18% red
 
 The relationship between weight and COPD is more complex than with asthma. While obesity worsens COPD mechanics (just as it does for asthma), severe COPD often causes unintentional weight loss and muscle wasting (cachexia). GLP-1 medications are most appropriate for COPD patients who carry excess weight — not those who are underweight due to advanced disease.
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Important distinction:** GLP-1 medications should NOT be used by COPD patients who are already underweight or experiencing cachexia. The appetite suppression and weight loss could worsen their condition. These medications are relevant for the subset of COPD patients who have concurrent obesity — a substantial and growing population.
 
@@ -286,7 +286,7 @@ The relationship between weight and COPD is more complex than with asthma. While
 
 ---
 
-<h2 id="research" style="border-left: 4px solid #0284c7; padding-left: 16px; color: #1c1917;">The Research: What We Know and What's Coming</h2>
+<h2 id="research" class="h2-accent h2-accent--sky">The Research: What We Know and What's Coming</h2>
 
 Let's look at the specific evidence and ongoing trials.
 
@@ -302,7 +302,7 @@ Specific analyses of semaglutide users have found an **association with decrease
 
 The most important ongoing study is the **GATA-3 trial**, which is testing semaglutide specifically in patients with symptomatic asthma. This trial is designed to answer the key question: do GLP-1 receptor agonists directly improve asthma outcomes, or are the benefits entirely mediated through weight loss?
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Why the GATA-3 trial matters:**
 
@@ -324,7 +324,7 @@ Basic science research has confirmed the presence of GLP-1 receptors in multiple
 
 The breadth of GLP-1 receptor expression in the lungs suggests that these medications could have far-reaching respiratory effects beyond what has been studied so far.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Research limitations:** The observational data is strong but not definitive. We are still waiting for randomized controlled trial results (like GATA-3) to confirm causation. The lung receptor findings are from basic science and animal models — translating these to human clinical outcomes takes time.
 
@@ -332,13 +332,13 @@ The breadth of GLP-1 receptor expression in the lungs suggests that these medica
 
 ---
 
-<h2 id="safety" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">Safety: Inhalers, Medications, and What to Watch</h2>
+<h2 id="safety" class="h2-accent h2-accent--purple">Safety: Inhalers, Medications, and What to Watch</h2>
 
 For people with asthma or COPD considering GLP-1 medications, there are specific safety considerations beyond the standard GLP-1 side effect profile.
 
 ### Inhaler and Respiratory Medication Interactions
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **Critical rule: Do NOT stop or reduce any asthma or COPD medications when starting a GLP-1.** This includes:
 
@@ -388,9 +388,9 @@ Gastroesophageal reflux disease (GERD) is a common asthma trigger. GLP-1 medicat
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Medications for Respiratory Improvement</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications for Respiratory Improvement</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The insurance reality:** GLP-1 medications are not FDA-approved for asthma, COPD, or any respiratory indication. Insurance will not cover them for breathing problems. Even for approved indications (weight management, diabetes), many insurers deny coverage. Telehealth platforms with compounded medications provide the most accessible and affordable path.
 
@@ -400,44 +400,44 @@ Gastroesophageal reflux disease (GERD) is a common asthma trigger. GLP-1 medicat
 
 These platforms connect you with licensed providers who can prescribe compounded GLP-1 medications. You'll need to qualify based on BMI (typically 27+ with a comorbidity or 30+). Your asthma or COPD is part of your overall health profile and a relevant comorbidity.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Best Value</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Lowest starting price, free provider consultations</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">Best Value</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">Lowest starting price, free provider consultations</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #d97706; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #d97706; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">$140 Off</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">TrimRX</div>
-<div style="color: #d97706; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $149/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$140 off first month, HSA/FSA, money-back guarantee</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">$140 Off</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="offer-card__price">From $149/mo</div>
+<div class="offer-card__desc">$140 off first month, HSA/FSA, money-back guarantee</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #7c3aed; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #7c3aed; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Most Options</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">SkinnyRx</div>
-<div style="color: #7c3aed; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $199/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Injectable, tablet, or sublingual options</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Most Options</div>
+<div class="offer-card__name">SkinnyRx</div>
+<div class="offer-card__price">From $199/mo</div>
+<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
 </a>
 
-</div><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">→</span></a>
+</div><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider before starting any new medication or changing your asthma or COPD treatment plan.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider before starting any new medication or changing your asthma or COPD treatment plan.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

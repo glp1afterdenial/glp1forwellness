@@ -105,21 +105,21 @@ keywords: ["GLP-1 IBD", "semaglutide Crohn's disease", "GLP-1 ulcerative colitis
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#what-is-ibd" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">What Is IBD</a>
-<a href="#research" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Research</a>
-<a href="#glp2-gut" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">GLP-2 & Gut Healing</a>
-<a href="#side-effects" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Side Effects vs. Flares</a>
-<a href="#when-not" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">When to Avoid</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#what-is-ibd" class="article-nav-pill">What Is IBD</a>
+<a href="#research" class="article-nav-pill">Research</a>
+<a href="#glp2-gut" class="article-nav-pill">GLP-2 & Gut Healing</a>
+<a href="#side-effects" class="article-nav-pill">Side Effects vs. Flares</a>
+<a href="#when-not" class="article-nav-pill">When to Avoid</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> The early evidence on GLP-1s in IBD is more encouraging than most people expect: retrospective studies show IBD patients on GLP-1 medications had <strong>fewer hospitalizations and surgeries</strong>, with <strong>no increased flare rates</strong>. Preclinical colitis research shows GLP-1s reduce gut inflammation and strengthen the intestinal barrier — and GLP-1's sister hormone GLP-2 is a proven gut-healer. But there are honest caveats: GLP-1 side effects (nausea, diarrhea) can mimic flare symptoms, and GLP-1s should be avoided during <strong>active flares, with strictures, or when underweight</strong>. Not FDA-approved for IBD. Talk to your GI first; telehealth access starts at <strong>$129/month</strong>.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> The early evidence on GLP-1s in IBD is more encouraging than most people expect: retrospective studies show IBD patients on GLP-1 medications had <strong>fewer hospitalizations and surgeries</strong>, with <strong>no increased flare rates</strong>. Preclinical colitis research shows GLP-1s reduce gut inflammation and strengthen the intestinal barrier — and GLP-1's sister hormone GLP-2 is a proven gut-healer. But there are honest caveats: GLP-1 side effects (nausea, diarrhea) can mimic flare symptoms, and GLP-1s should be avoided during <strong>active flares, with strictures, or when underweight</strong>. Not FDA-approved for IBD. Talk to your GI first; telehealth access starts at <strong>$129/month</strong>.</span>
 </div>
 </div>
 
@@ -131,7 +131,7 @@ This article takes an honest look at both sides: the genuinely promising science
 
 ---
 
-<h2 id="what-is-ibd" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">IBD Basics: Crohn's, Ulcerative Colitis, and the Obesity Surprise</h2>
+<h2 id="what-is-ibd" class="h2-accent h2-accent--amber">IBD Basics: Crohn's, Ulcerative Colitis, and the Obesity Surprise</h2>
 
 Inflammatory bowel disease affects roughly **3 million American adults** and comes in two main forms:
 
@@ -140,7 +140,7 @@ Inflammatory bowel disease affects roughly **3 million American adults** and com
 
 Both are **immune-mediated diseases**, driven by TNF-alpha, interleukins, and a dysregulated immune response to gut bacteria — the same broad inflammatory architecture behind psoriasis, lupus, and rheumatoid arthritis.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **The obesity surprise:** The old stereotype of the IBD patient is someone underweight and wasting. That's outdated. Today an estimated **15-40% of IBD patients have obesity**, thanks to better disease control, steroid courses, and the same forces affecting everyone else. And obesity in IBD is not neutral:
 
@@ -155,11 +155,11 @@ This is why weight management has become a legitimate part of modern IBD care �
 
 ---
 
-<h2 id="research" style="border-left: 4px solid #2563eb; padding-left: 16px; color: #1c1917;">What the Research Shows: Fewer Hospitalizations, No Flare Signal</h2>
+<h2 id="research" class="h2-accent h2-accent--blue">What the Research Shows: Fewer Hospitalizations, No Flare Signal</h2>
 
 The clinical evidence on GLP-1s in IBD is early — mostly retrospective and observational — but it consistently points in a reassuring direction.
 
-<div style="background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--green">
 
 **Key findings from the published literature:**
 
@@ -175,13 +175,13 @@ The most defensible summary: for IBD patients in remission who need to lose weig
 
 ---
 
-<h2 id="glp2-gut" style="border-left: 4px solid #7c3aed; padding-left: 16px; color: #1c1917;">The GLP-2 Connection: Why Gut Hormones and Gut Healing Are Linked</h2>
+<h2 id="glp2-gut" class="h2-accent h2-accent--purple">The GLP-2 Connection: Why Gut Hormones and Gut Healing Are Linked</h2>
 
 Here's the piece of biology that makes the IBD findings less surprising than they seem.
 
 GLP-1 doesn't exist in isolation. It has a sister hormone, **GLP-2**, and the two are made together — cleaved from the same precursor protein (**proglucagon**) by the same intestinal **L-cells**, and released together after meals.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Why the GLP-2 relationship matters for IBD:**
 
@@ -196,11 +196,11 @@ The implication: GLP-1 medications aren't a random drug being tried on a random 
 
 ---
 
-<h2 id="side-effects" style="border-left: 4px solid #dc2626; padding-left: 16px; color: #1c1917;">Side Effects vs. Flares: The Practical Challenge</h2>
+<h2 id="side-effects" class="h2-accent h2-accent--red">Side Effects vs. Flares: The Practical Challenge</h2>
 
 This is the most important section for anyone with IBD considering a GLP-1. The GI side effects of these medications overlap heavily with flare symptoms, and telling them apart matters.
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 | Symptom | GLP-1 Side Effect | IBD Flare |
 |---------|-------------------|-----------|
@@ -213,7 +213,7 @@ This is the most important section for anyone with IBD considering a GLP-1. The 
 
 </div>
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **Red flags that mean "call your GI team, not your telehealth provider":**
 
@@ -237,11 +237,11 @@ When in doubt, assume it's a flare until proven otherwise. It's safer to over-in
 
 ---
 
-<h2 id="when-not" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">When GLP-1s Are NOT Appropriate for IBD Patients</h2>
+<h2 id="when-not" class="h2-accent h2-accent--amber">When GLP-1s Are NOT Appropriate for IBD Patients</h2>
 
 GLP-1 medications are not right for every IBD patient. There are clear situations where the risks outweigh potential benefits.
 
-<div style="background: #fef2f2; border: 2px solid #dc2626; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--danger">
 
 **Do NOT start a GLP-1 if you have:**
 
@@ -258,9 +258,9 @@ GLP-1 medications are not right for every IBD patient. There are clear situation
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">How to Get GLP-1 Medications With IBD</h2>
+<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications With IBD</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **Step 1: Talk to your gastroenterologist first.** This is non-negotiable for IBD patients. Your GI needs to confirm you're in remission, review potential interactions with your current IBD medications (biologics, immunomodulators, corticosteroids), and be aware of what you're starting.
 
@@ -268,35 +268,35 @@ GLP-1 medications are not right for every IBD patient. There are clear situation
 
 </div>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Oak Loves You</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $133/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching, same-day approval, price matching</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Lowest Price</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Gala</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Free coaching + dietitian, $0 membership</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Lowest Price</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">Free coaching + dietitian, $0 membership</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" style="background: #ffffff; border: 2px solid #2563eb; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #2563eb; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">HSA/FSA</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">TrimRX</div>
-<div style="color: #2563eb; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">From $149/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">$140 off first month, money-back guarantee</div>
-</a><a href="/articles/best-telehealth-glp1/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">Best Telehealth for GLP-1 Prescriptions (2026) <span style="color: #059669;">&rarr;</span></a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">HSA/FSA</div>
+<div class="offer-card__name">TrimRX</div>
+<div class="offer-card__price">From $149/mo</div>
+<div class="offer-card__desc">$140 off first month, money-back guarantee</div>
+</a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">&rarr;</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your gastroenterologist before starting any new medication or changing your IBD treatment plan.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your gastroenterologist before starting any new medication or changing your IBD treatment plan.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>

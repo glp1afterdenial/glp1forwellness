@@ -89,20 +89,20 @@ keywords: ["sermorelin", "sermorelin therapy", "sermorelin vs HGH", "sermorelin 
 }
 </script>
 
-<div style="position: sticky; top: 0; z-index: 50; background: #f8f6f3; border-bottom: 1px solid #e7e5e4; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-<a href="#tldr" style="padding: 6px 14px; background: #ecfdf5; border-radius: 20px; text-decoration: none; color: #059669; font-size: 0.85rem; font-weight: 600;">TL;DR</a>
-<a href="#what-is-sermorelin" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">What It Is</a>
-<a href="#vs-hgh" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Sermorelin vs HGH</a>
-<a href="#benefits" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Benefits</a>
-<a href="#formats" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">Injection vs Tablet</a>
-<a href="#how-to-get" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">How to Get</a>
-<a href="#faq" style="padding: 6px 14px; background: #f5f5f4; border-radius: 20px; text-decoration: none; color: #44403c; font-size: 0.85rem; font-weight: 500;">FAQ</a>
+<div class="article-nav-sticky">
+<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
+<a href="#what-is-sermorelin" class="article-nav-pill">What It Is</a>
+<a href="#vs-hgh" class="article-nav-pill">Sermorelin vs HGH</a>
+<a href="#benefits" class="article-nav-pill">Benefits</a>
+<a href="#formats" class="article-nav-pill">Injection vs Tablet</a>
+<a href="#how-to-get" class="article-nav-pill">How to Get</a>
+<a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
 
-<div id="tldr" style="background: #ecfdf5; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; border: 2px solid #2563eb;">
-<div style="display: flex; align-items: flex-start; gap: 12px;">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 1px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span style="color: #1c1917; font-size: 0.95rem; line-height: 1.6;"><strong>TL;DR:</strong> Sermorelin is a peptide that <strong>stimulates your pituitary to release more growth hormone naturally</strong> — the "ask your body to make more" approach rather than injecting synthetic HGH. Growth hormone declines ~14% per decade after 30; restoring it supports <strong>lean muscle, sleep quality, fat metabolism, and recovery</strong>. Unlike HGH, sermorelin preserves natural feedback loops and is <strong>safer, legal, and cheaper</strong>. Changes build over 3-6 months. Telehealth programs start at <strong>$129/month</strong> for injection or tablet.</span>
+<div id="tldr" class="tldr-box">
+<div class="tldr-box__row">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+<span class="tldr-box__text"><strong>TL;DR:</strong> Sermorelin is a peptide that <strong>stimulates your pituitary to release more growth hormone naturally</strong> — the "ask your body to make more" approach rather than injecting synthetic HGH. Growth hormone declines ~14% per decade after 30; restoring it supports <strong>lean muscle, sleep quality, fat metabolism, and recovery</strong>. Unlike HGH, sermorelin preserves natural feedback loops and is <strong>safer, legal, and cheaper</strong>. Changes build over 3-6 months. Telehealth programs start at <strong>$129/month</strong> for injection or tablet.</span>
 </div>
 </div>
 
@@ -112,7 +112,7 @@ Sermorelin offers a way to push GH back up without the legal, cost, and safety i
 
 ---
 
-<h2 id="what-is-sermorelin" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">What Sermorelin Is</h2>
+<h2 id="what-is-sermorelin" class="h2-accent h2-accent--amber">What Sermorelin Is</h2>
 
 Sermorelin is a synthetic analogue of GHRH — growth hormone-releasing hormone. Your hypothalamus naturally produces GHRH to tell the pituitary gland "make GH now." Sermorelin mimics that signal.
 
@@ -126,7 +126,7 @@ Sermorelin was originally FDA-approved (as Geref Diagnostic) and used in pediatr
 
 ---
 
-<h2 id="vs-hgh" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Sermorelin vs Synthetic HGH</h2>
+<h2 id="vs-hgh" class="h2-accent h2-accent--amber">Sermorelin vs Synthetic HGH</h2>
 
 | | **Sermorelin** | **Synthetic HGH** |
 |---|---|---|
@@ -142,7 +142,7 @@ The practical bottom line: sermorelin gives you 70-80% of what HGH does for body
 
 ---
 
-<h2 id="benefits" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">What Sermorelin Does (With Timelines)</h2>
+<h2 id="benefits" class="h2-accent h2-accent--amber">What Sermorelin Does (With Timelines)</h2>
 
 **Weeks 2-4: Sleep**
 - Deeper slow-wave sleep is often the first benefit users notice
@@ -161,7 +161,7 @@ The practical bottom line: sermorelin gives you 70-80% of what HGH does for body
 
 **Important framing:** these are typical user reports aligned with the physiology. Sermorelin is not dramatic or fast. If someone promises you'll look 10 years younger in a month, they're selling a fantasy. The changes are real but gradual — think of it as restoring a declining system, not overclocking a healthy one.
 
-<div style="background: #fef2f2; border: 1px solid #fecaca; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--red">
 
 **Who should NOT use sermorelin:** People with active cancer or pituitary tumors (GH can fuel growth), pregnant or breastfeeding individuals, or anyone with untreated hypothyroidism (thyroid and GH interact). Always disclose your full medical history to your prescribing provider.
 
@@ -169,7 +169,7 @@ The practical bottom line: sermorelin gives you 70-80% of what HGH does for body
 
 ---
 
-<h2 id="formats" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">Injection vs Tablet</h2>
+<h2 id="formats" class="h2-accent h2-accent--amber">Injection vs Tablet</h2>
 
 **Subcutaneous injection** (most common)
 - Small insulin-style needle, typically injected before bed (to align with natural GH pulse)
@@ -186,9 +186,9 @@ Both work. Injection is considered the gold standard; tablets suit people who wo
 
 ---
 
-<h2 id="how-to-get" style="border-left: 4px solid #d97706; padding-left: 16px; color: #1c1917;">How to Get Sermorelin</h2>
+<h2 id="how-to-get" class="h2-accent h2-accent--amber">How to Get Sermorelin</h2>
 
-<div style="background: #fffbeb; border: 1px solid #fde68a; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout callout--amber">
 
 **The access reality:** sermorelin is not covered by insurance for anti-aging or wellness use. Anti-aging clinics charge $500-1,500/month. Telehealth subscription programs offer the same compounded sermorelin (from licensed U.S. pharmacies) from **$129/month** with provider evaluation included.
 
@@ -196,20 +196,20 @@ Both work. Injection is considered the gold standard; tablets suit people who wo
 
 ### Where to Get It
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #059669; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Top Pick</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">Bodybuilding Health+</div>
-<div style="color: #059669; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">Sermorelin from $129/mo</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Injection or tablet, 1-month and 3-month bundles. Licensed U.S. providers and pharmacies.</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Bodybuilding Health+</div>
+<div class="offer-card__price">Sermorelin from $129/mo</div>
+<div class="offer-card__desc">Injection or tablet, 1-month and 3-month bundles. Licensed U.S. providers and pharmacies.</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #0891b2; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-size: 0.7rem; background: #0891b2; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Also Offers Sermorelin</div>
-<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">ShedRx</div>
-<div style="color: #0891b2; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">Sermorelin available</div>
-<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Health coaching included, 120-day guarantee, GLP-1 + longevity under one roof</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
+<div class="offer-card__badge">Also Offers Sermorelin</div>
+<div class="offer-card__name">ShedRx</div>
+<div class="offer-card__price">Sermorelin available</div>
+<div class="offer-card__desc">Health coaching included, 120-day guarantee, GLP-1 + longevity under one roof</div>
 </a>
 
 </div>
@@ -225,9 +225,9 @@ Both work. Injection is considered the gold standard; tablets suit people who wo
 
 ---
 
-<h2 id="faq" style="border-left: 4px solid #44403c; padding-left: 16px; color: #1c1917;">Frequently Asked Questions</h2>
+<h2 id="faq" class="h2-accent h2-accent--slate">Frequently Asked Questions</h2>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Can I take sermorelin with a GLP-1 medication?**
 
@@ -235,7 +235,7 @@ Yes. There are no known interactions, and the combination is common — GLP-1s h
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Will sermorelin show up on a drug test?**
 
@@ -243,7 +243,7 @@ Peptides like sermorelin can be detected on sophisticated sports anti-doping tes
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **Why inject at night?**
 
@@ -251,7 +251,7 @@ Growth hormone naturally surges during deep sleep. Injecting sermorelin before b
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **What side effects should I expect?**
 
@@ -259,7 +259,7 @@ Most common: injection site redness, occasional headache, flushing, or dizziness
 
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin: 20px 0;">
+<div class="callout">
 
 **How do I know if it's working?**
 
@@ -273,28 +273,28 @@ Track sleep quality first — it's the earliest signal. After 2-3 months, body c
 
 Sermorelin is growth hormone support for adults who don't want the risks, cost, or legality issues of synthetic HGH. It works with your body's own system, produces gradual and modest improvements in sleep, muscle, fat distribution, and recovery, and pairs naturally with GLP-1 therapy for people working on body composition from both sides. The timeline is months, not days — patience is the price of safety.
 
-<div style="background: #ffffff; border: 2px solid #059669; border-radius: 14px; padding: 24px; text-align: center; margin: 32px 0;">
-<div style="font-weight: 700; color: #1c1917; font-size: 1.15rem; margin-bottom: 8px;">Ready to Try Sermorelin?</div>
-<p style="color: #78716c; margin: 0 0 16px 0; font-size: 0.95rem;">Bodybuilding Health+ — from $129/mo, injection or tablet</p>
-<a href="https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095" target="_blank" style="display: inline-block; background: #059669; color: white; padding: 12px 32px; border-radius: 10px; text-decoration: none; font-weight: 700; font-size: 1rem;">Get Started Today</a>
+<div class="cta-box">
+<div class="cta-box__title">Ready to Try Sermorelin?</div>
+<p class="cta-box__desc">Bodybuilding Health+ — from $129/mo, injection or tablet</p>
+<a href="https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095" target="_blank" class="btn btn--primary">Get Started Today</a>
 </div>
 
 ---
 
-<h2 style="border-left: 4px solid #059669; padding-left: 16px; color: #1c1917;">Related Guides</h2>
+<h2 class="h2-accent">Related Guides</h2>
 
-<div style="display: grid; gap: 10px; margin: 20px 0 32px;">
-<a href="/peptides/nad-plus-therapy/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">NAD+ Therapy: What It Is, What the Science Says, and How to Get It <span style="color: #059669;">→</span></a>
-<a href="/peptides/glp1-microdosing/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1 Microdosing: Lower Doses, Fewer Side Effects? <span style="color: #059669;">→</span></a>
-<a href="/conditions/glp1-aging/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Biological Aging <span style="color: #059669;">→</span></a>
-<a href="/resources/glp1-muscle-loss/" style="display: block; background: #ffffff; border: 1px solid #e7e5e4; border-radius: 12px; padding: 16px 20px; text-decoration: none; color: #1c1917; font-weight: 600;">GLP-1s & Muscle Loss: Prevention Strategies <span style="color: #059669;">→</span></a>
+<div class="related-grid">
+<a href="/peptides/nad-plus-therapy/" class="link-card">NAD+ Therapy: What It Is, What the Science Says, and How to Get It <span class="tx-green">→</span></a>
+<a href="/peptides/glp1-microdosing/" class="link-card">GLP-1 Microdosing: Lower Doses, Fewer Side Effects? <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-aging/" class="link-card">GLP-1s & Biological Aging <span class="tx-green">→</span></a>
+<a href="/resources/glp1-muscle-loss/" class="link-card">GLP-1s & Muscle Loss: Prevention Strategies <span class="tx-green">→</span></a>
 </div>
 
-<div style="background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 12px; padding: 24px; margin-top: 32px;">
-<p style="margin: 0 0 12px 0; color: #78716c; text-align: center;"><em>I'm not a doctor — just someone researching peptide and longevity therapies thoroughly. This article is for informational purposes only and should not replace medical advice. Compounded sermorelin is not FDA-approved for anti-aging use. Always consult a licensed healthcare provider before starting any new therapy.</em></p>
-<p style="margin: 0; color: #78716c; text-align: center;">Questions? <a href="mailto:contact@glp1forwellness.com" style="color: #059669;">contact@glp1forwellness.com</a></p>
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching peptide and longevity therapies thoroughly. This article is for informational purposes only and should not replace medical advice. Compounded sermorelin is not FDA-approved for anti-aging use. Always consult a licensed healthcare provider before starting any new therapy.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
 </div>
 
-<p style="text-align: center; color: #78716c; font-size: 0.85rem; margin-top: 20px;">
+<p class="fine-print">
 <em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
 </p>
