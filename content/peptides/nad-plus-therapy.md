@@ -209,8 +209,11 @@ To be clear: **no clinical trial has tested the GLP-1 + NAD+ combination.** The 
 <div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Nasal spray, injection, or tablets — or a bundle with all three. Licensed U.S. providers and pharmacies.</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095" target="_blank" style="background: #f5f5f4; border: 2px solid #e7e5e4; border-radius: 14px; padding: 20px; text-decoration: none; display: flex; align-items: center; justify-content: center; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
-<div style="font-weight: 700; color: #44403c; font-size: 1rem; text-align: center;">See All Formats & Pricing &rarr;</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" style="background: #ffffff; border: 2px solid #0891b2; border-radius: 14px; padding: 20px; text-decoration: none; display: block; box-shadow: 0 1px 3px rgba(28,25,23,0.04);">
+<div style="font-size: 0.7rem; background: #0891b2; color: white; padding: 3px 10px; border-radius: 12px; display: inline-block; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 10px;">Also Offers NAD+</div>
+<div style="font-weight: 700; color: #1c1917; font-size: 1.05rem; margin-bottom: 4px;">ShedRx</div>
+<div style="color: #0891b2; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px;">NAD+ available</div>
+<div style="color: #78716c; font-size: 0.8rem; line-height: 1.5;">Health coaching included, 120-day guarantee, GLP-1 + longevity under one roof</div>
 </a>
 
 </div>
