@@ -1,0 +1,35 @@
+<footer class="site-footer print:hidden">
+  <div class="site-footer__inner">
+    <div>
+      <div class="footer-brand">GLP-1 for Wellness</div>
+      <p class="footer-desc">Independent, evidence-based guides on GLP-1 medications' benefits beyond weight loss. Written to help you make informed decisions with your healthcare provider.</p>
+    </div>
+    <div>
+      <div class="footer-heading">Guides</div>
+      <ul class="footer-links">
+        <li><a href="/conditions/">All Conditions</a></li>
+        <li><a href="/peptides/">Peptides</a></li>
+        <li><a href="/articles/best-telehealth-glp1/">Telehealth Comparison</a></li>
+        <li><a href="/resources/">Resources</a></li>
+      </ul>
+    </div>
+    <div>
+      <div class="footer-heading">Site</div>
+      <ul class="footer-links">
+        <li><a href="/articles/about/">About</a></li>
+        <li><a href="mailto:contact@glp1forwellness.com">contact@glp1forwellness.com</a></li>
+        {{ range .Site.Menus.footer }}
+          <li><a href="{{ .URL }}" title="{{ .Title }}">{{ .Name | markdownify | emojify }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-copy">&copy; {{ now.Format "2006" }} GLP-1 for Wellness</div>
+    <div class="footer-disclosure">Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</div>
+  </div>
+  {{/* Extend footer hook (mobile CTA) */}}
+  {{ if templates.Exists "_partials/extend-footer.html" }}
+    {{ partial "extend-footer.html" . }}
+  {{ end }}
+</footer>

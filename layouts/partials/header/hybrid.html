@@ -1,0 +1,65 @@
+<header class="site-header print:hidden">
+  <nav class="site-header__inner">
+    {{ partial "logo.html" . }}
+    {{ if or .Site.Menus.main (.Site.Params.enableSearch | default false) }}
+      {{/* Desktop nav */}}
+      <div class="nav-links">
+        {{ range .Site.Menus.main }}
+          <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name | markdownify | emojify }}</a>
+        {{ end }}
+        {{ if .Site.Params.enableSearch | default false }}
+          <button
+            id="search-button-0"
+            class="nav-search"
+            title="{{ i18n "search.open_button_title" }}"
+            aria-label="{{ i18n "search.open_button_title" }}"
+          >
+            {{ partial "icon.html" "search" }}
+          </button>
+        {{ end }}
+      </div>
+      {{/* Hamburger menu (mobile) — IDs coupled to menu.js / theme CSS */}}
+      <label id="menu-button" for="menu-controller" class="nav-burger block sm:hidden">
+        <input type="checkbox" id="menu-controller" class="hidden" />
+        <div class="cursor-pointer hover:text-primary-600">
+          {{ partial "icon.html" "bars" }}
+        </div>
+        <div
+          id="menu-wrapper"
+          class="invisible fixed inset-0 z-30 m-auto h-full w-full cursor-default overflow-auto bg-neutral-100/50 opacity-0 backdrop-blur-sm transition-opacity"
+        >
+          <ul
+            class="mx-auto flex w-full max-w-7xl list-none flex-col overflow-visible px-6 py-6 text-end"
+          >
+            <li class="mb-1">
+              <span class="cursor-pointer hover:text-primary-600"
+                >{{ partial "icon.html" "xmark" }}</span
+              >
+            </li>
+            {{ range .Site.Menus.main }}
+              <li class="group mb-1">
+                <a href="{{ .URL }}" title="{{ .Title }}" onclick="close_menu()"
+                  ><span
+                    class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
+                    >{{ .Name | markdownify | emojify }}</span
+                  ></a
+                >
+              </li>
+            {{ end }}
+            {{ if .Site.Params.enableSearch | default false }}
+              <li class="group mb-1">
+                <button id="search-button-m0" title="{{ i18n "search.open_button_title" }}">
+                  <span
+                    class="group-dark:hover:text-primary-400 transition-colors group-hover:text-primary-600"
+                  >
+                    {{ partial "icon.html" "search" }}
+                  </span>
+                </button>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+      </label>
+    {{ end }}
+  </nav>
+</header>

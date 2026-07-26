@@ -76,6 +76,7 @@ buildFuture = false
 
   # Article settings
   [params.article]
+    showBreadcrumbs = true
     showTableOfContents = false
     showRelatedContent = true
     showTaxonomies = false
@@ -97,7 +98,7 @@ buildFuture = false
 
   # Homepage settings
   [params.homepage]
-    layout = "page"
+    layout = "custom"
     showRecent = false
     showRecentItems = 0
     showMoreLink = false
