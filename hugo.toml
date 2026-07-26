@@ -54,7 +54,7 @@ buildFuture = false
   enableCodeCopy = true
 
   # Main sections for recent content
-  mainSections = ["conditions", "articles"]
+  mainSections = ["conditions", "articles", "peptides"]
 
   # Robots
   robots = "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -136,6 +136,12 @@ buildFuture = false
     name = "Telehealth"
     url = "/articles/best-telehealth-glp1/"
     weight = 20
+
+  [[menu.main]]
+    identifier = "peptides"
+    name = "Peptides"
+    url = "/peptides/"
+    weight = 25
 
   [[menu.main]]
     identifier = "resources"
