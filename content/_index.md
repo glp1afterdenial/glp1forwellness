@@ -311,11 +311,11 @@ Beyond Weight Loss
 <td class="cta-cell"><a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="btn--table btn--table-outline">Visit ShedRx</a></td>
 </tr>
 <tr>
-<td><span class="provider-name">SkinnyRx</span> <span class="provider-tag tag--options">Most Options</span></td>
-<td class="price-cell">$199<small>/mo</small></td>
-<td><ul class="features-list"><li><span class="check-icon">✓</span> Injectable option</li><li><span class="check-icon">✓</span> Tablet option</li><li><span class="check-icon">✓</span> Sublingual option</li></ul></td>
-<td><div class="best-for">Want alternatives to injections</div></td>
-<td class="cta-cell"><a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="btn--table btn--table-outline">Visit SkinnyRx</a></td>
+<td><span class="provider-name">YourEra Health</span> <span class="provider-tag tag--options">Own Pharmacy</span></td>
+<td class="price-cell">$99<small>/mo</small></td>
+<td><ul class="features-list"><li><span class="check-icon">✓</span> Owned pharmacy</li><li><span class="check-icon">✓</span> LegitScript certified</li><li><span class="check-icon">✓</span> Klarna available</li></ul></td>
+<td><div class="best-for">Physician-led, fast fulfillment</div></td>
+<td class="cta-cell"><a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="btn--table btn--table-outline">Visit YourEra</a></td>
 </tr>
 </tbody>
 </table>

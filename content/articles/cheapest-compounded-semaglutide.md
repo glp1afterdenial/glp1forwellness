@@ -97,7 +97,7 @@ We ranked seven platforms by **realistic ongoing monthly cost** — not the teas
 | 3 | **Ro** | $149-249 | $0 | Price rises with dose |
 | 4 | **ShedRx** | $159 | $0 | 120-day money-back guarantee, coaching included |
 | 5 | **Mochi Health** | $178 | $79 (included in total) | $99 med, flat across all doses |
-| 6 | **SkinnyRx** | $199 | $0 | Injectable, tablet, or sublingual |
+| 6 | **YourEra Health** | $99-179 | $0 | Own pharmacy, LegitScript certified, Klarna |
 | 7 | **Henry Meds** | $199-297 | Consult fee $49-99 | Prepay lowers monthly rate |
 
 ### 1. Gala — $129/month (Cheapest Overall)
@@ -114,15 +114,15 @@ A large, well-established platform. Entry pricing starts around $149/month, but 
 
 ### 4. [ShedRx](https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095) — $159/month
 
-Flat $159/month with no membership fee, health coaching included, and the strongest guarantee on this list: **120 days money-back**. ShedRx also offers GLP-1 drops and lozenges if you want a needle-free option at a lower price point than SkinnyRx.
+Flat $159/month with no membership fee, health coaching included, and the strongest guarantee on this list: **120 days money-back**. ShedRx also offers GLP-1 drops and lozenges if you want a needle-free option at a lower price point than some competitors.
 
 ### 5. Mochi Health — $178/month effective
 
 Mochi advertises "$99/month semaglutide," but that's the medication only — the required membership is $79/month, making the real cost $178. To their credit, the $99 medication price is **flat across all doses** (0.25mg to 2.5mg weekly), so your price never climbs as you titrate. Predictable, just not as cheap as the headline.
 
-### 6. SkinnyRx — $199/month
+### 6. YourEra Health — $99-179/month
 
-The most expensive of our recommended platforms, but the only one offering **injectable, tablet, or sublingual** semaglutide — worth the premium if you want to avoid needles.
+YourEra owns their pharmacy (Galleria Medical Pharmacy), is **LegitScript certified**, and is led by Dr. Tom Lavin (30+ years in medicine). The $99/month rate requires a 6-month plan; month-to-month is $179/month after a $149 first month. Klarna buy-now-pay-later available. Coverage in all 50 states with under 48-hour fulfillment.
 
 ### 7. Henry Meds — $199-297/month
 
@@ -159,11 +159,11 @@ A well-known name with flat-rate pricing commonly around $297/month for compound
 <div class="offer-card__desc">120-day guarantee, health coaching, drops & lozenges available</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
-<div class="offer-card__badge">No Needles</div>
-<div class="offer-card__name">SkinnyRx</div>
-<div class="offer-card__price">From $199/mo</div>
-<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Own Pharmacy</div>
+<div class="offer-card__name">YourEra Health</div>
+<div class="offer-card__price">From $99/mo</div>
+<div class="offer-card__desc">Physician-led, owned pharmacy, LegitScript certified, Klarna available</div>
 </a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026): Full Comparison <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes: A Common Qualifying Condition <span class="tx-green">→</span></a>
 <a href="/resources/glp1-muscle-loss/" class="link-card">How to Preserve Muscle on GLP-1s <span class="tx-green">→</span></a>

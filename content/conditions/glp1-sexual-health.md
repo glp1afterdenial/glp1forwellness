@@ -269,11 +269,11 @@ Many telehealth platforms now offer sexual health programs designed to work alon
 <div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
-<div class="offer-card__badge">Insurance Friendly</div>
-<div class="offer-card__name">SkinnyRx</div>
-<div class="offer-card__price">From $199/mo</div>
-<div class="offer-card__desc">Insurance billing available, brand-name and compounded options</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Own Pharmacy</div>
+<div class="offer-card__name">YourEra Health</div>
+<div class="offer-card__price">From $99/mo</div>
+<div class="offer-card__desc">Physician-led, owned pharmacy, LegitScript certified, Klarna available</div>
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>

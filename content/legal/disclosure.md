@@ -14,7 +14,7 @@ We currently have affiliate relationships with:
 - Oak Loves You
 - Gala Health
 - ShedRx
-- SkinnyRx
+- YourEra Health
 - Bodybuilding Health+
 - Strut Health
 - Telos Rx

@@ -34,7 +34,7 @@ layout: "simple"
 <div class="guide-card__icon guide-card__icon--green">⭐</div>
 <div>
 <div class="guide-card__title">Best Telehealth Platforms for GLP-1 Prescriptions</div>
-<p class="guide-card__desc">Side-by-side comparison of Oak, Gala, ShedRx, and SkinnyRx — pricing, legitimacy, and which ones are worth it</p>
+<p class="guide-card__desc">Side-by-side comparison of Oak, Gala, ShedRx, and YourEra — pricing, legitimacy, and which ones are worth it</p>
 <span class="guide-card__arrow">Compare GLP-1 platforms →</span>
 </div>
 </a>

@@ -162,7 +162,7 @@ Message your provider to adjust dosing or report side effects
 <div class="guide-card__icon guide-card__icon--blue">💊</div>
 <div>
 <div class="guide-card__title">Compare GLP-1 Telehealth Platforms</div>
-<p class="guide-card__desc">Oak, Gala, ShedRx, SkinnyRx — compounded semaglutide and tirzepatide from $129/mo, no insurance needed</p>
+<p class="guide-card__desc">Oak, Gala, ShedRx, YourEra — compounded semaglutide and tirzepatide from $99/mo, no insurance needed</p>
 <span class="guide-card__arrow">Compare platforms →</span>
 </div>
 </a>

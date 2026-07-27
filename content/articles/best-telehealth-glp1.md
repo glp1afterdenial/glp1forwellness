@@ -65,7 +65,7 @@ keywords: ["best telehealth GLP-1", "compounded semaglutide telehealth", "cheape
       "name": "Are there non-injection GLP-1 options through telehealth?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. SkinnyRx offers semaglutide and tirzepatide in tablet and sublingual (under-the-tongue) forms starting at $199/month. Keep in mind that oral absorption differs from injection, and the injectable route remains the best-studied. If needles are the only thing stopping you, these are worth a look."
+        "text": "Yes. ShedRx offers GLP-1 drops and lozenges as needle-free alternatives. YourEra Health also provides compounded semaglutide from $99/month with their own pharmacy. Keep in mind that oral and sublingual absorption differs from injection, and the injectable route remains the best-studied."
       }
     },
     {
@@ -120,7 +120,7 @@ keywords: ["best telehealth GLP-1", "compounded semaglutide telehealth", "cheape
 | **[Oak Loves You](https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095)** | $133/mo (sema), $199/mo (tirz) | Compounded semaglutide & tirzepatide | Free coaching, same-day approval, price matching, all 50 states |
 | **[Gala](https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095)** | $129/mo sema, $179/mo tirz | Compounded semaglutide & tirzepatide | Cheapest tirzepatide, free coaching & dietitian, $0 membership |
 | **[ShedRx](https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095)** | $159/mo | Compounded semaglutide & tirzepatide (injections, drops, lozenges) | Health coaching included, 120-day money-back guarantee |
-| **[SkinnyRx](https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290)** | $199/mo (injectable or sublingual) | Semaglutide & tirzepatide (injectable, tablet, sublingual) | Most options — tablets & sublingual for no-injection needed |
+| **[YourEra Health](https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095)** | From $99/mo (6-month plan) | Compounded semaglutide & tirzepatide | Own pharmacy, physician-led, LegitScript certified, Klarna |
 
 <div class="p-note"><strong class="tx-ink">All platforms include:</strong> Licensed provider consultation, prescription, medication shipped to your door. No insurance required.</div>
 
@@ -149,11 +149,11 @@ keywords: ["best telehealth GLP-1", "compounded semaglutide telehealth", "cheape
 <div class="offer-card__desc">Health coaching included, 120-day guarantee, drops & lozenges available</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
-<div class="offer-card__badge">Most Options</div>
-<div class="offer-card__name">SkinnyRx</div>
-<div class="offer-card__price">From $199/mo</div>
-<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Own Pharmacy</div>
+<div class="offer-card__name">YourEra Health</div>
+<div class="offer-card__price">From $99/mo</div>
+<div class="offer-card__desc">Physician-led, owned pharmacy, LegitScript certified, Klarna available</div>
 </a>
 
 </div>
@@ -389,7 +389,7 @@ Yes, and it's common. Tell your telehealth provider your current medication and 
 
 **Are there non-injection GLP-1 options through telehealth?**
 
-Yes. SkinnyRx offers semaglutide and tirzepatide in tablet and sublingual (under-the-tongue) forms starting at $199/month. Keep in mind that oral absorption differs from injection, and the injectable route remains the best-studied. If needles are the only thing stopping you, these are worth a look.
+Yes. ShedRx offers GLP-1 drops and lozenges as needle-free alternatives. YourEra Health also provides compounded semaglutide from $99/month with their own pharmacy. Keep in mind that oral and sublingual absorption differs from injection, and the injectable route remains the best-studied.
 
 </div>
 

@@ -432,14 +432,14 @@ These platforms use FDA-registered compounding pharmacies and include medical ov
 </div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="link-card link-card--lg">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="link-card link-card--lg">
 <div class="row-between">
 <div>
-<div class="offer-card__name">SkinnyRx</div>
-<div class="p-note">Injectable, tablet, or sublingual options. Good if you want needle-free.</div>
+<div class="offer-card__name">YourEra Health</div>
+<div class="p-note">Physician-led, owned pharmacy, LegitScript certified, Klarna available.</div>
 </div>
 <div class="u-right">
-<div class="tx-ink-bold">From $199/mo</div>
+<div class="tx-ink-bold">From $99/mo</div>
 <div class="tx-green-sm">Visit Site</div>
 </div>
 </div>

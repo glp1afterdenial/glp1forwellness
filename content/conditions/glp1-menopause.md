@@ -393,11 +393,11 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="offer-card__desc">Lowest starting price, free provider consultations</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
-<div class="offer-card__badge">Most Options</div>
-<div class="offer-card__name">SkinnyRx</div>
-<div class="offer-card__price">From $199/mo</div>
-<div class="offer-card__desc">Injectable, tablet, or sublingual options</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Own Pharmacy</div>
+<div class="offer-card__name">YourEra Health</div>
+<div class="offer-card__price">From $99/mo</div>
+<div class="offer-card__desc">Physician-led, owned pharmacy, LegitScript certified, Klarna available</div>
 </a>
 
 <a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
