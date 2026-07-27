@@ -195,7 +195,7 @@ If you want to try sermorelin without injections, Strut is the play. Their oral 
 **Best for:** People who want sermorelin but won't do needles, or anyone who wants the lowest possible entry into peptide therapy.
 
 <div class="offer-grid">
-<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=11666" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=11666" target="_blank" class="offer-card offer-card--purple">
 <div class="offer-card__badge">No Needles</div>
 <div class="offer-card__name">Strut Health</div>
 <div class="offer-card__price">Oral sermorelin $99/mo</div>

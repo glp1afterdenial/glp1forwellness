@@ -415,7 +415,7 @@ The proven prescription options are **minoxidil** (oral or topical — extends t
 
 You don't need a separate dermatology visit to start. Two telehealth platforms we've researched offer provider-prescribed hair treatment:
 
-- **[Strut Health](https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=6350)** — a compounding-focused telehealth pharmacy with separate [women's](https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=6350) and [men's](https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=6349) hair programs. Their formulas are customizable — a physician adjusts ingredients based on your history — and pricing starts lower than most competitors (finasteride tablets from $25/month for men; the women's multi-ingredient topical formula runs $59/month).
+- **[Strut Health](https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=6350)** — a compounding-focused telehealth pharmacy with separate [women's](https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=6350) and [men's](https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=6506) hair programs. Their formulas are customizable — a physician adjusts ingredients based on your history — and pricing starts lower than most competitors (finasteride tablets from $25/month for men; the women's multi-ingredient topical formula runs $59/month).
 - **[ShedRx](https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095)** — the same platform that prescribes GLP-1s also runs a hair program, convenient if you want one provider managing both your weight loss medication and the hair side effect it can trigger.
 
 <div class="callout">
@@ -442,14 +442,14 @@ The process is fully online: health intake → licensed provider review → medi
 
 <div class="offer-grid">
 
-<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=6350" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=6350" target="_blank" class="offer-card offer-card--purple">
 <div class="offer-card__badge">Women's Hair Rx</div>
 <div class="offer-card__name">Strut Health — Women</div>
 <div class="offer-card__price">From $49/mo</div>
 <div class="offer-card__desc">Customizable spironolactone + minoxidil + tretinoin topical formula, oral options available</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=6349" target="_blank" class="offer-card offer-card--blue">
+<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=6506" target="_blank" class="offer-card offer-card--blue">
 <div class="offer-card__badge">Men's Hair Rx</div>
 <div class="offer-card__name">Strut Health — Men</div>
 <div class="offer-card__price">From $25/mo</div>

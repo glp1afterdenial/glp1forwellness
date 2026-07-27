@@ -185,7 +185,7 @@ The practical bottom line: sermorelin gives you 70-80% of what HGH does for body
 **Oral lozenge (troche)**
 - Dissolves in the mouth, absorbing partly through the oral mucosa — bypasses some of the gut-absorption loss of swallowed tablets
 - Typical protocol: once daily for 5 days on, 2 days off
-- The cheapest entry point we've found: [Strut Health's oral sermorelin](https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=11666) runs $99/month (30 lozenges), provider-prescribed with monthly delivery
+- The cheapest entry point we've found: [Strut Health's oral sermorelin](https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=11666) runs $99/month (30 lozenges), provider-prescribed with monthly delivery
 
 All three work. Injection is considered the gold standard; tablets and lozenges suit people who won't do needles or want simplicity. Some programs offer 1-month injection starts followed by oral maintenance, or 3-month bundles.
 
@@ -217,7 +217,7 @@ All three work. Injection is considered the gold standard; tablets and lozenges 
 <div class="offer-card__desc">Provider-reviewed intake — pay nothing if not approved. FSA/HSA eligible, free 2-day shipping</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=11666" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=11666" target="_blank" class="offer-card offer-card--purple">
 <div class="offer-card__badge">No Needles</div>
 <div class="offer-card__name">Strut Health</div>
 <div class="offer-card__price">Oral sermorelin from $99/mo</div>

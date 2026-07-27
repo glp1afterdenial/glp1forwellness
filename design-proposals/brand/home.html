@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GLP-1 for Wellness — Benefits Beyond Weight Loss</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ===== RESET & BASE ===== */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{
+  font-family:'Inter',system-ui,-apple-system,sans-serif;
+  background:#0a0a0f;
+  color:#e4e4ec;
+  line-height:1.6;
+  overflow-x:hidden;
+  -webkit-font-smoothing:antialiased;
+}
+a{text-decoration:none;color:inherit}
+ul{list-style:none}
+img{max-width:100%;display:block}
+
+/* ===== DESIGN TOKENS ===== */
+:root{
+  --font-display:'Space Grotesk','Inter',system-ui,sans-serif;
+  --font-body:'Inter',system-ui,sans-serif;
+
+  /* Signature palette: deep midnight + electric teal + warm coral accent */
+  --bg-deep:#0a0a0f;
+  --bg-surface:#12121a;
+  --bg-card:#181825;
+  --bg-card-hover:#1e1e2e;
+  --bg-glass:rgba(24,24,37,0.6);
+
+  --border-subtle:rgba(255,255,255,0.06);
+  --border-medium:rgba(255,255,255,0.1);
+  --border-accent:rgba(94,234,212,0.25);
+
+  --text-primary:#f0f0f8;
+  --text-secondary:#9494a8;
+  --text-muted:#5c5c72;
+
+  --teal:#5eead4;
+  --teal-bright:#2dd4bf;
+  --teal-dim:rgba(94,234,212,0.12);
+  --coral:#fb7185;
+  --coral-dim:rgba(251,113,133,0.12);
+  --violet:#a78bfa;
+  --violet-dim:rgba(167,139,250,0.12);
+  --amber:#fbbf24;
+  --amber-dim:rgba(251,191,36,0.12);
+  --blue:#60a5fa;
+  --blue-dim:rgba(96,165,250,0.12);
+
+  --radius-sm:8px;
+  --radius-md:14px;
+  --radius-lg:20px;
+  --radius-xl:28px;
+  --radius-pill:999px;
+
+  --shadow-glow:0 0 60px rgba(94,234,212,0.08);
+  --shadow-card:0 2px 8px rgba(0,0,0,0.3),0 8px 32px rgba(0,0,0,0.2);
+  --shadow-card-hover:0 4px 16px rgba(0,0,0,0.4),0 16px 48px rgba(0,0,0,0.3);
+}
+
+/* ===== LAYOUT ===== */
+.container{max-width:1200px;margin:0 auto;padding:0 24px}
+.container--narrow{max-width:800px}
+
+/* ===== SITE HEADER ===== */
+.site-header{
+  position:sticky;top:0;z-index:100;
+  background:rgba(10,10,15,0.8);
+  backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
+  border-bottom:1px solid var(--border-subtle);
+}
+.site-header__inner{
+  display:flex;align-items:center;justify-content:space-between;
+  max-width:1200px;margin:0 auto;padding:0 24px;
+  height:64px;
+}
+.wordmark{
+  font-family:var(--font-display);font-weight:700;font-size:1.15rem;
+  color:var(--text-primary);display:flex;align-items:center;gap:10px;
+}
+.wordmark__icon{
+  width:32px;height:32px;border-radius:8px;
+  background:linear-gradient(135deg,var(--teal),#06b6d4);
+  display:flex;align-items:center;justify-content:center;
+}
+.site-nav{display:flex;align-items:center;gap:4px}
+.site-nav a{
+  font-size:0.875rem;font-weight:500;color:var(--text-secondary);
+  padding:8px 14px;border-radius:var(--radius-pill);
+  transition:color 0.2s,background 0.2s;
+}
+.site-nav a:hover{color:var(--text-primary);background:rgba(255,255,255,0.05)}
+.nav-toggle{display:none;background:none;border:none;color:var(--text-primary);cursor:pointer;padding:8px}
+
+/* ===== HERO ===== */
+.hero{
+  position:relative;overflow:hidden;
+  padding:80px 24px 100px;
+  text-align:center;
+}
+.hero__mesh{
+  position:absolute;inset:0;pointer-events:none;opacity:0.7;
+}
+.hero__content{position:relative;z-index:2;max-width:720px;margin:0 auto}
+.hero__badge{
+  display:inline-flex;align-items:center;gap:6px;
+  font-family:var(--font-display);font-size:0.75rem;font-weight:600;
+  color:var(--teal);letter-spacing:0.1em;text-transform:uppercase;
+  background:var(--teal-dim);border:1px solid var(--border-accent);
+  padding:6px 18px;border-radius:var(--radius-pill);
+  margin-bottom:24px;
+  animation:fadeSlideUp 0.6s ease-out both;
+}
+.hero__badge::before{
+  content:'';width:6px;height:6px;border-radius:50%;
+  background:var(--teal);
+  animation:pulse 2s ease-in-out infinite;
+}
+.hero__title{
+  font-family:var(--font-display);font-weight:700;
+  font-size:clamp(2.5rem,7vw,4.25rem);
+  line-height:1.05;letter-spacing:-0.03em;
+  color:var(--text-primary);
+  margin-bottom:20px;
+  animation:fadeSlideUp 0.6s 0.1s ease-out both;
+}
+.hero__title em{
+  font-style:normal;
+  background:linear-gradient(135deg,var(--teal),#06b6d4,var(--violet));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  background-clip:text;
+}
+.hero__sub{
+  font-size:1.125rem;line-height:1.7;color:var(--text-secondary);
+  max-width:560px;margin:0 auto 36px;
+  animation:fadeSlideUp 0.6s 0.2s ease-out both;
+}
+.hero__cta{
+  display:inline-flex;align-items:center;gap:8px;
+  font-family:var(--font-display);font-weight:600;font-size:1rem;
+  color:#0a0a0f;padding:14px 32px;border-radius:var(--radius-pill);
+  background:linear-gradient(135deg,var(--teal),#2dd4bf);
+  box-shadow:0 4px 20px rgba(94,234,212,0.3);
+  transition:transform 0.2s,box-shadow 0.2s;
+  animation:fadeSlideUp 0.6s 0.3s ease-out both;
+}
+.hero__cta:hover{
+  transform:translateY(-2px);
+  box-shadow:0 8px 30px rgba(94,234,212,0.4);
+}
+.hero__cta svg{transition:transform 0.2s}
+.hero__cta:hover svg{transform:translateX(3px)}
+
+/* ===== SECTION ===== */
+.section{padding:80px 24px}
+.section--tight{padding:40px 24px 80px}
+.section__label{
+  font-family:var(--font-display);font-size:0.75rem;font-weight:600;
+  color:var(--teal);letter-spacing:0.1em;text-transform:uppercase;
+  text-align:center;margin-bottom:12px;
+}
+.section__title{
+  font-family:var(--font-display);font-weight:700;
+  font-size:clamp(1.75rem,4vw,2.5rem);
+  line-height:1.1;letter-spacing:-0.02em;
+  color:var(--text-primary);text-align:center;
+  margin-bottom:48px;
+}
+
+/* ===== BENTO GRID ===== */
+.bento{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:16px;max-width:1100px;margin:0 auto;
+}
+.bento-card{
+  position:relative;overflow:hidden;
+  background:var(--bg-card);
+  border:1px solid var(--border-subtle);
+  border-radius:var(--radius-lg);
+  padding:28px;
+  transition:border-color 0.25s,transform 0.25s,box-shadow 0.25s;
+  display:flex;flex-direction:column;gap:10px;
+}
+.bento-card:hover{
+  border-color:var(--border-accent);
+  transform:translateY(-3px);
+  box-shadow:var(--shadow-glow);
+}
+.bento-card--featured{
+  grid-column:span 2;
+  background:linear-gradient(135deg,rgba(94,234,212,0.06) 0%,rgba(167,139,250,0.04) 100%);
+  border-color:var(--border-accent);
+}
+.bento-card--tall{grid-row:span 2;justify-content:space-between}
+.bento-card__icon{
+  width:44px;height:44px;border-radius:12px;
+  display:flex;align-items:center;justify-content:center;
+  flex-shrink:0;
+}
+.bento-card__icon--teal{background:var(--teal-dim)}
+.bento-card__icon--coral{background:var(--coral-dim)}
+.bento-card__icon--violet{background:var(--violet-dim)}
+.bento-card__icon--amber{background:var(--amber-dim)}
+.bento-card__icon--blue{background:var(--blue-dim)}
+.bento-card__title{
+  font-family:var(--font-display);font-weight:600;font-size:1.05rem;
+  color:var(--text-primary);
+}
+.bento-card__desc{
+  font-size:0.875rem;color:var(--text-secondary);line-height:1.55;
+}
+.bento-card__arrow{
+  position:absolute;top:24px;right:24px;
+  color:var(--text-muted);transition:color 0.2s,transform 0.2s;
+}
+.bento-card:hover .bento-card__arrow{
+  color:var(--teal);transform:translate(2px,-2px);
+}
+
+/* ===== WHY SECTION (glass panels) ===== */
+.why-grid{
+  display:grid;grid-template-columns:1fr 1fr;
+  gap:20px;max-width:900px;margin:0 auto;
+}
+.why-card{
+  background:var(--bg-glass);
+  backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+  border:1px solid var(--border-subtle);
+  border-radius:var(--radius-lg);
+  padding:32px;
+}
+.why-card--full{grid-column:span 2}
+.why-card__heading{
+  font-family:var(--font-display);font-weight:600;font-size:1.1rem;
+  color:var(--teal);margin-bottom:14px;
+  display:flex;align-items:center;gap:8px;
+}
+.why-card__heading--coral{color:var(--coral)}
+.why-card p{color:var(--text-secondary);line-height:1.7;font-size:0.95rem}
+.why-card strong{color:var(--text-primary);font-weight:600}
+.problem-list{display:flex;flex-direction:column;gap:10px;margin-top:12px}
+.problem-item{
+  display:flex;align-items:center;gap:12px;
+  color:var(--text-secondary);font-size:0.95rem;
+}
+.problem-item .x{color:var(--coral);font-weight:700;font-size:1.1rem}
+.why-card__strong{
+  color:var(--text-primary);font-weight:600;font-size:1rem;
+  margin-top:16px;line-height:1.6;
+}
+
+/* ===== NAV CARDS (CTAs) ===== */
+.cta-grid{
+  display:grid;grid-template-columns:repeat(3,1fr);
+  gap:16px;max-width:900px;margin:0 auto;
+}
+.cta-card{
+  position:relative;
+  background:var(--bg-card);
+  border:1px solid var(--border-subtle);
+  border-radius:var(--radius-lg);
+  padding:32px 24px;
+  text-align:center;
+  transition:border-color 0.25s,transform 0.25s,box-shadow 0.25s;
+}
+.cta-card:hover{
+  border-color:var(--border-accent);transform:translateY(-3px);
+  box-shadow:var(--shadow-glow);
+}
+.cta-card--primary{border-color:var(--border-accent);background:linear-gradient(180deg,rgba(94,234,212,0.06),transparent)}
+.cta-card__badge{
+  position:absolute;top:-11px;left:50%;transform:translateX(-50%);
+  background:linear-gradient(135deg,var(--teal),#06b6d4);color:#0a0a0f;
+  font-family:var(--font-display);font-size:0.65rem;font-weight:700;
+  padding:4px 14px;border-radius:var(--radius-pill);
+  text-transform:uppercase;letter-spacing:0.05em;white-space:nowrap;
+}
+.cta-card__icon{
+  width:52px;height:52px;border-radius:14px;margin:0 auto 16px;
+  background:var(--teal-dim);
+  display:flex;align-items:center;justify-content:center;
+}
+.cta-card__title{
+  font-family:var(--font-display);font-weight:600;font-size:1rem;
+  color:var(--text-primary);margin-bottom:4px;
+}
+.cta-card--primary .cta-card__title{color:var(--teal)}
+.cta-card__desc{font-size:0.8rem;color:var(--text-secondary)}
+
+/* ===== TRUST SECTION ===== */
+.trust{
+  max-width:700px;margin:0 auto;
+  background:var(--bg-glass);
+  backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+  border:1px solid var(--border-subtle);
+  border-radius:var(--radius-lg);
+  padding:40px;text-align:center;
+}
+.trust p{color:var(--text-secondary);line-height:1.7;font-size:0.95rem}
+.trust strong{color:var(--teal)}
+.trust__link{
+  display:inline-flex;align-items:center;gap:6px;
+  color:var(--teal);font-weight:600;font-size:0.95rem;
+  margin-top:14px;transition:gap 0.2s;
+}
+.trust__link:hover{gap:10px}
+
+/* ===== FOOTER ===== */
+.site-footer{
+  border-top:1px solid var(--border-subtle);
+  padding:40px 24px;text-align:center;
+  color:var(--text-muted);font-size:0.85rem;
+}
+.site-footer a{color:var(--teal);transition:color 0.2s}
+.site-footer a:hover{color:var(--teal-bright)}
+.footer__disc{font-style:italic;margin-top:12px;font-size:0.8rem}
+
+/* ===== ANIMATIONS ===== */
+@keyframes fadeSlideUp{
+  from{opacity:0;transform:translateY(16px)}
+  to{opacity:1;transform:translateY(0)}
+}
+@keyframes pulse{
+  0%,100%{opacity:1}50%{opacity:0.4}
+}
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:0.01ms!important;transition-duration:0.01ms!important}
+}
+
+/* ===== FOCUS ===== */
+a:focus-visible,button:focus-visible{
+  outline:2px solid var(--teal);outline-offset:2px;border-radius:4px;
+}
+
+/* ===== RESPONSIVE ===== */
+@media(max-width:900px){
+  .bento{grid-template-columns:repeat(2,1fr)}
+  .bento-card--featured{grid-column:span 2}
+  .bento-card--tall{grid-row:auto}
+  .cta-grid{grid-template-columns:1fr}
+  .why-grid{grid-template-columns:1fr}
+  .why-card--full{grid-column:auto}
+}
+@media(max-width:640px){
+  .hero{padding:56px 20px 72px}
+  .hero__title{font-size:clamp(2rem,8vw,3rem)}
+  .hero__sub{font-size:1rem}
+  .section{padding:56px 16px}
+  .bento{grid-template-columns:1fr;gap:12px}
+  .bento-card--featured{grid-column:auto}
+  .bento-card{padding:22px}
+  .site-nav{display:none}
+  .site-nav.open{
+    display:flex;flex-direction:column;
+    position:absolute;top:64px;left:0;right:0;
+    background:rgba(10,10,15,0.96);
+    backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
+    border-bottom:1px solid var(--border-subtle);
+    padding:12px 24px 20px;gap:2px;
+  }
+  .site-nav.open a{padding:12px 16px;border-radius:var(--radius-md)}
+  .nav-toggle{display:block}
+  .why-grid{gap:12px}
+  .why-card{padding:24px}
+  .trust{padding:28px 20px}
+  .cta-grid{gap:12px}
+  .cta-card{padding:24px 20px}
+  .container{padding:0 16px}
+}
+</style>
+</head>
+<body>
+
+<!-- ===== HEADER ===== -->
+<header class="site-header">
+  <div class="site-header__inner">
+    <a href="#" class="wordmark">
+      <span class="wordmark__icon">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#0a0a0f" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M2 12h20"/></svg>
+      </span>
+      GLP-1 for Wellness
+    </a>
+    <nav class="site-nav" id="siteNav">
+      <a href="#">Conditions</a>
+      <a href="#">Peptides</a>
+      <a href="#">Resources</a>
+      <a href="#">About</a>
+    </nav>
+    <button class="nav-toggle" onclick="document.getElementById('siteNav').classList.toggle('open')" aria-label="Toggle navigation">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 12h18M3 6h18M3 18h18"/></svg>
+    </button>
+  </div>
+</header>
+
+<!-- ===== HERO ===== -->
+<section class="hero">
+  <!-- Gradient mesh background -->
+  <svg class="hero__mesh" viewBox="0 0 1440 700" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <radialGradient id="g1" cx="30%" cy="40%" r="50%"><stop offset="0%" stop-color="#5eead4" stop-opacity="0.12"/><stop offset="100%" stop-color="transparent"/></radialGradient>
+      <radialGradient id="g2" cx="70%" cy="60%" r="45%"><stop offset="0%" stop-color="#a78bfa" stop-opacity="0.08"/><stop offset="100%" stop-color="transparent"/></radialGradient>
+      <radialGradient id="g3" cx="80%" cy="20%" r="35%"><stop offset="0%" stop-color="#fb7185" stop-opacity="0.06"/><stop offset="100%" stop-color="transparent"/></radialGradient>
+      <filter id="noise"><feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feBlend in="SourceGraphic" mode="multiply" result="blend"/><feComponentTransfer><feFuncA type="linear" slope="0.08"/></feComponentTransfer></filter>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#g1)"/>
+    <rect width="100%" height="100%" fill="url(#g2)"/>
+    <rect width="100%" height="100%" fill="url(#g3)"/>
+    <rect width="100%" height="100%" filter="url(#noise)" opacity="0.4"/>
+  </svg>
+
+  <div class="hero__content">
+    <span class="hero__badge">Beyond Weight Loss</span>
+    <h1 class="hero__title">GLP-1s Do <em>More</em> Than You Think</h1>
+    <p class="hero__sub">Research shows GLP-1 medications help with inflammation, heart health, liver disease, joint pain, and more. Here's what the science says — and how to access them affordably.</p>
+    <a href="#" class="hero__cta">
+      Explore Conditions
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+    </a>
+  </div>
+</section>
+
+<!-- ===== CONDITION BENTO GRID ===== -->
+<section class="section section--tight">
+  <p class="section__label">Research-Backed Guides</p>
+  <h2 class="section__title">Condition-Specific Guides</h2>
+
+  <div class="bento container">
+    <!-- Featured: Heart (span 2) -->
+    <a href="#" class="bento-card bento-card--featured">
+      <span class="bento-card__arrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      <span class="bento-card__icon bento-card__icon--coral">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fb7185" stroke-width="2" stroke-linecap="round"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/></svg>
+      </span>
+      <span class="bento-card__title">GLP-1s & Heart Health</span>
+      <span class="bento-card__desc">FDA-approved for cardiovascular risk — 20% reduction in heart attacks</span>
+    </a>
+
+    <!-- Tall: Fatty Liver (span 2 rows) -->
+    <a href="#" class="bento-card bento-card--tall">
+      <span class="bento-card__arrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      <div>
+        <span class="bento-card__icon bento-card__icon--teal">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2" stroke-linecap="round"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M9 7h6M9 11h6M9 15h4"/></svg>
+        </span>
+      </div>
+      <div>
+        <span class="bento-card__title">GLP-1s & Fatty Liver</span>
+        <span class="bento-card__desc">FDA-approved for MASH — how GLP-1s reduce liver fat and fibrosis</span>
+      </div>
+    </a>
+
+    <!-- Sleep Apnea -->
+    <a href="#" class="bento-card">
+      <span class="bento-card__arrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      <span class="bento-card__icon bento-card__icon--violet">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#a78bfa" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+      </span>
+      <span class="bento-card__title">GLP-1s & Sleep Apnea</span>
+      <span class="bento-card__desc">FDA-approved — may reduce or replace CPAP</span>
+    </a>
+
+    <!-- Arthritis -->
+    <a href="#" class="bento-card">
+      <span class="bento-card__arrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      <span class="bento-card__icon bento-card__icon--amber">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"><path d="M18 2l-4 4M9 11l-6 6v3h3l6-6M15 5l4 4-9 9-4-4 9-9z"/></svg>
+      </span>
+      <span class="bento-card__title">GLP-1s & Arthritis</span>
+      <span class="bento-card__desc">Joint pain relief from weight loss and direct anti-inflammatory effects</span>
+    </a>
+
+    <!-- Mental Health -->
+    <a href="#" class="bento-card">
+      <span class="bento-card__arrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      <span class="bento-card__icon bento-card__icon--blue">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#60a5fa" stroke-width="2" stroke-linecap="round"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+      </span>
+      <span class="bento-card__title">GLP-1s & Mental Health</span>
+      <span class="bento-card__desc">Depression, anxiety, and neuroprotective effects</span>
+    </a>
+
+    <!-- Lupus -->
+    <a href="#" class="bento-card">
+      <span class="bento-card__arrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      <span class="bento-card__icon bento-card__icon--coral">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fb7185" stroke-width="2" stroke-linecap="round"><path d="M12 2a7 7 0 00-7 7c0 5 7 13 7 13s7-8 7-13a7 7 0 00-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>
+      </span>
+      <span class="bento-card__title">GLP-1s & Lupus</span>
+      <span class="bento-card__desc">Anti-inflammatory effects, prednisone weight gain, safety with immunosuppressants</span>
+    </a>
+
+    <!-- Kidney Disease -->
+    <a href="#" class="bento-card">
+      <span class="bento-card__arrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      <span class="bento-card__icon bento-card__icon--teal">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2" stroke-linecap="round"><path d="M7 3c-1.5 0-3 1.5-3 4s1 4 2 5.5S8 16 8 19c0 1.5.5 2 1.5 2s1.5-.5 1.5-2c0-2-1-3-1-5s1-3 2-3 2 1 2 3-1 3-1 5c0 1.5.5 2 1.5 2s1.5-.5 1.5-2c0-3 1-5.5 2-7s2-3.5 2-5.5S18.5 3 17 3"/></svg>
+      </span>
+      <span class="bento-card__title">GLP-1s & Kidney Disease</span>
+      <span class="bento-card__desc">FDA-approved for diabetic CKD — slowing progression to dialysis</span>
+    </a>
+
+    <!-- PCOS -->
+    <a href="#" class="bento-card">
+      <span class="bento-card__arrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      <span class="bento-card__icon bento-card__icon--violet">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#a78bfa" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12 8v8"/></svg>
+      </span>
+      <span class="bento-card__title">GLP-1s & PCOS</span>
+      <span class="bento-card__desc">Insulin resistance, hormone balance, and fertility considerations</span>
+    </a>
+
+    <!-- Alzheimer's -->
+    <a href="#" class="bento-card">
+      <span class="bento-card__arrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      <span class="bento-card__icon bento-card__icon--amber">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>
+      </span>
+      <span class="bento-card__title">GLP-1s & Alzheimer's</span>
+      <span class="bento-card__desc">40-70% lower risk in observational studies</span>
+    </a>
+
+    <!-- Addiction -->
+    <a href="#" class="bento-card">
+      <span class="bento-card__arrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      <span class="bento-card__icon bento-card__icon--coral">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fb7185" stroke-width="2" stroke-linecap="round"><path d="M17 3H7a2 2 0 00-2 2v14a2 2 0 002 2h10a2 2 0 002-2V5a2 2 0 00-2-2z"/><path d="M12 8v4M12 16h.01"/></svg>
+      </span>
+      <span class="bento-card__title">GLP-1s & Addiction</span>
+      <span class="bento-card__desc">Semaglutide reduces alcohol cravings — Lancet 2026 RCT data</span>
+    </a>
+
+    <!-- Aging -->
+    <a href="#" class="bento-card">
+      <span class="bento-card__arrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      <span class="bento-card__icon bento-card__icon--blue">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#60a5fa" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 4"/></svg>
+      </span>
+      <span class="bento-card__title">GLP-1s & Aging</span>
+      <span class="bento-card__desc">Biological age reduced by 3.1 years on semaglutide</span>
+    </a>
+
+    <!-- Migraines -->
+    <a href="#" class="bento-card">
+      <span class="bento-card__arrow"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg></span>
+      <span class="bento-card__icon bento-card__icon--violet">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#a78bfa" stroke-width="2" stroke-linecap="round"><path d="M9.5 2A5.5 5.5 0 004 7.5c0 3 2 5 5.5 7.5C13 12.5 15 10.5 15 7.5A5.5 5.5 0 009.5 2z"/><path d="M15 7.5c0 3 2 5 5 7.5"/></svg>
+      </span>
+      <span class="bento-card__title">GLP-1s & Migraines</span>
+      <span class="bento-card__desc">Migraine days cut nearly in half — independent of weight loss</span>
+    </a>
+  </div>
+
+  <div style="text-align:center;margin-top:36px">
+    <a href="#" style="display:inline-flex;align-items:center;gap:6px;font-family:var(--font-display);font-weight:600;font-size:0.95rem;color:var(--teal);padding:10px 24px;border-radius:var(--radius-pill);border:1px solid var(--border-accent);background:var(--teal-dim);transition:background 0.2s">
+      Browse all condition guides
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+    </a>
+  </div>
+</section>
+
+<!-- ===== WHY GLP-1s HELP ===== -->
+<section class="section">
+  <p class="section__label">The Science</p>
+  <h2 class="section__title">Why GLP-1s help with more than weight</h2>
+
+  <div class="why-grid">
+    <div class="why-card why-card--full">
+      <div class="why-card__heading">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+        How they work beyond appetite
+      </div>
+      <p><strong>GLP-1 receptor agonists</strong> (like Ozempic, Wegovy, and Zepbound) do more than reduce appetite. They suppress inflammatory pathways (NF-kB), reduce cytokines (TNF-alpha, IL-6), protect kidneys, and have neuroprotective effects. These mechanisms help explain why GLP-1s show benefits for autoimmune conditions, liver disease, sleep apnea, joint pain, and mental health.</p>
+    </div>
+
+    <div class="why-card">
+      <div class="why-card__heading why-card__heading--coral">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M18 6L6 18M6 6l12 12"/></svg>
+        The problem
+      </div>
+      <div class="problem-list">
+        <div class="problem-item"><span class="x">&times;</span> Insurance rarely covers GLP-1s for conditions beyond diabetes and obesity</div>
+        <div class="problem-item"><span class="x">&times;</span> Most doctors don't know about the off-label benefits</div>
+        <div class="problem-item"><span class="x">&times;</span> Brand-name prices are $1,000+/month without coverage</div>
+      </div>
+    </div>
+
+    <div class="why-card">
+      <div class="why-card__heading">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg>
+        The solution
+      </div>
+      <p class="why-card__strong">That's why this site exists. We break down the research and show you how to access GLP-1s affordably through telehealth.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ===== NAV CTA CARDS ===== -->
+<section class="section section--tight">
+  <div class="cta-grid container">
+    <a href="#" class="cta-card cta-card--primary">
+      <span class="cta-card__badge">Start Here</span>
+      <div class="cta-card__icon">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2" stroke-linecap="round"><rect x="3" y="4" width="18" height="14" rx="2"/><path d="M7 8h4M7 11h6"/><circle cx="17" cy="9.5" r="2"/></svg>
+      </div>
+      <span class="cta-card__title">Compare Telehealth</span>
+      <span class="cta-card__desc">GLP-1 prescriptions from $129/mo</span>
+    </a>
+    <a href="#" class="cta-card">
+      <div class="cta-card__icon">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2" stroke-linecap="round"><path d="M12 2v20M6 8l6-6 6 6"/><rect x="4" y="18" width="16" height="3" rx="1"/></svg>
+      </div>
+      <span class="cta-card__title">All Conditions</span>
+      <span class="cta-card__desc">Research-backed guides</span>
+    </a>
+    <a href="#" class="cta-card">
+      <div class="cta-card__icon">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#5eead4" stroke-width="2" stroke-linecap="round"><rect x="7" y="2" width="10" height="16" rx="4"/><path d="M10 22v-4h4v4"/><line x1="10" y1="8" x2="14" y2="8"/></svg>
+      </div>
+      <span class="cta-card__title">Resources</span>
+      <span class="cta-card__desc">Guides & practical info</span>
+    </a>
+  </div>
+</section>
+
+<!-- ===== TRUST ===== -->
+<section class="section">
+  <div class="trust">
+    <p><strong>Independent and research-backed.</strong> This site isn't run by a telehealth company. Every article cites published research and is written to help you make informed decisions with your healthcare provider.</p>
+    <a href="#" class="trust__link">
+      Learn more about this site
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+    </a>
+  </div>
+</section>
+
+<!-- ===== FOOTER ===== -->
+<footer class="site-footer">
+  <p>Questions? <a href="mailto:contact@glp1forwellness.com">contact@glp1forwellness.com</a></p>
+  <p class="footer__disc">Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched.</p>
+</footer>
+
+</body>
+</html>

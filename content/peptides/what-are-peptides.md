@@ -324,7 +324,7 @@ No clinic visits. No waiting rooms. No insurance required.
 <div class="offer-card__desc">NAD+ nasal spray, sermorelin, microdosed tirzepatide, PT-141 — FSA/HSA eligible, free 2-day shipping, pay nothing if not approved</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=11666" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=11666" target="_blank" class="offer-card offer-card--purple">
 <div class="offer-card__badge">No Needles</div>
 <div class="offer-card__name">Strut Health</div>
 <div class="offer-card__price">Oral sermorelin from $99/mo</div>

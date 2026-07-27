@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Design Competition — glp1forwellness</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, 'Inter', sans-serif; background: #0f1117; color: #e2e8f0; line-height: 1.6; }
+  .wrap { max-width: 1400px; margin: 0 auto; padding: 40px 24px 80px; }
+  h1 { font-size: 2rem; letter-spacing: -0.02em; margin-bottom: 4px; }
+  .sub { color: #94a3b8; margin-bottom: 32px; }
+  .verdict { background: #1a1f2e; border: 1px solid #2d3548; border-radius: 16px; padding: 28px 32px; margin-bottom: 48px; }
+  .verdict h2 { font-size: 1.3rem; margin-bottom: 16px; color: #fff; }
+  .rank { display: flex; gap: 14px; align-items: flex-start; padding: 14px 0; border-top: 1px solid #2d3548; }
+  .rank:first-of-type { border-top: none; }
+  .medal { font-size: 1.5rem; width: 40px; flex-shrink: 0; text-align: center; }
+  .rank b { color: #fff; }
+  .rank .tag { display: inline-block; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.05em; padding: 2px 8px; border-radius: 99px; margin-left: 8px; vertical-align: 2px; }
+  .tag-win { background: #14532d; color: #86efac; }
+  .tag-viol { background: #7f1d1d; color: #fca5a5; }
+  .rank p { color: #b6c2d4; font-size: 0.92rem; margin-top: 2px; }
+  .reco { margin-top: 20px; padding: 16px 20px; background: #12241a; border: 1px solid #1e4530; border-radius: 12px; color: #bbf7d0; font-size: 0.95rem; }
+  .reco b { color: #fff; }
+  section { margin-bottom: 64px; }
+  .prop-head { display: flex; align-items: baseline; gap: 14px; margin-bottom: 6px; }
+  .prop-head h2 { font-size: 1.5rem; color: #fff; letter-spacing: -0.01em; }
+  .prop-head .place { font-size: 0.85rem; color: #94a3b8; }
+  .concept { color: #94a3b8; font-size: 0.95rem; margin-bottom: 18px; max-width: 900px; }
+  .shots { display: grid; grid-template-columns: 1fr 1fr 340px 340px; gap: 16px; align-items: start; }
+  @media (max-width: 1100px) { .shots { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 640px) { .shots { grid-template-columns: 1fr; } }
+  figure { background: #1a1f2e; border: 1px solid #2d3548; border-radius: 12px; overflow: hidden; }
+  figure img { display: block; width: 100%; height: 460px; object-fit: cover; object-position: top; transition: height 0.2s; cursor: pointer; }
+  figure.open img { height: auto; object-fit: contain; }
+  figcaption { padding: 8px 12px; font-size: 0.78rem; color: #94a3b8; border-top: 1px solid #2d3548; display: flex; justify-content: space-between; }
+  figcaption span.hint { color: #475569; }
+  .divider { border: none; border-top: 1px solid #2d3548; margin: 0 0 48px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Design Competition — glp1forwellness.com</h1>
+  <p class="sub">4 Opus design agents · 4 perspectives · judged on visual quality, SEO/E-E-A-T signals, conversion, mobile, and brief compliance. Click any screenshot to expand full-length.</p>
+
+  <div class="verdict">
+    <h2>🏛️ Verdict</h2>
+    <div class="rank">
+      <div class="medal">🥇</div>
+      <div><b>Conversion</b> — NerdWallet-style navy/white/emerald <span class="tag tag-win">WINNER</span>
+        <p>Most complete and most polished. The TL;DR "Quick Answer" box near the top is exactly what featured snippets and AI answer engines extract. Hero stat card ("20% fewer heart attacks", "3.1 years younger") gives instant credibility; the dark $129/mo price-anchor bar vs struck-through $1,000+ is the single strongest revenue element of any proposal. Affiliate disclosure bar <i>above</i> the header is an FTC/E-E-A-T win Google's raters explicitly look for. Evidence badges (FDA-APPROVED / RCT DATA / EMERGING) on every condition card. Mobile rendering is flawless — full-width tap targets, cards stack cleanly, sticky CTA.</p>
+      </div>
+    </div>
+    <div class="rank">
+      <div class="medal">🥈</div>
+      <div><b>Editorial</b> — Serif medical-journal, navy + ivory
+        <p>The strongest <i>trust</i> design. Evidence-grade badge taxonomy with an on-page legend (green = FDA-approved, amber = strong cohort, purple = observational) is a genuinely original E-E-A-T device, and the article metadata bar (published date · 8 min read · 6 studies cited) mirrors what quality raters reward. Article typography is the most readable of the four. Loses to Conversion only on monetization: no price anchoring, weaker CTAs, and the serif-heavy look converts trust better than it converts clicks.</p>
+      </div>
+    </div>
+    <div class="rank">
+      <div class="medal">🥉</div>
+      <div><b>Minimal</b> — gov.uk/Stripe-docs restraint, system fonts, zero JS
+        <p>Technically excellent — fastest possible LCP, AAA contrast, semantic HTML, &lt;details&gt; FAQs. But visually it's the least differentiated: white cards on gray with modest hierarchy. It's a very good "engineering baseline," not the redesign you asked for.</p>
+      </div>
+    </div>
+    <div class="rank">
+      <div class="medal">4th</div>
+      <div><b>Brand</b> — "Clinical Midnight" dark mode + electric teal <span class="tag tag-viol">BROKE BRIEF</span>
+        <p>The most visually striking, but it ignored the light-mode-only constraint. Dark UI is also the wrong instinct for a health site skewing 45+ — reads as crypto/biohacker, not medical authority — and the bento-grid hero rendered sparse/misaligned. Worth stealing: the gradient-mesh hero technique and pill-nav treatment, in a light palette.</p>
+      </div>
+    </div>
+    <div class="reco"><b>Recommendation:</b> Ship <b>Conversion</b> as the base. Graft on two Editorial elements: (1) the evidence-grade badge legend on the homepage, and (2) the article metadata bar ("Published · X min read · N studies cited"). That combo maximizes both the SEO/E-E-A-T story and affiliate revenue while staying light-mode.</div>
+  </div>
+
+  <hr class="divider">
+
+  <section>
+    <div class="prop-head"><h2>🥇 Conversion</h2><span class="place">NerdWallet-style · Fraunces + Inter · navy/white/emerald</span></div>
+    <p class="concept">Disclosure bar above header · hero stat sidebar · dark price-anchor bar ($129/mo vs $1,000+) · evidence badges on cards · sticky 56px mobile CTA · TL;DR quick-answer box for snippet extraction.</p>
+    <div class="shots">
+      <figure><img src="conversion/home_desktop.png" alt=""><figcaption>Home · desktop <span class="hint">click to expand</span></figcaption></figure>
+      <figure><img src="conversion/article_desktop.png" alt=""><figcaption>Article · desktop <span class="hint">click to expand</span></figcaption></figure>
+      <figure><img src="conversion/home_mobile.png" alt=""><figcaption>Home · mobile</figcaption></figure>
+      <figure><img src="conversion/article_mobile.png" alt=""><figcaption>Article · mobile</figcaption></figure>
+    </div>
+  </section>
+
+  <section>
+    <div class="prop-head"><h2>🥈 Editorial</h2><span class="place">Medical journal · Source Serif 4 + Inter · navy/ivory</span></div>
+    <p class="concept">Evidence-grade badge system with legend · "Independent Evidence Reviews" edition bar · article metadata (date · read time · studies cited) · comparison-table affiliate presentation.</p>
+    <div class="shots">
+      <figure><img src="editorial/home_desktop.png" alt=""><figcaption>Home · desktop <span class="hint">click to expand</span></figcaption></figure>
+      <figure><img src="editorial/article_desktop.png" alt=""><figcaption>Article · desktop <span class="hint">click to expand</span></figcaption></figure>
+      <figure><img src="editorial/home_mobile.png" alt=""><figcaption>Home · mobile</figcaption></figure>
+      <figure><img src="editorial/article_mobile.png" alt=""><figcaption>Article · mobile</figcaption></figure>
+    </div>
+  </section>
+
+  <section>
+    <div class="prop-head"><h2>🥉 Minimal</h2><span class="place">gov.uk/Stripe restraint · system fonts · zero JS</span></div>
+    <p class="concept">Semantic HTML5 · AAA contrast · &lt;details&gt; FAQ accordions · dark-green wordmark/buttons · fastest possible page weight.</p>
+    <div class="shots">
+      <figure><img src="minimal/home_desktop.png" alt=""><figcaption>Home · desktop <span class="hint">click to expand</span></figcaption></figure>
+      <figure><img src="minimal/article_desktop.png" alt=""><figcaption>Article · desktop <span class="hint">click to expand</span></figcaption></figure>
+      <figure><img src="minimal/home_mobile.png" alt=""><figcaption>Home · mobile</figcaption></figure>
+      <figure><img src="minimal/article_mobile.png" alt=""><figcaption>Article · mobile</figcaption></figure>
+    </div>
+  </section>
+
+  <section>
+    <div class="prop-head"><h2>4th · Brand</h2><span class="place">"Clinical Midnight" · Space Grotesk + Inter · dark + teal (broke light-mode brief)</span></div>
+    <p class="concept">SVG gradient-mesh hero · asymmetric bento grid · glassmorphic nav. Striking, but non-compliant and wrong tone for the audience.</p>
+    <div class="shots">
+      <figure><img src="brand/home_desktop.png" alt=""><figcaption>Home · desktop <span class="hint">click to expand</span></figcaption></figure>
+      <figure><img src="brand/article_desktop.png" alt=""><figcaption>Article · desktop <span class="hint">click to expand</span></figcaption></figure>
+      <figure><img src="brand/home_mobile.png" alt=""><figcaption>Home · mobile</figcaption></figure>
+      <figure><img src="brand/article_mobile.png" alt=""><figcaption>Article · mobile</figcaption></figure>
+    </div>
+  </section>
+</div>
+<script>
+document.querySelectorAll('figure img').forEach(function(img){
+  img.addEventListener('click', function(){ img.closest('figure').classList.toggle('open'); });
+});
+</script>
+</body>
+</html>

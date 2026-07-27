@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GLP-1 for Wellness | Benefits Beyond Weight Loss</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   EDITORIAL AUTHORITY DESIGN SYSTEM
+   Perspective: Typography-first, credibility-first
+   Font pairing: Source Serif 4 (headlines/body) + Inter (UI/nav)
+   Palette: Deep navy + warm ivory + clinical blue accents
+   ============================================================ */
+
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+
+:root {
+  /* Core palette — serious, authoritative, not "wellness green" */
+  --ink: #1a1a2e;
+  --ink-secondary: #3d3d5c;
+  --ink-tertiary: #6b6b8d;
+  --ink-muted: #9898b0;
+
+  --surface: #faf9f6;
+  --surface-warm: #f5f3ee;
+  --surface-card: #ffffff;
+  --surface-elevated: #ffffff;
+
+  --accent: #1e40af;        /* deep blue — authoritative, not playful */
+  --accent-hover: #1e3a8a;
+  --accent-light: #dbeafe;
+  --accent-subtle: #eff6ff;
+
+  --border: #e5e2db;
+  --border-strong: #d1cdc4;
+
+  --evidence-strong: #166534;
+  --evidence-strong-bg: #f0fdf4;
+  --evidence-moderate: #92400e;
+  --evidence-moderate-bg: #fffbeb;
+  --evidence-early: #6b21a8;
+  --evidence-early-bg: #faf5ff;
+
+  --caution: #92400e;
+  --caution-bg: #fffbeb;
+  --caution-border: #fde68a;
+
+  --serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+  --measure: 68ch;        /* optimal reading width */
+  --space-xs: 0.5rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2.5rem;
+  --space-xl: 4rem;
+  --space-2xl: 6rem;
+}
+
+html { scroll-behavior: smooth; }
+body {
+  font-family: var(--serif);
+  background: var(--surface);
+  color: var(--ink);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ============================================================
+   SITE HEADER — Minimal, newspaper-style masthead
+   ============================================================ */
+.site-header {
+  border-bottom: 1px solid var(--border);
+  background: var(--surface-card);
+}
+
+.site-header__inner {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 var(--space-md);
+}
+
+.site-header__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.25rem 0;
+}
+
+.site-logo {
+  font-family: var(--serif);
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--ink);
+  text-decoration: none;
+  letter-spacing: -0.02em;
+  line-height: 1;
+}
+
+.site-logo:hover { text-decoration: none; }
+
+.site-logo span {
+  color: var(--accent);
+}
+
+.site-nav {
+  display: flex;
+  gap: 0;
+}
+
+.site-nav a {
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--ink-secondary);
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  transition: background 0.15s, color 0.15s;
+}
+
+.site-nav a:hover {
+  background: var(--accent-subtle);
+  color: var(--accent);
+  text-decoration: none;
+}
+
+/* Edition bar — the subtle date/credibility signal */
+.edition-bar {
+  border-top: 1px solid var(--border);
+  padding: 0.5rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  color: var(--ink-muted);
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.edition-bar__trust {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.edition-bar__dot {
+  width: 6px;
+  height: 6px;
+  background: var(--evidence-strong);
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* ============================================================
+   HERO — Editorial, typographic, no gradient cards
+   ============================================================ */
+.hero {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: var(--space-2xl) var(--space-md) var(--space-xl);
+  text-align: center;
+}
+
+.hero__kicker {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: var(--space-sm);
+  display: block;
+}
+
+.hero__title {
+  font-family: var(--serif);
+  font-size: clamp(2.25rem, 5.5vw, 3.5rem);
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.025em;
+  color: var(--ink);
+  max-width: 16ch;
+  margin: 0 auto var(--space-md);
+}
+
+.hero__deck {
+  font-family: var(--serif);
+  font-size: clamp(1.1rem, 2vw, 1.3rem);
+  line-height: 1.65;
+  color: var(--ink-secondary);
+  max-width: 580px;
+  margin: 0 auto var(--space-lg);
+}
+
+.hero__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--accent);
+  padding: 0.85rem 2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.15s, transform 0.1s;
+  box-shadow: 0 1px 3px rgba(30,64,175,0.2);
+}
+
+.hero__cta:hover {
+  background: var(--accent-hover);
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+.hero__cta svg { flex-shrink: 0; }
+
+/* Divider rule — thin newspaper style */
+.rule {
+  border: none;
+  border-top: 1px solid var(--border);
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.rule--thick {
+  border-top: 3px solid var(--ink);
+  margin-bottom: var(--space-lg);
+}
+
+/* ============================================================
+   CONDITION GUIDES — Editorial grid
+   ============================================================ */
+.section {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: var(--space-xl) var(--space-md);
+}
+
+.section__header {
+  margin-bottom: var(--space-lg);
+}
+
+.section__kicker {
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  margin-bottom: 0.5rem;
+}
+
+.section__title {
+  font-family: var(--serif);
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+}
+
+.section__count {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--ink-muted);
+  margin-left: 0.75rem;
+  font-weight: 400;
+}
+
+/* Condition cards — clean, text-forward, evidence labels */
+.guide-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.guide-card {
+  background: var(--surface-card);
+  padding: 1.5rem;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  transition: background 0.15s;
+  position: relative;
+}
+
+.guide-card:hover {
+  background: var(--accent-subtle);
+  text-decoration: none;
+}
+
+.guide-card__evidence {
+  font-family: var(--sans);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  width: fit-content;
+  margin-bottom: 0.75rem;
+}
+
+.guide-card__evidence--strong {
+  background: var(--evidence-strong-bg);
+  color: var(--evidence-strong);
+}
+
+.guide-card__evidence--moderate {
+  background: var(--evidence-moderate-bg);
+  color: var(--evidence-moderate);
+}
+
+.guide-card__evidence--early {
+  background: var(--evidence-early-bg);
+  color: var(--evidence-early);
+}
+
+.guide-card__evidence-dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: currentColor;
+}
+
+.guide-card__title {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: 0.4rem;
+  line-height: 1.3;
+}
+
+.guide-card__desc {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--ink-tertiary);
+  line-height: 1.5;
+  flex: 1;
+}
+
+.guide-card__arrow {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--accent);
+  margin-top: 0.75rem;
+  font-weight: 500;
+}
+
+/* Browse all link */
+.browse-all {
+  text-align: center;
+  margin-top: var(--space-md);
+}
+
+.browse-all a {
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  padding: 0.5rem 1.25rem;
+  border: 1px solid var(--accent-light);
+  border-radius: 6px;
+  transition: background 0.15s;
+}
+
+.browse-all a:hover {
+  background: var(--accent-subtle);
+  text-decoration: none;
+}
+
+/* ============================================================
+   MECHANISM EXPLAINER — Newspaper column feel
+   ============================================================ */
+.explainer {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: var(--space-xl) var(--space-md);
+}
+
+.explainer__title {
+  font-family: var(--serif);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: var(--space-md);
+  letter-spacing: -0.02em;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: 0.75rem;
+}
+
+.explainer__body {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--ink-secondary);
+}
+
+.explainer__body strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.problem-list {
+  list-style: none;
+  padding: 0;
+  margin: var(--space-md) 0;
+}
+
+.problem-list li {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--ink-secondary);
+  padding: 0.35rem 0;
+  padding-left: 1.75rem;
+  position: relative;
+}
+
+.problem-list li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.85rem;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.problem-list li.problem::before { background: #dc2626; }
+.problem-list li.solution::before { background: var(--evidence-strong); }
+
+.explainer__note {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-top: var(--space-sm);
+  line-height: 1.6;
+}
+
+/* ============================================================
+   TRUST SECTION — credibility signals
+   ============================================================ */
+.trust {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: var(--space-lg) var(--space-md);
+}
+
+.trust__card {
+  background: var(--surface-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: var(--space-lg);
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: var(--space-md);
+  align-items: start;
+}
+
+.trust__icon {
+  width: 48px;
+  height: 48px;
+  background: var(--accent-subtle);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.trust__text h3 {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+}
+
+.trust__text p {
+  font-family: var(--serif);
+  font-size: 1rem;
+  color: var(--ink-secondary);
+  line-height: 1.7;
+  margin-bottom: 0.75rem;
+}
+
+.trust__link {
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.trust__link:hover { text-decoration: underline; }
+
+/* Evidence legend */
+.evidence-legend {
+  display: flex;
+  gap: var(--space-md);
+  flex-wrap: wrap;
+  margin-top: var(--space-md);
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--border);
+  justify-content: center;
+}
+
+.evidence-legend__item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  color: var(--ink-tertiary);
+}
+
+.evidence-legend__dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.evidence-legend__dot--strong { background: var(--evidence-strong); }
+.evidence-legend__dot--moderate { background: var(--evidence-moderate); }
+.evidence-legend__dot--early { background: var(--evidence-early); }
+
+/* ============================================================
+   FOOTER — Minimal, newspaper
+   ============================================================ */
+.site-footer {
+  border-top: 3px solid var(--ink);
+  background: var(--surface);
+  padding: var(--space-lg) var(--space-md) var(--space-md);
+}
+
+.site-footer__inner {
+  max-width: 1120px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: var(--space-md);
+  align-items: start;
+}
+
+.footer-brand {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+}
+
+.footer-brand span { color: var(--accent); }
+
+.footer-tagline {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--ink-muted);
+  line-height: 1.5;
+  max-width: 340px;
+}
+
+.footer-links {
+  display: flex;
+  gap: var(--space-md);
+  font-family: var(--sans);
+  font-size: 0.8rem;
+}
+
+.footer-links a {
+  color: var(--ink-tertiary);
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.footer-bottom {
+  max-width: 1120px;
+  margin: var(--space-md) auto 0;
+  padding-top: var(--space-sm);
+  border-top: 1px solid var(--border);
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  color: var(--ink-muted);
+  text-align: center;
+  line-height: 1.6;
+}
+
+.footer-bottom a {
+  color: var(--ink-tertiary);
+}
+
+/* ============================================================
+   MOBILE RESPONSIVE
+   ============================================================ */
+@media (max-width: 900px) {
+  .guide-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .site-header__top {
+    flex-direction: column;
+    gap: 0.75rem;
+    padding: 1rem 0;
+  }
+
+  .site-nav { gap: 0; flex-wrap: wrap; justify-content: center; }
+  .site-nav a { font-size: 0.8rem; padding: 0.4rem 0.65rem; }
+
+  .edition-bar {
+    flex-direction: column;
+    gap: 0.35rem;
+    text-align: center;
+  }
+
+  .hero {
+    padding: var(--space-xl) var(--space-sm) var(--space-lg);
+  }
+
+  .hero__title {
+    font-size: 2.1rem;
+    max-width: 100%;
+  }
+
+  .hero__deck {
+    font-size: 1.05rem;
+  }
+
+  .guide-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .guide-card {
+    padding: 1.25rem;
+  }
+
+  .trust__card {
+    grid-template-columns: 1fr;
+    padding: var(--space-md);
+  }
+
+  .trust__icon { display: none; }
+
+  .evidence-legend {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .site-footer__inner {
+    grid-template-columns: 1fr;
+    gap: var(--space-sm);
+  }
+
+  .footer-links {
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+  }
+
+  .explainer {
+    padding: var(--space-lg) var(--space-sm);
+  }
+
+  .section {
+    padding: var(--space-lg) var(--space-sm);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  * { transition-duration: 0.01ms !important; }
+}
+</style>
+</head>
+<body>
+
+<!-- ============================================================
+     SITE HEADER — Masthead
+     ============================================================ -->
+<header class="site-header">
+  <div class="site-header__inner">
+    <div class="site-header__top">
+      <a href="#" class="site-logo">GLP-1 <span>for Wellness</span></a>
+      <nav class="site-nav">
+        <a href="#">Conditions</a>
+        <a href="#">Peptides</a>
+        <a href="#">Resources</a>
+        <a href="#">About</a>
+      </nav>
+    </div>
+    <div class="edition-bar">
+      <span>Independent evidence reviews &middot; Updated July 2026</span>
+      <span class="edition-bar__trust">
+        <span class="edition-bar__dot"></span>
+        Research-backed &middot; No pharma sponsorship
+      </span>
+    </div>
+  </div>
+</header>
+
+<!-- ============================================================
+     HERO
+     ============================================================ -->
+<section class="hero">
+  <span class="hero__kicker">Beyond Weight Loss</span>
+  <h1 class="hero__title">GLP-1s Do More Than You Think</h1>
+  <p class="hero__deck">Research shows GLP-1 medications help with inflammation, heart health, liver disease, joint pain, and more. Here's what the science says&mdash;and how to access them affordably.</p>
+  <a href="#" class="hero__cta">
+    Explore Condition Guides
+    <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </a>
+</section>
+
+<hr class="rule rule--thick">
+
+<!-- ============================================================
+     CONDITION GUIDES GRID
+     ============================================================ -->
+<section class="section">
+  <div class="section__header">
+    <div class="section__kicker">Evidence Reviews</div>
+    <h2 class="section__title">Condition-Specific Guides<span class="section__count">21 guides</span></h2>
+  </div>
+
+  <div class="guide-grid">
+    <!-- Row 1 -->
+    <a href="#" class="guide-card">
+      <span class="guide-card__evidence guide-card__evidence--strong"><span class="guide-card__evidence-dot"></span> FDA-Approved</span>
+      <div class="guide-card__title">GLP-1s &amp; Heart Health</div>
+      <div class="guide-card__desc">FDA-approved for cardiovascular risk &mdash; 20% reduction in heart attacks</div>
+      <div class="guide-card__arrow">Read guide &rarr;</div>
+    </a>
+
+    <a href="#" class="guide-card">
+      <span class="guide-card__evidence guide-card__evidence--strong"><span class="guide-card__evidence-dot"></span> FDA-Approved</span>
+      <div class="guide-card__title">GLP-1s &amp; Fatty Liver</div>
+      <div class="guide-card__desc">FDA-approved for MASH &mdash; how GLP-1s reduce liver fat and fibrosis</div>
+      <div class="guide-card__arrow">Read guide &rarr;</div>
+    </a>
+
+    <a href="#" class="guide-card">
+      <span class="guide-card__evidence guide-card__evidence--strong"><span class="guide-card__evidence-dot"></span> FDA-Approved</span>
+      <div class="guide-card__title">GLP-1s &amp; Sleep Apnea</div>
+      <div class="guide-card__desc">FDA-approved &mdash; may reduce or replace CPAP for some patients</div>
+      <div class="guide-card__arrow">Read guide &rarr;</div>
+    </a>
+
+    <!-- Row 2 -->
+    <a href="#" class="guide-card">
+      <span class="guide-card__evidence guide-card__evidence--strong"><span class="guide-card__evidence-dot"></span> FDA-Approved</span>
+      <div class="guide-card__title">GLP-1s &amp; Kidney Disease</div>
+      <div class="guide-card__desc">FDA-approved for diabetic CKD &mdash; slowing progression to dialysis</div>
+      <div class="guide-card__arrow">Read guide &rarr;</div>
+    </a>
+
+    <a href="#" class="guide-card">
+      <span class="guide-card__evidence guide-card__evidence--moderate"><span class="guide-card__evidence-dot"></span> Strong Cohort Data</span>
+      <div class="guide-card__title">GLP-1s &amp; Arthritis</div>
+      <div class="guide-card__desc">Joint pain relief from both weight loss and direct anti-inflammatory effects</div>
+      <div class="guide-card__arrow">Read guide &rarr;</div>
+    </a>
+
+    <a href="#" class="guide-card">
+      <span class="guide-card__evidence guide-card__evidence--moderate"><span class="guide-card__evidence-dot"></span> Strong Cohort Data</span>
+      <div class="guide-card__title">GLP-1s &amp; Gout</div>
+      <div class="guide-card__desc">Obesity doubles to triples gout risk. GLP-1 users show fewer flares in new data</div>
+      <div class="guide-card__arrow">Read guide &rarr;</div>
+    </a>
+
+    <!-- Row 3 -->
+    <a href="#" class="guide-card">
+      <span class="guide-card__evidence guide-card__evidence--moderate"><span class="guide-card__evidence-dot"></span> RCT Data</span>
+      <div class="guide-card__title">GLP-1s &amp; Addiction</div>
+      <div class="guide-card__desc">Semaglutide reduces alcohol cravings &mdash; Lancet 2026 RCT data</div>
+      <div class="guide-card__arrow">Read guide &rarr;</div>
+    </a>
+
+    <a href="#" class="guide-card">
+      <span class="guide-card__evidence guide-card__evidence--moderate"><span class="guide-card__evidence-dot"></span> Strong Cohort Data</span>
+      <div class="guide-card__title">GLP-1s &amp; Mental Health</div>
+      <div class="guide-card__desc">Depression, anxiety, and neuroprotective effects &mdash; what the research says</div>
+      <div class="guide-card__arrow">Read guide &rarr;</div>
+    </a>
+
+    <a href="#" class="guide-card">
+      <span class="guide-card__evidence guide-card__evidence--moderate"><span class="guide-card__evidence-dot"></span> Strong Cohort Data</span>
+      <div class="guide-card__title">GLP-1s &amp; Lupus</div>
+      <div class="guide-card__desc">Anti-inflammatory effects, prednisone weight gain, safety with immunosuppressants</div>
+      <div class="guide-card__arrow">Read guide &rarr;</div>
+    </a>
+
+    <!-- Row 4 -->
+    <a href="#" class="guide-card">
+      <span class="guide-card__evidence guide-card__evidence--moderate"><span class="guide-card__evidence-dot"></span> Strong Cohort Data</span>
+      <div class="guide-card__title">GLP-1s &amp; PCOS</div>
+      <div class="guide-card__desc">Insulin resistance, hormone balance, and fertility considerations</div>
+      <div class="guide-card__arrow">Read guide &rarr;</div>
+    </a>
+
+    <a href="#" class="guide-card">
+      <span class="guide-card__evidence guide-card__evidence--early"><span class="guide-card__evidence-dot"></span> Observational</span>
+      <div class="guide-card__title">GLP-1s &amp; Alzheimer's</div>
+      <div class="guide-card__desc">40-70% lower risk in observational studies &mdash; prevention vs. treatment</div>
+      <div class="guide-card__arrow">Read guide &rarr;</div>
+    </a>
+
+    <a href="#" class="guide-card">
+      <span class="guide-card__evidence guide-card__evidence--moderate"><span class="guide-card__evidence-dot"></span> Strong Cohort Data</span>
+      <div class="guide-card__title">GLP-1s &amp; Migraines</div>
+      <div class="guide-card__desc">Migraine days cut nearly in half &mdash; independent of weight loss</div>
+      <div class="guide-card__arrow">Read guide &rarr;</div>
+    </a>
+  </div>
+
+  <div class="browse-all">
+    <a href="#">Browse all 21 condition guides &rarr;</a>
+  </div>
+
+  <!-- Evidence legend -->
+  <div class="evidence-legend">
+    <div class="evidence-legend__item">
+      <span class="evidence-legend__dot evidence-legend__dot--strong"></span>
+      FDA-Approved indication
+    </div>
+    <div class="evidence-legend__item">
+      <span class="evidence-legend__dot evidence-legend__dot--moderate"></span>
+      RCT or strong cohort data
+    </div>
+    <div class="evidence-legend__item">
+      <span class="evidence-legend__dot evidence-legend__dot--early"></span>
+      Early/observational only
+    </div>
+  </div>
+</section>
+
+<hr class="rule">
+
+<!-- ============================================================
+     MECHANISM EXPLAINER
+     ============================================================ -->
+<section class="explainer">
+  <h2 class="explainer__title">Why GLP-1s help with more than weight</h2>
+  <div class="explainer__body">
+    <p><strong>GLP-1 receptor agonists</strong> (like Ozempic, Wegovy, and Zepbound) do more than reduce appetite. They suppress inflammatory pathways (NF-kB), reduce cytokines (TNF-alpha, IL-6), protect kidneys, and have neuroprotective effects. These mechanisms help explain why GLP-1s show benefits for autoimmune conditions, liver disease, sleep apnea, joint pain, and mental health.</p>
+  </div>
+
+  <ul class="problem-list">
+    <li class="problem">Insurance rarely covers GLP-1s for conditions beyond diabetes and obesity</li>
+    <li class="problem">Most doctors don't know about the off-label benefits</li>
+    <li class="problem">Brand-name prices are $1,000+/month without coverage</li>
+  </ul>
+
+  <p class="explainer__note">That's why this site exists. We break down the research and show you how to access GLP-1s affordably through telehealth.</p>
+</section>
+
+<hr class="rule">
+
+<!-- ============================================================
+     TRUST SECTION
+     ============================================================ -->
+<section class="trust">
+  <div class="trust__card">
+    <div class="trust__icon">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1e40af" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+      </svg>
+    </div>
+    <div class="trust__text">
+      <h3>Independent and research-backed</h3>
+      <p>This site isn't run by a telehealth company. Every article cites published research and is written to help you make informed decisions with your healthcare provider.</p>
+      <a href="#" class="trust__link">Learn more about this site &rarr;</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     FOOTER
+     ============================================================ -->
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <div>
+      <div class="footer-brand">GLP-1 <span>for Wellness</span></div>
+      <p class="footer-tagline">Independent, evidence-based guides on GLP-1 medications' benefits beyond weight loss.</p>
+    </div>
+    <div class="footer-links">
+      <a href="#">Conditions</a>
+      <a href="#">Peptides</a>
+      <a href="#">Resources</a>
+      <a href="#">About</a>
+      <a href="mailto:contact@glp1forwellness.com">Contact</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched.
+  </div>
+</footer>
+
+</body>
+</html>

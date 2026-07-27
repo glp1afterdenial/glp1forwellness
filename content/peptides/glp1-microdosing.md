@@ -243,7 +243,7 @@ Key insight from the data: **you don't need maximum dose for meaningful benefit.
 <div class="offer-card__desc">Health coaching included, 120-day guarantee, GLP-1 drops & lozenges available</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=11666" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=11666" target="_blank" class="offer-card offer-card--purple">
 <div class="offer-card__badge">Peptide Stack Option</div>
 <div class="offer-card__name">Strut Health</div>
 <div class="offer-card__price">Oral Sermorelin $99/mo</div>

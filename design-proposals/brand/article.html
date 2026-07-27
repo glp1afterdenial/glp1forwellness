@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GLP-1 Medications and Gout — GLP-1 for Wellness</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ===== RESET ===== */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{
+  font-family:'Inter',system-ui,-apple-system,sans-serif;
+  background:#0a0a0f;
+  color:#c8c8d8;
+  line-height:1.7;
+  overflow-x:hidden;
+  -webkit-font-smoothing:antialiased;
+}
+a{color:#5eead4;text-decoration:none;transition:color 0.2s}
+a:hover{color:#2dd4bf}
+ul,ol{padding-left:20px}
+
+/* ===== TOKENS ===== */
+:root{
+  --font-display:'Space Grotesk','Inter',system-ui,sans-serif;
+  --font-body:'Inter',system-ui,sans-serif;
+
+  --bg-deep:#0a0a0f;
+  --bg-surface:#12121a;
+  --bg-card:#181825;
+  --bg-glass:rgba(24,24,37,0.65);
+
+  --border-subtle:rgba(255,255,255,0.06);
+  --border-medium:rgba(255,255,255,0.1);
+  --border-accent:rgba(94,234,212,0.25);
+
+  --text-primary:#f0f0f8;
+  --text-body:#c8c8d8;
+  --text-secondary:#9494a8;
+  --text-muted:#5c5c72;
+
+  --teal:#5eead4;
+  --teal-bright:#2dd4bf;
+  --teal-dim:rgba(94,234,212,0.1);
+  --coral:#fb7185;
+  --coral-dim:rgba(251,113,133,0.1);
+  --coral-border:rgba(251,113,133,0.25);
+  --violet:#a78bfa;
+  --violet-dim:rgba(167,139,250,0.1);
+  --amber:#fbbf24;
+  --amber-dim:rgba(251,191,36,0.08);
+  --amber-border:rgba(251,191,36,0.2);
+  --blue:#60a5fa;
+  --blue-dim:rgba(96,165,250,0.1);
+  --blue-border:rgba(96,165,250,0.25);
+
+  --radius-sm:8px;
+  --radius-md:14px;
+  --radius-lg:20px;
+  --radius-pill:999px;
+}
+
+/* ===== FOCUS ===== */
+a:focus-visible,button:focus-visible{
+  outline:2px solid var(--teal);outline-offset:2px;border-radius:4px;
+}
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:0.01ms!important;transition-duration:0.01ms!important}
+  html{scroll-behavior:auto}
+}
+
+/* ===== SCROLL ANCHOR OFFSET ===== */
+[id]{scroll-margin-top:76px}
+
+/* ===== SITE HEADER ===== */
+.site-header{
+  position:sticky;top:0;z-index:100;
+  background:rgba(10,10,15,0.8);
+  backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
+  border-bottom:1px solid var(--border-subtle);
+}
+.site-header__inner{
+  display:flex;align-items:center;justify-content:space-between;
+  max-width:1200px;margin:0 auto;padding:0 24px;height:64px;
+}
+.wordmark{
+  font-family:var(--font-display);font-weight:700;font-size:1.15rem;
+  color:var(--text-primary);display:flex;align-items:center;gap:10px;
+}
+.wordmark__icon{
+  width:32px;height:32px;border-radius:8px;
+  background:linear-gradient(135deg,var(--teal),#06b6d4);
+  display:flex;align-items:center;justify-content:center;
+}
+.site-nav{display:flex;align-items:center;gap:4px}
+.site-nav a{
+  font-size:0.875rem;font-weight:500;color:var(--text-secondary);
+  padding:8px 14px;border-radius:var(--radius-pill);transition:color 0.2s,background 0.2s;
+}
+.site-nav a:hover{color:var(--text-primary);background:rgba(255,255,255,0.05)}
+.nav-toggle{display:none;background:none;border:none;color:var(--text-primary);cursor:pointer;padding:8px}
+
+/* ===== ARTICLE HEADER ===== */
+.article-hero{
+  position:relative;overflow:hidden;
+  padding:60px 24px 48px;text-align:center;
+}
+.article-hero__mesh{position:absolute;inset:0;pointer-events:none;opacity:0.5}
+.article-hero__content{position:relative;z-index:2;max-width:680px;margin:0 auto}
+.article-hero__badge{
+  display:inline-flex;align-items:center;gap:6px;
+  font-family:var(--font-display);font-size:0.72rem;font-weight:600;
+  color:var(--amber);letter-spacing:0.1em;text-transform:uppercase;
+  background:var(--amber-dim);border:1px solid var(--amber-border);
+  padding:5px 16px;border-radius:var(--radius-pill);margin-bottom:20px;
+}
+.article-hero__title{
+  font-family:var(--font-display);font-weight:700;
+  font-size:clamp(1.75rem,5vw,2.75rem);
+  line-height:1.1;letter-spacing:-0.025em;
+  color:var(--text-primary);margin-bottom:16px;
+}
+.article-hero__sub{
+  font-size:1rem;line-height:1.65;color:var(--text-secondary);max-width:560px;margin:0 auto;
+}
+
+/* ===== STICKY PILL NAV ===== */
+.pill-nav{
+  position:sticky;top:64px;z-index:50;
+  background:rgba(10,10,15,0.85);
+  backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+  border-bottom:1px solid var(--border-subtle);
+  padding:10px 24px;
+  display:flex;gap:6px;justify-content:center;flex-wrap:wrap;
+}
+.pill{
+  display:inline-flex;align-items:center;
+  padding:7px 14px;min-height:36px;
+  background:var(--bg-card);
+  border:1px solid var(--border-subtle);
+  border-radius:var(--radius-pill);
+  color:var(--text-secondary);font-size:0.82rem;font-weight:500;
+  white-space:nowrap;transition:all 0.2s;
+}
+.pill:hover{border-color:var(--border-accent);color:var(--teal);background:var(--teal-dim)}
+.pill--active{
+  border-color:var(--border-accent);color:var(--teal);
+  background:var(--teal-dim);font-weight:600;
+}
+
+/* ===== ARTICLE BODY ===== */
+.article-body{
+  max-width:720px;margin:0 auto;padding:40px 24px 80px;
+}
+
+/* ===== PROSE TYPOGRAPHY ===== */
+.prose p{
+  color:var(--text-body);font-size:1rem;line-height:1.78;margin-bottom:1.25em;
+}
+.prose strong{color:var(--text-primary);font-weight:600}
+.prose em{color:var(--text-secondary)}
+.prose ul,.prose ol{
+  margin-bottom:1.25em;color:var(--text-body);line-height:1.78;
+}
+.prose li{margin-bottom:0.5em}
+.prose li strong{color:var(--text-primary)}
+.prose h3{
+  font-family:var(--font-display);font-weight:600;font-size:1.15rem;
+  color:var(--text-primary);margin:2em 0 0.75em;letter-spacing:-0.01em;
+}
+
+/* ===== SECTION HEADINGS (colored accent bar) ===== */
+.h2-accent{
+  font-family:var(--font-display);font-weight:700;
+  font-size:clamp(1.25rem,3vw,1.6rem);
+  line-height:1.2;letter-spacing:-0.02em;
+  color:var(--text-primary);
+  padding-left:18px;margin:3em 0 1.25em;
+  position:relative;
+}
+.h2-accent::before{
+  content:'';position:absolute;left:0;top:2px;
+  width:4px;height:calc(100% - 4px);border-radius:2px;
+}
+.h2-accent--amber::before{background:var(--amber)}
+.h2-accent--blue::before{background:var(--blue)}
+.h2-accent--purple::before{background:var(--violet)}
+.h2-accent--teal::before{background:var(--teal)}
+
+/* ===== TL;DR BOX ===== */
+.tldr{
+  background:var(--blue-dim);
+  border:1.5px solid var(--blue-border);
+  border-radius:var(--radius-md);
+  padding:22px 24px;margin-bottom:32px;
+  display:flex;gap:14px;align-items:flex-start;
+}
+.tldr__icon{flex-shrink:0;margin-top:2px}
+.tldr__text{
+  font-size:0.95rem;line-height:1.7;color:var(--text-body);
+}
+.tldr__text strong{color:var(--text-primary)}
+
+/* ===== CALLOUTS ===== */
+.callout{
+  background:var(--bg-card);
+  border:1px solid var(--border-subtle);
+  border-radius:var(--radius-md);
+  padding:24px;margin:24px 0;
+}
+.callout p{margin:0;color:var(--text-body);font-size:0.95rem;line-height:1.7}
+.callout strong{color:var(--text-primary)}
+.callout--amber{
+  background:var(--amber-dim);
+  border-color:var(--amber-border);
+}
+.callout--amber strong{color:var(--amber)}
+.callout--red{
+  background:var(--coral-dim);
+  border-color:var(--coral-border);
+}
+.callout--red strong{color:var(--coral)}
+
+/* ===== NUMBERED LIST (mechanisms) ===== */
+.mech-list{counter-reset:mech;list-style:none;padding:0;margin:0 0 1.25em}
+.mech-list li{
+  counter-increment:mech;display:flex;gap:14px;align-items:flex-start;
+  margin-bottom:1.25em;color:var(--text-body);font-size:1rem;line-height:1.78;
+}
+.mech-list li::before{
+  content:counter(mech);
+  min-width:30px;height:30px;border-radius:50%;
+  background:var(--teal-dim);color:var(--teal);
+  display:flex;align-items:center;justify-content:center;
+  font-family:var(--font-display);font-weight:700;font-size:0.85rem;
+  flex-shrink:0;margin-top:2px;
+  border:1px solid var(--border-accent);
+}
+.mech-list li strong{color:var(--text-primary)}
+
+/* ===== OFFER GRID ===== */
+.offer-grid{
+  display:grid;grid-template-columns:1fr 1fr;
+  gap:14px;margin:28px 0;
+}
+.offer-card{
+  position:relative;overflow:hidden;
+  background:var(--bg-card);
+  border:1.5px solid var(--border-medium);
+  border-radius:var(--radius-md);
+  padding:24px;
+  transition:border-color 0.25s,transform 0.25s,box-shadow 0.25s;
+}
+.offer-card:hover{
+  transform:translateY(-2px);
+  box-shadow:0 8px 32px rgba(0,0,0,0.3);
+}
+.offer-card--teal{border-color:rgba(94,234,212,0.3)}
+.offer-card--teal:hover{border-color:var(--teal)}
+.offer-card--amber{border-color:var(--amber-border)}
+.offer-card--amber:hover{border-color:var(--amber)}
+.offer-card--violet{border-color:rgba(167,139,250,0.3)}
+.offer-card--violet:hover{border-color:var(--violet)}
+
+.offer-badge{
+  font-family:var(--font-display);font-size:0.65rem;font-weight:700;
+  text-transform:uppercase;letter-spacing:0.05em;
+  padding:3px 10px;border-radius:var(--radius-pill);
+  display:inline-block;margin-bottom:12px;
+}
+.offer-badge--teal{background:var(--teal-dim);color:var(--teal)}
+.offer-badge--amber{background:var(--amber-dim);color:var(--amber)}
+.offer-badge--violet{background:var(--violet-dim);color:var(--violet)}
+.offer-name{
+  font-family:var(--font-display);font-weight:600;
+  color:var(--text-primary);font-size:1.05rem;margin-bottom:4px;
+}
+.offer-price{font-weight:600;font-size:0.9rem;margin-bottom:6px}
+.offer-card--teal .offer-price{color:var(--teal)}
+.offer-card--amber .offer-price{color:var(--amber)}
+.offer-card--violet .offer-price{color:var(--violet)}
+.offer-desc{color:var(--text-secondary);font-size:0.82rem;line-height:1.5}
+
+/* Full-width link card inside offer grid */
+.offer-grid .link-card{grid-column:1/-1}
+.link-card{
+  display:block;background:var(--bg-card);
+  border:1px solid var(--border-subtle);
+  border-radius:var(--radius-md);
+  padding:16px 20px;
+  font-weight:600;color:var(--text-primary);font-size:0.95rem;
+  transition:border-color 0.2s,transform 0.2s;
+}
+.link-card:hover{border-color:var(--border-accent);transform:translateY(-1px)}
+.link-card .arr{color:var(--teal)}
+
+/* ===== FAQ SECTION ===== */
+.faq-section{margin:48px 0 32px}
+.faq-section__title{
+  font-family:var(--font-display);font-weight:700;font-size:1.2rem;
+  color:var(--text-primary);margin-bottom:20px;
+  padding-left:18px;position:relative;
+}
+.faq-section__title::before{
+  content:'';position:absolute;left:0;top:2px;
+  width:4px;height:calc(100% - 4px);border-radius:2px;
+  background:var(--teal);
+}
+.faq-item{
+  background:var(--bg-card);border:1px solid var(--border-subtle);
+  border-radius:var(--radius-md);
+  margin-bottom:8px;overflow:hidden;
+}
+.faq-q{
+  padding:18px 24px;font-weight:600;color:var(--text-primary);
+  font-size:0.95rem;cursor:pointer;
+  display:flex;align-items:center;justify-content:space-between;gap:12px;
+}
+.faq-q::after{
+  content:'+';font-family:var(--font-display);font-size:1.3rem;
+  color:var(--text-muted);flex-shrink:0;
+  transition:transform 0.2s;
+}
+.faq-a{
+  padding:0 24px 18px;color:var(--text-body);
+  font-size:0.92rem;line-height:1.7;display:none;
+}
+.faq-item.open .faq-q::after{content:'\2212'}
+.faq-item.open .faq-a{display:block}
+
+/* ===== DISCLAIMER ===== */
+.disclaimer{
+  background:var(--bg-card);border:1px solid var(--border-subtle);
+  border-radius:var(--radius-md);
+  padding:24px;margin-top:40px;text-align:center;
+}
+.disclaimer p{color:var(--text-muted);font-size:0.88rem;margin:0;line-height:1.6}
+.disclaimer p+p{margin-top:10px}
+.disclaimer a{color:var(--teal)}
+.fine-print{
+  text-align:center;color:var(--text-muted);
+  font-size:0.82rem;font-style:italic;margin-top:16px;
+}
+
+/* ===== FOOTER ===== */
+.site-footer{
+  border-top:1px solid var(--border-subtle);
+  padding:40px 24px;text-align:center;
+  color:var(--text-muted);font-size:0.85rem;
+}
+.site-footer a{color:var(--teal)}
+
+/* ===== RESPONSIVE ===== */
+@media(max-width:768px){
+  .pill-nav{
+    flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;
+    -webkit-overflow-scrolling:touch;scrollbar-width:none;padding:10px 16px;
+  }
+  .pill-nav::-webkit-scrollbar{display:none}
+  .pill{flex-shrink:0;min-height:40px}
+}
+@media(max-width:640px){
+  .article-hero{padding:44px 20px 36px}
+  .article-hero__title{font-size:clamp(1.5rem,6vw,2rem)}
+  .article-body{padding:28px 16px 60px}
+  .offer-grid{grid-template-columns:1fr}
+  .callout{padding:20px}
+  .tldr{padding:18px 20px;flex-direction:column;gap:10px}
+  .site-nav{display:none}
+  .site-nav.open{
+    display:flex;flex-direction:column;
+    position:absolute;top:64px;left:0;right:0;
+    background:rgba(10,10,15,0.96);
+    backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
+    border-bottom:1px solid var(--border-subtle);
+    padding:12px 24px 20px;gap:2px;
+  }
+  .site-nav.open a{padding:12px 16px;border-radius:var(--radius-md)}
+  .nav-toggle{display:block}
+  .mech-list li{gap:10px}
+  html,body{overflow-x:hidden!important;max-width:100vw!important}
+}
+</style>
+</head>
+<body>
+
+<!-- ===== HEADER ===== -->
+<header class="site-header">
+  <div class="site-header__inner">
+    <a href="#" class="wordmark">
+      <span class="wordmark__icon">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#0a0a0f" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M2 12h20"/></svg>
+      </span>
+      GLP-1 for Wellness
+    </a>
+    <nav class="site-nav" id="siteNav">
+      <a href="#">Conditions</a>
+      <a href="#">Peptides</a>
+      <a href="#">Resources</a>
+      <a href="#">About</a>
+    </nav>
+    <button class="nav-toggle" onclick="document.getElementById('siteNav').classList.toggle('open')" aria-label="Toggle navigation">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 12h18M3 6h18M3 18h18"/></svg>
+    </button>
+  </div>
+</header>
+
+<!-- ===== ARTICLE HERO ===== -->
+<section class="article-hero">
+  <svg class="article-hero__mesh" viewBox="0 0 1440 400" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <radialGradient id="ag1" cx="40%" cy="50%" r="50%"><stop offset="0%" stop-color="#fbbf24" stop-opacity="0.07"/><stop offset="100%" stop-color="transparent"/></radialGradient>
+      <radialGradient id="ag2" cx="70%" cy="30%" r="40%"><stop offset="0%" stop-color="#5eead4" stop-opacity="0.05"/><stop offset="100%" stop-color="transparent"/></radialGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#ag1)"/>
+    <rect width="100%" height="100%" fill="url(#ag2)"/>
+  </svg>
+  <div class="article-hero__content">
+    <span class="article-hero__badge">Condition Guide</span>
+    <h1 class="article-hero__title">GLP-1 Medications and Gout: Can Weight Loss Lower Uric Acid and Flares?</h1>
+    <p class="article-hero__sub">What semaglutide and tirzepatide can (and can't) do for gout — plus affordable access options.</p>
+  </div>
+</section>
+
+<!-- ===== PILL NAV ===== -->
+<nav class="pill-nav">
+  <a href="#tldr" class="pill pill--active">TL;DR</a>
+  <a href="#obesity-gout" class="pill">Weight & Gout</a>
+  <a href="#evidence" class="pill">The Evidence</a>
+  <a href="#mechanisms" class="pill">How It Works</a>
+  <a href="#who-benefits" class="pill">Who Benefits</a>
+  <a href="#how-to-get" class="pill">How to Get</a>
+  <a href="#faq" class="pill">FAQ</a>
+</nav>
+
+<!-- ===== ARTICLE BODY ===== -->
+<article class="article-body prose">
+
+  <!-- TL;DR -->
+  <div id="tldr" class="tldr">
+    <svg class="tldr__icon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#60a5fa" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+    <span class="tldr__text"><strong>TL;DR:</strong> Obesity roughly <strong>doubles to triples gout risk</strong>, and insulin resistance makes kidneys hold onto uric acid. Sustained weight loss lowers serum urate and flare frequency, and <strong>recent cohort studies (2024-2025) found fewer gout flares among GLP-1 users</strong> than similar patients on other drugs. Caveats: GLP-1s are <strong>not gout treatments</strong>, don't replace allopurinol, and <strong>rapid weight loss can transiently trigger flares</strong> early on. Gout rarely travels alone — the hypertension, prediabetes, or high cholesterol beside it usually qualifies you for GLP-1 therapy at BMI 27+, via telehealth from <strong>$129/month</strong>.</span>
+  </div>
+
+  <p>Gout has a branding problem. It's still joked about as the "disease of kings" — too much wine and rich food — when in reality it's a metabolic disease tightly wired to body weight, insulin resistance, and kidney function. That's why decades of "avoid purines" dietary advice disappoints so many patients: diet is only one input, and often not the biggest one.</p>
+
+  <p>The rise of GLP-1 medications has created new interest in treating gout's metabolic engine directly. Here's what the research actually shows — including the honest limits.</p>
+
+  <!-- SECTION: Weight & Gout -->
+  <h2 id="obesity-gout" class="h2-accent h2-accent--amber">Why Excess Weight Drives Gout</h2>
+
+  <p>Gout happens when uric acid builds up in the blood (hyperuricemia) and crystallizes in joints — classically the big toe, but also ankles, knees, and hands. Excess weight pushes uric acid up from multiple directions:</p>
+
+  <ul>
+    <li><strong>More production</strong> — larger fat and tissue mass generates more purines, the raw material of uric acid</li>
+    <li><strong>Less excretion</strong> — this is the big one: insulin resistance means chronically high insulin, and insulin signals the kidneys to <em>reabsorb</em> urate instead of excreting it</li>
+    <li><strong>Inflamed fat tissue</strong> — visceral fat secretes inflammatory signals that prime joints for crystal-triggered flares</li>
+    <li><strong>Kidney strain</strong> — obesity-related kidney decline further reduces urate clearance</li>
+    <li><strong>Clustered conditions</strong> — hypertension (and some diuretics used to treat it), fatty liver, and diabetes each independently raise gout risk</li>
+  </ul>
+
+  <p>The epidemiology matches: people with obesity have roughly <strong>2-3x the gout risk</strong> of normal-weight adults, gout incidence rises stepwise with BMI, and large studies show weight <em>gain</em> in adulthood is one of the strongest predictors of developing gout.</p>
+
+  <!-- Amber callout -->
+  <div class="callout callout--amber">
+    <p><strong>The diet myth, quantified:</strong> purine-heavy foods (red meat, shellfish, beer) do matter — but studies estimate diet explains a surprisingly small share of uric acid variation between people. Body weight and insulin resistance move the needle more. That's why "I barely drink and still get flares" is such a common story.</p>
+  </div>
+
+  <!-- SECTION: Evidence -->
+  <h2 id="evidence" class="h2-accent h2-accent--blue">What the Evidence Shows</h2>
+
+  <h3>Weight loss lowers uric acid and flares</h3>
+
+  <p>This is well established and predates GLP-1s. Systematic reviews of weight-loss studies show:</p>
+
+  <ul>
+    <li>Meaningful weight loss lowers serum uric acid by roughly <strong>0.5-1.5 mg/dL</strong> depending on amount lost</li>
+    <li>Sustained weight loss reduces <strong>flare frequency</strong>, and larger losses produce larger effects</li>
+    <li>Bariatric surgery patients — the most dramatic weight-loss group — show substantial long-term reductions in uric acid and gout attacks (after a temporary early flare-up period)</li>
+  </ul>
+
+  <h3>GLP-1 users appear to have fewer flares</h3>
+
+  <p>Direct GLP-1-and-gout research is younger, but pointing the same direction:</p>
+
+  <ul>
+    <li><strong>Cohort studies published in 2024-2025</strong> compared people with gout who started GLP-1 medications against similar patients starting other diabetes or weight-loss drugs, and found <strong>lower rates of gout flares and recurrent attacks</strong> among GLP-1 users</li>
+    <li>Analyses in people with type 2 diabetes suggest GLP-1 use is associated with a <strong>lower risk of developing gout</strong> compared to some alternative therapies</li>
+    <li>The anti-inflammatory effect of GLP-1s (CRP drops of roughly 40% in major trials) may blunt the inflammatory cascade that turns urate crystals into a 3 a.m. flare</li>
+  </ul>
+
+  <h3>The honest caveats</h3>
+
+  <ul>
+    <li><strong>No randomized trial has tested GLP-1s as a gout treatment.</strong> The cohort data are promising but observational.</li>
+    <li><strong>GLP-1s are not FDA-approved for gout</strong> and their uric acid effect is modest — far smaller than allopurinol or febuxostat.</li>
+    <li><strong>Early rapid weight loss can transiently raise uric acid</strong> and trigger flares (tissue breakdown releases purines; ketones compete with urate for kidney excretion). The long-term direction is favorable, but the first months warrant caution and, for some patients, flare prophylaxis.</li>
+  </ul>
+
+  <!-- SECTION: Mechanisms -->
+  <h2 id="mechanisms" class="h2-accent h2-accent--purple">How GLP-1s Help: The Mechanisms</h2>
+
+  <ol class="mech-list">
+    <li><strong>Weight loss itself</strong> — semaglutide averages ~15% body weight lost (STEP trials), tirzepatide ~21% (SURMOUNT-1). Less tissue mass means less urate production and less inflamed visceral fat.</li>
+    <li><strong>Lower insulin levels</strong> — as insulin resistance improves, the kidneys stop being told to hoard urate and excretion rises. This is likely the most important gout-specific pathway.</li>
+    <li><strong>Reduced systemic inflammation</strong> — GLP-1 trials show CRP reductions around 40%. Gout flares are inflammation events (the NLRP3 inflammasome reacting to crystals); a lower inflammatory baseline may mean fewer crystals tip over into attacks.</li>
+    <li><strong>Kidney protection</strong> — the FLOW trial showed semaglutide slows kidney disease progression. Healthier kidneys clear urate better, and gout and chronic kidney disease commonly reinforce each other.</li>
+    <li><strong>Less alcohol and sugary-drink intake</strong> — many GLP-1 users report reduced cravings for alcohol and sweetened beverages, two of the strongest dietary triggers for flares (fructose in particular raises uric acid).</li>
+  </ol>
+
+  <!-- SECTION: How to Get -->
+  <h2 id="how-to-get" class="h2-accent h2-accent--amber">How to Get GLP-1 Treatment</h2>
+
+  <div class="callout callout--amber">
+    <p><strong>The access reality:</strong> insurance won't cover a GLP-1 <em>for gout</em> — but it doesn't need to be prescribed for gout. Gout's usual companions (hypertension, prediabetes, high cholesterol) plus a BMI of 27+ meet standard criteria for GLP-1 weight-management therapy. Telehealth platforms prescribe compounded semaglutide from $129-133/month, no insurance required.</p>
+  </div>
+
+  <h3>Telehealth Platforms That Prescribe GLP-1s</h3>
+
+  <div class="offer-grid">
+    <a href="#" class="offer-card offer-card--teal">
+      <span class="offer-badge offer-badge--teal">Top Pick</span>
+      <div class="offer-name">Oak Loves You</div>
+      <div class="offer-price">From $133/mo</div>
+      <div class="offer-desc">Free coaching, same-day approval, price matching</div>
+    </a>
+
+    <a href="#" class="offer-card offer-card--amber">
+      <span class="offer-badge offer-badge--amber">Lowest Price</span>
+      <div class="offer-name">Gala</div>
+      <div class="offer-price">From $129/mo</div>
+      <div class="offer-desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
+    </a>
+
+    <a href="#" class="offer-card offer-card--violet">
+      <span class="offer-badge offer-badge--violet">Most Options</span>
+      <div class="offer-name">SkinnyRx</div>
+      <div class="offer-price">From $199/mo</div>
+      <div class="offer-desc">Injectable, tablet, or sublingual options</div>
+    </a>
+
+    <a href="#" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="arr">&#8594;</span></a>
+  </div>
+
+  <!-- SECTION: FAQ -->
+  <div id="faq" class="faq-section">
+    <h2 class="faq-section__title">Frequently Asked Questions</h2>
+
+    <div class="faq-item open">
+      <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">Do GLP-1 medications help with gout?</div>
+      <div class="faq-a">Indirectly, yes. GLP-1 medications are not gout treatments, but obesity is one of the strongest modifiable risk factors for gout — roughly doubling to tripling risk — and weight loss reliably lowers serum uric acid and flare frequency. Recent cohort studies (2024-2025) found that people with gout and diabetes or obesity who took GLP-1s had lower rates of gout flares compared to similar patients on other medications.</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">Does semaglutide lower uric acid?</div>
+      <div class="faq-a">Weight loss from semaglutide lowers uric acid modestly. Studies of significant weight loss show serum uric acid reductions of roughly 0.5-1.5 mg/dL, driven by improved insulin sensitivity (high insulin makes kidneys retain urate) and reduced urate production from shrinking fat tissue. The effect is smaller than urate-lowering drugs like allopurinol, which is why GLP-1s complement rather than replace gout medication.</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">Can rapid weight loss trigger a gout flare?</div>
+      <div class="faq-a">Yes. Rapid weight loss and fasting can transiently raise uric acid and trigger flares in the first weeks to months, because breaking down tissue releases purines and ketones compete with urate for kidney excretion. This is temporary — long-term weight loss lowers flare risk. People with gout starting a GLP-1 should stay on their urate-lowering therapy and discuss flare prophylaxis with their doctor.</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">Should I stop allopurinol if I start a GLP-1?</div>
+      <div class="faq-a">No. Never stop urate-lowering therapy without your doctor's guidance. Allopurinol and febuxostat remain the foundation of gout management, targeting uric acid below 6 mg/dL. A GLP-1 addresses the metabolic drivers underneath — weight, insulin resistance, kidney strain — but its uric acid effect alone is usually not enough to control established gout.</div>
+    </div>
+  </div>
+
+  <!-- Red safety callout -->
+  <div class="callout callout--red">
+    <p><strong>Important:</strong> if you have gout and start a GLP-1, tell your rheumatologist or prescriber. Rapid early weight loss can temporarily trigger flares, and your doctor may keep you on (or add) flare prophylaxis during the first months. Never stop gout medication because the scale is moving.</p>
+  </div>
+
+  <!-- Disclaimer -->
+  <div class="disclaimer">
+    <p><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Never change or stop gout medication without your healthcare provider's guidance.</em></p>
+    <p>Questions? <a href="mailto:contact@glp1forwellness.com">contact@glp1forwellness.com</a></p>
+  </div>
+
+  <p class="fine-print">Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</p>
+
+</article>
+
+<!-- ===== FOOTER ===== -->
+<footer class="site-footer">
+  <p>Questions? <a href="mailto:contact@glp1forwellness.com">contact@glp1forwellness.com</a></p>
+</footer>
+
+</body>
+</html>
