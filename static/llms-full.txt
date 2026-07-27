@@ -443,6 +443,24 @@ Legal note (2026): Compounded semaglutide remains legal through 503A individuali
 
 ---
 
+## What Are Peptides? The Beginner's Guide to Peptide Therapy (2026)
+URL: https://glp1forwellness.com/peptides/what-are-peptides/
+Date: July 2026
+
+Comprehensive beginner's guide to peptide therapy — what peptides are, how they work, which ones have real evidence, peptides vs steroids, safety considerations, and why sourcing from legitimate telehealth providers matters more than the peptide itself.
+
+Key takeaways:
+- Peptides are short chains of amino acids (2-50) that act as signaling molecules, binding to specific cell receptors to trigger targeted biological responses. GLP-1 drugs (semaglutide, tirzepatide) are peptides.
+- Evidence tiers: Tier 1 (strong clinical evidence) = GLP-1 receptor agonists; Tier 2 (established safety, good evidence) = sermorelin (was FDA-approved), PT-141/bremelanotide (FDA-approved for HSDD); Tier 3 (promising, early evidence) = NAD+, GLP-1 microdosing; Tier 4 (hype/gray-market only) = BPC-157, TB-500, most other trendy peptides
+- Peptides vs steroids: peptides are signals that work WITH your body's feedback loops; steroids are hormones that OVERRIDE them. Peptides have milder effects and fewer side effects because they don't suppress natural production.
+- The primary safety risk is not the peptides themselves but the sourcing: gray-market "research peptides" have no purity testing, require home reconstitution (dosing errors, sterility risk), and come with zero medical oversight. Independent testing has found contaminated and mislabeled products.
+- Prescription peptides from licensed US compounding pharmacies arrive pre-mixed, pre-dosed, from inspected facilities — with a prescribing clinician who screens health history and monitors side effects
+- Telehealth peptide therapy costs: oral sermorelin from $99/mo (Strut Health), NAD+ nasal spray from $116/mo (Telos Rx), sermorelin injection from $125-129/mo, GLP-1s from $129/mo
+- Contraindications across peptides: active cancer (GH and NAD+ can fuel tumor growth), pregnancy/breastfeeding, untreated thyroid disorders, history of pancreatitis (GLP-1s specifically)
+- Stacking is common: GLP-1 + sermorelin (weight loss + muscle preservation), GLP-1 + NAD+ (weight + energy) — should be provider-supervised
+
+---
+
 ## NAD+ Therapy: What It Is, What the Science Says, and How to Get It (2026)
 URL: https://glp1forwellness.com/peptides/nad-plus-therapy/
 Date: July 2026
