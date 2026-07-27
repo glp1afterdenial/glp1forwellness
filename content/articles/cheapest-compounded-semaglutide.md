@@ -17,7 +17,7 @@ keywords: ["cheapest compounded semaglutide", "cheapest semaglutide online", "co
       "name": "What is the cheapest compounded semaglutide online in 2026?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "As of July 2026, the cheapest compounded semaglutide from platforms we've researched is Gala at $129/month (annual plan) with no membership fee, followed closely by Oak Loves You at $133/month with price matching. Mid-range options include TrimRX ($149/month), Ro ($149-249/month), ShedRx ($159/month with a 120-day money-back guarantee), and Mochi Health ($178/month effective — $99 medication plus $79 membership). Prices change frequently, so verify at checkout."
+        "text": "As of July 2026, the cheapest compounded semaglutide from platforms we've researched is Gala at $129/month (annual plan) with no membership fee, followed closely by Oak Loves You at $133/month with price matching. Mid-range options include Ro ($149-249/month), ShedRx ($159/month with a 120-day money-back guarantee), and Mochi Health ($178/month effective — $99 medication plus $79 membership). Prices change frequently, so verify at checkout."
       }
     },
     {
@@ -76,7 +76,7 @@ keywords: ["cheapest compounded semaglutide", "cheapest semaglutide online", "co
 <div id="tldr" class="tldr-box">
 <div class="tldr-box__row">
 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> The cheapest compounded semaglutide we've found in 2026 is <strong>Gala at $129/month</strong> (annual plan, no membership fee), followed by <strong>Oak Loves You at $133/month</strong> with price matching. Mid-range: TrimRX ($149), Ro ($149-249), ShedRx ($159, 120-day guarantee), Mochi ($178 effective). Watch for the three price traps: <strong>membership fees, dose-based price increases, and intro rates that reset</strong>. All prices verified July 2026 — always confirm at checkout.</span>
+<span class="tldr-box__text"><strong>TL;DR:</strong> The cheapest compounded semaglutide we've found in 2026 is <strong>Gala at $129/month</strong> (annual plan, no membership fee), followed by <strong>Oak Loves You at $133/month</strong> with price matching. Mid-range: Ro ($149-249), ShedRx ($159, 120-day guarantee), Mochi ($178 effective). Watch for the three price traps: <strong>membership fees, dose-based price increases, and intro rates that reset</strong>. All prices verified July 2026 — always confirm at checkout.</span>
 </div>
 </div>
 
@@ -88,18 +88,17 @@ We ranked seven platforms by **realistic ongoing monthly cost** — not the teas
 
 ---
 
-<h2 id="rankings" class="h2-accent">The Rankings: 8 Platforms by Real Monthly Cost</h2>
+<h2 id="rankings" class="h2-accent">The Rankings: 7 Platforms by Real Monthly Cost</h2>
 
 | Rank | Platform | Real Monthly Cost | Membership Fee | Notes |
 |------|----------|------------------|----------------|-------|
 | 1 | **Gala** | $129 | $0 | Annual plan; tirzepatide $179 |
 | 2 | **Oak Loves You** | $133 | $0 | Price matching, same-day approval |
-| 3 | **TrimRX** | $149 | $0 | $140 off first month |
-| 4 | **Ro** | $149-249 | $0 | Price rises with dose |
-| 5 | **ShedRx** | $159 | $0 | 120-day money-back guarantee, coaching included |
-| 6 | **Mochi Health** | $178 | $79 (included in total) | $99 med, flat across all doses |
-| 7 | **SkinnyRx** | $199 | $0 | Injectable, tablet, or sublingual |
-| 8 | **Henry Meds** | $199-297 | Consult fee $49-99 | Prepay lowers monthly rate |
+| 3 | **Ro** | $149-249 | $0 | Price rises with dose |
+| 4 | **ShedRx** | $159 | $0 | 120-day money-back guarantee, coaching included |
+| 5 | **Mochi Health** | $178 | $79 (included in total) | $99 med, flat across all doses |
+| 6 | **SkinnyRx** | $199 | $0 | Injectable, tablet, or sublingual |
+| 7 | **Henry Meds** | $199-297 | Consult fee $49-99 | Prepay lowers monthly rate |
 
 ### 1. Gala — $129/month (Cheapest Overall)
 
@@ -109,27 +108,23 @@ Gala's $129/month semaglutide (on the annual plan) is the lowest ongoing price w
 
 Four dollars more than Gala, but with month-to-month flexibility, same-day approval, free coaching, and — notably — **price matching**: if you find a lower legitimate price, they'll match it. This is our top overall pick when flexibility matters.
 
-### 3. TrimRX — $149/month
-
-Flat $149/month with $140 off your first month and a money-back guarantee. A solid mid-range option with strong intro pricing.
-
-### 4. Ro — $149-249/month
+### 3. Ro — $149-249/month
 
 A large, well-established platform. Entry pricing starts around $149/month, but costs typically climb toward $249/month as your dose titrates up — the most common complaint with dose-based pricing. Good brand trust; budget for the higher end by month 4-6.
 
-### 5. [ShedRx](https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095) — $159/month
+### 4. [ShedRx](https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095) — $159/month
 
 Flat $159/month with no membership fee, health coaching included, and the strongest guarantee on this list: **120 days money-back**. ShedRx also offers GLP-1 drops and lozenges if you want a needle-free option at a lower price point than SkinnyRx.
 
-### 6. Mochi Health — $178/month effective
+### 5. Mochi Health — $178/month effective
 
 Mochi advertises "$99/month semaglutide," but that's the medication only — the required membership is $79/month, making the real cost $178. To their credit, the $99 medication price is **flat across all doses** (0.25mg to 2.5mg weekly), so your price never climbs as you titrate. Predictable, just not as cheap as the headline.
 
-### 7. SkinnyRx — $199/month
+### 6. SkinnyRx — $199/month
 
 The most expensive of our recommended platforms, but the only one offering **injectable, tablet, or sublingual** semaglutide — worth the premium if you want to avoid needles.
 
-### 8. Henry Meds — $199-297/month
+### 7. Henry Meds — $199-297/month
 
 A well-known name with flat-rate pricing commonly around $297/month for compounded semaglutide (prepay plans bring it lower, and some tiers start near $199), plus a $49-99 initial consult fee. Reliable, but you're paying $70-160/month more than the top of this list for the same molecule.
 

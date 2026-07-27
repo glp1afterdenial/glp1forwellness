@@ -284,13 +284,6 @@ GLP-1 medications are not right for every IBD patient. There are clear situation
 <div class="offer-card__desc">Free coaching + dietitian, $0 membership</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--blue">
-<div class="offer-card__badge">HSA/FSA</div>
-<div class="offer-card__name">TrimRX</div>
-<div class="offer-card__price">From $149/mo</div>
-<div class="offer-card__desc">$140 off first month, money-back guarantee</div>
-</a>
-
 <a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
 <div class="offer-card__badge">Money-Back Guarantee</div>
 <div class="offer-card__name">ShedRx</div>

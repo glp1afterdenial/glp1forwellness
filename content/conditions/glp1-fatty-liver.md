@@ -372,13 +372,6 @@ If you want to start GLP-1 therapy while pursuing a formal diagnosis, or if insu
 <div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--blue">
-<div class="offer-card__badge">$140 Off</div>
-<div class="offer-card__name">TrimRX</div>
-<div class="offer-card__price">From $149/mo</div>
-<div class="offer-card__desc">$140 off first month, money-back guarantee</div>
-</a>
-
 <a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
 <div class="offer-card__badge">Most Options</div>
 <div class="offer-card__name">SkinnyRx</div>

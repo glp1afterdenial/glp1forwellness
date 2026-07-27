@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Sexual Health: Libido, ED, and Peptide Solutions"
 date: 2026-07-26
-lastmod: 2026-07-26
+lastmod: 2026-07-27
 description: "GLP-1 weight-loss drugs can improve or worsen sexual function. How semaglutide affects libido and ED, plus peptide treatments like PT-141 (bremelanotide), tadalafil, and sexual wellness programs that work alongside GLP-1 therapy."
 summary: "GLP-1 weight-loss drugs can improve or worsen sexual function. How semaglutide affects libido and ED, plus peptide treatments like PT-141 (bremelanotide), tadalafil, and sexual wellness programs that work alongside GLP-1 therapy."
 keywords: ["GLP-1 libido", "Ozempic sex drive", "semaglutide erectile dysfunction", "GLP-1 ED", "PT-141 peptide", "bremelanotide", "Ozempic low libido", "tirzepatide sexual side effects", "GLP-1 testosterone", "weight loss libido", "peptides for sexual health", "tadalafil GLP-1", "Ozempic sexual dysfunction"]
@@ -72,7 +72,7 @@ keywords: ["GLP-1 libido", "Ozempic sex drive", "semaglutide erectile dysfunctio
   "description": "GLP-1 weight-loss drugs can improve or worsen sexual function. How semaglutide affects libido and ED, plus peptide treatments like PT-141 (bremelanotide), tadalafil, and sexual wellness programs that work alongside GLP-1 therapy.",
   "url": "https://glp1forwellness.com/conditions/glp1-sexual-health/",
   "datePublished": "2026-07-26",
-  "dateModified": "2026-07-26",
+  "dateModified": "2026-07-27",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -233,6 +233,13 @@ Many telehealth platforms now offer sexual health programs designed to work alon
 <div class="offer-card__name">Bodybuilding Health+</div>
 <div class="offer-card__price">PT-141 from $129/mo · Tadalafil from $96/mo</div>
 <div class="offer-card__desc">GLP-1 + sexual health peptides under one roof. PT-141, tadalafil, and GLP-1 prescribed together.</div>
+</a>
+
+<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=11290&url_id=12374" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">PT-141 Specialist</div>
+<div class="offer-card__name">Telos Rx</div>
+<div class="offer-card__price">PT-141 for less than $5/day</div>
+<div class="offer-card__desc">As-needed PT-141 for men & women — clinician-prescribed, FSA/HSA eligible, free 48-hour shipping</div>
 </a>
 
 <a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">

@@ -1,10 +1,10 @@
 ---
 title: "GLP-1 Hair Loss: Why It Happens and How to Prevent It"
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-07-27
 description: "A 2025 meta-analysis of 84,000+ participants found GLP-1 users are 3.4x more likely to experience hair loss. Learn why it happens (telogen effluvium from rapid weight loss), the exact timeline, prevention strategies, and when it will grow back."
 summary: "A 2025 meta-analysis of 84,000+ participants found GLP-1 users are 3.4x more likely to experience hair loss. Learn why it happens (telogen effluvium from rapid weight loss), the exact timeline, prevention strategies, and when it will grow back."
-keywords: ["GLP-1 hair loss", "semaglutide hair loss", "Ozempic hair thinning", "telogen effluvium weight loss", "does Wegovy cause hair loss", "hair loss on tirzepatide", "how to prevent hair loss on semaglutide", "GLP-1 hair regrowth", "Mounjaro hair thinning", "biotin for GLP-1 hair loss", "weight loss hair shedding timeline", "semaglutide telogen effluvium"]
+keywords: ["GLP-1 hair loss", "semaglutide hair loss", "Ozempic hair thinning", "telogen effluvium weight loss", "does Wegovy cause hair loss", "hair loss on tirzepatide", "how to prevent hair loss on semaglutide", "GLP-1 hair regrowth", "Mounjaro hair thinning", "biotin for GLP-1 hair loss", "weight loss hair shedding timeline", "semaglutide telogen effluvium", "hair loss treatment online", "minoxidil finasteride telehealth", "spironolactone hair loss women", "ShedRx hair treatment"]
 ---
 
 <script type="application/ld+json">
@@ -70,6 +70,14 @@ keywords: ["GLP-1 hair loss", "semaglutide hair loss", "Ozempic hair thinning", 
     },
     {
       "@type": "Question",
+      "name": "Are there prescription treatments for GLP-1-related hair loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plain telogen effluvium usually resolves on its own once your weight stabilizes, so prescription treatment is often unnecessary. But if rapid weight loss has unmasked pattern hair loss (androgenetic alopecia), or shedding is severe, prescription options can help: minoxidil (oral or topical), finasteride for men, and spironolactone for women. Telehealth platforms like Strut Health and ShedRx offer provider-prescribed hair treatments starting around $25-59/month, including combination tablets and serums compounded by licensed US pharmacies."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "When should I see a dermatologist about GLP-1-related hair loss?",
       "acceptedAnswer": {
         "@type": "Answer",
@@ -88,7 +96,7 @@ keywords: ["GLP-1 hair loss", "semaglutide hair loss", "Ozempic hair thinning", 
   "description": "A 2025 meta-analysis of 84,000+ participants found GLP-1 users are 3.4x more likely to experience hair loss. Learn why it happens (telogen effluvium from rapid weight loss), the exact timeline, prevention strategies, and when it will grow back.",
   "url": "https://glp1forwellness.com/resources/glp1-hair-loss/",
   "datePublished": "2026-07-17",
-  "dateModified": "2026-07-17",
+  "dateModified": "2026-07-27",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -113,6 +121,7 @@ keywords: ["GLP-1 hair loss", "semaglutide hair loss", "Ozempic hair thinning", 
 <a href="#prevention" class="article-nav-pill">Prevention</a>
 <a href="#not-normal" class="article-nav-pill">When It's Not Normal</a>
 <a href="#will-it-grow-back" class="article-nav-pill">Regrowth</a>
+<a href="#treatment" class="article-nav-pill">Treatment</a>
 <a href="#how-to-get" class="article-nav-pill">How to Get</a>
 <a href="#faq" class="article-nav-pill">FAQ</a>
 </div>
@@ -120,7 +129,7 @@ keywords: ["GLP-1 hair loss", "semaglutide hair loss", "Ozempic hair thinning", 
 <div id="tldr" class="tldr-box">
 <div class="tldr-box__row">
 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> A 2025 meta-analysis of <strong>84,000+ participants</strong> confirmed that GLP-1 users are <strong>3.4x more likely</strong> to experience hair loss. But this is NOT a direct drug side effect — it's <strong>telogen effluvium</strong>, a temporary condition caused by the physiological stress of rapid weight loss. Hair shedding typically starts <strong>2-4 months</strong> after beginning treatment, peaks around <strong>6 months</strong>, and <strong>regrows within 6-12 months</strong> after weight stabilizes. Prevention strategies: adequate protein, iron/ferritin monitoring, biotin supplementation, and slower weight loss pace. Telehealth platforms offer affordable GLP-1 access starting at <strong>$129/month</strong>.</span>
+<span class="tldr-box__text"><strong>TL;DR:</strong> A 2025 meta-analysis of <strong>84,000+ participants</strong> confirmed that GLP-1 users are <strong>3.4x more likely</strong> to experience hair loss. But this is NOT a direct drug side effect — it's <strong>telogen effluvium</strong>, a temporary condition caused by the physiological stress of rapid weight loss. Hair shedding typically starts <strong>2-4 months</strong> after beginning treatment, peaks around <strong>6 months</strong>, and <strong>regrows within 6-12 months</strong> after weight stabilizes. Prevention strategies: adequate protein, iron/ferritin monitoring, biotin supplementation, and slower weight loss pace. If weight loss unmasks pattern hair loss, <strong>prescription treatment</strong> (minoxidil, finasteride, spironolactone) is available online from <strong>$25/month</strong>. Telehealth platforms offer affordable GLP-1 access starting at <strong>$129/month</strong>.</span>
 </div>
 </div>
 
@@ -393,6 +402,77 @@ If you're still actively losing weight on your GLP-1 medication, your hair shedd
 
 ---
 
+<h2 id="treatment" class="h2-accent h2-accent--slate">Prescription Treatment: When You Don't Want to Just Wait It Out</h2>
+
+For straightforward telogen effluvium, the honest answer is that nutrition and patience are usually enough — the follicles aren't damaged, and the hair comes back on its own. **But there are two situations where prescription treatment makes sense:**
+
+1. **Weight loss unmasked pattern hair loss.** If your thinning follows a pattern (receding hairline or crown in men, widening part in women), that's androgenetic alopecia — and it's progressive. It won't resolve when your weight stabilizes. Prescription treatment is the standard of care.
+2. **You want to actively minimize shedding and speed regrowth** rather than waiting the 6-12 months for natural recovery.
+
+The proven prescription options are **minoxidil** (oral or topical — extends the growth phase and supports follicle circulation), **finasteride** for men (blocks DHT, the hormone that miniaturizes follicles), and **spironolactone** for women (manages hormone-related thinning).
+
+### Getting Treatment Online
+
+You don't need a separate dermatology visit to start. Two telehealth platforms we've researched offer provider-prescribed hair treatment:
+
+- **[Strut Health](https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=6350)** — a compounding-focused telehealth pharmacy with separate [women's](https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=6350) and [men's](https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=6349) hair programs. Their formulas are customizable — a physician adjusts ingredients based on your history — and pricing starts lower than most competitors (finasteride tablets from $25/month for men; the women's multi-ingredient topical formula runs $59/month).
+- **[ShedRx](https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095)** — the same platform that prescribes GLP-1s also runs a hair program, convenient if you want one provider managing both your weight loss medication and the hair side effect it can trigger.
+
+<div class="callout">
+
+**Strut Health options** (physician-formulated, compounded, customizable):
+
+- **Women's Hair Loss Formula** — topical with spironolactone + finasteride + minoxidil + tretinoin + fluocinolone + biotin, $59/month
+- **Women's Hairfect Combo** (topical + oral) — $75/month; oral minoxidil tablets $55 per 90-day supply
+- **Men's Hairfect Rx topical** — finasteride ($59/mo) or dutasteride ($69/mo) + minoxidil
+- **Men's finasteride tablets** — from $25/month; dutasteride capsules $39/month
+- **Add-ons** — ketoconazole 2% shampoo, latanoprost hair booster, dermaroller
+
+**ShedRx hair treatment options** (all provider-prescribed, compounded by licensed US pharmacies, from ~$43/month billed quarterly):
+
+- **Women's 3-in-1 Hair Tablet** — spironolactone 60mg + minoxidil 1mg + biotin 5mg, one daily tablet
+- **Women's 5-in-1 Hair Serum** — minoxidil 5% + tretinoin + biotin + fluocinolone + vitamin E, daily topical
+- **Men's Minoxidil + Finasteride Serum** — minoxidil 10% + finasteride 0.1%, daily topical (lower systemic absorption than pills)
+- **Men's 3-in-1 Hair Tablet** — minoxidil 2.5mg + finasteride 1mg + biotin 5mg, one daily tablet
+- **Copper Peptide (GHK-Cu) Serum** — for scalp and follicle support
+
+The process is fully online: health intake → licensed provider review → medication shipped. Most users see reduced shedding within 8-12 weeks and visible thickness improvement at 3-6 months.
+
+</div>
+
+<div class="offer-grid">
+
+<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=6350" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Women's Hair Rx</div>
+<div class="offer-card__name">Strut Health — Women</div>
+<div class="offer-card__price">From $49/mo</div>
+<div class="offer-card__desc">Customizable spironolactone + minoxidil + tretinoin topical formula, oral options available</div>
+</a>
+
+<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=6349" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">Men's Hair Rx</div>
+<div class="offer-card__name">Strut Health — Men</div>
+<div class="offer-card__price">From $25/mo</div>
+<div class="offer-card__desc">Finasteride tablets from $25, topical finasteride/dutasteride + minoxidil serums</div>
+</a>
+
+<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
+<div class="offer-card__badge">Hair + GLP-1 in One Place</div>
+<div class="offer-card__name">ShedRx Hair Treatment</div>
+<div class="offer-card__price">From $43/mo</div>
+<div class="offer-card__desc">Provider-prescribed minoxidil, finasteride & spironolactone formulas — tablets or serums, shipped to your door</div>
+</a>
+
+</div>
+
+<div class="callout callout--amber">
+
+**A note on expectations:** These medications treat pattern hair loss and support regrowth — they are not a magic fix for active telogen effluvium while you're still losing weight rapidly. The nutritional strategies above remain the foundation. And finasteride and spironolactone have real contraindications (finasteride is not for women of childbearing potential; spironolactone requires caution with kidney issues and certain medications), which is exactly why a provider consultation is part of the process.
+
+</div>
+
+---
+
 <h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications Affordably</h2>
 
 <div class="callout callout--amber">
@@ -421,13 +501,6 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="offer-card__desc">Semaglutide $129, tirzepatide $179, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--blue">
-<div class="offer-card__badge">$140 Off</div>
-<div class="offer-card__name">TrimRX</div>
-<div class="offer-card__price">From $149/mo</div>
-<div class="offer-card__desc">$140 off first month, HSA/FSA, money-back guarantee</div>
-</a>
-
 <a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
 <div class="offer-card__badge">Most Options</div>
 <div class="offer-card__name">SkinnyRx</div>
@@ -439,7 +512,7 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="offer-card__badge">Money-Back Guarantee</div>
 <div class="offer-card__name">ShedRx</div>
 <div class="offer-card__price">From $159/mo</div>
-<div class="offer-card__desc">Health coaching included, 120-day guarantee, GLP-1 drops & lozenges available</div>
+<div class="offer-card__desc">Health coaching, 120-day guarantee — plus prescription hair loss treatment from $43/mo</div>
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>

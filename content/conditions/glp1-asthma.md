@@ -416,13 +416,6 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="offer-card__desc">Lowest starting price, free provider consultations</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1515&aff_id=11290" target="_blank" class="offer-card offer-card--amber">
-<div class="offer-card__badge">$140 Off</div>
-<div class="offer-card__name">TrimRX</div>
-<div class="offer-card__price">From $149/mo</div>
-<div class="offer-card__desc">$140 off first month, HSA/FSA, money-back guarantee</div>
-</a>
-
 <a href="https://track.revoffers.com/aff_c?offer_id=1464&aff_id=11290" target="_blank" class="offer-card offer-card--purple">
 <div class="offer-card__badge">Most Options</div>
 <div class="offer-card__name">SkinnyRx</div>

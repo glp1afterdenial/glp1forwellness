@@ -13,10 +13,11 @@ Some links on GLP-1 for Wellness are affiliate links. When you click these links
 We currently have affiliate relationships with:
 - Oak Loves You
 - Gala Health
-- TrimRX
 - ShedRx
 - SkinnyRx
 - Bodybuilding Health+
+- Strut Health
+- Telos Rx
 
 These relationships are managed through RevOffers.
 

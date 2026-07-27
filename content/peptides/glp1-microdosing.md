@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Microdosing: Lower Doses, Fewer Side Effects, Same Benefits?"
 date: 2026-07-26
-lastmod: 2026-07-26
+lastmod: 2026-07-27
 description: "GLP-1 microdosing uses lower semaglutide or tirzepatide doses for gentler weight loss with fewer side effects. Who it's for, how protocols work, what research supports it, and where to get it from $139/month."
 summary: "GLP-1 microdosing uses lower semaglutide or tirzepatide doses for gentler weight loss with fewer side effects. Who it's for, how protocols work, what research supports it, and where to get it from $139/month."
 keywords: ["GLP-1 microdosing", "semaglutide low dose", "microdose Ozempic", "semaglutide side effects", "GLP-1 lower dose", "semaglutide maintenance dose", "tirzepatide microdose", "GLP-1 tolerability", "GLP-1 without nausea", "semaglutide half dose", "compounded semaglutide microdose", "affordable GLP-1"]
@@ -72,7 +72,7 @@ keywords: ["GLP-1 microdosing", "semaglutide low dose", "microdose Ozempic", "se
   "description": "GLP-1 microdosing uses lower semaglutide or tirzepatide doses for gentler weight loss with fewer side effects. Who it's for, how protocols work, what research supports it, and where to get it from $139/month.",
   "url": "https://glp1forwellness.com/peptides/glp1-microdosing/",
   "datePublished": "2026-07-26",
-  "dateModified": "2026-07-26",
+  "dateModified": "2026-07-27",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -215,6 +215,13 @@ Key insight from the data: **you don't need maximum dose for meaningful benefit.
 <div class="offer-card__desc">Explicit microdosing options for gradual support. Single to 12-month bundles. Licensed providers.</div>
 </a>
 
+<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=11290&url_id=12373" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Tirzepatide Microdosing</div>
+<div class="offer-card__name">Telos Rx</div>
+<div class="offer-card__price">From $116/mo</div>
+<div class="offer-card__desc">Purpose-built microdosed tirzepatide protocol — flat pricing as your dose titrates, FSA/HSA eligible</div>
+</a>
+
 <a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Flexible Dosing</div>
 <div class="offer-card__name">Oak Loves You</div>
@@ -234,6 +241,13 @@ Key insight from the data: **you don't need maximum dose for meaningful benefit.
 <div class="offer-card__name">ShedRx</div>
 <div class="offer-card__price">From $159/mo</div>
 <div class="offer-card__desc">Health coaching included, 120-day guarantee, GLP-1 drops & lozenges available</div>
+</a>
+
+<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=11666" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">Peptide Stack Option</div>
+<div class="offer-card__name">Strut Health</div>
+<div class="offer-card__price">Oral Sermorelin $99/mo</div>
+<div class="offer-card__desc">GH-stimulating peptide in lozenge form — pairs with low-dose GLP-1s for muscle & recovery</div>
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
