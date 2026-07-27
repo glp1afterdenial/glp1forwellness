@@ -210,7 +210,7 @@ All three work. Injection is considered the gold standard; tablets and lozenges 
 <div class="offer-card__desc">Injection or tablet, 1-month and 3-month bundles. Licensed U.S. providers and pharmacies.</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=11290&url_id=12375" target="_blank" class="offer-card offer-card--amber">
+<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12375" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">$0 If Not Approved</div>
 <div class="offer-card__name">Telos Rx</div>
 <div class="offer-card__price">Sermorelin from $125/mo</div>

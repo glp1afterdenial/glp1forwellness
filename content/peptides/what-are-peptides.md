@@ -317,7 +317,7 @@ No clinic visits. No waiting rooms. No insurance required.
 <div class="offer-card__desc">Full peptide menu — GLP-1s, NAD+, sermorelin, and specialty peptides. Microdosing options and multi-month bundles. Licensed US providers and pharmacies.</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=11290&url_id=12375" target="_blank" class="offer-card offer-card--amber">
+<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12375" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">$0 If Not Approved</div>
 <div class="offer-card__name">Telos Rx</div>
 <div class="offer-card__price">NAD+ spray $116 · Sermorelin $125/mo</div>

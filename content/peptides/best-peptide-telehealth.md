@@ -161,19 +161,19 @@ Telos stands out for two things: flat pricing (your cost doesn't go up as your d
 **Best for:** People who want NAD+ or GLP-1 microdosing at the lowest price, or anyone who wants to try peptide therapy with zero financial risk (the $0 guarantee).
 
 <div class="offer-grid">
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=11290&url_id=12370" target="_blank" class="offer-card offer-card--amber">
+<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12370" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Cheapest NAD+</div>
 <div class="offer-card__name">Telos Rx — NAD+ Spray</div>
 <div class="offer-card__price">$116/mo</div>
 <div class="offer-card__desc">Intranasal NAD+ for daily energy & clarity — clinician-prescribed, FSA/HSA eligible</div>
 </a>
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=11290&url_id=12375" target="_blank" class="offer-card offer-card--amber">
+<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12375" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">$0 If Not Approved</div>
 <div class="offer-card__name">Telos Rx — Sermorelin</div>
 <div class="offer-card__price">$125/mo</div>
 <div class="offer-card__desc">Provider-reviewed intake, FSA/HSA eligible, free 2-day shipping</div>
 </a>
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=11290&url_id=12373" target="_blank" class="offer-card offer-card--amber">
+<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12373" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Flat Pricing</div>
 <div class="offer-card__name">Telos Rx — Microdosed Tirzepatide</div>
 <div class="offer-card__price">$116/mo</div>

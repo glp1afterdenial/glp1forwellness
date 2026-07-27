@@ -215,7 +215,7 @@ Key insight from the data: **you don't need maximum dose for meaningful benefit.
 <div class="offer-card__desc">Explicit microdosing options for gradual support. Single to 12-month bundles. Licensed providers.</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=11290&url_id=12373" target="_blank" class="offer-card offer-card--amber">
+<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12373" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Tirzepatide Microdosing</div>
 <div class="offer-card__name">Telos Rx</div>
 <div class="offer-card__price">From $116/mo</div>
