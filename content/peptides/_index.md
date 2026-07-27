@@ -90,10 +90,11 @@ Licensed telehealth platforms solve all of this: a clinician reviews your health
 
 ---
 
-## Get Started
+## Compare Platforms
 
 <div class="quick-links u-mb-40">
-<a href="/articles/best-telehealth-glp1/" class="quick-link">⭐ Compare Telehealth Platforms</a>
+<a href="/peptides/best-peptide-telehealth/" class="quick-link bc-accent">⭐ Compare Peptide Telehealth Platforms</a>
+<a href="/articles/best-telehealth-glp1/" class="quick-link">💊 Compare GLP-1 Telehealth Platforms</a>
 </div>
 
 <div class="panel panel--white">
