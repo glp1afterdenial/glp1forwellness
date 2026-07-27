@@ -31,6 +31,31 @@ If you've spent any time in peptide communities online, you've seen the gray-mar
 
 Licensed telehealth platforms solve all of this: a clinician reviews your health history, the prescription is filled by a **regulated US compounding pharmacy** that tests for purity and potency, the medication arrives **pre-mixed and pre-measured** (no reconstitution, no dosing math), and you have a provider to contact if anything feels off. You'll pay somewhat more than gray-market prices — but you actually know what you're injecting.
 
+## Where to Get Peptide Therapy Online
+
+<div class="offer-grid">
+<a href="https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Widest Peptide Menu</div>
+<div class="offer-card__name">Bodybuilding Health+</div>
+<div class="offer-card__price">NAD+ & Sermorelin from $129/mo</div>
+<div class="offer-card__desc">GLP-1s, NAD+, sermorelin, and specialty peptides — microdosing options and multi-month bundles</div>
+</a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=11290&url_id=12375" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">$0 If Not Approved</div>
+<div class="offer-card__name">Telos Rx</div>
+<div class="offer-card__price">Sermorelin from $125/mo</div>
+<div class="offer-card__desc">Also NAD+ nasal spray ($116/mo) and microdosed tirzepatide — FSA/HSA eligible, free 2-day shipping</div>
+</a>
+<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=11666" target="_blank" class="offer-card offer-card--purple">
+<div class="offer-card__badge">No Needles</div>
+<div class="offer-card__name">Strut Health</div>
+<div class="offer-card__price">Oral sermorelin from $99/mo</div>
+<div class="offer-card__desc">Once-daily sermorelin lozenge — provider-prescribed, monthly delivery, no injections</div>
+</a>
+</div>
+
+<p class="fine-print">We may earn a commission if you sign up through these links, at no extra cost to you. <a href="/legal/disclosure/">Full disclosure</a>.</p>
+
 ---
 
 ## Start Here
@@ -70,33 +95,6 @@ Licensed telehealth platforms solve all of this: a clinician reviews your health
 <div class="quick-links u-mb-40">
 <a href="/articles/best-telehealth-glp1/" class="quick-link">⭐ Compare Telehealth Platforms</a>
 </div>
-
----
-
-## Where to Get Peptide Therapy Online
-
-<div class="offer-grid">
-<a href="https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095" target="_blank" class="offer-card offer-card--green">
-<div class="offer-card__badge">Widest Peptide Menu</div>
-<div class="offer-card__name">Bodybuilding Health+</div>
-<div class="offer-card__price">NAD+ & Sermorelin from $129/mo</div>
-<div class="offer-card__desc">GLP-1s, NAD+, sermorelin, and specialty peptides — microdosing options and multi-month bundles</div>
-</a>
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=11290&url_id=12375" target="_blank" class="offer-card offer-card--amber">
-<div class="offer-card__badge">$0 If Not Approved</div>
-<div class="offer-card__name">Telos Rx</div>
-<div class="offer-card__price">Sermorelin from $125/mo</div>
-<div class="offer-card__desc">Also NAD+ nasal spray ($116/mo) and microdosed tirzepatide — FSA/HSA eligible, free 2-day shipping</div>
-</a>
-<a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=11290&url_id=11666" target="_blank" class="offer-card offer-card--purple">
-<div class="offer-card__badge">No Needles</div>
-<div class="offer-card__name">Strut Health</div>
-<div class="offer-card__price">Oral sermorelin from $99/mo</div>
-<div class="offer-card__desc">Once-daily sermorelin lozenge — provider-prescribed, monthly delivery, no injections</div>
-</a>
-</div>
-
-<p class="fine-print">We may earn a commission if you sign up through these links, at no extra cost to you. <a href="/legal/disclosure/">Full disclosure</a>.</p>
 
 <div class="panel panel--white">
 <h3 class="h-ink-lg">Want a peptide covered?</h3>
