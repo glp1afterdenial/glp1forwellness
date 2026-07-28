@@ -108,6 +108,25 @@ layout: "simple"
 
 <p class="page-subtitle">The landmark FLOW trial showed semaglutide cut major kidney disease events by 24% in people with type 2 diabetes and ...</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🏥</div>
+<div class="peptide-highlight__stat">FDA-Approved</div>
+<div class="peptide-highlight__label">Semaglutide for diabetic CKD</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📉</div>
+<div class="peptide-highlight__stat">24% Slower Decline</div>
+<div class="peptide-highlight__label">FLOW trial — kidney function preserved</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -326,6 +345,17 @@ These platforms connect you with licensed providers who can prescribe compounded
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-blood-pressure/" class="link-card">GLP-1s & Blood Pressure <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-sleep-apnea/" class="link-card">GLP-1s & Sleep Apnea <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

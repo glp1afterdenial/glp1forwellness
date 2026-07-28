@@ -92,6 +92,25 @@ layout: "simple"
 
 <p class="page-subtitle">Large studies show GLP-1 users have 17-41% lower cancer risk — including 30% lower breast cancer, 58% lower endometri...</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📉</div>
+<div class="peptide-highlight__stat">17-41% Lower Risk</div>
+<div class="peptide-highlight__label">Large observational studies in GLP-1 users</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🔬</div>
+<div class="peptide-highlight__stat">Emerging</div>
+<div class="peptide-highlight__label">Correlation strong but causation not proven</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -249,6 +268,17 @@ The cancer risk reduction is largest for people with:
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-aging/" class="link-card">GLP-1s & Aging <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
+<a href="/articles/best-telehealth-glp1/" class="link-card">Compare GLP-1 Telehealth Platforms <span class="tx-green">→</span></a>
+<a href="/articles/glp1-anti-inflammatory-mechanisms/" class="link-card">How GLP-1s Fight Inflammation <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

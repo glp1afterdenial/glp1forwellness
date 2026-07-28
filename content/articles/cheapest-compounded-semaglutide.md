@@ -67,6 +67,25 @@ layout: "simple"
 
 <p class="page-subtitle">We ranked 7 telehealth platforms offering compounded semaglutide by real monthly cost — from $129/month at the low en...</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $99/mo</div>
+<div class="peptide-highlight__label">Cheapest compounded semaglutide options</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">⚖️</div>
+<div class="peptide-highlight__stat">Legal in 2026</div>
+<div class="peptide-highlight__label">FDA enforcement discretion continues</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🏥</div>
+<div class="peptide-highlight__stat">Licensed Pharmacies</div>
+<div class="peptide-highlight__label">503A compounding — tested for purity</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -176,6 +195,16 @@ A well-known name with flat-rate pricing commonly around $297/month for compound
 </a><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026): Full Comparison <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes: A Common Qualifying Condition <span class="tx-green">→</span></a>
 <a href="/resources/glp1-muscle-loss/" class="link-card">How to Preserve Muscle on GLP-1s <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/articles/best-telehealth-glp1/" class="link-card">Compare GLP-1 Telehealth Platforms <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
+<a href="/peptides/what-are-peptides/" class="link-card">What Are Peptides? Beginner's Guide <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

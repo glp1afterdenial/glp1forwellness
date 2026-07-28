@@ -92,6 +92,25 @@ layout: "simple"
 
 <p class="page-subtitle">Compare telehealth platforms offering sermorelin, NAD+, PT-141, and GLP-1 microdosing.</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">⭐</div>
+<div class="peptide-highlight__stat">4 Platforms</div>
+<div class="peptide-highlight__label">Bodybuilding Health+, Telos Rx, Strut, ShedRx</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💊</div>
+<div class="peptide-highlight__stat">Pre-Mixed</div>
+<div class="peptide-highlight__label">Licensed pharmacies — no reconstitution needed</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $99/mo</div>
+<div class="peptide-highlight__label">Oral sermorelin to injectable NAD+</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -349,10 +368,10 @@ If you're not sure, read our [beginner's guide to peptides](/peptides/what-are-p
 ## Related Guides
 
 <div class="related-grid">
-<a href="/peptides/what-are-peptides/" class="link-card">What Are Peptides? The Beginner's Guide <span class="tx-green">→</span></a>
-<a href="/peptides/sermorelin-guide/" class="link-card">Sermorelin: The Growth Hormone Peptide Guide <span class="tx-green">→</span></a>
-<a href="/peptides/nad-plus-therapy/" class="link-card">NAD+ Therapy: What the Science Says <span class="tx-green">→</span></a>
-<a href="/peptides/glp1-microdosing/" class="link-card">GLP-1 Microdosing: Lower Doses, Fewer Side Effects? <span class="tx-green">→</span></a>
+<a href="/peptides/what-are-peptides/" class="link-card">What Are Peptides? Beginner's Guide <span class="tx-green">→</span></a>
+<a href="/peptides/sermorelin-guide/" class="link-card">Sermorelin: Growth Hormone Peptide Guide <span class="tx-green">→</span></a>
+<a href="/peptides/nad-plus-therapy/" class="link-card">NAD+ Therapy Guide <span class="tx-green">→</span></a>
+<a href="/peptides/glp1-microdosing/" class="link-card">GLP-1 Microdosing Guide <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

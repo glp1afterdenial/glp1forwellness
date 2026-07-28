@@ -108,6 +108,25 @@ layout: "simple"
 
 <p class="page-subtitle">Observational studies show 40-70% lower Alzheimer's risk in semaglutide users, but Phase 3 trials failed to slow exis...</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🧠</div>
+<div class="peptide-highlight__stat">40-70% Lower Risk</div>
+<div class="peptide-highlight__label">Large observational studies in GLP-1 users</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🔬</div>
+<div class="peptide-highlight__stat">Active Trials</div>
+<div class="peptide-highlight__label">Phase 3 RCTs underway for Alzheimer's prevention</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -436,6 +455,17 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="offer-card__desc">Health coaching included, 120-day guarantee, GLP-1 drops & lozenges available</div>
 </a>
 </div><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">&rarr;</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-mental-health/" class="link-card">GLP-1s & Mental Health <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-addiction-alcohol/" class="link-card">GLP-1s & Addiction <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-migraines/" class="link-card">GLP-1s & Migraines <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

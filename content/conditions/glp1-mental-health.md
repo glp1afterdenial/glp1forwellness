@@ -100,6 +100,25 @@ layout: "simple"
 
 <p class="page-subtitle">What the research says about GLP-1 medications and mental health — depression, anxiety, brain health, and Alzheimer's.</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🧠</div>
+<div class="peptide-highlight__stat">Depression ↓</div>
+<div class="peptide-highlight__label">Improved mood scores in multiple studies</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🔬</div>
+<div class="peptide-highlight__stat">Neuroprotective</div>
+<div class="peptide-highlight__label">GLP-1 receptors found throughout the brain</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -375,6 +394,17 @@ Here is the reality: **GLP-1 medications are not covered by insurance for mental
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-alzheimers/" class="link-card">GLP-1s & Alzheimer's <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-addiction-alcohol/" class="link-card">GLP-1s & Addiction <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-migraines/" class="link-card">GLP-1s & Migraines <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

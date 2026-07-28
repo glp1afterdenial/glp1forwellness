@@ -108,6 +108,25 @@ layout: "simple"
 
 <p class="page-subtitle">Up to 40% of weight lost on GLP-1 medications can be muscle.</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💪</div>
+<div class="peptide-highlight__stat">Muscle Preservation</div>
+<div class="peptide-highlight__label">Protein, resistance training, and peptide strategies</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📉</div>
+<div class="peptide-highlight__stat">25-40% Lean Mass</div>
+<div class="peptide-highlight__label">Portion of weight loss that's muscle without intervention</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $99/mo</div>
+<div class="peptide-highlight__label">Sermorelin + GLP-1 via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -496,6 +515,16 @@ These platforms connect you with licensed providers who can prescribe compounded
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/resources/glp1-hair-loss/" class="link-card">GLP-1s & Hair Loss Prevention <span class="tx-green">→</span></a>
+<a href="/articles/best-telehealth-glp1/" class="link-card">Compare GLP-1 Telehealth Platforms <span class="tx-green">→</span></a>
+<a href="/peptides/what-are-peptides/" class="link-card">What Are Peptides? Beginner's Guide <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

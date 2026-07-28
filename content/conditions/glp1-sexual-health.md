@@ -92,6 +92,25 @@ layout: "simple"
 
 <p class="page-subtitle">GLP-1 weight-loss drugs can improve or worsen sexual function.</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📈</div>
+<div class="peptide-highlight__stat">Libido & Function</div>
+<div class="peptide-highlight__label">ED and arousal improve with metabolic health</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💊</div>
+<div class="peptide-highlight__stat">PT-141 Option</div>
+<div class="peptide-highlight__label">FDA-approved peptide for sexual desire</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $116/mo</div>
+<div class="peptide-highlight__label">GLP-1 + peptide options via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -364,6 +383,17 @@ GLP-1 medications and sexual health have a complex but ultimately positive relat
 </div>
 
 ---
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-pcos/" class="link-card">GLP-1s & PCOS <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-fertility/" class="link-card">GLP-1s & Fertility <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-menopause/" class="link-card">GLP-1s & Menopause <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-insulin-resistance/" class="link-card">GLP-1s & Insulin Resistance <span class="tx-green">→</span></a>
+</div>
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications and related treatments thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult a licensed healthcare provider before starting any medication.</em></p>

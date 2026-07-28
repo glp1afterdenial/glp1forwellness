@@ -92,6 +92,25 @@ layout: "simple"
 
 <p class="page-subtitle">In trials, semaglutide and tirzepatide reversed prediabetes in over 80-90% of participants — dramatically cutting dia...</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📉</div>
+<div class="peptide-highlight__stat">80-90% Reversal</div>
+<div class="peptide-highlight__label">Trial participants returned to normal glucose</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🛡️</div>
+<div class="peptide-highlight__stat">Prevention</div>
+<div class="peptide-highlight__label">May prevent progression to type 2 diabetes</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -296,6 +315,17 @@ The good news: **prediabetes is a qualifying comorbidity**. A BMI of 27+ plus pr
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-insulin-resistance/" class="link-card">GLP-1s & Insulin Resistance <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-fatty-liver/" class="link-card">GLP-1s & Fatty Liver (MASH) <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-cholesterol/" class="link-card">GLP-1s & Cholesterol <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

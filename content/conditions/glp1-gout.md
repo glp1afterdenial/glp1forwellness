@@ -92,6 +92,25 @@ layout: "simple"
 
 <p class="page-subtitle">Obesity doubles to triples gout risk, and weight loss lowers uric acid.</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📉</div>
+<div class="peptide-highlight__stat">Uric Acid ↓</div>
+<div class="peptide-highlight__label">Weight loss drives lower uric acid levels</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🔬</div>
+<div class="peptide-highlight__stat">Cohort Data</div>
+<div class="peptide-highlight__label">Fewer flares in GLP-1 users vs controls</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -254,6 +273,17 @@ Direct GLP-1-and-gout research is younger, but pointing the same direction:
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-insulin-resistance/" class="link-card">GLP-1s & Insulin Resistance <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-fatty-liver/" class="link-card">GLP-1s & Fatty Liver (MASH) <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

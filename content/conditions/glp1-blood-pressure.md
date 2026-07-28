@@ -92,6 +92,25 @@ layout: "simple"
 
 <p class="page-subtitle">GLP-1 medications lower systolic blood pressure by 3-8 mmHg in major trials — a meaningful drop for heart and kidney ...</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📉</div>
+<div class="peptide-highlight__stat">3-8 mmHg Drop</div>
+<div class="peptide-highlight__label">Systolic reduction in major trials</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">❤️</div>
+<div class="peptide-highlight__stat">Heart + Kidney</div>
+<div class="peptide-highlight__label">Meaningful organ protection over time</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -254,6 +273,17 @@ For people with obstructive sleep apnea — hugely overrepresented among those w
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-kidney-disease/" class="link-card">GLP-1s & Kidney Disease <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-sleep-apnea/" class="link-card">GLP-1s & Sleep Apnea <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

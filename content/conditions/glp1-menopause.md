@@ -108,6 +108,25 @@ layout: "simple"
 
 <p class="page-subtitle">Research shows GLP-1 medications like semaglutide can help menopausal women lose weight, reduce visceral fat, and com...</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">⚙️</div>
+<div class="peptide-highlight__stat">HRT Synergy</div>
+<div class="peptide-highlight__label">GLP-1 + HRT address complementary pathways</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📉</div>
+<div class="peptide-highlight__stat">Visceral Fat</div>
+<div class="peptide-highlight__label">Targets the dangerous menopause belly fat</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -434,6 +453,17 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="offer-card__desc">Health coaching included, 120-day guarantee, GLP-1 drops & lozenges available</div>
 </a>
 </div><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-pcos/" class="link-card">GLP-1s & PCOS <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-fertility/" class="link-card">GLP-1s & Fertility <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-sexual-health/" class="link-card">GLP-1s & Sexual Health <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-insulin-resistance/" class="link-card">GLP-1s & Insulin Resistance <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

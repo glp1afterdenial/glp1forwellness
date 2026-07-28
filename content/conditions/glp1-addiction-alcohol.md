@@ -108,6 +108,25 @@ layout: "simple"
 
 <p class="page-subtitle">Groundbreaking research shows GLP-1 medications like semaglutide significantly reduce alcohol cravings and heavy drin...</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🔬</div>
+<div class="peptide-highlight__stat">RCT Data</div>
+<div class="peptide-highlight__label">Lancet 2026 — semaglutide reduced heavy drinking days</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🧠</div>
+<div class="peptide-highlight__stat">Reward Pathways</div>
+<div class="peptide-highlight__label">GLP-1 receptors in brain's dopamine circuits</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -407,6 +426,17 @@ These platforms connect you with licensed providers who can prescribe compounded
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">&rarr;</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-alzheimers/" class="link-card">GLP-1s & Alzheimer's <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-mental-health/" class="link-card">GLP-1s & Mental Health <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-migraines/" class="link-card">GLP-1s & Migraines <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

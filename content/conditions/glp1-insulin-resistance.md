@@ -92,6 +92,25 @@ layout: "simple"
 
 <p class="page-subtitle">Insulin resistance drives weight gain, prediabetes, PCOS, and fatty liver.</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📉</div>
+<div class="peptide-highlight__stat">HOMA-IR ↓ 30-50%</div>
+<div class="peptide-highlight__label">Direct improvement in insulin sensitivity</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">⚙️</div>
+<div class="peptide-highlight__stat">Root Cause</div>
+<div class="peptide-highlight__label">Treats the mechanism behind weight gain</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -284,6 +303,17 @@ Chronic low-grade inflammation from visceral fat directly interferes with insuli
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-fatty-liver/" class="link-card">GLP-1s & Fatty Liver (MASH) <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-cholesterol/" class="link-card">GLP-1s & Cholesterol <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

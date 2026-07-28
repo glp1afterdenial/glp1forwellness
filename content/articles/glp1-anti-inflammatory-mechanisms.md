@@ -108,6 +108,25 @@ layout: "simple"
 
 <p class="page-subtitle">GLP-1 medications like semaglutide do far more than suppress appetite.</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🔬</div>
+<div class="peptide-highlight__stat">NF-κB Suppression</div>
+<div class="peptide-highlight__label">Key inflammatory master-switch targeted</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📉</div>
+<div class="peptide-highlight__stat">CRP Down ~40%</div>
+<div class="peptide-highlight__label">C-reactive protein reduction in trials</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🧬</div>
+<div class="peptide-highlight__stat">Multi-Organ</div>
+<div class="peptide-highlight__label">Heart, brain, liver, joints, kidneys</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -452,13 +471,15 @@ We're still early in understanding the full scope. But the science is no longer 
 
 ## Condition-Specific Guides
 
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
 <div class="related-grid">
-<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health: The Cardiovascular Benefits <span class="tx-green">&rarr;</span></a>
-<a href="/conditions/glp1-arthritis/" class="link-card">GLP-1s & Arthritis: Joint Pain & Anti-Inflammatory Effects <span class="tx-green">&rarr;</span></a>
-<a href="/conditions/glp1-fatty-liver/" class="link-card">GLP-1s & Fatty Liver (MASH): FDA-Approved Treatment <span class="tx-green">&rarr;</span></a>
-<a href="/conditions/glp1-lupus/" class="link-card">GLP-1s & Lupus: Inflammation, Prednisone Weight Gain & Access <span class="tx-green">&rarr;</span></a>
-<a href="/conditions/glp1-pcos/" class="link-card">GLP-1s & PCOS: Insulin Resistance, Hormones & Fertility <span class="tx-green">&rarr;</span></a>
-<a href="/conditions/glp1-mental-health/" class="link-card">GLP-1s & Mental Health: Depression, Anxiety & Neuroprotection <span class="tx-green">&rarr;</span></a>
+<a href="/articles/best-telehealth-glp1/" class="link-card">Compare GLP-1 Telehealth Platforms <span class="tx-green">→</span></a>
+<a href="/articles/cheapest-compounded-semaglutide/" class="link-card">Cheapest Compounded Semaglutide <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
+<a href="/peptides/what-are-peptides/" class="link-card">What Are Peptides? Beginner's Guide <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

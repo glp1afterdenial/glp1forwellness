@@ -100,6 +100,25 @@ layout: "simple"
 
 <p class="page-subtitle">Research shows GLP-1 medications like semaglutide reduce joint pain through weight loss AND direct anti-inflammatory ...</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📉</div>
+<div class="peptide-highlight__stat">Joint Relief</div>
+<div class="peptide-highlight__label">Both mechanical (weight) and inflammatory pathways</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🔬</div>
+<div class="peptide-highlight__stat">Dual Mechanism</div>
+<div class="peptide-highlight__label">Direct anti-inflammatory + weight reduction</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -381,6 +400,17 @@ These platforms connect you with licensed providers who can prescribe compounded
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-lupus/" class="link-card">GLP-1s & Lupus <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-psoriasis/" class="link-card">GLP-1s & Psoriasis <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-ibd/" class="link-card">GLP-1s & IBD <span class="tx-green">→</span></a>
+<a href="/articles/glp1-anti-inflammatory-mechanisms/" class="link-card">How GLP-1s Fight Inflammation <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

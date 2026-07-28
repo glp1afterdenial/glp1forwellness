@@ -108,6 +108,25 @@ layout: "simple"
 
 <p class="page-subtitle">Living with lupus and struggling with prednisone weight gain? Here's what the research says about GLP-1 medications f...</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🔬</div>
+<div class="peptide-highlight__stat">Anti-Inflammatory</div>
+<div class="peptide-highlight__label">TNF-α, IL-6, CRP all reduced by GLP-1s</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💊</div>
+<div class="peptide-highlight__stat">Prednisone Weight</div>
+<div class="peptide-highlight__label">Helps offset steroid-related weight gain</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -339,12 +358,16 @@ Insurance almost never covers GLP-1s for lupus — it's not an FDA-approved indi
 
 ### Recommended platforms
 
-<div class="related-grid">
+<p class="section-label">Keep reading</p>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="link-card link-card--green">
-<div class="row-between">
-<div>
-<div class="offer-card__name">🏆 Oak Loves You</div>
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-arthritis/" class="link-card">GLP-1s & Arthritis <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-psoriasis/" class="link-card">GLP-1s & Psoriasis <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-ibd/" class="link-card">GLP-1s & IBD <span class="tx-green">→</span></a>
+<a href="/articles/glp1-anti-inflammatory-mechanisms/" class="link-card">How GLP-1s Fight Inflammation <span class="tx-green">→</span></a>
+</div>
 <div class="p-note">Works with autoimmune patients. Free coaching, same-day approval, price matching.</div>
 </div>
 <div class="u-right">

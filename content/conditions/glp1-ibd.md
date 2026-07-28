@@ -108,6 +108,25 @@ layout: "simple"
 
 <p class="page-subtitle">Observational studies show IBD patients on GLP-1 medications had fewer hospitalizations and surgeries, with no increa...</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🔬</div>
+<div class="peptide-highlight__stat">Fewer Hospitalizations</div>
+<div class="peptide-highlight__label">Cohort data — no flare signal</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🛡️</div>
+<div class="peptide-highlight__stat">No Flare Risk</div>
+<div class="peptide-highlight__label">GLP-1s appear safe in Crohn's & UC</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -313,6 +332,17 @@ GLP-1 medications are not right for every IBD patient. There are clear situation
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">&rarr;</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-arthritis/" class="link-card">GLP-1s & Arthritis <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-lupus/" class="link-card">GLP-1s & Lupus <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-psoriasis/" class="link-card">GLP-1s & Psoriasis <span class="tx-green">→</span></a>
+<a href="/articles/glp1-anti-inflammatory-mechanisms/" class="link-card">How GLP-1s Fight Inflammation <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

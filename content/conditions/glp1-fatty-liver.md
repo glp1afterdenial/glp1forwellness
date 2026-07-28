@@ -108,6 +108,25 @@ layout: "simple"
 
 <p class="page-subtitle">Semaglutide is now FDA-approved for MASH with liver fibrosis.</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🏥</div>
+<div class="peptide-highlight__stat">FDA-Approved</div>
+<div class="peptide-highlight__label">Rezdiffra (resmetirom) for MASH + GLP-1 synergy</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📉</div>
+<div class="peptide-highlight__stat">Liver Fat ↓ 40-70%</div>
+<div class="peptide-highlight__label">Measured by MRI in clinical trials</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -414,6 +433,17 @@ If you want to start GLP-1 therapy while pursuing a formal diagnosis, or if insu
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-insulin-resistance/" class="link-card">GLP-1s & Insulin Resistance <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-cholesterol/" class="link-card">GLP-1s & Cholesterol <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

@@ -92,6 +92,25 @@ layout: "simple"
 
 <p class="page-subtitle">NAD+ declines with age — by some estimates 50% between 40 and 60.</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">⚡</div>
+<div class="peptide-highlight__stat">Cellular Energy</div>
+<div class="peptide-highlight__label">NAD+ powers 500+ metabolic reactions</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🔬</div>
+<div class="peptide-highlight__stat">Longevity Research</div>
+<div class="peptide-highlight__label">Strong animal data, human trials growing</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $116/mo</div>
+<div class="peptide-highlight__label">NAD+ nasal spray or injections via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -324,10 +343,10 @@ NAD+ sits in an unusual spot: the biology is real and important, the level-raisi
 ## Related Guides
 
 <div class="related-grid">
-<a href="/peptides/sermorelin-guide/" class="link-card">Sermorelin: The Growth Hormone Peptide Guide <span class="tx-green">→</span></a>
-<a href="/peptides/glp1-microdosing/" class="link-card">GLP-1 Microdosing: Lower Doses, Fewer Side Effects? <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-aging/" class="link-card">GLP-1s & Biological Aging <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-insulin-resistance/" class="link-card">GLP-1s & Insulin Resistance <span class="tx-green">→</span></a>
+<a href="/peptides/what-are-peptides/" class="link-card">What Are Peptides? Beginner's Guide <span class="tx-green">→</span></a>
+<a href="/peptides/sermorelin-guide/" class="link-card">Sermorelin: Growth Hormone Peptide Guide <span class="tx-green">→</span></a>
+<a href="/peptides/glp1-microdosing/" class="link-card">GLP-1 Microdosing Guide <span class="tx-green">→</span></a>
+<a href="/peptides/best-peptide-telehealth/" class="link-card">Compare Peptide Telehealth Platforms <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

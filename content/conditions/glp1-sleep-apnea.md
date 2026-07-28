@@ -100,6 +100,25 @@ layout: "simple"
 
 <p class="page-subtitle">Zepbound (tirzepatide) is the first FDA-approved medication for obstructive sleep apnea.</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">😴</div>
+<div class="peptide-highlight__stat">FDA-Approved</div>
+<div class="peptide-highlight__label">Wegovy approved for obstructive sleep apnea</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📉</div>
+<div class="peptide-highlight__stat">AHI Down ~50%</div>
+<div class="peptide-highlight__label">Events per hour cut roughly in half</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -430,12 +449,16 @@ You have two paths, and the right one depends on your situation.
 
 These platforms use FDA-registered compounding pharmacies and include medical oversight from licensed providers.
 
-<div class="related-grid">
+<p class="section-label">Keep reading</p>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="link-card link-card--green">
-<div class="row-between">
-<div>
-<div class="offer-card__name">Oak Loves You</div>
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-blood-pressure/" class="link-card">GLP-1s & Blood Pressure <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-kidney-disease/" class="link-card">GLP-1s & Kidney Disease <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes <span class="tx-green">→</span></a>
+</div>
 <div class="p-note">Free coaching, same-day approval, price matching. Semaglutide and tirzepatide available.</div>
 </div>
 <div class="u-right">

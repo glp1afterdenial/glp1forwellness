@@ -92,6 +92,25 @@ layout: "simple"
 
 <p class="page-subtitle">GLP-1 medications lower triglycerides 15-20%, modestly reduce LDL, and cut inflammation ~40% — but they don't replace...</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📉</div>
+<div class="peptide-highlight__stat">Triglycerides ↓ 15-20%</div>
+<div class="peptide-highlight__label">Plus CRP inflammation down ~40%</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">⚠️</div>
+<div class="peptide-highlight__stat">Not a Statin Swap</div>
+<div class="peptide-highlight__label">Complements but doesn't replace statins</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -245,6 +264,17 @@ Tirzepatide shows the same directional pattern with generally larger triglycerid
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-insulin-resistance/" class="link-card">GLP-1s & Insulin Resistance <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-fatty-liver/" class="link-card">GLP-1s & Fatty Liver (MASH) <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

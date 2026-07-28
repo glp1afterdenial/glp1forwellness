@@ -108,6 +108,25 @@ layout: "simple"
 
 <p class="page-subtitle">The landmark SELECT trial showed semaglutide cuts major cardiovascular events by 20% — leading to FDA approval of Weg...</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">❤️</div>
+<div class="peptide-highlight__stat">20% Fewer Events</div>
+<div class="peptide-highlight__label">Heart attack, stroke, CV death — SELECT trial</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💊</div>
+<div class="peptide-highlight__stat">FDA-Approved</div>
+<div class="peptide-highlight__label">Wegovy approved for cardiovascular risk reduction</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $129/mo</div>
+<div class="peptide-highlight__label">Compounded GLP-1s via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -350,6 +369,17 @@ You'll typically need a BMI of 27+ with a comorbidity (hypertension, high choles
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/glp1-blood-pressure/" class="link-card">GLP-1s & Blood Pressure <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-kidney-disease/" class="link-card">GLP-1s & Kidney Disease <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-sleep-apnea/" class="link-card">GLP-1s & Sleep Apnea <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

@@ -116,6 +116,25 @@ layout: "simple"
 
 <p class="page-subtitle">A 2025 meta-analysis of 84,000+ participants found GLP-1 users are 3.4x more likely to experience hair loss.</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💇</div>
+<div class="peptide-highlight__stat">Telogen Effluvium</div>
+<div class="peptide-highlight__label">Temporary shedding from rapid weight loss</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💊</div>
+<div class="peptide-highlight__stat">Treatable</div>
+<div class="peptide-highlight__label">Rx treatments from $25/mo via telehealth</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">⏳</div>
+<div class="peptide-highlight__stat">3-6 Month Recovery</div>
+<div class="peptide-highlight__label">Hair typically regrows after stabilization</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -543,6 +562,16 @@ These platforms connect you with licensed providers who can prescribe compounded
 </a>
 
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/resources/glp1-muscle-loss/" class="link-card">GLP-1s & Muscle Loss Prevention <span class="tx-green">→</span></a>
+<a href="/articles/best-telehealth-glp1/" class="link-card">Compare GLP-1 Telehealth Platforms <span class="tx-green">→</span></a>
+<a href="/peptides/what-are-peptides/" class="link-card">What Are Peptides? Beginner's Guide <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

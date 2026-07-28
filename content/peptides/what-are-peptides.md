@@ -473,10 +473,10 @@ Start with what has the best evidence for your specific goal, get it from a legi
 ## Related Guides
 
 <div class="related-grid">
-<a href="/peptides/sermorelin-guide/" class="link-card">Sermorelin: The Growth Hormone Peptide Guide <span class="tx-green">→</span></a>
-<a href="/peptides/nad-plus-therapy/" class="link-card">NAD+ Therapy: What It Is, What the Science Says, and How to Get It <span class="tx-green">→</span></a>
-<a href="/peptides/glp1-microdosing/" class="link-card">GLP-1 Microdosing: Lower Doses, Fewer Side Effects? <span class="tx-green">→</span></a>
-<a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth Platforms for GLP-1 Medications <span class="tx-green">→</span></a>
+<a href="/peptides/sermorelin-guide/" class="link-card">Sermorelin: Growth Hormone Peptide Guide <span class="tx-green">→</span></a>
+<a href="/peptides/nad-plus-therapy/" class="link-card">NAD+ Therapy Guide <span class="tx-green">→</span></a>
+<a href="/peptides/glp1-microdosing/" class="link-card">GLP-1 Microdosing Guide <span class="tx-green">→</span></a>
+<a href="/peptides/best-peptide-telehealth/" class="link-card">Compare Peptide Telehealth Platforms <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

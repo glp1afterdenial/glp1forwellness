@@ -92,6 +92,25 @@ layout: "simple"
 
 <p class="page-subtitle">GLP-1 microdosing uses lower semaglutide or tirzepatide doses for gentler weight loss with fewer side effects.</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💉</div>
+<div class="peptide-highlight__stat">Lower Doses</div>
+<div class="peptide-highlight__label">Minimum effective dose for gentler results</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">📉</div>
+<div class="peptide-highlight__stat">Fewer Side Effects</div>
+<div class="peptide-highlight__label">Less nausea, less muscle loss reported</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $116/mo</div>
+<div class="peptide-highlight__label">Microdosed tirzepatide via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -271,6 +290,17 @@ Key insight from the data: **you don't need maximum dose for meaningful benefit.
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 <a href="/peptides/nad-plus-therapy/" class="link-card">NAD+ Therapy: Energy Support While Losing Weight <span class="tx-green">→</span></a>
 <a href="/resources/glp1-muscle-loss/" class="link-card">GLP-1s & Muscle Loss: Prevention Strategies <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/peptides/what-are-peptides/" class="link-card">What Are Peptides? Beginner's Guide <span class="tx-green">→</span></a>
+<a href="/peptides/sermorelin-guide/" class="link-card">Sermorelin: Growth Hormone Peptide Guide <span class="tx-green">→</span></a>
+<a href="/peptides/nad-plus-therapy/" class="link-card">NAD+ Therapy Guide <span class="tx-green">→</span></a>
+<a href="/peptides/best-peptide-telehealth/" class="link-card">Compare Peptide Telehealth Platforms <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">

@@ -92,6 +92,25 @@ layout: "simple"
 
 <p class="page-subtitle">Sermorelin stimulates your body's own growth hormone production — without injecting synthetic HGH.</p>
 
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💪</div>
+<div class="peptide-highlight__stat">Growth Hormone</div>
+<div class="peptide-highlight__label">Stimulates your body's own GH production</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🛡️</div>
+<div class="peptide-highlight__stat">Safer Than HGH</div>
+<div class="peptide-highlight__label">Works with feedback loops, not against them</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💰</div>
+<div class="peptide-highlight__stat">From $99/mo</div>
+<div class="peptide-highlight__label">Oral lozenge or injection via telehealth</div>
+</div>
+</div>
+
+
 
 <nav class="jump-nav">
 <span class="jump-nav__label">On this page</span>
@@ -325,10 +344,10 @@ Sermorelin is growth hormone support for adults who don't want the risks, cost, 
 ## Related Guides
 
 <div class="related-grid">
-<a href="/peptides/nad-plus-therapy/" class="link-card">NAD+ Therapy: What It Is, What the Science Says, and How to Get It <span class="tx-green">→</span></a>
-<a href="/peptides/glp1-microdosing/" class="link-card">GLP-1 Microdosing: Lower Doses, Fewer Side Effects? <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-aging/" class="link-card">GLP-1s & Biological Aging <span class="tx-green">→</span></a>
-<a href="/resources/glp1-muscle-loss/" class="link-card">GLP-1s & Muscle Loss: Prevention Strategies <span class="tx-green">→</span></a>
+<a href="/peptides/what-are-peptides/" class="link-card">What Are Peptides? Beginner's Guide <span class="tx-green">→</span></a>
+<a href="/peptides/nad-plus-therapy/" class="link-card">NAD+ Therapy Guide <span class="tx-green">→</span></a>
+<a href="/peptides/glp1-microdosing/" class="link-card">GLP-1 Microdosing Guide <span class="tx-green">→</span></a>
+<a href="/peptides/best-peptide-telehealth/" class="link-card">Compare Peptide Telehealth Platforms <span class="tx-green">→</span></a>
 </div>
 
 <div class="disclaimer-box">
