@@ -125,6 +125,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -348,6 +350,12 @@ NAD+ sits in an unusual spot: the biology is real and important, the level-raisi
 <a href="/peptides/glp1-microdosing/" class="link-card">GLP-1 Microdosing Guide <span class="tx-green">→</span></a>
 <a href="/peptides/best-peptide-telehealth/" class="link-card">Compare Peptide Telehealth Platforms <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Corley MJ, Dwaraka VB, Pang APS, et al. Semaglutide slows epigenetic aging in a randomized trial of HIV-associated lipohypertrophy. *Nat Commun.* 2026;17:s41467-026-72861-3. [DOI](https://doi.org/10.1038/s41467-026-72861-3)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching longevity and metabolic therapies thoroughly. This article is for informational purposes only and should not replace medical advice. Compounded NAD+ products are not FDA-approved. Always consult a licensed healthcare provider before starting any new therapy.</em></p>

@@ -155,6 +155,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -573,6 +575,13 @@ These platforms connect you with licensed providers who can prescribe compounded
 <a href="/articles/best-telehealth-glp1/" class="link-card">Compare GLP-1 Telehealth Platforms <span class="tx-green">→</span></a>
 <a href="/peptides/what-are-peptides/" class="link-card">What Are Peptides? Beginner's Guide <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Gupta AK, Teasell EM, Economopoulos V, Mirmirani P. GLP-1 therapies and hair loss: A systematic review of current evidence and implications for counseling. *Science Progress.* 2026;109(1):368504261444578. [DOI](https://doi.org/10.1177/00368504261444578)
+2. Jastreboff AM, Aronne LJ, Ahmad NN, et al. Tirzepatide Once Weekly for the Treatment of Obesity. *N Engl J Med.* 2022;387(3):205-216. [DOI](https://doi.org/10.1056/NEJMoa2206038)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider or a dermatologist about hair loss concerns.</em></p>

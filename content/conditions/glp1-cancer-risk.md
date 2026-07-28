@@ -125,6 +125,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -280,6 +282,13 @@ The cancer risk reduction is largest for people with:
 <a href="/articles/best-telehealth-glp1/" class="link-card">Compare GLP-1 Telehealth Platforms <span class="tx-green">→</span></a>
 <a href="/articles/glp1-anti-inflammatory-mechanisms/" class="link-card">How GLP-1s Fight Inflammation <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Wang L, Xu R, Kaelber DC, Berger NA. Glucagon-Like Peptide 1 Receptor Agonists and 13 Obesity-Associated Cancers in Patients With Type 2 Diabetes. *JAMA Netw Open.* 2024;7(7):e2421305. [DOI](https://doi.org/10.1001/jamanetworkopen.2024.21305)
+2. Dai H, Li Y, Lee YA, et al. GLP-1 Receptor Agonists and Cancer Risk in Adults With Obesity. *JAMA Oncol.* 2025;11(10):e252681. [DOI](https://doi.org/10.1001/jamaoncol.2025.2681)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. GLP-1 medications are not approved or prescribed for cancer prevention. Always consult a licensed healthcare provider.</em></p>

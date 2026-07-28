@@ -37,7 +37,8 @@ Every guide page MUST have:
 7. Offer grid with affiliate cards
 8. FAQ section (matching JSON-LD)
 9. Related Guides grid (3-4 cross-links)
-10. Disclaimer box + fine print
+10. Key References section (hyperlinked DOI citations)
+11. Disclaimer box + fine print
 ```
 
 ### 4. CSS Classes (all in assets/css/custom.css — NO inline styles)
@@ -90,25 +91,233 @@ Every guide page must have a **Related Guides** section with 3-4 link-cards:
 - Inflammation: arthritis, lupus, psoriasis, ibd, asthma
 - Longevity: aging, cancer-risk
 
-### 7. AI Discoverability (update when content changes)
+### 7. References Section (required for every guide page)
+Every guide page MUST have a **Key References** section between the Related Guides grid and the Disclaimer box:
+```markdown
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Author A, Author B, et al. Title. *Journal.* Year;Vol:Pages. [DOI](https://doi.org/XXXX)
+2. ...
+```
+**Rules:**
+- 2-5 references per page, prioritizing the studies actually cited in the article
+- Include DOI hyperlink for every reference (format: `[DOI](https://doi.org/...)`)
+- Use standard academic citation format (authors, title, *journal*, year;volume:pages)
+- Add a "References" link to the page's `<nav class="jump-nav">` with `<a href="#references">References</a>`
+- If adding a new condition page, find and verify DOIs from PubMed before inserting
+
+### 8. AI Discoverability (update when content changes)
 After adding or significantly changing pages:
 1. **`static/llms.txt`** — Update the "Last updated" date. Add new pages to the Article Index section with URL + 1-2 sentence summary.
 2. **`static/llms-full.txt`** — Update the "Last updated" date. Add detailed article summary (URL, TL;DR paragraph, key takeaways bullet list, key facts for citation).
 3. **Homepage `content/_index.md`** — If adding a new condition, add a condition-card with the correct `data-cat` attribute for the filter.
 4. **Section index pages** (`conditions/_index.md`, `peptides/_index.md`, `resources/_index.md`) — Add guide-card linking to the new page.
 
-### 8. SEO Infrastructure (already set up — don't break)
+### 9. SEO Infrastructure (already set up — don't break)
 - `layouts/partials/extend-head.html`: meta description, LLM link tags, Organization/Person schemas, Speakable schema, AI referral tracking (production only)
 - `static/robots.txt`: welcomes all AI bots, references llms.txt
 - `netlify.toml`: X-Robots-Tag (max openness), Link header for llms.txt
 - Congo theme provides: canonical URL, Open Graph tags, Twitter cards
 
-### 9. Homepage Condition Filter
+### 10. Homepage Condition Filter
 The `#conditions` section uses filter pills with `data-cat` attributes. When adding a new condition card, include the correct category:
 ```html
 <a href="/conditions/glp1-NEW/" class="condition-card" data-cat="CATEGORY">
 ```
 Categories: `metabolic`, `heart-kidney`, `brain-mood`, `hormones`, `inflammation`, `longevity`
+
+## New Article Template
+
+When creating a new guide page, use this exact structure. Copy and fill in all `[PLACEHOLDER]` values. All HTML must be flush-left (Goldmark rule).
+
+```markdown
+---
+title: "[Page Title — Include Primary Keyword]"
+date: [YYYY-MM-DD]
+lastmod: [YYYY-MM-DD]
+description: "[120-160 chars, include primary keyword]"
+summary: "[Same as description]"
+keywords: ["keyword1", "keyword2", "keyword3", "keyword4", "keyword5", "keyword6", "keyword7", "keyword8", "keyword9", "keyword10"]
+layout: "simple"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "[Question 1]",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "[Full-sentence answer — must match visible FAQ text exactly]"
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "headline": "[Same as title]",
+  "description": "[Same as description]",
+  "url": "https://glp1forwellness.com/[section]/[slug]/",
+  "datePublished": "[YYYY-MM-DD]",
+  "dateModified": "[YYYY-MM-DD]",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "name": "GLP-1 for Wellness",
+    "url": "https://glp1forwellness.com/articles/about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GLP-1 for Wellness",
+    "url": "https://glp1forwellness.com/"
+  },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://glp1forwellness.com/[section]/[slug]/" },
+  "about": { "@type": "MedicalCondition", "name": "[Condition Name]" }
+}
+</script>
+
+<p class="page-subtitle">[One-line summary, truncated with ...]</p>
+
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">[emoji]</div>
+<div class="peptide-highlight__stat">[Key Stat 1]</div>
+<div class="peptide-highlight__label">[Stat context]</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">[emoji]</div>
+<div class="peptide-highlight__stat">[Key Stat 2]</div>
+<div class="peptide-highlight__label">[Stat context]</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">[emoji]</div>
+<div class="peptide-highlight__stat">[Key Stat 3]</div>
+<div class="peptide-highlight__label">[Stat context]</div>
+</div>
+</div>
+
+<div id="tldr" class="tldr-box">
+
+**TL;DR:** [2-4 sentence summary with **bold** key stats. End with telehealth price anchor.]
+
+</div>
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#[section-1-id]">[Section 1]</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#[section-2-id]">[Section 2]</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">Getting Started</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
+</nav>
+
+---
+
+<p class="section-label">[Category Label]</p>
+
+## [Section Heading] {#[section-id]}
+
+[Content — cite specific studies by name, include bold stats]
+
+---
+
+[... more content sections ...]
+
+---
+
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Medications [context] {#how-to-get}
+
+<div class="callout callout--amber">
+
+**The access reality:** [1-2 sentences about cost/insurance]
+
+</div>
+
+### Telehealth Platforms That Prescribe GLP-1s
+
+<div class="offer-grid">
+
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
+</a>
+
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">Lowest Price</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
+</a>
+
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Own Pharmacy</div>
+<div class="offer-card__name">YourEra Health</div>
+<div class="offer-card__price">From $99/mo</div>
+<div class="offer-card__desc">Physician-led, owned pharmacy, LegitScript certified, Klarna available</div>
+</a>
+
+<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
+<div class="offer-card__badge">Money-Back Guarantee</div>
+<div class="offer-card__name">ShedRx</div>
+<div class="offer-card__price">From $159/mo</div>
+<div class="offer-card__desc">Health coaching included, 120-day guarantee, GLP-1 drops & lozenges available</div>
+</a>
+
+<a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">FAQ</p>
+
+## Frequently Asked Questions {#faq}
+
+[FAQ items — visible text MUST match FAQPage JSON-LD exactly]
+
+<p class="section-label">Keep reading</p>
+
+## Related Guides
+
+<div class="related-grid">
+<a href="/conditions/[sibling-1]/" class="link-card">[Title] <span class="tx-green">→</span></a>
+<a href="/conditions/[sibling-2]/" class="link-card">[Title] <span class="tx-green">→</span></a>
+<a href="/conditions/[sibling-3]/" class="link-card">[Title] <span class="tx-green">→</span></a>
+<a href="/conditions/[cross-cluster]/" class="link-card">[Title] <span class="tx-green">→</span></a>
+</div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. [Author] et al. [Title]. *[Journal].* [Year];[Vol]:[Pages]. [DOI](https://doi.org/[DOI])
+2. ...
+
+<div class="disclaimer-box">
+<p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider before starting any new medication.</em></p>
+<p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>
+</div>
+
+<p class="fine-print">
+<em>Affiliate Disclosure: Some links earn a small commission at no extra cost to you. I only recommend platforms I've researched thoroughly.</em>
+</p>
+```
+
+**After creating:** Run the Content Update Checklist (sections 1-8 above) to update llms.txt, llms-full.txt, homepage, and section index pages.
 
 ## Technical Constraints
 - **Speakable schema** targets `h1` + `.tldr-box` — never rename this class
@@ -134,4 +343,7 @@ grep -rl 'FAQPage' content/ | wc -l
 
 # Internal cross-links
 grep -roh 'class="link-card"' content/ | wc -l
+
+# References sections
+grep -rl '## Key References' content/ | wc -l
 ```

@@ -125,6 +125,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -362,6 +364,13 @@ Not "instead of" — potentially "before." If your infertility is driven by obes
 <a href="/conditions/glp1-menopause/" class="link-card">GLP-1s & Menopause <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-insulin-resistance/" class="link-card">GLP-1s & Insulin Resistance <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Dao K, Shechtman S, Weber-Schoendorfer C, et al. Use of GLP1 receptor agonists in early pregnancy and reproductive safety: a multicentre, observational, prospective cohort study. *BMJ Open.* 2024;14(4):e083550. [DOI](https://doi.org/10.1136/bmjopen-2023-083550)
+2. Jensterle M, et al. Semaglutide and metformin improve menstrual cyclicity in overweight/obese women with polycystic ovary syndrome: a randomized trial. *Metab Target Organ Damage.* 2025;5:210. [DOI](https://doi.org/10.20517/mtod.2025.210)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Never start, stop, or change medication without consulting your healthcare provider — especially when pregnancy is involved.</em></p>

@@ -145,6 +145,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -381,6 +383,14 @@ You'll typically need a BMI of 27+ with a comorbidity (hypertension, high choles
 <a href="/conditions/glp1-sleep-apnea/" class="link-card">GLP-1s & Sleep Apnea <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. *N Engl J Med.* 2023;389(24):2221-2232. [DOI](https://doi.org/10.1056/NEJMoa2307563)
+2. Kosiborod MN, Abildstrøm SZ, Borlaug BA, et al. Semaglutide in Patients with Heart Failure with Preserved Ejection Fraction and Obesity. *N Engl J Med.* 2023;389(12):1069-1084. [DOI](https://doi.org/10.1056/NEJMoa2306963)
+3. Kosiborod MN, Bhatta M, Davies M, et al. Semaglutide improves cardiometabolic risk factors in adults with overweight or obesity: STEP 1 and 4 exploratory analyses. *Diabetes Obes Metab.* 2023;25:468-478. [DOI](https://doi.org/10.1111/dom.14890)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider or cardiologist before starting any new medication or changing your cardiac treatment plan.</em></p>

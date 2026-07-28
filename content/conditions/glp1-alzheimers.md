@@ -147,6 +147,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -467,6 +469,13 @@ These platforms connect you with licensed providers who can prescribe compounded
 <a href="/conditions/glp1-migraines/" class="link-card">GLP-1s & Migraines <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Cummings JL, Ballard C, Bhatt DL, et al. Oral Semaglutide in Early Alzheimer's Disease: EVOKE and EVOKE+ Phase 3 Trials. *Lancet.* 2026;407(10437):S0140-6736(26)00459-9. [DOI](https://doi.org/10.1016/S0140-6736(26)00459-9)
+2. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. *N Engl J Med.* 2023;389(24):2221-2232. [DOI](https://doi.org/10.1056/NEJMoa2307563)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. If you or a loved one has concerns about Alzheimer's disease or cognitive decline, please consult a neurologist or your healthcare provider.</em></p>

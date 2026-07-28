@@ -145,6 +145,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -430,6 +432,13 @@ These platforms connect you with licensed providers who prescribe compounded GLP
 <a href="/articles/best-telehealth-glp1/" class="link-card">Compare GLP-1 Telehealth Platforms <span class="tx-green">→</span></a>
 <a href="/articles/glp1-anti-inflammatory-mechanisms/" class="link-card">How GLP-1s Fight Inflammation <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Corley MJ, Dwaraka VB, Pang APS, et al. Semaglutide slows epigenetic aging in a randomized trial of HIV-associated lipohypertrophy. *Nat Commun.* 2026;17:s41467-026-72861-3. [DOI](https://doi.org/10.1038/s41467-026-72861-3)
+2. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. *N Engl J Med.* 2023;389(24):2221-2232. [DOI](https://doi.org/10.1056/NEJMoa2307563)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. The anti-aging findings discussed here are preliminary research, not established medical guidance. Always consult your healthcare provider before starting any new medication.</em></p>

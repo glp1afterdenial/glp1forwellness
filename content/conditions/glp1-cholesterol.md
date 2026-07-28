@@ -125,6 +125,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -276,6 +278,14 @@ Tirzepatide shows the same directional pattern with generally larger triglycerid
 <a href="/conditions/glp1-fatty-liver/" class="link-card">GLP-1s & Fatty Liver (MASH) <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Kosiborod MN, Bhatta M, Davies M, et al. Semaglutide improves cardiometabolic risk factors in adults with overweight or obesity: STEP 1 and 4 exploratory analyses. *Diabetes Obes Metab.* 2023;25:468-478. [DOI](https://doi.org/10.1111/dom.14890)
+2. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. *N Engl J Med.* 2023;389(24):2221-2232. [DOI](https://doi.org/10.1056/NEJMoa2307563)
+3. Jastreboff AM, Aronne LJ, Ahmad NN, et al. Tirzepatide Once Weekly for the Treatment of Obesity. *N Engl J Med.* 2022;387(3):205-216. [DOI](https://doi.org/10.1056/NEJMoa2206038)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Never change or stop cholesterol medication without your healthcare provider's guidance.</em></p>

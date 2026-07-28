@@ -143,6 +143,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -344,6 +346,13 @@ GLP-1 medications are not right for every IBD patient. There are clear situation
 <a href="/conditions/glp1-psoriasis/" class="link-card">GLP-1s & Psoriasis <span class="tx-green">→</span></a>
 <a href="/articles/glp1-anti-inflammatory-mechanisms/" class="link-card">How GLP-1s Fight Inflammation <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Colwill M, Povlsen S, Pollok R, et al. Glucagon-like peptide-1 receptor agonists in inflammatory bowel disease: mechanisms, clinical implications, and therapeutic potential. *J Crohns Colitis.* 2025;19(9):jjaf167. [DOI](https://doi.org/10.1093/ecco-jcc/jjaf167)
+2. Bayoumy AB, Clarke LM, et al. Glucagon-like peptide 1 receptor agonists and the clinical outcomes of inflammatory bowel disease: a systematic review and meta-analysis. *J Crohns Colitis.* 2025;19(10):jjaf181. [DOI](https://doi.org/10.1093/ecco-jcc/jjaf181)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your gastroenterologist before starting any new medication or changing your IBD treatment plan.</em></p>

@@ -143,6 +143,8 @@ layout: "simple"
 <a href="#conditions">Conditions</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -481,6 +483,14 @@ We're still early in understanding the full scope. But the science is no longer 
 <a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 <a href="/peptides/what-are-peptides/" class="link-card">What Are Peptides? Beginner's Guide <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. *N Engl J Med.* 2023;389(24):2221-2232. [DOI](https://doi.org/10.1056/NEJMoa2307563)
+2. Bliddal H, Bays H, Czernichow S, et al. Once-Weekly Semaglutide in Persons with Obesity and Knee Osteoarthritis. *N Engl J Med.* 2024;391(17):1573-1583. [DOI](https://doi.org/10.1056/NEJMoa2403664)
+3. Sanyal AJ, Newsome PN, Kliers I, et al. Phase 3 Trial of Semaglutide in Metabolic Dysfunction-Associated Steatohepatitis. *N Engl J Med.* 2025;392(21):2089-2099. [DOI](https://doi.org/10.1056/NEJMoa2413258)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider before starting any new medication.</em></p>

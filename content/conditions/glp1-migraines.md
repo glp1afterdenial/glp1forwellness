@@ -145,6 +145,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -430,6 +432,13 @@ These platforms connect you with licensed providers who can prescribe compounded
 <a href="/conditions/glp1-addiction-alcohol/" class="link-card">GLP-1s & Addiction <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Braca I, et al. Effectiveness and tolerability of liraglutide as add-on treatment in patients with obesity and high-frequency or chronic migraine: A prospective pilot study. *Headache.* 2025;65(7):e14991. [DOI](https://doi.org/10.1111/head.14991)
+2. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. *N Engl J Med.* 2023;389(24):2221-2232. [DOI](https://doi.org/10.1056/NEJMoa2307563)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. If you experience severe or sudden changes in your headache pattern, seek immediate medical attention. Always consult your healthcare provider before starting any new medication or changing your migraine treatment plan.</em></p>

@@ -458,6 +458,13 @@ Yes. Telehealth providers prescribe based on your overall health profile. If you
 <a href="/conditions/glp1-lupus/" class="link-card">GLP-1s & Lupus: Inflammation, Prednisone Weight Gain & Access <span class="tx-green">→</span></a>
 </div>
 
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. *N Engl J Med.* 2023;389(24):2221-2232. [DOI](https://doi.org/10.1056/NEJMoa2307563)
+2. Jastreboff AM, Aronne LJ, Ahmad NN, et al. Tirzepatide Once Weekly for the Treatment of Obesity. *N Engl J Med.* 2022;387(3):205-216. [DOI](https://doi.org/10.1056/NEJMoa2206038)
+
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. Always consult your healthcare provider before starting any new medication.</em></p>
 <p class="disclaimer-box__p">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green">contact@glp1forwellness.com</a></p>

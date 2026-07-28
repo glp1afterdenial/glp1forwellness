@@ -135,6 +135,8 @@ layout: "simple"
 <a href="#access">Access</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div class="tldr-box">
@@ -406,6 +408,13 @@ Here is the reality: **GLP-1 medications are not covered by insurance for mental
 <a href="/conditions/glp1-migraines/" class="link-card">GLP-1s & Migraines <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Taipale H, et al. Association between GLP-1 receptor agonist use and worsening mental illness in people with depression and anxiety in Sweden: a national cohort study. *Lancet Psychiatry.* 2026;13(4):327. [DOI](https://doi.org/10.1016/S2215-0366(26)00014-3)
+2. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. *N Engl J Med.* 2023;389(24):2221-2232. [DOI](https://doi.org/10.1056/NEJMoa2307563)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is not a substitute for professional medical or psychiatric advice. Always consult your healthcare provider and mental health professional before starting any new medication, especially if you have a history of depression, anxiety, or other mental health conditions.</em></p>

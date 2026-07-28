@@ -125,6 +125,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -285,6 +287,14 @@ Direct GLP-1-and-gout research is younger, but pointing the same direction:
 <a href="/conditions/glp1-fatty-liver/" class="link-card">GLP-1s & Fatty Liver (MASH) <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Lam JR, Tskhakaia I, Barnett M, Tan I, et al. Assessing gout risk associated with GLP-1 therapy in obese patients with type 2 diabetes: A retrospective cohort study. *Rheumatol Autoimmun.* 2025;5(3).  [DOI](https://doi.org/10.1002/rai2.70015)
+2. Perkovic V, Tuttle KR, Rossing P, et al. Effects of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes. *N Engl J Med.* 2024;391(2):109-121. [DOI](https://doi.org/10.1056/NEJMoa2403347)
+3. Jastreboff AM, Aronne LJ, Ahmad NN, et al. Tirzepatide Once Weekly for the Treatment of Obesity. *N Engl J Med.* 2022;387(3):205-216. [DOI](https://doi.org/10.1056/NEJMoa2206038)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Never change or stop gout medication without your healthcare provider's guidance.</em></p>

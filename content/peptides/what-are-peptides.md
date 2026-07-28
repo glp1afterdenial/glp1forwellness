@@ -141,6 +141,8 @@ Peptides are **short chains of amino acids that act as signaling molecules** —
 <a href="#research-vs-prescription">Gray Market</a> <span aria-hidden="true">·</span>
 <a href="#how-to-get">How to Get</a> <span aria-hidden="true">·</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 If you've heard the word "peptides" and aren't sure whether it's a legitimate medical therapy or a bodybuilding gray-market thing — the answer is both, depending on where you get them. This guide explains what peptides actually are, which ones have real evidence, and why sourcing matters more than anything.
@@ -478,6 +480,13 @@ Start with what has the best evidence for your specific goal, get it from a legi
 <a href="/peptides/glp1-microdosing/" class="link-card">GLP-1 Microdosing Guide <span class="tx-green">→</span></a>
 <a href="/peptides/best-peptide-telehealth/" class="link-card">Compare Peptide Telehealth Platforms <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. *N Engl J Med.* 2023;389(24):2221-2232. [DOI](https://doi.org/10.1056/NEJMoa2307563)
+2. Jastreboff AM, Aronne LJ, Ahmad NN, et al. Tirzepatide Once Weekly for the Treatment of Obesity. *N Engl J Med.* 2022;387(3):205-216. [DOI](https://doi.org/10.1056/NEJMoa2206038)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching peptide therapies thoroughly. This article is for informational purposes only and should not replace medical advice. Compounded peptides are not FDA-approved for all the uses discussed here. Always consult a licensed healthcare provider before starting any new therapy.</em></p>

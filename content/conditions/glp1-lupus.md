@@ -139,6 +139,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get It</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="callout callout--study">
@@ -407,6 +409,13 @@ Insurance almost never covers GLP-1s for lupus — it's not an FDA-approved indi
 
 <div class="u-center-block"><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Engel A, et al. A retrospective evaluation of glucagon-like peptide-1 receptor agonists in systemic lupus erythematosus patients. *Rheumatology.* 2025;64(5):3085. [DOI](https://doi.org/10.1093/rheumatology/keae547)
+2. Jorge A, Patel AV, Zhou B, et al. Glucagon-like peptide-1 receptor agonist use and the risk of adverse cardiac and kidney outcomes among patients with systemic lupus erythematosus and lupus nephritis. *Arthritis Rheumatol.* 2025. [DOI](https://doi.org/10.1002/art.43403)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. The information here is based on published research and is intended to help you have informed conversations with your healthcare providers. Always consult your rheumatologist before starting any new medication.</em></p>

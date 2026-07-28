@@ -145,6 +145,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -345,6 +347,13 @@ These platforms connect you with licensed providers who prescribe compounded GLP
 <a href="/conditions/glp1-ibd/" class="link-card">GLP-1s & IBD <span class="tx-green">→</span></a>
 <a href="/articles/glp1-anti-inflammatory-mechanisms/" class="link-card">How GLP-1s Fight Inflammation <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Dermatological and metabolic benefits of semaglutide in psoriasis with obesity: a 6-month prospective cohort study. *Clin Exp Dermatol.* 2026;51(3):442. [DOI](https://doi.org/10.1093/ced/llae347)
+2. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. *N Engl J Med.* 2023;389(24):2221-2232. [DOI](https://doi.org/10.1056/NEJMoa2307563)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider and dermatologist before starting any new medication or changing your psoriasis treatment plan.</em></p>

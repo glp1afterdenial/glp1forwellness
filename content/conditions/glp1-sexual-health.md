@@ -125,6 +125,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -394,6 +396,13 @@ GLP-1 medications and sexual health have a complex but ultimately positive relat
 <a href="/conditions/glp1-menopause/" class="link-card">GLP-1s & Menopause <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-insulin-resistance/" class="link-card">GLP-1s & Insulin Resistance <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Gregorič K, et al. Semaglutide improved sperm morphology in obese men with type 2 diabetes mellitus and functional hypogonadism. *Diabetes Obes Metab.* 2025;27(4):e16042. [DOI](https://doi.org/10.1111/dom.16042)
+2. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. *N Engl J Med.* 2023;389(24):2221-2232. [DOI](https://doi.org/10.1056/NEJMoa2307563)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications and related treatments thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult a licensed healthcare provider before starting any medication.</em></p>

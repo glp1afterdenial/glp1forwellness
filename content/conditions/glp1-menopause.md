@@ -147,6 +147,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -465,6 +467,13 @@ These platforms connect you with licensed providers who can prescribe compounded
 <a href="/conditions/glp1-sexual-health/" class="link-card">GLP-1s & Sexual Health <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-insulin-resistance/" class="link-card">GLP-1s & Insulin Resistance <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Hurtado MD, Tama E, Fansa S, et al. Weight loss response to semaglutide in postmenopausal women with and without hormone therapy use. *Menopause.* 2024;31(4):266-274. [DOI](https://doi.org/10.1097/GME.0000000000002310)
+2. Jastreboff AM, Aronne LJ, Ahmad NN, et al. Tirzepatide Once Weekly for the Treatment of Obesity. *N Engl J Med.* 2022;387(3):205-216. [DOI](https://doi.org/10.1056/NEJMoa2206038)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider before starting any new medication or changing your menopause treatment plan.</em></p>

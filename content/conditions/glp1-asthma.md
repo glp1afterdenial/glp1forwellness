@@ -147,6 +147,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -488,6 +490,13 @@ These platforms connect you with licensed providers who can prescribe compounded
 <a href="/conditions/glp1-psoriasis/" class="link-card">GLP-1s & Psoriasis <span class="tx-green">→</span></a>
 <a href="/articles/glp1-anti-inflammatory-mechanisms/" class="link-card">How GLP-1s Fight Inflammation <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Glucagon-like peptide 1 receptor agonists and asthma and COPD exacerbations in adults with diabetes: A systematic review. *Respir Med.* 2025;240:107925. [DOI](https://doi.org/10.1016/j.rmed.2025.107925)
+2. Association of GLP-1 Receptor Agonists with Chronic Obstructive Pulmonary Disease Exacerbations among Patients with Type 2 Diabetes. *Am J Respir Crit Care Med.* 2024;209(4):426-430. [DOI](https://doi.org/10.1164/rccm.202309-1621OC)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider before starting any new medication or changing your asthma or COPD treatment plan.</em></p>

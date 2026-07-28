@@ -135,6 +135,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get It</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="callout callout--study">
@@ -498,6 +500,13 @@ These platforms use FDA-registered compounding pharmacies and include medical ov
 
 <div class="u-center-block"><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Malhotra A, Grunstein RR, Fietze I, et al. Tirzepatide for the Treatment of Obstructive Sleep Apnea and Obesity. *N Engl J Med.* 2024;391(14):1288-1298. [DOI](https://doi.org/10.1056/NEJMoa2404881)
+2. Jastreboff AM, Aronne LJ, Ahmad NN, et al. Tirzepatide Once Weekly for the Treatment of Obesity. *N Engl J Med.* 2022;387(3):205-216. [DOI](https://doi.org/10.1056/NEJMoa2206038)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. The information here is based on published clinical trials and FDA documents. Always consult your sleep specialist and healthcare provider before starting any new medication or making changes to your CPAP therapy.</em></p>

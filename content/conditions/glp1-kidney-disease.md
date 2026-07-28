@@ -145,6 +145,8 @@ layout: "simple"
 <a href="#how-to-get">How to Get</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div id="tldr" class="tldr-box">
@@ -357,6 +359,13 @@ These platforms connect you with licensed providers who can prescribe compounded
 <a href="/conditions/glp1-sleep-apnea/" class="link-card">GLP-1s & Sleep Apnea <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Perkovic V, Tuttle KR, Rossing P, et al. Effects of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes. *N Engl J Med.* 2024;391(2):109-121. [DOI](https://doi.org/10.1056/NEJMoa2403347)
+2. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. *N Engl J Med.* 2023;389(24):2221-2232. [DOI](https://doi.org/10.1056/NEJMoa2307563)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor — just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and should not replace medical advice. Always consult your healthcare provider — and your nephrologist if you have kidney disease — before starting any new medication.</em></p>

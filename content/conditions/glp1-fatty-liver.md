@@ -143,6 +143,8 @@ layout: "simple"
 <a href="#access">How to Access</a>
 <span aria-hidden="true">&middot;</span>
 <a href="#faq">FAQ</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#references">References</a>
 </nav>
 
 <div class="tldr-box">
@@ -445,6 +447,13 @@ If you want to start GLP-1 therapy while pursuing a formal diagnosis, or if insu
 <a href="/conditions/glp1-cholesterol/" class="link-card">GLP-1s & Cholesterol <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
+
+<p class="section-label">Sources</p>
+
+## Key References {#references}
+
+1. Sanyal AJ, Newsome PN, Kliers I, et al. Phase 3 Trial of Semaglutide in Metabolic Dysfunction-Associated Steatohepatitis. *N Engl J Med.* 2025;392(21):2089-2099. [DOI](https://doi.org/10.1056/NEJMoa2413258)
+2. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. *N Engl J Med.* 2023;389(24):2221-2232. [DOI](https://doi.org/10.1056/NEJMoa2307563)
 
 <div class="disclaimer-box">
 <p class="disclaimer-box__p"><em>I'm not a doctor -- just someone researching GLP-1 medications thoroughly. This article is for informational purposes only and does not constitute medical advice. Fatty liver disease requires proper medical evaluation and monitoring. Always consult your healthcare provider -- ideally a hepatologist or gastroenterologist -- before starting any new medication for liver disease.</em></p>
