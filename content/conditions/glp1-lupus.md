@@ -358,7 +358,40 @@ Insurance almost never covers GLP-1s for lupus — it's not an FDA-approved indi
 </div>
 </div>
 
-### Recommended platforms
+### Telehealth Platforms That Prescribe GLP-1s
+
+<div class="offer-grid">
+
+<a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
+<div class="offer-card__badge">Top Pick</div>
+<div class="offer-card__name">Oak Loves You</div>
+<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
+</a>
+
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">Lowest Price</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
+</a>
+
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Own Pharmacy</div>
+<div class="offer-card__name">YourEra Health</div>
+<div class="offer-card__price">From $99/mo</div>
+<div class="offer-card__desc">Physician-led, owned pharmacy, LegitScript certified, Klarna available</div>
+</a>
+
+<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
+<div class="offer-card__badge">Money-Back Guarantee</div>
+<div class="offer-card__name">ShedRx</div>
+<div class="offer-card__price">From $159/mo</div>
+<div class="offer-card__desc">Health coaching included, 120-day guarantee, GLP-1 drops & lozenges available</div>
+</a>
+
+<a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
+</div>
 
 <p class="section-label">Keep reading</p>
 
@@ -369,45 +402,6 @@ Insurance almost never covers GLP-1s for lupus — it's not an FDA-approved indi
 <a href="/conditions/glp1-psoriasis/" class="link-card">GLP-1s & Psoriasis <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-ibd/" class="link-card">GLP-1s & IBD <span class="tx-green">→</span></a>
 <a href="/articles/glp1-anti-inflammatory-mechanisms/" class="link-card">How GLP-1s Fight Inflammation <span class="tx-green">→</span></a>
-</div>
-<div class="p-note">Works with autoimmune patients. Free coaching, same-day approval, price matching.</div>
-</div>
-<div class="u-right">
-<div class="tx-green-bold">From $133/mo</div>
-<div class="tx-green-sm">Visit Site →</div>
-</div>
-</div>
-</a>
-
-<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="link-card link-card--lg">
-<div class="row-between">
-<div>
-<div class="offer-card__name">ShedRx</div>
-<div class="p-note">Health coaching included, 120-day money-back guarantee, GLP-1 drops & lozenges available.</div>
-</div>
-<div class="u-right">
-<div class="tx-ink-bold">From $159/mo</div>
-<div class="tx-green-sm">Visit Site →</div>
-</div>
-</div>
-</a>
-
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="link-card link-card--lg">
-<div class="row-between">
-<div>
-<div class="offer-card__name">YourEra Health</div>
-<div class="p-note">Physician-led, owned pharmacy, LegitScript certified, Klarna available.</div>
-</div>
-<div class="u-right">
-<div class="tx-ink-bold">From $99/mo</div>
-<div class="tx-green-sm">Visit Site →</div>
-</div>
-</div>
-</a>
-
-</div>
-
-<div class="u-center-block"><a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>
