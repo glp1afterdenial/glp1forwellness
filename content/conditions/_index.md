@@ -4,18 +4,18 @@ description: "Research-backed guides on how GLP-1 medications help with specific
 layout: "simple"
 ---
 
-<p class="page-subtitle">How GLP-1 medications help beyond weight loss — 24 condition guides.</p>
+<p class="page-subtitle">How GLP-1 medications help beyond weight loss — 30 condition guides.</p>
 
 <div class="peptide-highlights">
 <div class="peptide-highlight">
 <div class="peptide-highlight__icon">🔬</div>
-<div class="peptide-highlight__stat">24 Conditions</div>
+<div class="peptide-highlight__stat">30 Conditions</div>
 <div class="peptide-highlight__label">Research-backed guides with clinical trial data</div>
 </div>
 <div class="peptide-highlight">
 <div class="peptide-highlight__icon">✅</div>
-<div class="peptide-highlight__stat">4 FDA-Approved</div>
-<div class="peptide-highlight__label">Heart, sleep apnea, fatty liver, kidney disease</div>
+<div class="peptide-highlight__stat">5 FDA-Approved</div>
+<div class="peptide-highlight__label">Type 2 diabetes, heart, sleep apnea, fatty liver, kidney</div>
 </div>
 <div class="peptide-highlight">
 <div class="peptide-highlight__icon">💊</div>
@@ -41,6 +41,15 @@ Each guide below covers what the evidence actually says, what's still speculativ
 <p class="section-label">FDA-Approved Indications (Beyond Weight Loss)</p>
 
 ## Where the Evidence Is Strongest
+
+<a href="/conditions/glp1-type2-diabetes/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--green">📉</div>
+<div>
+<div class="guide-card__title">Type 2 Diabetes</div>
+<p class="guide-card__desc">The foundational use case: HbA1c reduced 1.5-2.0%, cardiovascular death cut 26% (SUSTAIN 6), 10-15% weight loss. ADA guidelines now recommend GLP-1s as first-line with CV disease.</p>
+<span class="guide-card__arrow">Read guide →</span>
+</div>
+</a>
 
 <a href="/conditions/glp1-heart-health/" class="guide-card">
 <div class="guide-card__icon guide-card__icon--green">❤️</div>
@@ -125,6 +134,24 @@ Each guide below covers what the evidence actually says, what's still speculativ
 <div>
 <div class="guide-card__title">Gout</div>
 <p class="guide-card__desc">Obesity doubles to triples gout risk. GLP-1 users show fewer flares in 2024-2025 cohort studies. Caution: rapid early weight loss can trigger temporary flares.</p>
+<span class="guide-card__arrow">Read guide →</span>
+</div>
+</a>
+
+<a href="/conditions/glp1-neuropathy/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--amber">⚡</div>
+<div>
+<div class="guide-card__title">Peripheral Neuropathy</div>
+<p class="guide-card__desc">86% showed nerve improvement within 1 month in a 2024 Diabetologia study. 32% returned to normal nerve morphology. Potential breakthrough for diabetic nerve damage.</p>
+<span class="guide-card__arrow">Read guide →</span>
+</div>
+</a>
+
+<a href="/conditions/glp1-stroke/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--amber">🧠</div>
+<div>
+<div class="guide-card__title">Stroke Prevention</div>
+<p class="guide-card__desc">SUSTAIN 6: 39% reduction in non-fatal stroke. SELECT: 7% fewer strokes with semaglutide in obesity. GLP-1s address multiple stroke risk factors simultaneously.</p>
 <span class="guide-card__arrow">Read guide →</span>
 </div>
 </a>
@@ -222,6 +249,24 @@ Each guide below covers what the evidence actually says, what's still speculativ
 </div>
 </a>
 
+<a href="/conditions/glp1-parkinsons/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--purple">🔮</div>
+<div>
+<div class="guide-card__title">Parkinson's Disease</div>
+<p class="guide-card__desc">40-60% lower risk in observational studies. GLP-1 receptors on dopamine neurons in the substantia nigra. Exenatide trials show motor benefits. Larger semaglutide trials underway.</p>
+<span class="guide-card__arrow">Read guide →</span>
+</div>
+</a>
+
+<a href="/conditions/glp1-binge-eating/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--purple">🍽️</div>
+<div>
+<div class="guide-card__title">Binge Eating Disorder</div>
+<p class="guide-card__desc">GLP-1s suppress food-reward dopamine signaling — binge episodes reduced 40-70%. The first treatment approach that addresses the neurological roots of binge eating.</p>
+<span class="guide-card__arrow">Read guide →</span>
+</div>
+</a>
+
 ---
 
 <p class="section-label">Women's & Sexual Health</p>
@@ -284,6 +329,15 @@ Each guide below covers what the evidence actually says, what's still speculativ
 <div>
 <div class="guide-card__title">Cancer Risk Reduction</div>
 <p class="guide-card__desc">17-41% lower cancer risk across multiple 2025-2026 studies. 30% lower breast, 58% lower endometrial. Outperformed equivalent weight loss from diet/exercise.</p>
+<span class="guide-card__arrow">Read guide →</span>
+</div>
+</a>
+
+<a href="/conditions/glp1-bone-health/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--green">🦴</div>
+<div>
+<div class="guide-card__title">Bone Health & Osteoporosis</div>
+<p class="guide-card__desc">No fracture increase in SELECT trial (17,604 patients). GLP-1 receptors on bone-forming cells. GLP-1s preserve bone better than equivalent weight loss from surgery.</p>
 <span class="guide-card__arrow">Read guide →</span>
 </div>
 </a>

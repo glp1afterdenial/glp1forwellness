@@ -590,3 +590,110 @@ Key takeaways:
 - ShedRx offers dedicated sexual health programs: Rise/Extend/Steady (men), Desire/Euphoria (women)
 - Bodybuilding Health+ offers PT-141 from $129/mo, tadalafil from $96/mo
 - If low libido persists >6 months at stable dose: check testosterone (men), estrogen/progesterone/DHEA-S (women)
+
+---
+
+## GLP-1 Medications for Type 2 Diabetes: The Complete Guide
+URL: https://glp1forwellness.com/conditions/glp1-type2-diabetes/
+Date: July 2026
+
+The foundational FDA-approved indication for GLP-1 receptor agonists — now recommended as first-line therapy by the ADA when cardiovascular disease, heart failure, or CKD is present.
+
+Key takeaways:
+- GLP-1s reduce HbA1c by 1.5-2.0% — among the strongest glucose-lowering medications available
+- SUSTAIN 6 (3,297 patients): semaglutide reduced major cardiovascular events by 26%, non-fatal stroke by 39%
+- PIONEER 6 (3,183 patients): confirmed cardiovascular safety of oral semaglutide; 51% reduction in cardiovascular death (secondary endpoint)
+- SURPASS program: tirzepatide achieved HbA1c reductions of 2.0-2.4%, with up to 46% achieving non-diabetic HbA1c (<5.7%)
+- Benefits beyond glucose: cardiovascular protection, kidney protection (FLOW trial), fatty liver improvement, blood pressure reduction, 10-15% weight loss
+- ADA Standards of Care now position GLP-1s as first-line alongside or instead of metformin when CV/HF/CKD present
+- Most insurance plans and Medicare Part D cover GLP-1s for diabetes diagnoses (better coverage than for weight loss alone)
+- Telehealth access from $129/month for cash-pay patients
+
+---
+
+## GLP-1 Medications and Stroke Prevention: What the Research Shows
+URL: https://glp1forwellness.com/conditions/glp1-stroke/
+Date: July 2026
+
+Guide on how GLP-1 medications reduce stroke risk through multiple mechanisms — with strong RCT data from SUSTAIN 6 and SELECT.
+
+Key takeaways:
+- SUSTAIN 6: semaglutide reduced non-fatal stroke by 39% in type 2 diabetes patients over 2 years
+- SELECT (17,604 participants): semaglutide reduced stroke events by 7% in obese patients without diabetes
+- GLP-1s address multiple stroke risk factors simultaneously: blood pressure (3-8 mmHg systolic reduction), inflammation (CRP down ~40%), blood sugar normalization, weight loss, and anti-atherosclerotic effects
+- Observational studies suggest strongest stroke protection in ischemic stroke (blood clot type), which accounts for 87% of all strokes
+- Anti-atherosclerotic effects: GLP-1s reduce plaque inflammation, slow carotid intima-media thickness progression, and may stabilize vulnerable plaques
+- Not FDA-approved specifically for stroke prevention — cardiovascular risk reduction indication covers MACE (which includes stroke)
+- Telehealth access from $129/month
+
+---
+
+## GLP-1 Medications and Parkinson's Disease: Neuroprotection Beyond Weight Loss
+URL: https://glp1forwellness.com/conditions/glp1-parkinsons/
+Date: July 2026
+
+Guide on the emerging neuroprotective evidence for GLP-1 medications in Parkinson's disease — from observational risk reduction to clinical trials with motor benefits.
+
+Key takeaways:
+- Observational studies link GLP-1 use to 40-60% lower Parkinson's disease risk
+- GLP-1 receptors exist on dopamine-producing neurons in the substantia nigra — the brain region destroyed in Parkinson's
+- Five RCTs (570 patients) tested GLP-1 receptor agonists in Parkinson's: exenatide showed motor benefits that persisted after drug cessation (suggesting disease modification, not just symptom relief)
+- Mechanisms: reduced neuroinflammation, reduced alpha-synuclein aggregation (toxic protein clumps), improved mitochondrial function in brain cells, promotion of neuronal survival
+- Gamborg 2025 meta-analysis confirmed consistent neuroprotective signals across multiple study types
+- Semaglutide has stronger observational data and better blood-brain barrier penetration; dedicated Parkinson's trials underway
+- Not FDA-approved for Parkinson's — the data is promising but observational
+- Telehealth access from $129/month
+
+---
+
+## GLP-1 Medications and Binge Eating Disorder: Targeting the Brain, Not Just Calories
+URL: https://glp1forwellness.com/conditions/glp1-binge-eating/
+Date: July 2026
+
+Guide on how GLP-1 medications address the neurological compulsive component of binge eating disorder — distinct from simple appetite suppression.
+
+Key takeaways:
+- GLP-1 receptors in the ventral tegmental area and nucleus accumbens reduce food-reward dopamine signaling — the same pathway hijacked in binge eating
+- Clinical observations show binge episodes reduced 40-70% on GLP-1 therapy
+- Tongta 2024 narrative review identified three mechanisms: reward circuit modulation (reduced food-related dopamine surges), appetite suppression (hypothalamic satiety signals), and slowed gastric emptying (reduced binge capacity)
+- Binge eating disorder affects 2-3% of adults — more common than anorexia and bulimia combined
+- GLP-1 therapy is fundamentally different from diet interventions because it targets the compulsive neurological component
+- Important caveats: no FDA approval for BED specifically; eating disorder screening recommended; not appropriate for restrictive eating disorders
+- Telehealth access from $129/month
+
+---
+
+## GLP-1 Medications and Peripheral Neuropathy: Reversing Nerve Damage
+URL: https://glp1forwellness.com/conditions/glp1-neuropathy/
+Date: July 2026
+
+Guide on the emerging evidence that GLP-1 medications may reverse — not just slow — diabetic nerve damage. Previously considered irreversible.
+
+Key takeaways:
+- 2024 Diabetologia study: 86% of diabetic neuropathy patients showed nerve improvement within 1 month on GLP-1 therapy; 32% returned to normal nerve morphology
+- At 3 months: 93% showed further improvement with reduced neuropathy severity scores and improved nerve conduction
+- 2025 J Neurophysiol study (24 patients): GLP-1s restored sodium-potassium pump function in damaged nerves — fixing basic electrical machinery
+- 2024 preclinical study: semaglutide reduced neuropathic pain by inhibiting astrocyte and microglial activation in the spinal cord
+- Mechanisms go beyond blood sugar control: direct neuroinflammation suppression, oxidative stress reduction, and neurotrophic effects
+- Small sample sizes (22-24 patients) and no placebo-controlled RCT yet — larger trials needed
+- Clinical trial testing cagrisema for neuropathic pain is underway
+- Telehealth access from $129/month
+
+---
+
+## GLP-1 Medications and Bone Health: What the Research Shows
+URL: https://glp1forwellness.com/conditions/glp1-bone-health/
+Date: July 2026
+
+Guide addressing the most commonly raised safety question about long-term GLP-1 use — with data more reassuring than expected.
+
+Key takeaways:
+- Any significant weight loss reduces bone mineral density — this happens with surgery, diet, and GLP-1 medications alike
+- Large clinical trials (SELECT: 17,604 participants; SUSTAIN/STEP programs) show no increase in fracture risk with semaglutide or tirzepatide
+- Some observational studies actually suggest reduced fracture risk in GLP-1 users compared to non-users
+- GLP-1 receptors exist on osteoblasts (bone-forming cells), suggesting direct bone-protective effects
+- GLP-1 medications preserve bone better than bariatric surgery for equivalent weight loss (surgery alters calcium absorption)
+- Protection strategies: resistance training 2-3x/week, adequate protein (1.0-1.2 g/kg/day), calcium/vitamin D supplementation, DEXA scan baseline for at-risk patients
+- Long-term data (5-10 years) is limited; postmenopausal women and older adults may need closer monitoring
+- GLP-1 medications are not contraindicated in osteoporosis
+- Telehealth access from $129/month

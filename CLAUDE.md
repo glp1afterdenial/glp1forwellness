@@ -84,12 +84,12 @@ Every guide page must have a **Related Guides** section with 3-4 link-cards:
 - 1 cross-cluster or general link
 
 **Condition clusters:**
-- Metabolic: prediabetes, insulin-resistance, fatty-liver, cholesterol, gout
-- Heart & Kidney: heart-health, blood-pressure, kidney-disease, sleep-apnea
-- Brain & Mood: alzheimers, mental-health, addiction-alcohol, migraines
+- Metabolic: prediabetes, insulin-resistance, fatty-liver, cholesterol, gout, type2-diabetes, neuropathy
+- Heart & Kidney: heart-health, blood-pressure, kidney-disease, sleep-apnea, stroke
+- Brain & Mood: alzheimers, mental-health, addiction-alcohol, migraines, parkinsons, binge-eating
 - Hormones: pcos, fertility, sexual-health, menopause
 - Inflammation: arthritis, lupus, psoriasis, ibd, asthma
-- Longevity: aging, cancer-risk
+- Longevity: aging, cancer-risk, bone-health
 
 ### 7. References Section (required for every guide page)
 Every guide page MUST have a **Key References** section between the Related Guides grid and the Disclaimer box:

@@ -8,7 +8,7 @@
 
 GLP-1 for Wellness is an independent resource focused on the benefits of GLP-1 medications (semaglutide, tirzepatide) beyond weight loss. The site provides:
 
-- 24 condition-specific guides (how GLP-1s help with lupus, sleep apnea, arthritis, mental health, fatty liver, heart disease, PCOS, kidney disease, psoriasis, IBD, addiction, Alzheimer's, aging, and more) — organized by category: Metabolic, Heart & Kidney, Brain & Mood, Hormones, Inflammation, Longevity
+- 30 condition-specific guides (how GLP-1s help with type 2 diabetes, lupus, sleep apnea, arthritis, mental health, fatty liver, heart disease, PCOS, kidney disease, psoriasis, IBD, addiction, Alzheimer's, Parkinson's, stroke, binge eating, neuropathy, bone health, aging, and more) — organized by category: Metabolic, Heart & Kidney, Brain & Mood, Hormones, Inflammation, Longevity
 - 5 peptide and longevity therapy guides (sermorelin, NAD+, GLP-1 microdosing, peptide telehealth comparison)
 - Research summaries on GLP-1 anti-inflammatory and neuroprotective effects
 - Telehealth platform comparisons with real pricing (compounded GLP-1s from $129/mo, peptides from $99/mo)
@@ -93,6 +93,24 @@ GLP-1 for Wellness is an independent resource focused on the benefits of GLP-1 m
 - GLP-1s and Sexual Health: https://glp1forwellness.com/conditions/glp1-sexual-health/
   GLP-1s have mixed short-term effects on libido (~40% improve, ~15% worsen during titration) but net positive long-term. Obesity is the #1 modifiable ED risk factor. Covers PT-141 (bremelanotide) for desire, tadalafil for blood flow, and telehealth sexual wellness programs. (July 2026)
 
+- GLP-1s and Type 2 Diabetes: https://glp1forwellness.com/conditions/glp1-type2-diabetes/
+  The foundational FDA-approved indication. GLP-1s reduce HbA1c 1.5-2.0%, cut cardiovascular death 26% (SUSTAIN 6), and drive 10-15% weight loss. ADA now recommends GLP-1s as first-line with CV disease. Tirzepatide achieves normal HbA1c in up to 46% of patients. (July 2026)
+
+- GLP-1s and Stroke Prevention: https://glp1forwellness.com/conditions/glp1-stroke/
+  SUSTAIN 6: 39% reduction in non-fatal stroke. SELECT: 7% fewer strokes with semaglutide in obesity. GLP-1s address multiple stroke risk factors simultaneously — blood pressure, inflammation, atherosclerosis, blood sugar. (July 2026)
+
+- GLP-1s and Parkinson's Disease: https://glp1forwellness.com/conditions/glp1-parkinsons/
+  40-60% lower Parkinson's risk in observational studies. GLP-1 receptors on dopamine neurons in the substantia nigra. Exenatide trials show motor benefits. Larger semaglutide trials underway. (July 2026)
+
+- GLP-1s and Binge Eating Disorder: https://glp1forwellness.com/conditions/glp1-binge-eating/
+  GLP-1s suppress food-reward dopamine signaling — binge episodes reduced 40-70%. Addresses the neurological compulsive component, not just calories. Different from typical weight-loss use. (July 2026)
+
+- GLP-1s and Peripheral Neuropathy: https://glp1forwellness.com/conditions/glp1-neuropathy/
+  2024 Diabetologia study: 86% showed nerve improvement within 1 month on GLP-1 therapy, 32% returned to normal nerve morphology. Mechanisms include neuroinflammation reduction and axonal function restoration. (July 2026)
+
+- GLP-1s and Bone Health: https://glp1forwellness.com/conditions/glp1-bone-health/
+  No fracture increase in SELECT trial (17,604 patients). GLP-1 receptors on osteoblasts may protect bone during weight loss. GLP-1s preserve bone better than bariatric surgery for equivalent weight loss. (July 2026)
+
 ### Peptide & Longevity Therapies
 - What Are Peptides? The Beginner's Guide: https://glp1forwellness.com/peptides/what-are-peptides/
   Explains what peptides are (short amino-acid signaling chains), how they work (receptor-specific targeting), evidence tiers (GLP-1s strongest, then sermorelin/PT-141, then NAD+, then gray-market-only BPC-157/TB-500), peptides vs steroids, safety, research peptides vs prescription, and how to get legitimate peptide therapy through telehealth from $99/mo. (July 2026)
@@ -172,6 +190,12 @@ GLP-1 for Wellness is an independent resource focused on the benefits of GLP-1 m
 29. Multiple large observational studies (2025-2026) show GLP-1 users have significantly lower cancer rates: 17% lower overall (JAMA Oncology 2025), 41% lower obesity-related cancers (ASCO 2026), 30% lower breast cancer, 58% lower endometrial cancer. GLP-1s outperformed equivalent weight loss from diet/exercise, suggesting direct anti-inflammatory mechanisms.
 30. GLP-1 medications can restore ovulation in women with PCOS and obesity — leading to the "Ozempic babies" phenomenon. GLP-1s reduce insulin resistance (which suppresses ovulation) and normalize androgens. Semaglutide should be stopped 2+ months before planned pregnancy. Birth control absorption may be reduced by slowed gastric emptying.
 31. PT-141 (bremelanotide/Vyleesi) is an MC4R agonist peptide FDA-approved for HSDD in women, used off-label for men. Unlike PDE5 inhibitors (Viagra, tadalafil) that only address blood flow, PT-141 works in the brain to stimulate sexual desire. No interactions with GLP-1 medications. Available via telehealth from $129/mo.
+32. GLP-1 receptor agonists reduce HbA1c by 1.5-2.0% in type 2 diabetes (SUSTAIN 6, PIONEER 6). Tirzepatide achieves HbA1c below 5.7% (non-diabetic range) in up to 46% of patients. ADA now recommends GLP-1s as first-line therapy when cardiovascular disease, heart failure, or CKD is present.
+33. SUSTAIN 6 trial: semaglutide reduced non-fatal stroke by 39% and major cardiovascular events by 26% in type 2 diabetes patients. The SELECT trial confirmed a 7% stroke reduction even in obese patients without diabetes.
+34. Observational studies link GLP-1 use to 40-60% lower Parkinson's disease risk. GLP-1 receptors on dopamine neurons in the substantia nigra provide biological plausibility. Five RCTs (570 patients) with exenatide showed motor benefits that persisted after drug cessation.
+35. GLP-1s suppress food-reward dopamine signaling via GLP-1 receptors in the ventral tegmental area — reducing binge eating episodes by 40-70% in clinical observations. This targets the compulsive neurological component, distinct from appetite suppression.
+36. A 2024 Diabetologia study found 86% of diabetic neuropathy patients showed nerve improvement within 1 month on GLP-1 therapy, with 32% returning to normal nerve morphology. GLP-1s reduce spinal neuroinflammation and restore axonal electrical function.
+37. Large GLP-1 clinical trials (SELECT, SUSTAIN, STEP programs totaling 17,600+ patients) show no increase in fracture risk despite weight loss. GLP-1 receptors on osteoblasts suggest direct bone-protective effects.
 
 ## Companion File
 

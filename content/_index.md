@@ -134,6 +134,14 @@ Beyond Weight Loss
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
+<a href="/conditions/glp1-type2-diabetes/" class="condition-card" data-cat="metabolic">
+<div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4"/><circle cx="12" cy="12" r="4"/></svg></div>
+<div class="condition-card__title">GLP-1s & Type 2 Diabetes</div>
+<div class="condition-card__desc">HbA1c reduced 1.5-2.0%, cardiovascular death cut 26% — the foundational use case</div>
+<span class="condition-card__tag condition-card__tag--fda">FDA-Approved</span>
+<span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
+</a>
+
 <a href="/conditions/glp1-prediabetes/" class="condition-card" data-cat="metabolic">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4"/><circle cx="12" cy="12" r="4"/></svg></div>
 <div class="condition-card__title">GLP-1s & Prediabetes</div>
@@ -148,6 +156,14 @@ Beyond Weight Loss
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
+<a href="/conditions/glp1-stroke/" class="condition-card" data-cat="heart-kidney">
+<div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></div>
+<div class="condition-card__title">GLP-1s & Stroke</div>
+<div class="condition-card__desc">39% reduction in non-fatal stroke in SUSTAIN 6 — plus cardiovascular protection</div>
+<span class="condition-card__tag condition-card__tag--rct">RCT Data</span>
+<span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
+</a>
+
 <a href="/conditions/glp1-blood-pressure/" class="condition-card" data-cat="heart-kidney">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/><path d="M3.5 12h4l2-4 3 8 2-4h5.5"/></svg></div>
 <div class="condition-card__title">GLP-1s & Blood Pressure</div>
@@ -159,6 +175,14 @@ Beyond Weight Loss
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M12 2a7 7 0 00-7 7c0 5 7 13 7 13s7-8 7-13a7 7 0 00-7-7z"/></svg></div>
 <div class="condition-card__title">GLP-1s & Cholesterol</div>
 <div class="condition-card__desc">Triglycerides down 15-20%, inflammation down ~40% — but not a statin replacement</div>
+<span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
+</a>
+
+<a href="/conditions/glp1-neuropathy/" class="condition-card" data-cat="metabolic">
+<div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></div>
+<div class="condition-card__title">GLP-1s & Neuropathy</div>
+<div class="condition-card__desc">86% showed nerve improvement within 1 month — potential reversal of nerve damage</div>
+<span class="condition-card__tag condition-card__tag--new">Emerging</span>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
@@ -183,10 +207,26 @@ Beyond Weight Loss
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
+<a href="/conditions/glp1-parkinsons/" class="condition-card" data-cat="brain-mood">
+<div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg></div>
+<div class="condition-card__title">GLP-1s & Parkinson's</div>
+<div class="condition-card__desc">40-60% lower risk in observational studies — neuroprotection via GLP-1 brain receptors</div>
+<span class="condition-card__tag condition-card__tag--new">Emerging</span>
+<span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
+</a>
+
 <a href="/conditions/glp1-mental-health/" class="condition-card" data-cat="brain-mood">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></div>
 <div class="condition-card__title">GLP-1s & Mental Health</div>
 <div class="condition-card__desc">Depression, anxiety, and neuroprotective effects — what the research says</div>
+<span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
+</a>
+
+<a href="/conditions/glp1-binge-eating/" class="condition-card" data-cat="brain-mood">
+<div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2M9 9h.01M15 9h.01"/></svg></div>
+<div class="condition-card__title">GLP-1s & Binge Eating</div>
+<div class="condition-card__desc">GLP-1s suppress food-reward dopamine signaling — binge episodes reduced 40-70%</div>
+<span class="condition-card__tag condition-card__tag--new">Emerging</span>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
@@ -216,6 +256,13 @@ Beyond Weight Loss
 <div class="condition-card__title">GLP-1s & Cancer Risk</div>
 <div class="condition-card__desc">17-41% lower cancer risk in large studies — what it means and doesn't prove</div>
 <span class="condition-card__tag condition-card__tag--new">Emerging</span>
+<span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
+</a>
+
+<a href="/conditions/glp1-bone-health/" class="condition-card" data-cat="longevity">
+<div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+<div class="condition-card__title">GLP-1s & Bone Health</div>
+<div class="condition-card__desc">No fracture increase in 17,600+ patients — bone-protective despite weight loss</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
