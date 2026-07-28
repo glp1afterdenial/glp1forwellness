@@ -10,6 +10,9 @@
 <link rel="llms" href="/llms.txt" type="text/plain" title="LLM Context">
 <link rel="llms-full" href="/llms-full.txt" type="text/plain" title="LLM Full Context">
 
+<!-- Meta description (Congo doesn't emit this) -->
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
+
 <!-- AI Crawler Optimization -->
 <meta name="ai-content-declaration" content="human-written, fact-checked, regularly-updated">
 
