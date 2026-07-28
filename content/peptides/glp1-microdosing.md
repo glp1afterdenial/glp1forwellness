@@ -2,8 +2,8 @@
 title: "GLP-1 Microdosing: Lower Doses, Fewer Side Effects, Same Benefits?"
 date: 2026-07-26
 lastmod: 2026-07-28
-description: "GLP-1 microdosing uses lower semaglutide or tirzepatide doses for gentler weight loss with fewer side effects. Who it's for, how protocols work, what research supports it, and where to get it from $139/month."
-summary: "GLP-1 microdosing uses lower semaglutide or tirzepatide doses for gentler weight loss with fewer side effects. Who it's for, how protocols work, what research supports it, and where to get it from $139/month."
+description: "GLP-1 microdosing uses lower semaglutide or tirzepatide doses for gentler weight loss with fewer side effects. Protocols, evidence, and access."
+summary: "GLP-1 microdosing uses lower semaglutide or tirzepatide doses for gentler weight loss with fewer side effects. Protocols, evidence, and access."
 keywords: ["GLP-1 microdosing", "semaglutide low dose", "microdose Ozempic", "semaglutide side effects", "GLP-1 lower dose", "semaglutide maintenance dose", "tirzepatide microdose", "GLP-1 tolerability", "GLP-1 without nausea", "semaglutide half dose", "compounded semaglutide microdose", "affordable GLP-1"]
 layout: "simple"
 ---

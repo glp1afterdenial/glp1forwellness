@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Sexual Health: Libido, ED, and Peptide Solutions"
 date: 2026-07-26
 lastmod: 2026-07-28
-description: "GLP-1 weight-loss drugs can improve or worsen sexual function. How semaglutide affects libido and ED, plus peptide treatments like PT-141 (bremelanotide), tadalafil, and sexual wellness programs that work alongside GLP-1 therapy."
-summary: "GLP-1 weight-loss drugs can improve or worsen sexual function. How semaglutide affects libido and ED, plus peptide treatments like PT-141 (bremelanotide), tadalafil, and sexual wellness programs that work alongside GLP-1 therapy."
+description: "GLP-1s can improve or worsen sexual function. How semaglutide affects libido and ED, plus PT-141, tadalafil, and sexual wellness program options."
+summary: "GLP-1s can improve or worsen sexual function. How semaglutide affects libido and ED, plus PT-141, tadalafil, and sexual wellness program options."
 keywords: ["GLP-1 libido", "Ozempic sex drive", "semaglutide erectile dysfunction", "GLP-1 ED", "PT-141 peptide", "bremelanotide", "Ozempic low libido", "tirzepatide sexual side effects", "GLP-1 testosterone", "weight loss libido", "peptides for sexual health", "tadalafil GLP-1", "Ozempic sexual dysfunction"]
 layout: "simple"
 ---
@@ -274,7 +274,7 @@ Many telehealth platforms now offer sexual health programs designed to work alon
 <div class="offer-card__desc">GLP-1 + sexual health peptides under one roof. PT-141, tadalafil, and GLP-1 prescribed together.</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12374" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12374" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">PT-141 Specialist</div>
 <div class="offer-card__name">Telos Rx</div>
 <div class="offer-card__price">PT-141 for less than $5/day</div>
@@ -308,7 +308,7 @@ Many telehealth platforms now offer sexual health programs designed to work alon
 <div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>

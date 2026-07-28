@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and High Cholesterol: What They Do (and Don't Do)"
 date: 2026-07-20
 lastmod: 2026-07-28
-description: "GLP-1 medications lower triglycerides 15-20%, modestly reduce LDL, and cut inflammation ~40% — but they don't replace statins. An honest look at how semaglutide and tirzepatide affect cholesterol, and who actually benefits."
-summary: "GLP-1 medications lower triglycerides 15-20%, modestly reduce LDL, and cut inflammation ~40% — but they don't replace statins. An honest look at how semaglutide and tirzepatide affect cholesterol, and who actually benefits."
+description: "GLP-1 medications lower triglycerides 15-20% and cut inflammation ~40% — but don't replace statins. How semaglutide affects cholesterol and who benefits."
+summary: "GLP-1 medications lower triglycerides 15-20% and cut inflammation ~40% — but don't replace statins. How semaglutide affects cholesterol and who benefits."
 keywords: ["GLP-1 cholesterol", "semaglutide lower cholesterol", "does Ozempic lower cholesterol", "tirzepatide triglycerides", "GLP-1 LDL reduction", "semaglutide triglycerides", "GLP-1 vs statin", "high cholesterol weight loss medication", "metabolic syndrome GLP-1", "semaglutide lipid panel", "affordable GLP-1 cholesterol", "GLP-1 dyslipidemia"]
 layout: "simple"
 ---
@@ -251,7 +251,7 @@ Tirzepatide shows the same directional pattern with generally larger triglycerid
 <div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>

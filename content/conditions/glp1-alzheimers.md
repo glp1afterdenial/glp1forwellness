@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Alzheimer's: Neuroprotection, Prevention, and What the Trials Show"
 date: 2026-07-17
 lastmod: 2026-07-28
-description: "Observational studies show 40-70% lower Alzheimer's risk in semaglutide users, but Phase 3 trials failed to slow existing disease. Learn the critical prevention vs treatment distinction, how GLP-1s protect the brain, and how to access these medications affordably."
-summary: "Observational studies show 40-70% lower Alzheimer's risk in semaglutide users, but Phase 3 trials failed to slow existing disease. Learn the critical prevention vs treatment distinction, how GLP-1s protect the brain, and how to access these medications affordably."
+description: "Observational studies show 40-70% lower Alzheimer's risk with semaglutide, but Phase 3 trials failed for existing disease. Prevention vs treatment."
+summary: "Observational studies show 40-70% lower Alzheimer's risk with semaglutide, but Phase 3 trials failed for existing disease. Prevention vs treatment."
 keywords: ["GLP-1 for Alzheimer's prevention", "semaglutide brain health neuroprotection", "GLP-1 Alzheimer's disease risk reduction", "semaglutide dementia prevention research", "GLP-1 receptor agonist brain insulin resistance", "tirzepatide Alzheimer's neuroprotective", "semaglutide neuroinflammation reduction", "GLP-1 amyloid beta pathology", "type 3 diabetes Alzheimer's hypothesis", "semaglutide cerebral blood flow", "GLP-1 Parkinson's disease risk", "compounded semaglutide brain health"]
 layout: "simple"
 ---
@@ -443,7 +443,7 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>
@@ -466,8 +466,8 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="related-grid">
 <a href="/conditions/glp1-mental-health/" class="link-card">GLP-1s & Mental Health <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-addiction-alcohol/" class="link-card">GLP-1s & Addiction <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-parkinsons/" class="link-card">GLP-1s & Parkinson's <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-migraines/" class="link-card">GLP-1s & Migraines <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>

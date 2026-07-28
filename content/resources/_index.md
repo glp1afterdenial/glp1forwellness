@@ -1,6 +1,6 @@
 ---
 title: "Resources & Guides"
-description: "Practical guides on GLP-1 medications — how they work, how to access them, and what the research says."
+description: "Practical guides on GLP-1 side effects and solutions — muscle loss prevention, hair loss recovery, and 30 condition-specific research guides."
 layout: "simple"
 ---
 

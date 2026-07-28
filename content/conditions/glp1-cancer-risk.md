@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Cancer Risk: What the 2025-2026 Studies Show"
 date: 2026-07-26
 lastmod: 2026-07-28
-description: "Large studies show GLP-1 users have 17-41% lower cancer risk — including 30% lower breast cancer, 58% lower endometrial cancer. What the research shows, what it means, and what it doesn't prove yet."
-summary: "Large studies show GLP-1 users have 17-41% lower cancer risk — including 30% lower breast cancer, 58% lower endometrial cancer. What the research shows, what it means, and what it doesn't prove yet."
+description: "Large studies show GLP-1 users have 17-41% lower cancer risk — including 30% lower breast and 58% lower endometrial. What it means and doesn't prove."
+summary: "Large studies show GLP-1 users have 17-41% lower cancer risk — including 30% lower breast and 58% lower endometrial. What it means and doesn't prove."
 keywords: ["GLP-1 cancer risk", "semaglutide cancer prevention", "Ozempic cancer", "does Ozempic prevent cancer", "GLP-1 breast cancer", "tirzepatide cancer risk", "obesity cancer risk", "weight loss cancer prevention", "GLP-1 endometrial cancer", "semaglutide colon cancer", "GLP-1 anti-inflammatory cancer"]
 layout: "simple"
 ---
@@ -253,6 +253,12 @@ The cancer risk reduction is largest for people with:
 <div class="offer-card__name">Gala</div>
 <div class="offer-card__price">From $129/mo</div>
 <div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
+</a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Own Pharmacy</div>
+<div class="offer-card__name">YourEra Health</div>
+<div class="offer-card__price">From $99/mo</div>
+<div class="offer-card__desc">Physician-led, owned pharmacy, LegitScript certified, Klarna available</div>
 </a>
 
 <a href="https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095" target="_blank" class="offer-card offer-card--blue">

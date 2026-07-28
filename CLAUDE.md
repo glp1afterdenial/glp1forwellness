@@ -79,9 +79,11 @@ Every guide page MUST have:
 **NEVER add:** TrimRX (offer_id=1515) — removed site-wide Jul 2026
 
 ### 6. Internal Cross-Linking
-Every guide page must have a **Related Guides** section with 3-4 link-cards:
+Every guide page must have a **Related Guides** section with 3-5 link-cards:
 - 2-3 links to sibling pages in the same cluster
-- 1 cross-cluster or general link
+- 1-2 cross-cluster or general links
+
+**Inbound links (critical for new pages):** When adding a new page, you MUST also update 3+ existing sibling pages to link TO the new page. New pages with zero inbound sibling links get poor internal authority. Pick 3 pages in the same cluster and swap one of their Related Guide links to point to the new page.
 
 **Condition clusters:**
 - Metabolic: prediabetes, insulin-resistance, fatty-liver, cholesterol, gout, type2-diabetes, neuropathy
@@ -128,6 +130,38 @@ The `#conditions` section uses filter pills with `data-cat` attributes. When add
 <a href="/conditions/glp1-NEW/" class="condition-card" data-cat="CATEGORY">
 ```
 Categories: `metabolic`, `heart-kidney`, `brain-mood`, `hormones`, `inflammation`, `longevity`
+
+### 11. Quality Gates (run after every new page or batch)
+Before committing, verify all of these pass:
+
+1. **Meta descriptions 120-160 chars:** Every page's `description:` and `summary:` must be 120-160 characters. Under 120 = too short for SERP. Over 160 = gets truncated.
+2. **Speakable contract:** Every guide page must use `<div id="tldr" class="tldr-box">` — not `.callout`, not `.callout--study`, not any other class. Speakable JSON-LD targets `.tldr-box`.
+3. **4-card affiliate grid:** Every GLP-1 condition page must have all 4 cards: Oak (green), Gala (blue), YourEra (amber), ShedRx (cyan). YourEra must be `offer-card--amber` not `--purple`.
+4. **MedicalWebPage schema:** Every page under conditions/, peptides/, resources/, and articles/ must have MedicalWebPage JSON-LD (in addition to FAQPage).
+5. **Inbound cross-links:** New pages need 3+ inbound links from existing sibling pages. Grep `related-grid` sections of cluster siblings and swap in a link to the new page.
+6. **llms-full.txt completeness:** Every published page must have a detailed summary in `static/llms-full.txt`. After adding pages, verify: page count in llms.txt matches actual page count.
+
+```bash
+# Quick verification commands
+# Meta description length check (should all be 120-160)
+grep -r '^description:' content/ | awk -F'"' '{print length($2), FILENAME}' | sort -n | head -5
+
+# Speakable contract (should be 0 — no tldr divs using wrong class)
+grep -rn 'id="tldr"' content/ | grep -v 'class="tldr-box"' | wc -l
+
+# Affiliate grid completeness (all 4 counts should match)
+echo "Oak: $(grep -rl 'offer_id=1581' content/conditions/ | wc -l)"
+echo "Gala: $(grep -rl 'offer_id=1576' content/conditions/ | wc -l)"
+echo "YourEra: $(grep -rl 'offer_id=1602' content/conditions/ | wc -l)"
+echo "ShedRx: $(grep -rl 'offer_id=1516' content/conditions/ | wc -l)"
+
+# MedicalWebPage coverage
+echo "MedicalWebPage: $(grep -rl 'MedicalWebPage' content/ | wc -l)"
+echo "Total guide pages: $(find content/conditions content/peptides content/resources content/articles -name '*.md' ! -name '_index.md' | wc -l)"
+
+# Inbound link check for a specific new page (replace SLUG)
+grep -rl 'glp1-SLUG' content/conditions/ | grep -v 'glp1-SLUG.md'
+```
 
 ## New Article Template
 
@@ -318,7 +352,7 @@ layout: "simple"
 </p>
 ```
 
-**After creating:** Run the Content Update Checklist (sections 1-8 above) to update llms.txt, llms-full.txt, homepage, and section index pages.
+**After creating:** Run the Content Update Checklist (sections 1-8 above) to update llms.txt, llms-full.txt, homepage, and section index pages. Then run Section 11 Quality Gates — especially inbound cross-links (update 3+ sibling pages to link to the new page).
 
 ## Technical Constraints
 - **Speakable schema** targets `h1` + `.tldr-box` — never rename this class
@@ -336,15 +370,22 @@ hugo --quiet
 # No old classes remaining
 grep -rl 'article-nav-sticky\|h2-accent' content/ | wc -l  # should be 0
 
-# Affiliate URL integrity
+# Affiliate URL integrity (all 4 counts should equal total condition pages)
 grep -roh 'track\.revoffers\.com[^"]*' content/ | sort | uniq -c | sort -rn
 
-# Schema count
+# Schema count (FAQPage + MedicalWebPage on every guide)
 grep -rl 'FAQPage' content/ | wc -l
+grep -rl 'MedicalWebPage' content/ | wc -l
+
+# Speakable contract (should be 0 — no broken tldr classes)
+grep -rn 'id="tldr"' content/ | grep -v 'class="tldr-box"' | wc -l
 
 # Internal cross-links
 grep -roh 'class="link-card"' content/ | wc -l
 
 # References sections
 grep -rl '## Key References' content/ | wc -l
+
+# YourEra card color (should be 0 — no purple YourEra cards)
+grep -rn 'offer_id=1602' content/ | grep 'offer-card--purple' | wc -l
 ```

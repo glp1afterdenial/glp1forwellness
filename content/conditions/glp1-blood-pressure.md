@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and High Blood Pressure: What the Trials Show"
 date: 2026-07-20
 lastmod: 2026-07-28
-description: "GLP-1 medications lower systolic blood pressure by 3-8 mmHg in major trials — a meaningful drop for heart and kidney protection. Learn how semaglutide and tirzepatide affect hypertension, who benefits, and how to access treatment affordably."
-summary: "GLP-1 medications lower systolic blood pressure by 3-8 mmHg in major trials — a meaningful drop for heart and kidney protection. Learn how semaglutide and tirzepatide affect hypertension, who benefits, and how to access treatment affordably."
+description: "GLP-1 medications lower systolic blood pressure 3-8 mmHg in major trials. How semaglutide and tirzepatide affect hypertension and access options."
+summary: "GLP-1 medications lower systolic blood pressure 3-8 mmHg in major trials. How semaglutide and tirzepatide affect hypertension and access options."
 keywords: ["GLP-1 blood pressure", "semaglutide lower blood pressure", "tirzepatide hypertension", "does Ozempic lower blood pressure", "Wegovy blood pressure reduction", "GLP-1 hypertension treatment", "weight loss lower blood pressure", "SURMOUNT-1 blood pressure substudy", "semaglutide systolic reduction", "obesity hypertension medication", "affordable GLP-1 blood pressure", "GLP-1 telehealth hypertension"]
 layout: "simple"
 ---
@@ -260,7 +260,7 @@ For people with obstructive sleep apnea — hugely overrepresented among those w
 <div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>
@@ -284,8 +284,8 @@ For people with obstructive sleep apnea — hugely overrepresented among those w
 <div class="related-grid">
 <a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-kidney-disease/" class="link-card">GLP-1s & Kidney Disease <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-sleep-apnea/" class="link-card">GLP-1s & Sleep Apnea <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-stroke/" class="link-card">GLP-1s & Stroke Prevention <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-type2-diabetes/" class="link-card">GLP-1s & Type 2 Diabetes <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>

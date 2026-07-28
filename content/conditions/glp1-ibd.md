@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and IBD: Crohn's, Ulcerative Colitis, and Gut Inflammation"
 date: 2026-07-17
 lastmod: 2026-07-28
-description: "Observational studies show IBD patients on GLP-1 medications had fewer hospitalizations and surgeries, with no increased flare risk. An honest look at semaglutide for Crohn's and ulcerative colitis — the gut-healing science, the GI side effect concerns, and when GLP-1s aren't appropriate."
-summary: "Observational studies show IBD patients on GLP-1 medications had fewer hospitalizations and surgeries, with no increased flare risk. An honest look at semaglutide for Crohn's and ulcerative colitis — the gut-healing science, the GI side effect concerns, and when GLP-1s aren't appropriate."
+description: "GLP-1 users with IBD had fewer hospitalizations with no increased flare risk. What semaglutide means for Crohn's and ulcerative colitis."
+summary: "GLP-1 users with IBD had fewer hospitalizations with no increased flare risk. What semaglutide means for Crohn's and ulcerative colitis."
 keywords: ["GLP-1 IBD", "semaglutide Crohn's disease", "GLP-1 ulcerative colitis", "Ozempic inflammatory bowel disease", "GLP-1 IBD flares", "semaglutide gut inflammation", "GLP-2 intestinal healing", "GLP-1 safe with Crohn's", "tirzepatide IBD", "GLP-1 nausea IBD flare", "weight loss medication ulcerative colitis", "GLP-1 IBD hospitalization study"]
 layout: "simple"
 ---
@@ -324,6 +324,12 @@ GLP-1 medications are not right for every IBD patient. There are clear situation
 <div class="offer-card__name">Gala</div>
 <div class="offer-card__price">From $129/mo</div>
 <div class="offer-card__desc">Free coaching + dietitian, $0 membership</div>
+</a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Own Pharmacy</div>
+<div class="offer-card__name">YourEra Health</div>
+<div class="offer-card__price">From $99/mo</div>
+<div class="offer-card__desc">Physician-led, owned pharmacy, LegitScript certified, Klarna available</div>
 </a>
 
 <a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">

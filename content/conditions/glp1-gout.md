@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Gout: Can Weight Loss Lower Uric Acid and Flares?"
 date: 2026-07-20
 lastmod: 2026-07-28
-description: "Obesity doubles to triples gout risk, and weight loss lowers uric acid. New cohort data suggest GLP-1 users have fewer gout flares. What semaglutide and tirzepatide can (and can't) do for gout — plus affordable access options."
-summary: "Obesity doubles to triples gout risk, and weight loss lowers uric acid. New cohort data suggest GLP-1 users have fewer gout flares. What semaglutide and tirzepatide can (and can't) do for gout — plus affordable access options."
+description: "Obesity doubles to triples gout risk. New cohort data show GLP-1 users have fewer flares. What semaglutide can and can't do for gout — plus access."
+summary: "Obesity doubles to triples gout risk. New cohort data show GLP-1 users have fewer flares. What semaglutide can and can't do for gout — plus access."
 keywords: ["GLP-1 gout", "semaglutide gout", "does Ozempic help gout", "tirzepatide uric acid", "weight loss gout flares", "obesity gout risk", "lower uric acid naturally", "GLP-1 uric acid", "gout flare weight loss", "Mounjaro gout", "affordable GLP-1 gout", "GLP-1 telehealth gout"]
 layout: "simple"
 ---
@@ -260,7 +260,7 @@ Direct GLP-1-and-gout research is younger, but pointing the same direction:
 <div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>

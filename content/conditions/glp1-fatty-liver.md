@@ -2,8 +2,8 @@
 title: "GLP-1 Medications & Fatty Liver Disease (NAFLD/MASH): What the Research Shows"
 date: 2026-07-16
 lastmod: 2026-07-28
-description: "Semaglutide is now FDA-approved for MASH with liver fibrosis. Learn how GLP-1 medications reduce liver fat, inflammation, and scarring — plus how to access treatment with or without insurance."
-summary: "Semaglutide is now FDA-approved for MASH with liver fibrosis. Learn how GLP-1 medications reduce liver fat, inflammation, and scarring — plus how to access treatment with or without insurance."
+description: "Semaglutide is FDA-approved for MASH with liver fibrosis. How GLP-1 medications reduce liver fat, inflammation, and scarring — plus access options."
+summary: "Semaglutide is FDA-approved for MASH with liver fibrosis. How GLP-1 medications reduce liver fat, inflammation, and scarring — plus access options."
 keywords: ["GLP-1 fatty liver", "semaglutide MASH", "semaglutide NAFLD", "GLP-1 liver disease", "MASH treatment 2025", "fatty liver medication", "semaglutide liver fibrosis", "ESSENCE trial semaglutide", "GLP-1 hepatic steatosis", "NAFLD treatment options", "semaglutide FDA approval MASH"]
 layout: "simple"
 ---
@@ -419,8 +419,14 @@ If you want to start GLP-1 therapy while pursuing a formal diagnosis, or if insu
 <div class="offer-card__price">From $133/mo</div>
 <div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">Lowest Price</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
+</a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>

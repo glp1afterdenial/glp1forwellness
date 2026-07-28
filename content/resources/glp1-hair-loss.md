@@ -2,8 +2,8 @@
 title: "GLP-1 Hair Loss: Why It Happens and How to Prevent It"
 date: 2026-07-17
 lastmod: 2026-07-28
-description: "A 2025 meta-analysis of 84,000+ participants found GLP-1 users are 3.4x more likely to experience hair loss. Learn why it happens (telogen effluvium from rapid weight loss), the exact timeline, prevention strategies, and when it will grow back."
-summary: "A 2025 meta-analysis of 84,000+ participants found GLP-1 users are 3.4x more likely to experience hair loss. Learn why it happens (telogen effluvium from rapid weight loss), the exact timeline, prevention strategies, and when it will grow back."
+description: "GLP-1 users are 3.4x more likely to experience hair loss from rapid weight loss. Why it happens, the timeline, prevention strategies, and regrowth."
+summary: "GLP-1 users are 3.4x more likely to experience hair loss from rapid weight loss. Why it happens, the timeline, prevention strategies, and regrowth."
 keywords: ["GLP-1 hair loss", "semaglutide hair loss", "Ozempic hair thinning", "telogen effluvium weight loss", "does Wegovy cause hair loss", "hair loss on tirzepatide", "how to prevent hair loss on semaglutide", "GLP-1 hair regrowth", "Mounjaro hair thinning", "biotin for GLP-1 hair loss", "weight loss hair shedding timeline", "semaglutide telogen effluvium", "hair loss treatment online", "minoxidil finasteride telehealth", "spironolactone hair loss women", "ShedRx hair treatment"]
 layout: "simple"
 ---
@@ -549,7 +549,7 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="offer-card__desc">Semaglutide $129, tirzepatide $179, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>

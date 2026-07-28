@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Migraines: Can Semaglutide Reduce Headache Days?"
 date: 2026-07-17
 lastmod: 2026-07-28
-description: "Pilot studies show GLP-1 medications like semaglutide cut migraine days nearly in half — independent of weight loss. Learn how GLP-1 receptor agonists reduce neuroinflammation, their connection to CGRP migraine drugs, the latest research, and how to access treatment affordably."
-summary: "Pilot studies show GLP-1 medications like semaglutide cut migraine days nearly in half — independent of weight loss. Learn how GLP-1 receptor agonists reduce neuroinflammation, their connection to CGRP migraine drugs, the latest research, and how to access treatment affordably."
+description: "GLP-1 medications cut migraine days nearly in half — independent of weight loss. The neuroinflammation science, CGRP connection, and access options."
+summary: "GLP-1 medications cut migraine days nearly in half — independent of weight loss. The neuroinflammation science, CGRP connection, and access options."
 keywords: ["GLP-1 for migraines", "semaglutide migraine treatment", "GLP-1 reduce headache days", "semaglutide headaches side effect", "GLP-1 neuroinflammation migraines", "tirzepatide migraine relief", "GLP-1 CGRP connection", "semaglutide chronic migraine", "weight loss medication for migraines", "GLP-1 receptor agonist brain pain", "compounded semaglutide for migraines", "affordable GLP-1 migraine"]
 layout: "simple"
 ---
@@ -405,7 +405,7 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="offer-card__desc">Lowest monthly cost, licensed providers</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>

@@ -2,8 +2,8 @@
 title: "How GLP-1 Medications Fight Inflammation: The Science Behind the Benefits"
 date: 2026-07-17
 lastmod: 2026-07-28
-description: "GLP-1 medications like semaglutide do far more than suppress appetite. They reduce TNF-alpha, IL-6, and IL-1-beta, suppress the NF-kB pathway, and promote anti-inflammatory macrophage polarization. Here's how the anti-inflammatory science works — and why it matters for conditions from arthritis to heart disease."
-summary: "GLP-1 medications like semaglutide do far more than suppress appetite. They reduce TNF-alpha, IL-6, and IL-1-beta, suppress the NF-kB pathway, and promote anti-inflammatory macrophage polarization. Here's how the anti-inflammatory science works — and why it matters for conditions from arthritis to heart disease."
+description: "How GLP-1 medications fight inflammation beyond weight loss — NF-kB suppression, cytokine reduction, and macrophage reprogramming. The science explained."
+summary: "How GLP-1 medications fight inflammation beyond weight loss — NF-kB suppression, cytokine reduction, and macrophage reprogramming. The science explained."
 keywords: ["GLP-1 anti-inflammatory", "semaglutide inflammation", "GLP-1 NF-kB pathway", "GLP-1 TNF-alpha reduction", "GLP-1 IL-6", "GLP-1 macrophage polarization", "GLP-1 receptors immune cells", "semaglutide CRP reduction", "GLP-1 beyond weight loss", "GLP-1 immunomodulatory effects", "tirzepatide anti-inflammatory", "GLP-1 cytokine reduction"]
 layout: "simple"
 ---

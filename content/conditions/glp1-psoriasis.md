@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Psoriasis: Can Semaglutide Calm Skin Inflammation?"
 date: 2026-07-17
 lastmod: 2026-07-28
-description: "Studies show GLP-1 medications like semaglutide improved psoriasis PASI scores by 20-75%, with the biggest gains in patients losing 10%+ body weight. Learn how weight loss boosts biologic effectiveness, the immune mechanisms involved, and how to access GLP-1s affordably."
-summary: "Studies show GLP-1 medications like semaglutide improved psoriasis PASI scores by 20-75%, with the biggest gains in patients losing 10%+ body weight. Learn how weight loss boosts biologic effectiveness, the immune mechanisms involved, and how to access GLP-1s affordably."
+description: "GLP-1 medications improved psoriasis PASI scores 20-75% in studies. How weight loss boosts biologics, the immune mechanisms, and affordable access."
+summary: "GLP-1 medications improved psoriasis PASI scores 20-75% in studies. How weight loss boosts biologics, the immune mechanisms, and affordable access."
 keywords: ["GLP-1 psoriasis", "semaglutide psoriasis improvement", "GLP-1 PASI score", "does Ozempic help psoriasis", "semaglutide skin inflammation", "weight loss psoriasis improvement", "obesity psoriasis biologics", "GLP-1 psoriatic arthritis", "semaglutide IL-17 inflammation", "tirzepatide psoriasis", "GLP-1 immune cells", "affordable GLP-1 psoriasis"]
 layout: "simple"
 ---
@@ -320,7 +320,7 @@ These platforms connect you with licensed providers who prescribe compounded GLP
 <div class="offer-card__desc">Semaglutide $129, tirzepatide $179, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>

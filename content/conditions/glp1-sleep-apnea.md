@@ -2,8 +2,8 @@
 title: "GLP-1s and Sleep Apnea: How Zepbound Became the First FDA-Approved Drug for OSA"
 date: 2026-07-16
 lastmod: 2026-07-28
-description: "Zepbound (tirzepatide) is the first FDA-approved medication for obstructive sleep apnea. Learn how GLP-1s reduce AHI, why CPAP compliance is so hard, and how to get treatment — with or without insurance."
-summary: "Zepbound (tirzepatide) is the first FDA-approved medication for obstructive sleep apnea. Learn how GLP-1s reduce AHI, why CPAP compliance is so hard, and how to get treatment — with or without insurance."
+description: "Zepbound is the first FDA-approved drug for obstructive sleep apnea. How GLP-1s reduce AHI, CPAP alternatives, and how to get treatment affordably."
+summary: "Zepbound is the first FDA-approved drug for obstructive sleep apnea. How GLP-1s reduce AHI, CPAP alternatives, and how to get treatment affordably."
 keywords: ["GLP-1 sleep apnea", "Zepbound sleep apnea FDA approval", "tirzepatide obstructive sleep apnea", "ozempic sleep apnea", "can GLP-1 replace CPAP", "sleep apnea medication instead of CPAP", "semaglutide sleep apnea treatment", "GLP-1 AHI reduction", "sleep apnea weight loss medication", "tirzepatide OSA treatment", "Zepbound for sleep apnea insurance coverage", "obstructive sleep apnea drug treatment"]
 layout: "simple"
 ---
@@ -139,9 +139,10 @@ layout: "simple"
 <a href="#references">References</a>
 </nav>
 
-<div id="tldr" class="callout callout--study">
-<h4 class="h-blue">The Short Answer</h4>
-<p class="p-muted"><strong class="tx-blue">Sleep apnea now has its first FDA-approved medication.</strong> In December 2024, the FDA approved Zepbound (tirzepatide) for moderate-to-severe obstructive sleep apnea in adults with obesity. In clinical trials, only 4% of tirzepatide users needed to start CPAP vs. 22% without it, and 26% of existing CPAP users were able to stop. Because this is an FDA-approved indication, insurance may actually cover it — and telehealth platforms offer compounded tirzepatide from $179/month for those who can't get coverage.</p>
+<div id="tldr" class="tldr-box">
+
+**TL;DR:** Sleep apnea now has its **first FDA-approved medication**. In December 2024, the FDA approved Zepbound (tirzepatide) for moderate-to-severe obstructive sleep apnea in adults with obesity. Only **4% of tirzepatide users needed CPAP** vs 22% without it, and **26% of existing CPAP users stopped**. Insurance may cover it as an FDA-approved indication — telehealth platforms offer compounded tirzepatide from **$179/month** for those who can't get coverage.
+
 </div>
 
 If you have sleep apnea, you already know what it's like. The exhaustion that never goes away no matter how many hours you spend in bed. The snoring that affects your partner. The CPAP machine on your nightstand that you probably don't use as much as you should — or maybe at all.

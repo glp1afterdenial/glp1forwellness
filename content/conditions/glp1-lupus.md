@@ -2,8 +2,8 @@
 title: "Lupus and GLP-1s: Can Semaglutide Help With Inflammation and Weight Gain?"
 date: 2026-07-16
 lastmod: 2026-07-28
-description: "Living with lupus and struggling with prednisone weight gain? Here's what the research says about GLP-1 medications for lupus patients — anti-inflammatory effects, safety, and how to access them affordably."
-summary: "Living with lupus and struggling with prednisone weight gain? Here's what the research says about GLP-1 medications for lupus patients — anti-inflammatory effects, safety, and how to access them affordably."
+description: "What the research says about GLP-1 medications for lupus — anti-inflammatory effects, safety with immunosuppressants, and how to access them affordably."
+summary: "What the research says about GLP-1 medications for lupus — anti-inflammatory effects, safety with immunosuppressants, and how to access them affordably."
 keywords: ["lupus ozempic", "lupus semaglutide", "glp-1 lupus", "lupus weight gain", "prednisone weight gain", "can I take ozempic with lupus", "semaglutide lupus inflammation", "lupus tirzepatide", "lupus weight loss", "glp-1 autoimmune disease", "ozempic lupus nephritis", "semaglutide anti-inflammatory"]
 layout: "simple"
 ---
@@ -143,9 +143,10 @@ layout: "simple"
 <a href="#references">References</a>
 </nav>
 
-<div id="tldr" class="callout callout--study">
-<h4 class="h-blue">The Short Answer</h4>
-<p class="p-muted"><strong class="tx-blue">Yes, most lupus patients can safely take GLP-1 medications.</strong> Research shows they don't increase flare risk, and they may actually help — a 2026 study found GLP-1s were linked to 34% fewer cardiovascular events and 74% lower mortality in lupus patients. Insurance almost never covers them for lupus, but telehealth platforms offer compounded semaglutide from $129/month.</p>
+<div id="tldr" class="tldr-box">
+
+**TL;DR:** Most lupus patients can safely take GLP-1 medications. Research shows they **don't increase flare risk**, and they may actually help — a **2026 study found GLP-1s were linked to 34% fewer cardiovascular events and 74% lower mortality** in lupus patients. They also address prednisone weight gain directly. Insurance almost never covers them for lupus, but telehealth platforms offer compounded semaglutide from **$129/month**.
+
 </div>
 
 If you have lupus, you already know the frustration. The joint pain, the fatigue, the flares that come out of nowhere. And then there's the weight.

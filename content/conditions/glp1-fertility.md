@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Fertility: 'Ozempic Babies,' PCOS, and What You Need to Know"
 date: 2026-07-26
 lastmod: 2026-07-28
-description: "GLP-1 medications like semaglutide are restoring ovulation in women with PCOS and obesity — leading to unexpected 'Ozempic babies.' How GLP-1s affect fertility, when to stop before pregnancy, and birth control interactions."
-summary: "GLP-1 medications like semaglutide are restoring ovulation in women with PCOS and obesity — leading to unexpected 'Ozempic babies.' How GLP-1s affect fertility, when to stop before pregnancy, and birth control interactions."
+description: "GLP-1 medications restore ovulation in women with PCOS and obesity — causing unexpected 'Ozempic babies.' When to stop and birth control interactions."
+summary: "GLP-1 medications restore ovulation in women with PCOS and obesity — causing unexpected 'Ozempic babies.' When to stop and birth control interactions."
 keywords: ["Ozempic babies", "GLP-1 fertility", "semaglutide pregnancy", "semaglutide fertility", "Ozempic PCOS fertility", "tirzepatide pregnancy", "GLP-1 ovulation", "weight loss fertility", "semaglutide birth control", "GLP-1 trying to conceive", "Ozempic unplanned pregnancy", "stop Ozempic before pregnancy"]
 layout: "simple"
 ---
@@ -272,6 +272,12 @@ For women who *want* the fertility benefit, here's the approach most reproductiv
 <div class="offer-card__price">From $129/mo</div>
 <div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Own Pharmacy</div>
+<div class="offer-card__name">YourEra Health</div>
+<div class="offer-card__price">From $99/mo</div>
+<div class="offer-card__desc">Physician-led, owned pharmacy, LegitScript certified, Klarna available</div>
+</a>
 
 <a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
 <div class="offer-card__badge">Money-Back Guarantee</div>
@@ -363,6 +369,7 @@ Not "instead of" — potentially "before." If your infertility is driven by obes
 <a href="/conditions/glp1-sexual-health/" class="link-card">GLP-1s & Sexual Health <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-menopause/" class="link-card">GLP-1s & Menopause <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-insulin-resistance/" class="link-card">GLP-1s & Insulin Resistance <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-type2-diabetes/" class="link-card">GLP-1s & Type 2 Diabetes <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>

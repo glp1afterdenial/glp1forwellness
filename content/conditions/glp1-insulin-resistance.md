@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Insulin Resistance: Treating the Root Cause"
 date: 2026-07-20
 lastmod: 2026-07-28
-description: "Insulin resistance drives weight gain, prediabetes, PCOS, and fatty liver. GLP-1 medications improve insulin sensitivity dramatically — trials show HOMA-IR falling 30-50%. Learn the signs, the science, and affordable ways to get treatment."
-summary: "Insulin resistance drives weight gain, prediabetes, PCOS, and fatty liver. GLP-1 medications improve insulin sensitivity dramatically — trials show HOMA-IR falling 30-50%. Learn the signs, the science, and affordable ways to get treatment."
+description: "GLP-1 medications improve insulin sensitivity dramatically — HOMA-IR falls 30-50% in trials. The signs, the science, and affordable treatment access."
+summary: "GLP-1 medications improve insulin sensitivity dramatically — HOMA-IR falls 30-50% in trials. The signs, the science, and affordable treatment access."
 keywords: ["GLP-1 insulin resistance", "semaglutide insulin sensitivity", "tirzepatide insulin resistance", "HOMA-IR improvement GLP-1", "insulin resistance weight gain", "insulin resistance treatment medication", "semaglutide HOMA-IR", "insulin resistance belly fat", "GLP-1 metabolic syndrome", "insulin resistance PCOS treatment", "affordable GLP-1 insulin resistance", "insulin resistance telehealth"]
 layout: "simple"
 ---
@@ -290,7 +290,7 @@ Chronic low-grade inflammation from visceral fat directly interferes with insuli
 <div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>
@@ -314,8 +314,8 @@ Chronic low-grade inflammation from visceral fat directly interferes with insuli
 <div class="related-grid">
 <a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-fatty-liver/" class="link-card">GLP-1s & Fatty Liver (MASH) <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-cholesterol/" class="link-card">GLP-1s & Cholesterol <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-type2-diabetes/" class="link-card">GLP-1s & Type 2 Diabetes <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-neuropathy/" class="link-card">GLP-1s & Neuropathy <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>

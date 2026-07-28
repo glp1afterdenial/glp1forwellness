@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Menopause: Weight Gain, Hormones, and What Women Need to Know"
 date: 2026-07-17
 lastmod: 2026-07-28
-description: "Research shows GLP-1 medications like semaglutide can help menopausal women lose weight, reduce visceral fat, and complement HRT. Learn about the HRT + GLP-1 synergy, bone and muscle considerations, and affordable access options."
-summary: "Research shows GLP-1 medications like semaglutide can help menopausal women lose weight, reduce visceral fat, and complement HRT. Learn about the HRT + GLP-1 synergy, bone and muscle considerations, and affordable access options."
+description: "GLP-1 medications help menopausal women lose weight and reduce visceral fat. HRT + GLP-1 synergy, bone considerations, and affordable access options."
+summary: "GLP-1 medications help menopausal women lose weight and reduce visceral fat. HRT + GLP-1 synergy, bone considerations, and affordable access options."
 keywords: ["GLP-1 for menopause weight gain", "semaglutide menopause", "GLP-1 and HRT together", "menopause weight loss medication", "semaglutide postmenopausal women", "GLP-1 hot flashes", "tirzepatide menopause", "menopause visceral fat GLP-1", "GLP-1 bone density menopause", "compounded semaglutide for women over 50", "menopause hormone therapy and GLP-1", "affordable GLP-1 menopause"]
 layout: "simple"
 ---
@@ -441,7 +441,7 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="offer-card__desc">Lowest starting price, free provider consultations</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>
@@ -465,7 +465,7 @@ These platforms connect you with licensed providers who can prescribe compounded
 <a href="/conditions/glp1-pcos/" class="link-card">GLP-1s & PCOS <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-fertility/" class="link-card">GLP-1s & Fertility <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-sexual-health/" class="link-card">GLP-1s & Sexual Health <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-insulin-resistance/" class="link-card">GLP-1s & Insulin Resistance <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-bone-health/" class="link-card">GLP-1s & Bone Health <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>

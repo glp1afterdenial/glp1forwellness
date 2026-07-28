@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Aging: Can Semaglutide Slow Biological Aging?"
 date: 2026-07-17
 lastmod: 2026-07-28
-description: "A July 2026 UC San Diego study found semaglutide reduced biological aging speed by 9% and lowered biological age by 3.1 years. Learn what biological aging means, how GLP-1s target inflammaging, and the honest caveats about this brand-new research."
-summary: "A July 2026 UC San Diego study found semaglutide reduced biological aging speed by 9% and lowered biological age by 3.1 years. Learn what biological aging means, how GLP-1s target inflammaging, and the honest caveats about this brand-new research."
+description: "A 2026 UC San Diego study found semaglutide reduced biological age by 3.1 years. How GLP-1s target inflammaging — and the honest caveats."
+summary: "A 2026 UC San Diego study found semaglutide reduced biological age by 3.1 years. How GLP-1s target inflammaging — and the honest caveats."
 keywords: ["semaglutide biological aging study", "GLP-1 slow aging research 2026", "semaglutide reduce biological age", "GLP-1 anti-aging epigenetic clock", "semaglutide inflammaging reduction", "DunedinPACE semaglutide study", "GLP-1 longevity healthspan", "tirzepatide aging clinical trial", "semaglutide DNA methylation age", "GLP-1 cellular aging inflammation", "UC San Diego semaglutide aging", "compounded semaglutide anti-aging"]
 layout: "simple"
 ---
@@ -406,7 +406,7 @@ These platforms connect you with licensed providers who prescribe compounded GLP
 <div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>
@@ -429,7 +429,7 @@ These platforms connect you with licensed providers who prescribe compounded GLP
 <div class="related-grid">
 <a href="/conditions/glp1-cancer-risk/" class="link-card">GLP-1s & Cancer Risk <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
-<a href="/articles/best-telehealth-glp1/" class="link-card">Compare GLP-1 Telehealth Platforms <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-bone-health/" class="link-card">GLP-1s & Bone Health <span class="tx-green">→</span></a>
 <a href="/articles/glp1-anti-inflammatory-mechanisms/" class="link-card">How GLP-1s Fight Inflammation <span class="tx-green">→</span></a>
 </div>
 

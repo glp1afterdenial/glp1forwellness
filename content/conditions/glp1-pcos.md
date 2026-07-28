@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and PCOS: Insulin Resistance, Weight, and Hormones"
 date: 2026-07-17
 lastmod: 2026-07-28
-description: "GLP-1 medications like semaglutide target the insulin resistance driving PCOS. New research shows restored menstrual cycles, lower androgens, and improved fertility markers. Learn how semaglutide compares to metformin and how to access treatment affordably."
-summary: "GLP-1 medications like semaglutide target the insulin resistance driving PCOS. New research shows restored menstrual cycles, lower androgens, and improved fertility markers. Learn how semaglutide compares to metformin and how to access treatment affordably."
+description: "GLP-1 medications target the insulin resistance driving PCOS — restoring cycles, lowering androgens, and improving fertility markers. Evidence and access."
+summary: "GLP-1 medications target the insulin resistance driving PCOS — restoring cycles, lowering androgens, and improving fertility markers. Evidence and access."
 keywords: ["GLP-1 for PCOS", "semaglutide PCOS treatment", "PCOS insulin resistance medication", "semaglutide vs metformin PCOS", "GLP-1 restore ovulation PCOS", "semaglutide menstrual cycle regularity", "PCOS weight loss medication", "tirzepatide PCOS research", "GLP-1 lower androgens PCOS", "semaglutide PCOS fertility", "compounded semaglutide for PCOS", "affordable GLP-1 PCOS"]
 layout: "simple"
 ---
@@ -365,6 +365,12 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="offer-card__name">Gala</div>
 <div class="offer-card__price">From $129/mo</div>
 <div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
+</a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
+<div class="offer-card__badge">Own Pharmacy</div>
+<div class="offer-card__name">YourEra Health</div>
+<div class="offer-card__price">From $99/mo</div>
+<div class="offer-card__desc">Physician-led, owned pharmacy, LegitScript certified, Klarna available</div>
 </a>
 
 <a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">

@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Addiction: How Semaglutide Reduces Alcohol Cravings"
 date: 2026-07-17
 lastmod: 2026-07-28
-description: "Groundbreaking research shows GLP-1 medications like semaglutide significantly reduce alcohol cravings and heavy drinking days. Learn how GLP-1 receptor agonists affect the brain's reward system, the latest 2026 clinical trials, and how to access treatment affordably."
-summary: "Groundbreaking research shows GLP-1 medications like semaglutide significantly reduce alcohol cravings and heavy drinking days. Learn how GLP-1 receptor agonists affect the brain's reward system, the latest 2026 clinical trials, and how to access treatment affordably."
+description: "A 2026 Lancet RCT shows semaglutide reduces alcohol cravings and heavy drinking days. How GLP-1s affect the brain's reward system and access options."
+summary: "A 2026 Lancet RCT shows semaglutide reduces alcohol cravings and heavy drinking days. How GLP-1s affect the brain's reward system and access options."
 keywords: ["GLP-1 for alcohol cravings", "semaglutide alcohol addiction", "GLP-1 reduce drinking", "semaglutide addiction treatment", "GLP-1 reward system brain", "semaglutide heavy drinking study", "GLP-1 dopamine alcohol", "tirzepatide alcohol cravings", "compounded semaglutide addiction", "GLP-1 alcohol use disorder", "semaglutide craving reduction", "affordable GLP-1 alcohol"]
 layout: "simple"
 ---
@@ -413,7 +413,7 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="offer-card__desc">Lowest monthly cost, licensed providers</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>
@@ -437,8 +437,8 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="related-grid">
 <a href="/conditions/glp1-alzheimers/" class="link-card">GLP-1s & Alzheimer's <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-mental-health/" class="link-card">GLP-1s & Mental Health <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-binge-eating/" class="link-card">GLP-1s & Binge Eating <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-migraines/" class="link-card">GLP-1s & Migraines <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>

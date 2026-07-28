@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Mental Health: Depression, Anxiety & Brain Health (2026)"
 date: 2026-07-16
 lastmod: 2026-07-28
-description: "What the research says about GLP-1 medications and mental health — depression, anxiety, brain health, and Alzheimer's. Benefits, risks, suicidality concerns, and how to access treatment safely."
-summary: "What the research says about GLP-1 medications and mental health — depression, anxiety, brain health, and Alzheimer's. Benefits, risks, suicidality concerns, and how to access treatment safely."
+description: "What the research says about GLP-1 medications and mental health — depression, anxiety, neuroprotection, suicidality data, and safe access options."
+summary: "What the research says about GLP-1 medications and mental health — depression, anxiety, neuroprotection, suicidality data, and safe access options."
 keywords: ["GLP-1 mental health", "semaglutide depression", "GLP-1 anxiety", "Ozempic mental health", "GLP-1 brain health", "semaglutide Alzheimer's", "GLP-1 suicidality", "tirzepatide depression", "GLP-1 neuroprotection", "weight loss medication mental health", "GLP-1 dopamine", "Wegovy depression risk"]
 layout: "simple"
 ---
@@ -380,8 +380,14 @@ Here is the reality: **GLP-1 medications are not covered by insurance for mental
 <div class="offer-card__price">From $133/mo</div>
 <div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
+<a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--blue">
+<div class="offer-card__badge">Lowest Price</div>
+<div class="offer-card__name">Gala</div>
+<div class="offer-card__price">From $129/mo</div>
+<div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
+</a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>
@@ -405,8 +411,8 @@ Here is the reality: **GLP-1 medications are not covered by insurance for mental
 <div class="related-grid">
 <a href="/conditions/glp1-alzheimers/" class="link-card">GLP-1s & Alzheimer's <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-addiction-alcohol/" class="link-card">GLP-1s & Addiction <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-migraines/" class="link-card">GLP-1s & Migraines <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-binge-eating/" class="link-card">GLP-1s & Binge Eating <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-parkinsons/" class="link-card">GLP-1s & Parkinson's <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>

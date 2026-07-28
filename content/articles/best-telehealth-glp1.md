@@ -97,6 +97,30 @@ layout: "simple"
 }
 </script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "headline": "Best Telehealth for GLP-1 Prescriptions (2026)",
+  "description": "Compare telehealth platforms for compounded semaglutide and tirzepatide prescriptions. Prices, legitimacy, and which ones are worth it — no insurance needed.",
+  "url": "https://glp1forwellness.com/articles/best-telehealth-glp1/",
+  "datePublished": "2026-07-16",
+  "dateModified": "2026-07-28",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "name": "GLP-1 for Wellness",
+    "url": "https://glp1forwellness.com/articles/about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GLP-1 for Wellness",
+    "url": "https://glp1forwellness.com/"
+  },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://glp1forwellness.com/articles/best-telehealth-glp1/" }
+}
+</script>
+
 <p class="page-subtitle">Compounded semaglutide and tirzepatide from licensed providers — no insurance needed.</p>
 
 <div class="peptide-highlights">
@@ -156,7 +180,7 @@ Every platform below passes the same vetting: a licensed clinician reviews your 
 <div class="offer-card__desc">Health coaching included, 120-day guarantee, drops & lozenges available</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>

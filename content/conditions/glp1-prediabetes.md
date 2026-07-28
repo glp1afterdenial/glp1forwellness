@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Prediabetes: Stopping Diabetes Before It Starts"
 date: 2026-07-20
 lastmod: 2026-07-28
-description: "In trials, semaglutide and tirzepatide reversed prediabetes in over 80-90% of participants — dramatically cutting diabetes risk. Learn how GLP-1s restore normal blood sugar, who should consider them, and how to get treatment even if insurance says no."
-summary: "In trials, semaglutide and tirzepatide reversed prediabetes in over 80-90% of participants — dramatically cutting diabetes risk. Learn how GLP-1s restore normal blood sugar, who should consider them, and how to get treatment even if insurance says no."
+description: "Semaglutide and tirzepatide reversed prediabetes in 80-90% of trial participants. How GLP-1s restore normal blood sugar and affordable access options."
+summary: "Semaglutide and tirzepatide reversed prediabetes in 80-90% of trial participants. How GLP-1s restore normal blood sugar and affordable access options."
 keywords: ["GLP-1 prediabetes", "semaglutide prediabetes reversal", "tirzepatide prevent diabetes", "GLP-1 blood sugar A1C", "prediabetes treatment medication", "reverse prediabetes", "SURMOUNT-1 diabetes prevention", "semaglutide A1C reduction", "GLP-1 insulin sensitivity", "prediabetes weight loss medication", "affordable GLP-1 prediabetes", "prediabetes telehealth"]
 layout: "simple"
 ---
@@ -302,7 +302,7 @@ The good news: **prediabetes is a qualifying comorbidity**. A BMI of 27+ plus pr
 <div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>
@@ -326,8 +326,8 @@ The good news: **prediabetes is a qualifying comorbidity**. A BMI of 27+ plus pr
 <div class="related-grid">
 <a href="/conditions/glp1-insulin-resistance/" class="link-card">GLP-1s & Insulin Resistance <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-fatty-liver/" class="link-card">GLP-1s & Fatty Liver (MASH) <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-cholesterol/" class="link-card">GLP-1s & Cholesterol <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-type2-diabetes/" class="link-card">GLP-1s & Type 2 Diabetes <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-neuropathy/" class="link-card">GLP-1s & Neuropathy <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>

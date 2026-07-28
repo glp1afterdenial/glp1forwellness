@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Asthma: Airway Inflammation, COPD, and Respiratory Benefits"
 date: 2026-07-17
 lastmod: 2026-07-28
-description: "Emerging research shows GLP-1 medications like semaglutide may reduce asthma risk by 14-18%, decrease COPD exacerbations, and directly target airway inflammation through GLP-1 receptors in the lungs. Learn about the obesity-asthma connection and affordable access."
-summary: "Emerging research shows GLP-1 medications like semaglutide may reduce asthma risk by 14-18%, decrease COPD exacerbations, and directly target airway inflammation through GLP-1 receptors in the lungs. Learn about the obesity-asthma connection and affordable access."
+description: "GLP-1 medications may reduce asthma risk 14-18% and decrease COPD exacerbations through GLP-1 receptors in lung tissue. The evidence and access options."
+summary: "GLP-1 medications may reduce asthma risk 14-18% and decrease COPD exacerbations through GLP-1 receptors in lung tissue. The evidence and access options."
 keywords: ["GLP-1 for asthma", "semaglutide asthma research", "GLP-1 COPD exacerbations", "semaglutide airway inflammation", "GLP-1 receptors in lungs", "obesity asthma phenotype", "tirzepatide respiratory benefits", "GLP-1 eosinophilic inflammation", "semaglutide breathing improvement", "GATA-3 semaglutide trial", "compounded semaglutide for asthma", "affordable GLP-1 respiratory"]
 layout: "simple"
 ---
@@ -464,7 +464,7 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="offer-card__desc">Lowest starting price, free provider consultations</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>

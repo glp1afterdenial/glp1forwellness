@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Bone Health: What the Research Shows"
 date: 2026-07-28
 lastmod: 2026-07-28
-description: "GLP-1 medications show mixed effects on bone health — weight loss can reduce bone density, but GLP-1s may protect bone better than other weight loss methods. What the research says."
-summary: "GLP-1 medications show mixed effects on bone health — weight loss can reduce bone density, but GLP-1s may protect bone better than other weight loss methods. What the research says."
+description: "No fracture increase in 17,600+ GLP-1 patients despite weight loss. How GLP-1 receptors on bone cells may protect skeletal health. Evidence and access."
+summary: "No fracture increase in 17,600+ GLP-1 patients despite weight loss. How GLP-1 receptors on bone cells may protect skeletal health. Evidence and access."
 keywords: ["GLP-1 bone health", "semaglutide bone density", "GLP-1 osteoporosis risk", "semaglutide bone loss", "tirzepatide bone health", "GLP-1 fracture risk", "semaglutide osteoporosis", "GLP-1 bone mineral density", "weight loss bone density", "GLP-1 skeletal effects", "compounded semaglutide bone health", "affordable GLP-1 bone safety"]
 layout: "simple"
 ---

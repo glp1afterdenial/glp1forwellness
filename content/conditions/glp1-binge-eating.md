@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Binge Eating Disorder: Rewiring the Reward System"
 date: 2026-07-28
 lastmod: 2026-07-28
-description: "GLP-1 medications like semaglutide reduce binge eating episodes by modulating dopamine reward circuits. Learn the neuroscience, the clinical evidence, and how to access treatment."
-summary: "GLP-1 medications like semaglutide reduce binge eating episodes by modulating dopamine reward circuits. Learn the neuroscience, the clinical evidence, and how to access treatment."
+description: "GLP-1 medications reduce binge eating episodes by modulating dopamine reward circuits — targeting the compulsive root, not just calories. Evidence and access."
+summary: "GLP-1 medications reduce binge eating episodes by modulating dopamine reward circuits — targeting the compulsive root, not just calories. Evidence and access."
 keywords: ["GLP-1 for binge eating disorder", "semaglutide binge eating", "GLP-1 food addiction", "semaglutide compulsive eating", "GLP-1 dopamine food reward", "tirzepatide binge eating", "GLP-1 BED treatment", "semaglutide food cravings", "GLP-1 reward circuitry", "binge eating medication", "compounded semaglutide binge eating", "affordable GLP-1 eating disorder"]
 layout: "simple"
 ---

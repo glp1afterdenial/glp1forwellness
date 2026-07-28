@@ -2,8 +2,8 @@
 title: "GLP-1 Medications and Heart Health: The Cardiovascular Benefits"
 date: 2026-07-17
 lastmod: 2026-07-28
-description: "The landmark SELECT trial showed semaglutide cuts major cardiovascular events by 20% — leading to FDA approval of Wegovy for heart risk reduction in March 2024. Learn how GLP-1s protect the heart beyond weight loss, who benefits most, and how to access treatment affordably."
-summary: "The landmark SELECT trial showed semaglutide cuts major cardiovascular events by 20% — leading to FDA approval of Wegovy for heart risk reduction in March 2024. Learn how GLP-1s protect the heart beyond weight loss, who benefits most, and how to access treatment affordably."
+description: "The SELECT trial showed semaglutide cuts cardiovascular events by 20%, earning FDA approval for heart risk reduction. How GLP-1s protect the heart."
+summary: "The SELECT trial showed semaglutide cuts cardiovascular events by 20%, earning FDA approval for heart risk reduction. How GLP-1s protect the heart."
 keywords: ["GLP-1 heart health", "semaglutide cardiovascular benefits", "SELECT trial results", "Wegovy heart disease FDA approval", "GLP-1 reduce heart attack risk", "semaglutide stroke prevention", "GLP-1 blood pressure reduction", "semaglutide anti-inflammatory CRP", "Wegovy cardiovascular risk reduction", "GLP-1 for heart disease without diabetes", "tirzepatide heart benefits", "affordable GLP-1 cardiovascular"]
 layout: "simple"
 ---
@@ -356,7 +356,7 @@ You'll typically need a BMI of 27+ with a comorbidity (hypertension, high choles
 <div class="offer-card__desc">$129/mo semaglutide, $179/mo tirzepatide, free coaching + dietitian</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--purple">
+<a href="https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Own Pharmacy</div>
 <div class="offer-card__name">YourEra Health</div>
 <div class="offer-card__price">From $99/mo</div>
@@ -380,8 +380,8 @@ You'll typically need a BMI of 27+ with a comorbidity (hypertension, high choles
 <div class="related-grid">
 <a href="/conditions/glp1-blood-pressure/" class="link-card">GLP-1s & Blood Pressure <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-kidney-disease/" class="link-card">GLP-1s & Kidney Disease <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-sleep-apnea/" class="link-card">GLP-1s & Sleep Apnea <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-prediabetes/" class="link-card">GLP-1s & Prediabetes <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-stroke/" class="link-card">GLP-1s & Stroke Prevention <span class="tx-green">→</span></a>
+<a href="/conditions/glp1-type2-diabetes/" class="link-card">GLP-1s & Type 2 Diabetes <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>
