@@ -498,7 +498,11 @@ article > h1:first-child {
   color: var(--accent);
 }
 
-.prose a:hover {
+/* Kill Congo's solid primary-600 highlight-block link hover.
+   Kept at specificity (0,2,0) via :where() so card/button hover rules
+   declared later in this file still win their own colors/backgrounds. */
+.prose :where(a):hover {
+  background-color: transparent;
   color: var(--accent-hover);
 }
 
