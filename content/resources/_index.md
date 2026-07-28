@@ -140,7 +140,7 @@ layout: "simple"
 
 ---
 
-<p class="section-label">24 Condition Guides</p>
+<p class="section-label">30 Condition Guides</p>
 
 ## GLP-1s & Health Conditions
 
@@ -151,6 +151,15 @@ Research-backed guides on how GLP-1 medications interact with specific health co
 </div>
 
 <p class="section-label" style="margin-top:24px">FDA-Approved Indications</p>
+
+<a href="/conditions/glp1-type2-diabetes/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--green">📉</div>
+<div>
+<div class="guide-card__title">Type 2 Diabetes</div>
+<p class="guide-card__desc">HbA1c reduced 1.5-2.0%, cardiovascular death cut 26%. The foundational use case</p>
+<span class="guide-card__arrow">Read guide →</span>
+</div>
+</a>
 
 <a href="/conditions/glp1-heart-health/" class="guide-card">
 <div class="guide-card__icon guide-card__icon--green">❤️</div>
@@ -231,6 +240,24 @@ Research-backed guides on how GLP-1 medications interact with specific health co
 <div>
 <div class="guide-card__title">Gout</div>
 <p class="guide-card__desc">Obesity doubles gout risk. GLP-1 users show fewer flares — but watch the early rapid-loss caveat</p>
+<span class="guide-card__arrow">Read guide →</span>
+</div>
+</a>
+
+<a href="/conditions/glp1-neuropathy/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--amber">⚡</div>
+<div>
+<div class="guide-card__title">Peripheral Neuropathy</div>
+<p class="guide-card__desc">86% showed nerve improvement within 1 month. Potential breakthrough for diabetic nerve damage</p>
+<span class="guide-card__arrow">Read guide →</span>
+</div>
+</a>
+
+<a href="/conditions/glp1-stroke/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--amber">🧠</div>
+<div>
+<div class="guide-card__title">Stroke Prevention</div>
+<p class="guide-card__desc">39% reduction in non-fatal stroke (SUSTAIN 6). Addresses multiple risk factors simultaneously</p>
 <span class="guide-card__arrow">Read guide →</span>
 </div>
 </a>
@@ -320,6 +347,24 @@ Research-backed guides on how GLP-1 medications interact with specific health co
 </div>
 </a>
 
+<a href="/conditions/glp1-parkinsons/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--purple">🔮</div>
+<div>
+<div class="guide-card__title">Parkinson's Disease</div>
+<p class="guide-card__desc">40-60% lower risk in observational studies. GLP-1 receptors on dopamine neurons</p>
+<span class="guide-card__arrow">Read guide →</span>
+</div>
+</a>
+
+<a href="/conditions/glp1-binge-eating/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--purple">🍽️</div>
+<div>
+<div class="guide-card__title">Binge Eating Disorder</div>
+<p class="guide-card__desc">GLP-1s suppress food-reward dopamine signaling — binge episodes reduced 40-70%</p>
+<span class="guide-card__arrow">Read guide →</span>
+</div>
+</a>
+
 <p class="section-label" style="margin-top:24px">Women's Health</p>
 
 <a href="/conditions/glp1-pcos/" class="guide-card">
@@ -374,6 +419,15 @@ Research-backed guides on how GLP-1 medications interact with specific health co
 <div>
 <div class="guide-card__title">Cancer Risk Reduction</div>
 <p class="guide-card__desc">17-41% lower cancer risk across multiple large 2025-2026 studies. Mechanisms beyond weight loss</p>
+<span class="guide-card__arrow">Read guide →</span>
+</div>
+</a>
+
+<a href="/conditions/glp1-bone-health/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--green">🦴</div>
+<div>
+<div class="guide-card__title">Bone Health & Osteoporosis</div>
+<p class="guide-card__desc">No fracture increase in 17,600+ patients. GLP-1 receptors on bone-forming cells</p>
 <span class="guide-card__arrow">Read guide →</span>
 </div>
 </a>

@@ -113,7 +113,8 @@ After adding or significantly changing pages:
 1. **`static/llms.txt`** — Update the "Last updated" date. Add new pages to the Article Index section with URL + 1-2 sentence summary.
 2. **`static/llms-full.txt`** — Update the "Last updated" date. Add detailed article summary (URL, TL;DR paragraph, key takeaways bullet list, key facts for citation).
 3. **Homepage `content/_index.md`** — If adding a new condition, add a condition-card with the correct `data-cat` attribute for the filter.
-4. **Section index pages** (`conditions/_index.md`, `peptides/_index.md`, `resources/_index.md`) — Add guide-card linking to the new page.
+4. **Section index pages** (`conditions/_index.md`, `peptides/_index.md`, `resources/_index.md`) — Add guide-card linking to the new page. Update condition/guide counts in page-subtitle and stat cards.
+5. **Resources index** (`resources/_index.md`) — For condition pages, add a guide-card in the correct category section (FDA-Approved, Metabolic, Inflammation, Brain, Women's, Longevity). Update the "X Condition Guides" section-label count.
 
 ### 9. SEO Infrastructure (already set up — don't break)
 - `layouts/partials/extend-head.html`: meta description, LLM link tags, Organization/Person schemas, Speakable schema, AI referral tracking (production only)
