@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Alzheimer's: Neuroprotection, Prevention, and What the Trials Show"
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "Observational studies show 40-70% lower Alzheimer's risk in semaglutide users, but Phase 3 trials failed to slow existing disease. Learn the critical prevention vs treatment distinction, how GLP-1s protect the brain, and how to access these medications affordably."
 summary: "Observational studies show 40-70% lower Alzheimer's risk in semaglutide users, but Phase 3 trials failed to slow existing disease. Learn the critical prevention vs treatment distinction, how GLP-1s protect the brain, and how to access these medications affordably."
 keywords: ["GLP-1 for Alzheimer's prevention", "semaglutide brain health neuroprotection", "GLP-1 Alzheimer's disease risk reduction", "semaglutide dementia prevention research", "GLP-1 receptor agonist brain insulin resistance", "tirzepatide Alzheimer's neuroprotective", "semaglutide neuroinflammation reduction", "GLP-1 amyloid beta pathology", "type 3 diabetes Alzheimer's hypothesis", "semaglutide cerebral blood flow", "GLP-1 Parkinson's disease risk", "compounded semaglutide brain health"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,24 +106,34 @@ keywords: ["GLP-1 for Alzheimer's prevention", "semaglutide brain health neuropr
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#alzheimers-crisis" class="article-nav-pill">The Crisis</a>
-<a href="#brain-insulin" class="article-nav-pill">Brain Insulin</a>
-<a href="#how-glp1s-protect" class="article-nav-pill">How GLP-1s Protect</a>
-<a href="#research" class="article-nav-pill">Research</a>
-<a href="#prevention-vs-treatment" class="article-nav-pill">Prevention vs Treatment</a>
-<a href="#who-benefits" class="article-nav-pill">Who Benefits</a>
-<a href="#safety" class="article-nav-pill">Safety</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Observational studies show 40-70% lower Alzheimer's risk in semaglutide users, but Phase 3 trials failed to slow exis...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#alzheimers-crisis">The Crisis</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#brain-insulin">Brain Insulin</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-glp1s-protect">How GLP-1s Protect</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#research">Research</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#prevention-vs-treatment">Prevention vs Treatment</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#who-benefits">Who Benefits</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#safety">Safety</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> Observational studies show <strong>40-70% lower Alzheimer's risk</strong> in semaglutide users. GLP-1 receptors exist throughout the brain, and these medications reduce neuroinflammation, improve cerebral blood flow, and address brain insulin resistance. However, a <strong>Phase 3 trial failed to slow existing Alzheimer's progression</strong> — the story is about prevention, not treatment. GLP-1s are not FDA-approved for brain health, but telehealth platforms offer access for qualifying conditions starting at <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** Observational studies show **40-70% lower Alzheimer's risk** in semaglutide users. GLP-1 receptors exist throughout the brain, and these medications reduce neuroinflammation, improve cerebral blood flow, and address brain insulin resistance. However, a **Phase 3 trial failed to slow existing Alzheimer's progression** — the story is about prevention, not treatment. GLP-1s are not FDA-approved for brain health, but telehealth platforms offer access for qualifying conditions starting at **$129/month**.
+
 </div>
 
 Alzheimer's disease is the cruelest diagnosis in medicine. It does not just take your life — it takes your memories, your identity, and your ability to recognize the people you love, years before your heart stops beating.
@@ -135,7 +146,9 @@ Let me walk you through what we actually know — the encouraging data, the disa
 
 ---
 
-<h2 id="alzheimers-crisis" class="h2-accent h2-accent--amber">The Alzheimer's Crisis: Why We Need New Approaches</h2>
+<p class="section-label">The Alzheimer's</p>
+
+## The Alzheimer's Crisis: Why We Need New Approaches {#alzheimers-crisis}
 
 Alzheimer's disease affects over **6.9 million Americans**, a number projected to nearly double by 2050. It is the sixth leading cause of death in the United States and the most common cause of dementia.
 
@@ -163,7 +176,9 @@ This is precisely why the GLP-1 data has generated so much excitement. Not becau
 
 ---
 
-<h2 id="brain-insulin" class="h2-accent h2-accent--red">Brain Insulin Resistance: The "Type 3 Diabetes" Hypothesis</h2>
+<p class="section-label">Brain Insulin</p>
+
+## Brain Insulin Resistance: The "Type 3 Diabetes" Hypothesis {#brain-insulin}
 
 To understand why a diabetes and weight loss medication might protect against Alzheimer's, you need to understand what is happening to insulin in the Alzheimer's brain.
 
@@ -197,7 +212,9 @@ And GLP-1 receptor agonists — medications designed to improve insulin signalin
 
 ---
 
-<h2 id="how-glp1s-protect" class="h2-accent">How GLP-1 Medications Protect the Brain: Four Mechanisms</h2>
+<p class="section-label">How it works</p>
+
+## How GLP-1 Medications Protect the Brain: Four Mechanisms {#how-glp1s-protect}
 
 GLP-1 receptors are not just found in the pancreas and gut. They are expressed throughout the brain, including the **hippocampus** (memory), **cortex** (cognition), and **substantia nigra** (movement — relevant to Parkinson's). This means GLP-1 medications have direct access to the neural machinery involved in neurodegeneration.
 
@@ -248,7 +265,9 @@ This is perhaps the most direct mechanism. GLP-1 medications improve insulin sen
 
 ---
 
-<h2 id="research" class="h2-accent h2-accent--blue">What the Research Shows: Both Encouraging and Disappointing</h2>
+<p class="section-label">The research</p>
+
+## What the Research Shows: Both Encouraging and Disappointing {#research}
 
 The GLP-1 and Alzheimer's story contains both genuine hope and a significant setback. Being honest about both is essential.
 
@@ -294,7 +313,9 @@ The neuroprotective story extends beyond Alzheimer's. Observational data also sh
 
 ---
 
-<h2 id="prevention-vs-treatment" class="h2-accent h2-accent--purple">Prevention vs. Treatment: Why This Distinction Changes Everything</h2>
+<p class="section-label">Comparison</p>
+
+## Prevention vs. Treatment: Why This Distinction Changes Everything {#prevention-vs-treatment}
 
 This is the most important section of this article. The prevention vs. treatment distinction is not a subtle academic point — it fundamentally changes how you should think about GLP-1s and brain health.
 
@@ -322,7 +343,9 @@ This is analogous to how statins prevent heart attacks but cannot reverse a hear
 
 ---
 
-<h2 id="who-benefits" class="h2-accent h2-accent--sky">Who Might Benefit Most From the Neuroprotective Effects</h2>
+<p class="section-label">Benefits</p>
+
+## Who Might Benefit Most From the Neuroprotective Effects {#who-benefits}
 
 While we await definitive prevention trial data, certain groups may have the most to gain from GLP-1 therapy's potential brain benefits — particularly when they already qualify for these medications on other grounds.
 
@@ -342,7 +365,9 @@ An important clarification: the potential neuroprotective benefits should be vie
 
 ---
 
-<h2 id="safety" class="h2-accent h2-accent--slate">Safety Considerations</h2>
+<p class="section-label">Safety</p>
+
+## Safety Considerations {#safety}
 
 GLP-1 medications have an established safety profile from years of use in diabetes and weight management:
 
@@ -367,7 +392,9 @@ GLP-1 medications have an established safety profile from years of use in diabet
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Medications {#how-to-get}
 
 <div class="callout callout--amber">
 

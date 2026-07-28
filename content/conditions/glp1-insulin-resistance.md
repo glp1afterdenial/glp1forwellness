@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Insulin Resistance: Treating the Root Cause"
 date: 2026-07-20
-lastmod: 2026-07-20
+lastmod: 2026-07-28
 description: "Insulin resistance drives weight gain, prediabetes, PCOS, and fatty liver. GLP-1 medications improve insulin sensitivity dramatically — trials show HOMA-IR falling 30-50%. Learn the signs, the science, and affordable ways to get treatment."
 summary: "Insulin resistance drives weight gain, prediabetes, PCOS, and fatty liver. GLP-1 medications improve insulin sensitivity dramatically — trials show HOMA-IR falling 30-50%. Learn the signs, the science, and affordable ways to get treatment."
 keywords: ["GLP-1 insulin resistance", "semaglutide insulin sensitivity", "tirzepatide insulin resistance", "HOMA-IR improvement GLP-1", "insulin resistance weight gain", "insulin resistance treatment medication", "semaglutide HOMA-IR", "insulin resistance belly fat", "GLP-1 metabolic syndrome", "insulin resistance PCOS treatment", "affordable GLP-1 insulin resistance", "insulin resistance telehealth"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -89,22 +90,30 @@ keywords: ["GLP-1 insulin resistance", "semaglutide insulin sensitivity", "tirze
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#what-it-is" class="article-nav-pill">What It Is</a>
-<a href="#signs" class="article-nav-pill">Signs & Testing</a>
-<a href="#evidence" class="article-nav-pill">The Evidence</a>
-<a href="#mechanisms" class="article-nav-pill">How It Works</a>
-<a href="#who-benefits" class="article-nav-pill">Who Benefits</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Insulin resistance drives weight gain, prediabetes, PCOS, and fatty liver.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#what-it-is">What It Is</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#signs">Signs & Testing</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#evidence">The Evidence</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#mechanisms">How It Works</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#who-benefits">Who Benefits</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> Insulin resistance is the shared root of <strong>stubborn belly fat, prediabetes, PCOS, fatty liver, and metabolic syndrome</strong> — and it affects an estimated <strong>40% of U.S. adults</strong>, most undiagnosed. GLP-1 medications are among the most effective treatments available: trials show <strong>HOMA-IR improving 30-50%</strong>, driven by visceral fat loss plus direct hormonal effects. Tirzepatide adds a GIP mechanism with extra insulin-sensitizing benefit. Insurance won't cover "insulin resistance" by name, but BMI 27+ with a related condition qualifies via telehealth from <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** Insulin resistance is the shared root of **stubborn belly fat, prediabetes, PCOS, fatty liver, and metabolic syndrome** — and it affects an estimated **40% of U.S. adults**, most undiagnosed. GLP-1 medications are among the most effective treatments available: trials show **HOMA-IR improving 30-50%**, driven by visceral fat loss plus direct hormonal effects. Tirzepatide adds a GIP mechanism with extra insulin-sensitizing benefit. Insurance won't cover "insulin resistance" by name, but BMI 27+ with a related condition qualifies via telehealth from **$129/month**.
+
 </div>
 
 If you've ever felt like your body is working against you — gaining weight on the same food that never used to be a problem, crashing after meals, craving carbs constantly, unable to lose weight no matter how disciplined you are — there's a good chance insulin resistance is the reason.
@@ -115,7 +124,9 @@ GLP-1 medications are the first drug class that treats insulin resistance at its
 
 ---
 
-<h2 id="what-it-is" class="h2-accent h2-accent--amber">What Insulin Resistance Actually Is</h2>
+<p class="section-label">The basics</p>
+
+## What Insulin Resistance Actually Is {#what-it-is}
 
 Insulin's job is to move glucose from your blood into your cells. When cells stop responding properly — usually because visceral fat and inflammation have disrupted insulin signaling — the pancreas compensates by pumping out **more insulin**.
 
@@ -135,7 +146,9 @@ That chronically elevated insulin is where the trouble starts:
 
 ---
 
-<h2 id="signs" class="h2-accent h2-accent--purple">Signs You May Be Insulin Resistant — and How to Test</h2>
+<p class="section-label">Signs You</p>
+
+## Signs You May Be Insulin Resistant — and How to Test {#signs}
 
 **Common signs:**
 
@@ -161,7 +174,9 @@ Crucially, fasting **glucose can be completely normal for years** while insulin 
 
 ---
 
-<h2 id="evidence" class="h2-accent h2-accent--red">The Evidence: What GLP-1s Do to Insulin Sensitivity</h2>
+<p class="section-label">The research</p>
+
+## The Evidence: What GLP-1s Do to Insulin Sensitivity {#evidence}
 
 <div class="callout callout--danger">
 
@@ -179,7 +194,9 @@ Tirzepatide deserves special mention here: it activates both GLP-1 and **GIP rec
 
 ---
 
-<h2 id="mechanisms" class="h2-accent">How GLP-1s Break the Insulin-Resistance Cycle</h2>
+<p class="section-label">How GLP-1s</p>
+
+## How GLP-1s Break the Insulin-Resistance Cycle {#mechanisms}
 
 ### 1. Shrinking Visceral Fat — the Primary Driver
 
@@ -203,7 +220,9 @@ Chronic low-grade inflammation from visceral fat directly interferes with insuli
 
 ---
 
-<h2 id="who-benefits" class="h2-accent h2-accent--sky">Who Benefits Most?</h2>
+<p class="section-label">Benefits</p>
+
+## Who Benefits Most? {#who-benefits}
 
 <div class="callout">
 
@@ -222,7 +241,9 @@ Chronic low-grade inflammation from visceral fat directly interferes with insuli
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get Treatment (Insurance Rarely Helps Here)</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get Treatment (Insurance Rarely Helps Here) {#how-to-get}
 
 <div class="callout callout--amber">
 

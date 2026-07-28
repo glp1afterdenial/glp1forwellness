@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and High Blood Pressure: What the Trials Show"
 date: 2026-07-20
-lastmod: 2026-07-20
+lastmod: 2026-07-28
 description: "GLP-1 medications lower systolic blood pressure by 3-8 mmHg in major trials — a meaningful drop for heart and kidney protection. Learn how semaglutide and tirzepatide affect hypertension, who benefits, and how to access treatment affordably."
 summary: "GLP-1 medications lower systolic blood pressure by 3-8 mmHg in major trials — a meaningful drop for heart and kidney protection. Learn how semaglutide and tirzepatide affect hypertension, who benefits, and how to access treatment affordably."
 keywords: ["GLP-1 blood pressure", "semaglutide lower blood pressure", "tirzepatide hypertension", "does Ozempic lower blood pressure", "Wegovy blood pressure reduction", "GLP-1 hypertension treatment", "weight loss lower blood pressure", "SURMOUNT-1 blood pressure substudy", "semaglutide systolic reduction", "obesity hypertension medication", "affordable GLP-1 blood pressure", "GLP-1 telehealth hypertension"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -89,21 +90,28 @@ keywords: ["GLP-1 blood pressure", "semaglutide lower blood pressure", "tirzepat
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#obesity-bp" class="article-nav-pill">Weight & BP</a>
-<a href="#evidence" class="article-nav-pill">The Evidence</a>
-<a href="#mechanisms" class="article-nav-pill">How It Works</a>
-<a href="#who-benefits" class="article-nav-pill">Who Benefits</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">GLP-1 medications lower systolic blood pressure by 3-8 mmHg in major trials — a meaningful drop for heart and kidney ...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#obesity-bp">Weight & BP</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#evidence">The Evidence</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#mechanisms">How It Works</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#who-benefits">Who Benefits</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> Nearly <strong>half of American adults have high blood pressure</strong>, and excess weight is its single biggest modifiable driver. In major trials, <strong>semaglutide lowered systolic pressure 3-6 mmHg</strong> and <strong>tirzepatide 7-8 mmHg</strong> (24-hour ambulatory substudy of SURMOUNT-1, published in <em>Hypertension</em>, 2024) — meaningful, since every 5 mmHg cut reduces cardiovascular event risk ~10%. GLP-1s are <strong>not</strong> approved antihypertensives and never replace BP meds, but hypertension is a qualifying comorbidity at BMI 27+, with telehealth access from <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** Nearly **half of American adults have high blood pressure**, and excess weight is its single biggest modifiable driver. In major trials, **semaglutide lowered systolic pressure 3-6 mmHg** and **tirzepatide 7-8 mmHg** (24-hour ambulatory substudy of SURMOUNT-1, published in *Hypertension*, 2024) — meaningful, since every 5 mmHg cut reduces cardiovascular event risk ~10%. GLP-1s are **not** approved antihypertensives and never replace BP meds, but hypertension is a qualifying comorbidity at BMI 27+, with telehealth access from **$129/month**.
+
 </div>
 
 High blood pressure is the world's leading modifiable cause of death — and one of the most frustrating diagnoses to receive, because the standard playbook (cut salt, lose weight, take a pill, add another pill) treats the numbers while the underlying driver, excess weight, goes unaddressed.
@@ -112,7 +120,9 @@ That's changing. The same GLP-1 medications transforming obesity and diabetes ca
 
 ---
 
-<h2 id="obesity-bp" class="h2-accent h2-accent--amber">Why Excess Weight Raises Blood Pressure</h2>
+<p class="section-label">Why Excess</p>
+
+## Why Excess Weight Raises Blood Pressure {#obesity-bp}
 
 The weight-hypertension link is one of the strongest in medicine — an estimated **65-75% of primary hypertension risk is attributable to excess weight**. The mechanisms stack:
 
@@ -130,7 +140,9 @@ The weight-hypertension link is one of the strongest in medicine — an estimate
 
 ---
 
-<h2 id="evidence" class="h2-accent h2-accent--red">The Evidence: Blood Pressure Results From the Major Trials</h2>
+<p class="section-label">The research</p>
+
+## The Evidence: Blood Pressure Results From the Major Trials {#evidence}
 
 <div class="callout callout--danger">
 
@@ -152,7 +164,9 @@ An honest caveat: these trials enrolled people with overweight or obesity, not p
 
 ---
 
-<h2 id="mechanisms" class="h2-accent">How GLP-1s Lower Blood Pressure</h2>
+<p class="section-label">How GLP-1s</p>
+
+## How GLP-1s Lower Blood Pressure {#mechanisms}
 
 ### 1. Weight and Visceral Fat Loss
 
@@ -176,7 +190,9 @@ For people with obstructive sleep apnea — hugely overrepresented among those w
 
 ---
 
-<h2 id="who-benefits" class="h2-accent h2-accent--sky">Who Benefits Most?</h2>
+<p class="section-label">Benefits</p>
+
+## Who Benefits Most? {#who-benefits}
 
 <div class="callout">
 
@@ -195,7 +211,9 @@ For people with obstructive sleep apnea — hugely overrepresented among those w
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get a GLP-1 If You Have High Blood Pressure</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get a GLP-1 If You Have High Blood Pressure {#how-to-get}
 
 <div class="callout callout--amber">
 

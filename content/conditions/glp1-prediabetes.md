@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Prediabetes: Stopping Diabetes Before It Starts"
 date: 2026-07-20
-lastmod: 2026-07-20
+lastmod: 2026-07-28
 description: "In trials, semaglutide and tirzepatide reversed prediabetes in over 80-90% of participants — dramatically cutting diabetes risk. Learn how GLP-1s restore normal blood sugar, who should consider them, and how to get treatment even if insurance says no."
 summary: "In trials, semaglutide and tirzepatide reversed prediabetes in over 80-90% of participants — dramatically cutting diabetes risk. Learn how GLP-1s restore normal blood sugar, who should consider them, and how to get treatment even if insurance says no."
 keywords: ["GLP-1 prediabetes", "semaglutide prediabetes reversal", "tirzepatide prevent diabetes", "GLP-1 blood sugar A1C", "prediabetes treatment medication", "reverse prediabetes", "SURMOUNT-1 diabetes prevention", "semaglutide A1C reduction", "GLP-1 insulin sensitivity", "prediabetes weight loss medication", "affordable GLP-1 prediabetes", "prediabetes telehealth"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -89,22 +90,30 @@ keywords: ["GLP-1 prediabetes", "semaglutide prediabetes reversal", "tirzepatide
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#what-is-prediabetes" class="article-nav-pill">What Is Prediabetes</a>
-<a href="#evidence" class="article-nav-pill">The Evidence</a>
-<a href="#mechanisms" class="article-nav-pill">How It Works</a>
-<a href="#vs-metformin" class="article-nav-pill">vs. Metformin</a>
-<a href="#who-benefits" class="article-nav-pill">Who Benefits</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">In trials, semaglutide and tirzepatide reversed prediabetes in over 80-90% of participants — dramatically cutting dia...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#what-is-prediabetes">What Is Prediabetes</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#evidence">The Evidence</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#mechanisms">How It Works</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#vs-metformin">vs. Metformin</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#who-benefits">Who Benefits</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> About <strong>98 million American adults</strong> have prediabetes — and most will progress to type 2 diabetes without intervention. GLP-1 medications are the most effective diabetes-prevention tools ever studied: in the <strong>SURMOUNT-1 trial</strong>, tirzepatide cut progression to diabetes by <strong>~94%</strong> over three years, and <strong>over 90% of participants reverted to normal blood sugar</strong>. Semaglutide shows similar reversal in ~84% of people with prediabetes. Insurance rarely covers GLP-1s for prediabetes alone, but prediabetes + BMI 27+ qualifies medically through telehealth from <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** About **98 million American adults** have prediabetes — and most will progress to type 2 diabetes without intervention. GLP-1 medications are the most effective diabetes-prevention tools ever studied: in the **SURMOUNT-1 trial**, tirzepatide cut progression to diabetes by **~94%** over three years, and **over 90% of participants reverted to normal blood sugar**. Semaglutide shows similar reversal in ~84% of people with prediabetes. Insurance rarely covers GLP-1s for prediabetes alone, but prediabetes + BMI 27+ qualifies medically through telehealth from **$129/month**.
+
 </div>
 
 Prediabetes is the quiet stage where type 2 diabetes is still preventable. Blood sugar is elevated, insulin resistance is building, but the pancreas is still keeping up. The CDC estimates **more than 1 in 3 American adults** are in this window — and more than 80% don't know it.
@@ -115,7 +124,9 @@ Here's what the evidence shows, how GLP-1s restore glucose control, and how to a
 
 ---
 
-<h2 id="what-is-prediabetes" class="h2-accent h2-accent--amber">What Prediabetes Is — and Why It Matters More Than You Think</h2>
+<p class="section-label">The basics</p>
+
+## What Prediabetes Is — and Why It Matters More Than You Think {#what-is-prediabetes}
 
 Prediabetes means your blood sugar is above normal but below the diabetes threshold:
 
@@ -140,7 +151,9 @@ The encouraging flip side: prediabetes is the **most reversible stage** of the e
 
 ---
 
-<h2 id="evidence" class="h2-accent h2-accent--red">The Evidence: GLP-1s Are the Strongest Diabetes-Prevention Tools Ever Tested</h2>
+<p class="section-label">The research</p>
+
+## The Evidence: GLP-1s Are the Strongest Diabetes-Prevention Tools Ever Tested {#evidence}
 
 <div class="callout callout--danger">
 
@@ -164,7 +177,9 @@ One honest caveat: when the medication stops and weight returns, blood sugar ten
 
 ---
 
-<h2 id="mechanisms" class="h2-accent">How GLP-1s Restore Normal Blood Sugar</h2>
+<p class="section-label">How GLP-1s</p>
+
+## How GLP-1s Restore Normal Blood Sugar {#mechanisms}
 
 GLP-1 medications attack prediabetes from four directions at once:
 
@@ -186,7 +201,9 @@ By reducing the constant demand on insulin-producing beta cells, GLP-1 therapy g
 
 ---
 
-<h2 id="vs-metformin" class="h2-accent h2-accent--purple">GLP-1s vs. Metformin for Prediabetes</h2>
+<p class="section-label">Comparison</p>
+
+## GLP-1s vs. Metformin for Prediabetes {#vs-metformin}
 
 Metformin has long been the default medication for prediabetes. Here's the honest comparison:
 
@@ -212,7 +229,9 @@ Many clinicians now use both: metformin as an inexpensive foundation, a GLP-1 wh
 
 ---
 
-<h2 id="who-benefits" class="h2-accent h2-accent--sky">Who Should Consider a GLP-1 for Prediabetes?</h2>
+<p class="section-label">Who it's for</p>
+
+## Who Should Consider a GLP-1 for Prediabetes? {#who-benefits}
 
 <div class="callout">
 
@@ -232,7 +251,9 @@ If your last lab work showed an A1C of 5.7% or above, don't wait for the diabete
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get a GLP-1 for Prediabetes (Even After Insurance Denial)</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get a GLP-1 for Prediabetes (Even After Insurance Denial) {#how-to-get}
 
 <div class="callout callout--amber">
 

@@ -1,10 +1,11 @@
 ---
 title: "Sermorelin: The Growth Hormone Peptide Guide (2026)"
 date: 2026-07-26
-lastmod: 2026-07-27
+lastmod: 2026-07-28
 description: "Sermorelin stimulates your body's own growth hormone production — without injecting synthetic HGH. How it works, who it's for, injection, tablet, or oral lozenge, side effects, and affordable telehealth access from $99/month."
 summary: "Sermorelin stimulates your body's own growth hormone production — without injecting synthetic HGH. How it works, who it's for, injection, tablet, or oral lozenge, side effects, and affordable telehealth access from $99/month."
 keywords: ["sermorelin", "sermorelin therapy", "sermorelin vs HGH", "sermorelin benefits", "sermorelin side effects", "growth hormone peptide", "sermorelin cost", "sermorelin weight loss", "sermorelin for anti-aging", "sermorelin telehealth", "sermorelin injection", "sermorelin tablet", "oral sermorelin lozenge", "sermorelin without injections"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -89,21 +90,28 @@ keywords: ["sermorelin", "sermorelin therapy", "sermorelin vs HGH", "sermorelin 
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#what-is-sermorelin" class="article-nav-pill">What It Is</a>
-<a href="#vs-hgh" class="article-nav-pill">Sermorelin vs HGH</a>
-<a href="#benefits" class="article-nav-pill">Benefits</a>
-<a href="#formats" class="article-nav-pill">Formats</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Sermorelin stimulates your body's own growth hormone production — without injecting synthetic HGH.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#what-is-sermorelin">What It Is</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#vs-hgh">Sermorelin vs HGH</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#benefits">Benefits</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#formats">Formats</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> Sermorelin is a peptide that <strong>stimulates your pituitary to release more growth hormone naturally</strong> — the "ask your body to make more" approach rather than injecting synthetic HGH. Growth hormone declines ~14% per decade after 30; restoring it supports <strong>lean muscle, sleep quality, fat metabolism, and recovery</strong>. Unlike HGH, sermorelin preserves natural feedback loops and is <strong>safer, legal, and cheaper</strong>. Changes build over 3-6 months. Telehealth programs start at <strong>$99/month</strong> for an oral lozenge or <strong>$129/month</strong> for injection or tablet.</span>
-</div>
+
+**TL;DR:** Sermorelin is a peptide that **stimulates your pituitary to release more growth hormone naturally** — the "ask your body to make more" approach rather than injecting synthetic HGH. Growth hormone declines ~14% per decade after 30; restoring it supports **lean muscle, sleep quality, fat metabolism, and recovery**. Unlike HGH, sermorelin preserves natural feedback loops and is **safer, legal, and cheaper**. Changes build over 3-6 months. Telehealth programs start at **$99/month** for an oral lozenge or **$129/month** for injection or tablet.
+
 </div>
 
 Growth hormone has a perception problem. For most people it conjures images of bodybuilders and banned substances. But GH is a normal, essential hormone that declines steadily with age — and its loss contributes to the muscle wasting, stubborn fat, poor sleep, and slow recovery that creep in after 30.
@@ -112,7 +120,9 @@ Sermorelin offers a way to push GH back up without the legal, cost, and safety i
 
 ---
 
-<h2 id="what-is-sermorelin" class="h2-accent h2-accent--amber">What Sermorelin Is</h2>
+<p class="section-label">The basics</p>
+
+## What Sermorelin Is {#what-is-sermorelin}
 
 Sermorelin is a synthetic analogue of GHRH — growth hormone-releasing hormone. Your hypothalamus naturally produces GHRH to tell the pituitary gland "make GH now." Sermorelin mimics that signal.
 
@@ -126,7 +136,9 @@ Sermorelin was originally FDA-approved (as Geref Diagnostic) and used in pediatr
 
 ---
 
-<h2 id="vs-hgh" class="h2-accent h2-accent--amber">Sermorelin vs Synthetic HGH</h2>
+<p class="section-label">Comparison</p>
+
+## Sermorelin vs Synthetic HGH {#vs-hgh}
 
 | | **Sermorelin** | **Synthetic HGH** |
 |---|---|---|
@@ -142,7 +154,9 @@ The practical bottom line: sermorelin gives you 70-80% of what HGH does for body
 
 ---
 
-<h2 id="benefits" class="h2-accent h2-accent--amber">What Sermorelin Does (With Timelines)</h2>
+<p class="section-label">Timeline</p>
+
+## What Sermorelin Does (With Timelines) {#benefits}
 
 **Weeks 2-4: Sleep**
 - Deeper slow-wave sleep is often the first benefit users notice
@@ -169,7 +183,9 @@ The practical bottom line: sermorelin gives you 70-80% of what HGH does for body
 
 ---
 
-<h2 id="formats" class="h2-accent h2-accent--amber">Injection vs Tablet vs Lozenge</h2>
+<p class="section-label">Comparison</p>
+
+## Injection vs Tablet vs Lozenge {#formats}
 
 **Subcutaneous injection** (most common)
 - Small insulin-style needle, typically injected before bed (to align with natural GH pulse)
@@ -191,7 +207,9 @@ All three work. Injection is considered the gold standard; tablets and lozenges 
 
 ---
 
-<h2 id="how-to-get" class="h2-accent h2-accent--amber">How to Get Sermorelin</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get Sermorelin {#how-to-get}
 
 <div class="callout callout--amber">
 
@@ -244,7 +262,9 @@ All three work. Injection is considered the gold standard; tablets and lozenges 
 
 ---
 
-<h2 id="faq" class="h2-accent h2-accent--slate">Frequently Asked Questions</h2>
+<p class="section-label">FAQ</p>
+
+## Frequently Asked Questions {#faq}
 
 <div class="callout">
 
@@ -300,7 +320,9 @@ Sermorelin is growth hormone support for adults who don't want the risks, cost, 
 
 ---
 
-<h2 class="h2-accent">Related Guides</h2>
+<p class="section-label">Keep reading</p>
+
+## Related Guides
 
 <div class="related-grid">
 <a href="/peptides/nad-plus-therapy/" class="link-card">NAD+ Therapy: What It Is, What the Science Says, and How to Get It <span class="tx-green">→</span></a>

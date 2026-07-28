@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and IBD: Crohn's, Ulcerative Colitis, and Gut Inflammation"
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "Observational studies show IBD patients on GLP-1 medications had fewer hospitalizations and surgeries, with no increased flare risk. An honest look at semaglutide for Crohn's and ulcerative colitis — the gut-healing science, the GI side effect concerns, and when GLP-1s aren't appropriate."
 summary: "Observational studies show IBD patients on GLP-1 medications had fewer hospitalizations and surgeries, with no increased flare risk. An honest look at semaglutide for Crohn's and ulcerative colitis — the gut-healing science, the GI side effect concerns, and when GLP-1s aren't appropriate."
 keywords: ["GLP-1 IBD", "semaglutide Crohn's disease", "GLP-1 ulcerative colitis", "Ozempic inflammatory bowel disease", "GLP-1 IBD flares", "semaglutide gut inflammation", "GLP-2 intestinal healing", "GLP-1 safe with Crohn's", "tirzepatide IBD", "GLP-1 nausea IBD flare", "weight loss medication ulcerative colitis", "GLP-1 IBD hospitalization study"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,22 +106,30 @@ keywords: ["GLP-1 IBD", "semaglutide Crohn's disease", "GLP-1 ulcerative colitis
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#what-is-ibd" class="article-nav-pill">What Is IBD</a>
-<a href="#research" class="article-nav-pill">Research</a>
-<a href="#glp2-gut" class="article-nav-pill">GLP-2 & Gut Healing</a>
-<a href="#side-effects" class="article-nav-pill">Side Effects vs. Flares</a>
-<a href="#when-not" class="article-nav-pill">When to Avoid</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Observational studies show IBD patients on GLP-1 medications had fewer hospitalizations and surgeries, with no increa...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#what-is-ibd">What Is IBD</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#research">Research</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#glp2-gut">GLP-2 & Gut Healing</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#side-effects">Side Effects vs. Flares</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#when-not">When to Avoid</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> The early evidence on GLP-1s in IBD is more encouraging than most people expect: retrospective studies show IBD patients on GLP-1 medications had <strong>fewer hospitalizations and surgeries</strong>, with <strong>no increased flare rates</strong>. Preclinical colitis research shows GLP-1s reduce gut inflammation and strengthen the intestinal barrier — and GLP-1's sister hormone GLP-2 is a proven gut-healer. But there are honest caveats: GLP-1 side effects (nausea, diarrhea) can mimic flare symptoms, and GLP-1s should be avoided during <strong>active flares, with strictures, or when underweight</strong>. Not FDA-approved for IBD. Talk to your GI first; telehealth access starts at <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** The early evidence on GLP-1s in IBD is more encouraging than most people expect: retrospective studies show IBD patients on GLP-1 medications had **fewer hospitalizations and surgeries**, with **no increased flare rates**. Preclinical colitis research shows GLP-1s reduce gut inflammation and strengthen the intestinal barrier — and GLP-1's sister hormone GLP-2 is a proven gut-healer. But there are honest caveats: GLP-1 side effects (nausea, diarrhea) can mimic flare symptoms, and GLP-1s should be avoided during **active flares, with strictures, or when underweight**. Not FDA-approved for IBD. Talk to your GI first; telehealth access starts at **$129/month**.
+
 </div>
 
 If you have Crohn's disease or ulcerative colitis and you've considered a GLP-1 medication, you've probably felt the tension immediately: *these drugs are famous for GI side effects — and my GI tract is the problem.*
@@ -131,7 +140,9 @@ This article takes an honest look at both sides: the genuinely promising science
 
 ---
 
-<h2 id="what-is-ibd" class="h2-accent h2-accent--amber">IBD Basics: Crohn's, Ulcerative Colitis, and the Obesity Surprise</h2>
+<p class="section-label">IBD Basics:</p>
+
+## IBD Basics: Crohn's, Ulcerative Colitis, and the Obesity Surprise {#what-is-ibd}
 
 Inflammatory bowel disease affects roughly **3 million American adults** and comes in two main forms:
 
@@ -155,7 +166,9 @@ This is why weight management has become a legitimate part of modern IBD care �
 
 ---
 
-<h2 id="research" class="h2-accent h2-accent--blue">What the Research Shows: Fewer Hospitalizations, No Flare Signal</h2>
+<p class="section-label">The research</p>
+
+## What the Research Shows: Fewer Hospitalizations, No Flare Signal {#research}
 
 The clinical evidence on GLP-1s in IBD is early — mostly retrospective and observational — but it consistently points in a reassuring direction.
 
@@ -175,7 +188,9 @@ The most defensible summary: for IBD patients in remission who need to lose weig
 
 ---
 
-<h2 id="glp2-gut" class="h2-accent h2-accent--purple">The GLP-2 Connection: Why Gut Hormones and Gut Healing Are Linked</h2>
+<p class="section-label">The GLP-2</p>
+
+## The GLP-2 Connection: Why Gut Hormones and Gut Healing Are Linked {#glp2-gut}
 
 Here's the piece of biology that makes the IBD findings less surprising than they seem.
 
@@ -196,7 +211,9 @@ The implication: GLP-1 medications aren't a random drug being tried on a random 
 
 ---
 
-<h2 id="side-effects" class="h2-accent h2-accent--red">Side Effects vs. Flares: The Practical Challenge</h2>
+<p class="section-label">Side effects</p>
+
+## Side Effects vs. Flares: The Practical Challenge {#side-effects}
 
 This is the most important section for anyone with IBD considering a GLP-1. The GI side effects of these medications overlap heavily with flare symptoms, and telling them apart matters.
 
@@ -237,7 +254,9 @@ When in doubt, assume it's a flare until proven otherwise. It's safer to over-in
 
 ---
 
-<h2 id="when-not" class="h2-accent h2-accent--amber">When GLP-1s Are NOT Appropriate for IBD Patients</h2>
+<p class="section-label">When GLP-1s</p>
+
+## When GLP-1s Are NOT Appropriate for IBD Patients {#when-not}
 
 GLP-1 medications are not right for every IBD patient. There are clear situations where the risks outweigh potential benefits.
 
@@ -258,7 +277,9 @@ GLP-1 medications are not right for every IBD patient. There are clear situation
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications With IBD</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Medications With IBD {#how-to-get}
 
 <div class="callout callout--amber">
 

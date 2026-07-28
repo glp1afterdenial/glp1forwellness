@@ -67,9 +67,18 @@ Beyond Weight Loss
 <h2 class="section__title">Condition-Specific GLP-1 Guides</h2>
 <p class="section__sub">Each guide breaks down the research, honest limitations, and affordable access options</p>
 </div>
+<div class="filter-pills" id="condition-filters">
+<button class="filter-pill filter-pill--active" data-filter="all">All</button>
+<button class="filter-pill" data-filter="metabolic">Metabolic</button>
+<button class="filter-pill" data-filter="heart-kidney">Heart & Kidney</button>
+<button class="filter-pill" data-filter="brain-mood">Brain & Mood</button>
+<button class="filter-pill" data-filter="hormones">Hormones</button>
+<button class="filter-pill" data-filter="inflammation">Inflammation</button>
+<button class="filter-pill" data-filter="longevity">Longevity</button>
+</div>
 <div class="conditions-grid">
 
-<a href="/conditions/glp1-heart-health/" class="condition-card">
+<a href="/conditions/glp1-heart-health/" class="condition-card" data-cat="heart-kidney">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/></svg></div>
 <div class="condition-card__title">GLP-1s & Heart Health</div>
 <div class="condition-card__desc">FDA-approved for cardiovascular risk — 20% reduction in heart attacks</div>
@@ -77,7 +86,7 @@ Beyond Weight Loss
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-sleep-apnea/" class="condition-card">
+<a href="/conditions/glp1-sleep-apnea/" class="condition-card" data-cat="heart-kidney">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg></div>
 <div class="condition-card__title">GLP-1s & Sleep Apnea</div>
 <div class="condition-card__desc">FDA-approved — may reduce or replace CPAP for some patients</div>
@@ -85,7 +94,7 @@ Beyond Weight Loss
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-fatty-liver/" class="condition-card">
+<a href="/conditions/glp1-fatty-liver/" class="condition-card" data-cat="metabolic">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M9 7h6M9 11h6M9 15h4"/></svg></div>
 <div class="condition-card__title">GLP-1s & Fatty Liver</div>
 <div class="condition-card__desc">FDA-approved for MASH — how GLP-1s reduce liver fat and fibrosis</div>
@@ -93,7 +102,7 @@ Beyond Weight Loss
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-kidney-disease/" class="condition-card">
+<a href="/conditions/glp1-kidney-disease/" class="condition-card" data-cat="heart-kidney">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M7 3c-1.5 0-3 1.5-3 4s1 4 2 5.5S8 16 8 19c0 1.5.5 2 1.5 2s1.5-.5 1.5-2c0-2-1-3-1-5s1-3 2-3 2 1 2 3-1 3-1 5c0 1.5.5 2 1.5 2s1.5-.5 1.5-2c0-3 1-5.5 2-7s2-3.5 2-5.5S18.5 3 17 3"/></svg></div>
 <div class="condition-card__title">GLP-1s & Kidney Disease</div>
 <div class="condition-card__desc">FDA-approved for diabetic CKD — slowing progression to dialysis</div>
@@ -101,7 +110,7 @@ Beyond Weight Loss
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-addiction-alcohol/" class="condition-card">
+<a href="/conditions/glp1-addiction-alcohol/" class="condition-card" data-cat="brain-mood">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M17 3H7a2 2 0 00-2 2v14a2 2 0 002 2h10a2 2 0 002-2V5a2 2 0 00-2-2z"/><path d="M12 8v4M12 16h.01"/></svg></div>
 <div class="condition-card__title">GLP-1s & Addiction</div>
 <div class="condition-card__desc">Semaglutide reduces alcohol cravings — Lancet 2026 RCT data</div>
@@ -109,7 +118,7 @@ Beyond Weight Loss
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-alzheimers/" class="condition-card">
+<a href="/conditions/glp1-alzheimers/" class="condition-card" data-cat="brain-mood">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg></div>
 <div class="condition-card__title">GLP-1s & Alzheimer's</div>
 <div class="condition-card__desc">40-70% lower risk in observational studies — prevention vs. treatment</div>
@@ -117,7 +126,7 @@ Beyond Weight Loss
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-aging/" class="condition-card">
+<a href="/conditions/glp1-aging/" class="condition-card" data-cat="longevity">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 4"/></svg></div>
 <div class="condition-card__title">GLP-1s & Aging</div>
 <div class="condition-card__desc">New study: biological age reduced by 3.1 years on semaglutide</div>
@@ -125,84 +134,84 @@ Beyond Weight Loss
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-prediabetes/" class="condition-card">
+<a href="/conditions/glp1-prediabetes/" class="condition-card" data-cat="metabolic">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4"/><circle cx="12" cy="12" r="4"/></svg></div>
 <div class="condition-card__title">GLP-1s & Prediabetes</div>
 <div class="condition-card__desc">Semaglutide and tirzepatide reversed prediabetes in 80-90% of trial participants</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-insulin-resistance/" class="condition-card">
+<a href="/conditions/glp1-insulin-resistance/" class="condition-card" data-cat="metabolic">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></div>
 <div class="condition-card__title">GLP-1s & Insulin Resistance</div>
 <div class="condition-card__desc">HOMA-IR falls 30-50% in trials — treating the root cause of weight gain</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-blood-pressure/" class="condition-card">
+<a href="/conditions/glp1-blood-pressure/" class="condition-card" data-cat="heart-kidney">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/><path d="M3.5 12h4l2-4 3 8 2-4h5.5"/></svg></div>
 <div class="condition-card__title">GLP-1s & Blood Pressure</div>
 <div class="condition-card__desc">3-8 mmHg systolic reduction in major trials — meaningful heart and kidney protection</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-cholesterol/" class="condition-card">
+<a href="/conditions/glp1-cholesterol/" class="condition-card" data-cat="metabolic">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M12 2a7 7 0 00-7 7c0 5 7 13 7 13s7-8 7-13a7 7 0 00-7-7z"/></svg></div>
 <div class="condition-card__title">GLP-1s & Cholesterol</div>
 <div class="condition-card__desc">Triglycerides down 15-20%, inflammation down ~40% — but not a statin replacement</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-gout/" class="condition-card">
+<a href="/conditions/glp1-gout/" class="condition-card" data-cat="inflammation">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2M9 9h.01M15 9h.01"/></svg></div>
 <div class="condition-card__title">GLP-1s & Gout</div>
 <div class="condition-card__desc">Weight loss lowers uric acid — cohort data show fewer flares in GLP-1 users</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-lupus/" class="condition-card">
+<a href="/conditions/glp1-lupus/" class="condition-card" data-cat="inflammation">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M12 2a7 7 0 00-7 7c0 5 7 13 7 13s7-8 7-13a7 7 0 00-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg></div>
 <div class="condition-card__title">GLP-1s & Lupus</div>
 <div class="condition-card__desc">Anti-inflammatory effects, prednisone weight gain, safety with immunosuppressants</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-arthritis/" class="condition-card">
+<a href="/conditions/glp1-arthritis/" class="condition-card" data-cat="inflammation">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M18 2l-4 4M9 11l-6 6v3h3l6-6M15 5l4 4-9 9-4-4 9-9z"/></svg></div>
 <div class="condition-card__title">GLP-1s & Arthritis</div>
 <div class="condition-card__desc">Joint pain relief from both weight loss and direct anti-inflammatory effects</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-mental-health/" class="condition-card">
+<a href="/conditions/glp1-mental-health/" class="condition-card" data-cat="brain-mood">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></div>
 <div class="condition-card__title">GLP-1s & Mental Health</div>
 <div class="condition-card__desc">Depression, anxiety, and neuroprotective effects — what the research says</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-pcos/" class="condition-card">
+<a href="/conditions/glp1-pcos/" class="condition-card" data-cat="hormones">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12 8v8"/></svg></div>
 <div class="condition-card__title">GLP-1s & PCOS</div>
 <div class="condition-card__desc">Insulin resistance, hormone balance, and fertility considerations</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-fertility/" class="condition-card">
+<a href="/conditions/glp1-fertility/" class="condition-card" data-cat="hormones">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="8" r="5"/><path d="M12 13v8M9 18h6"/></svg></div>
 <div class="condition-card__title">GLP-1s & Fertility</div>
 <div class="condition-card__desc">"Ozempic babies," PCOS ovulation, and when to stop before pregnancy</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-sexual-health/" class="condition-card">
+<a href="/conditions/glp1-sexual-health/" class="condition-card" data-cat="hormones">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/><path d="M12 8v5M12 16h.01"/></svg></div>
 <div class="condition-card__title">GLP-1s & Sexual Health</div>
 <div class="condition-card__desc">Libido, ED, and peptide options that work alongside GLP-1 therapy</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-cancer-risk/" class="condition-card">
+<a href="/conditions/glp1-cancer-risk/" class="condition-card" data-cat="longevity">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
 <div class="condition-card__title">GLP-1s & Cancer Risk</div>
 <div class="condition-card__desc">17-41% lower cancer risk in large studies — what it means and doesn't prove</div>
@@ -210,35 +219,35 @@ Beyond Weight Loss
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-psoriasis/" class="condition-card">
+<a href="/conditions/glp1-psoriasis/" class="condition-card" data-cat="inflammation">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"/><path d="M8 12s1.5-2 4-2 4 2 4 2"/></svg></div>
 <div class="condition-card__title">GLP-1s & Psoriasis</div>
 <div class="condition-card__desc">Skin inflammation, TNF-alpha reduction, and biologic interactions</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-ibd/" class="condition-card">
+<a href="/conditions/glp1-ibd/" class="condition-card" data-cat="inflammation">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z"/><path d="M12 6v6l4 2"/></svg></div>
 <div class="condition-card__title">GLP-1s & IBD</div>
 <div class="condition-card__desc">Crohn's, ulcerative colitis — fewer hospitalizations, no flare signal</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-migraines/" class="condition-card">
+<a href="/conditions/glp1-migraines/" class="condition-card" data-cat="brain-mood">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M9.5 2A5.5 5.5 0 004 7.5c0 3 2 5 5.5 7.5C13 12.5 15 10.5 15 7.5A5.5 5.5 0 009.5 2z"/><path d="M15 7.5c0 3 2 5 5 7.5"/></svg></div>
 <div class="condition-card__title">GLP-1s & Migraines</div>
 <div class="condition-card__desc">Migraine days cut nearly in half — independent of weight loss</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-menopause/" class="condition-card">
+<a href="/conditions/glp1-menopause/" class="condition-card" data-cat="hormones">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><path d="M14 2v6h6M12 13v4M10 15h4"/></svg></div>
 <div class="condition-card__title">GLP-1s & Menopause</div>
 <div class="condition-card__desc">HRT + GLP-1 synergy, visceral fat, and bone density considerations</div>
 <span class="condition-card__arrow"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
 </a>
 
-<a href="/conditions/glp1-asthma/" class="condition-card">
+<a href="/conditions/glp1-asthma/" class="condition-card" data-cat="inflammation">
 <div class="condition-card__icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"/><path d="M7 12h10"/></svg></div>
 <div class="condition-card__title">GLP-1s & Asthma/COPD</div>
 <div class="condition-card__desc">14-18% lower respiratory disease risk — airway inflammation reduction</div>
@@ -360,3 +369,22 @@ Beyond Weight Loss
 <p class="h-muted">Questions? <a href="mailto:contact@glp1forwellness.com" class="tx-green-med">contact@glp1forwellness.com</a></p>
 </div>
 </section>
+
+<script>
+(function(){
+  var wrap = document.getElementById('condition-filters');
+  if(!wrap) return;
+  var pills = wrap.querySelectorAll('.filter-pill');
+  var cards = document.querySelectorAll('.condition-card[data-cat]');
+  wrap.addEventListener('click', function(e){
+    var btn = e.target.closest('.filter-pill');
+    if(!btn) return;
+    pills.forEach(function(p){ p.classList.remove('filter-pill--active'); });
+    btn.classList.add('filter-pill--active');
+    var f = btn.getAttribute('data-filter');
+    cards.forEach(function(c){
+      c.classList.toggle('filter-hidden', f !== 'all' && c.getAttribute('data-cat') !== f);
+    });
+  });
+})();
+</script>

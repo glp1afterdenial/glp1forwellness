@@ -1,10 +1,11 @@
 ---
 title: "What Are Peptides? The Beginner's Guide to Peptide Therapy (2026)"
 date: 2026-07-27
-lastmod: 2026-07-27
+lastmod: 2026-07-28
 description: "Peptides are short amino-acid chains that signal your body to do specific things — burn fat, build muscle, improve sleep, or boost energy. What they are, how they work, which ones matter, are they safe, and how to get them legally through telehealth from $99/month."
 summary: "Peptides are short amino-acid chains that signal your body to do specific things — burn fat, build muscle, improve sleep, or boost energy. What they are, how they work, which ones matter, are they safe, and how to get them legally through telehealth from $99/month."
 keywords: ["what are peptides", "peptide therapy", "are peptides safe", "peptides for weight loss", "peptides for muscle growth", "peptides for anti-aging", "peptides vs steroids", "how do peptides work", "research peptides vs prescription", "BPC-157", "peptide side effects", "where to buy peptides", "are peptides legal", "peptide therapy cost", "best peptides 2026", "GLP-1 peptides", "sermorelin", "NAD+ therapy", "compounded peptides", "peptides telehealth"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,29 +106,50 @@ keywords: ["what are peptides", "peptide therapy", "are peptides safe", "peptide
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#how-peptides-work" class="article-nav-pill">How They Work</a>
-<a href="#which-peptides" class="article-nav-pill">Which Ones</a>
-<a href="#peptides-vs-steroids" class="article-nav-pill">vs Steroids</a>
-<a href="#safety" class="article-nav-pill">Safety</a>
-<a href="#research-vs-prescription" class="article-nav-pill">Gray Market</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
+<p class="page-subtitle">How peptides work, which ones matter, safety, gray-market risks, and how to get them legally through telehealth from $99/mo.</p>
+
+<div class="peptide-highlights">
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🧬</div>
+<div class="peptide-highlight__stat">Targeted Signals</div>
+<div class="peptide-highlight__label">Peptides hit specific receptors — not your whole system</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">💊</div>
+<div class="peptide-highlight__stat">From $99/mo</div>
+<div class="peptide-highlight__label">Telehealth vs $500-3,000/mo at anti-aging clinics</div>
+</div>
+<div class="peptide-highlight">
+<div class="peptide-highlight__icon">🏥</div>
+<div class="peptide-highlight__stat">Licensed Pharmacies</div>
+<div class="peptide-highlight__label">Pre-mixed, pre-dosed, shipped to your door</div>
+</div>
 </div>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> Peptides are <strong>short chains of amino acids that act as signaling molecules</strong> — they tell your cells to do specific things like release growth hormone, regulate appetite, or repair tissue. Your body already makes hundreds of them. Therapeutic peptides are lab-made versions that <strong>amplify or restore processes that decline with age</strong>. The GLP-1 drugs (semaglutide, tirzepatide) are peptides. So is sermorelin (growth hormone support). They're <strong>not steroids</strong> — they work with your body's feedback loops, not against them. The biggest risk isn't the peptides themselves, it's <strong>buying unregulated "research" powder and dosing yourself</strong>. Prescription peptide therapy through telehealth starts at <strong>$99/month</strong>.</span>
+
+Peptides are **short chains of amino acids that act as signaling molecules** — they tell your cells to do specific things like release growth hormone, regulate appetite, or repair tissue. Your body already makes hundreds of them. Therapeutic peptides are lab-made versions that **amplify or restore processes that decline with age**. The GLP-1 drugs (semaglutide, tirzepatide) are peptides. So is sermorelin (growth hormone support). They're **not steroids** — they work with your body's feedback loops, not against them. The biggest risk isn't the peptides themselves, it's **buying unregulated "research" powder and dosing yourself**. Prescription peptide therapy through telehealth starts at **$99/month**.
+
 </div>
-</div>
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#how-peptides-work">How They Work</a> <span aria-hidden="true">·</span>
+<a href="#which-peptides">Which Ones</a> <span aria-hidden="true">·</span>
+<a href="#peptides-vs-steroids">vs Steroids</a> <span aria-hidden="true">·</span>
+<a href="#safety">Safety</a> <span aria-hidden="true">·</span>
+<a href="#research-vs-prescription">Gray Market</a> <span aria-hidden="true">·</span>
+<a href="#how-to-get">How to Get</a> <span aria-hidden="true">·</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 If you've heard the word "peptides" and aren't sure whether it's a legitimate medical therapy or a bodybuilding gray-market thing — the answer is both, depending on where you get them. This guide explains what peptides actually are, which ones have real evidence, and why sourcing matters more than anything.
 
 ---
 
-<h2 id="how-peptides-work" class="h2-accent h2-accent--blue">How Peptides Work</h2>
+<p class="section-label">The basics</p>
+
+## How Peptides Work {#how-peptides-work}
 
 Your body is full of peptides. Insulin is a peptide. So is oxytocin. So are the GLP-1 hormones your gut releases after eating. A peptide is just a chain of amino acids — typically 2 to 50 of them — that acts as a chemical messenger.
 
@@ -144,7 +166,9 @@ That precision is the appeal. It's also why peptides tend to have fewer off-targ
 
 ---
 
-<h2 id="which-peptides" class="h2-accent h2-accent--blue">Which Peptides Actually Matter (Evidence Tiers)</h2>
+<p class="section-label">Evidence tiers</p>
+
+## Which Peptides Actually Matter {#which-peptides}
 
 The peptide world is full of hype. Here's an honest breakdown of what has real evidence, what's promising, and what's still speculative.
 
@@ -213,7 +237,9 @@ The peptide world is full of hype. Here's an honest breakdown of what has real e
 
 ---
 
-<h2 id="peptides-vs-steroids" class="h2-accent h2-accent--blue">Peptides vs Steroids: Not the Same Thing</h2>
+<p class="section-label">Key difference</p>
+
+## Peptides vs Steroids: Not the Same Thing {#peptides-vs-steroids}
 
 This is one of the most common questions people ask, and the answer matters:
 
@@ -233,7 +259,9 @@ Peptides won't give you steroid-level muscle gains. They're not trying to. They'
 
 ---
 
-<h2 id="safety" class="h2-accent h2-accent--blue">Are Peptides Safe?</h2>
+<p class="section-label">Safety</p>
+
+## Are Peptides Safe? {#safety}
 
 The answer depends entirely on **which peptide** and **where you get it**.
 
@@ -270,7 +298,9 @@ Always disclose your full medical history to your prescribing provider. This is 
 
 ---
 
-<h2 id="research-vs-prescription" class="h2-accent h2-accent--blue">Research Peptides vs Prescription: The Full Comparison</h2>
+<p class="section-label">Gray market</p>
+
+## Research Peptides vs Prescription: The Full Comparison {#research-vs-prescription}
 
 | | **Gray-Market "Research" Peptides** | **Prescription (Telehealth)** |
 |---|---|---|
@@ -288,7 +318,9 @@ The price gap is real — research peptides are cheaper. But the price differenc
 
 ---
 
-<h2 id="how-to-get" class="h2-accent h2-accent--blue">How to Get Peptide Therapy (Legally, Affordably)</h2>
+<p class="section-label">How to get started</p>
+
+## How to Get Peptide Therapy (Legally, Affordably) {#how-to-get}
 
 <div class="callout callout--amber">
 
@@ -358,7 +390,9 @@ No clinic visits. No waiting rooms. No insurance required.
 
 ---
 
-<h2 id="faq" class="h2-accent h2-accent--slate">Frequently Asked Questions</h2>
+<p class="section-label">FAQ</p>
+
+## Frequently Asked Questions {#faq}
 
 <div class="callout">
 
@@ -434,7 +468,9 @@ Start with what has the best evidence for your specific goal, get it from a legi
 
 ---
 
-<h2 class="h2-accent">Related Guides</h2>
+<p class="section-label">Keep reading</p>
+
+## Related Guides
 
 <div class="related-grid">
 <a href="/peptides/sermorelin-guide/" class="link-card">Sermorelin: The Growth Hormone Peptide Guide <span class="tx-green">→</span></a>

@@ -1,10 +1,11 @@
 ---
 title: "Cheapest Compounded Semaglutide in 2026: 7 Platforms Ranked by Price"
 date: 2026-07-21
-lastmod: 2026-07-21
+lastmod: 2026-07-28
 description: "We ranked 7 telehealth platforms offering compounded semaglutide by real monthly cost — from $129/month at the low end to $297+ at the high end. Membership fees, dose-based pricing traps, and what's actually included."
 summary: "We ranked 7 telehealth platforms offering compounded semaglutide by real monthly cost — from $129/month at the low end to $297+ at the high end. Membership fees, dose-based pricing traps, and what's actually included."
 keywords: ["cheapest compounded semaglutide", "cheapest semaglutide online", "compounded semaglutide price", "semaglutide telehealth cost", "affordable GLP-1 online", "semaglutide $129 month", "Gala semaglutide price", "Mochi Health cost", "Henry Meds semaglutide price", "cheapest GLP-1 telehealth 2026", "compounded semaglutide vs Wegovy cost"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -64,20 +65,26 @@ keywords: ["cheapest compounded semaglutide", "cheapest semaglutide online", "co
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#rankings" class="article-nav-pill">The Rankings</a>
-<a href="#hidden-costs" class="article-nav-pill">Hidden Costs</a>
-<a href="#vs-brand" class="article-nav-pill">vs Brand-Name</a>
-<a href="#legality" class="article-nav-pill">Is It Legal?</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">We ranked 7 telehealth platforms offering compounded semaglutide by real monthly cost — from $129/month at the low en...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#rankings">The Rankings</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#hidden-costs">Hidden Costs</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#vs-brand">vs Brand-Name</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#legality">Is It Legal?</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> The cheapest compounded semaglutide we've found in 2026 is <strong>Gala at $129/month</strong> (annual plan, no membership fee), followed by <strong>Oak Loves You at $133/month</strong> with price matching. Mid-range: Ro ($149-249), ShedRx ($159, 120-day guarantee), Mochi ($178 effective). Watch for the three price traps: <strong>membership fees, dose-based price increases, and intro rates that reset</strong>. All prices verified July 2026 — always confirm at checkout.</span>
-</div>
+
+**TL;DR:** The cheapest compounded semaglutide we've found in 2026 is **Gala at $129/month** (annual plan, no membership fee), followed by **Oak Loves You at $133/month** with price matching. Mid-range: Ro ($149-249), ShedRx ($159, 120-day guarantee), Mochi ($178 effective). Watch for the three price traps: **membership fees, dose-based price increases, and intro rates that reset**. All prices verified July 2026 — always confirm at checkout.
+
 </div>
 
 **The cheapest compounded semaglutide in 2026 costs $129-133/month through flat-rate telehealth platforms — versus roughly $499/month for brand-name Wegovy through Novo Nordisk's direct program, and $1,000+ at retail without insurance.** But the advertised price isn't always the real price: membership fees, dose-based increases, and first-month promos can add $50-150/month to what you actually pay.
@@ -88,7 +95,9 @@ We ranked seven platforms by **realistic ongoing monthly cost** — not the teas
 
 ---
 
-<h2 id="rankings" class="h2-accent">The Rankings: 7 Platforms by Real Monthly Cost</h2>
+<p class="section-label">Pricing</p>
+
+## The Rankings: 7 Platforms by Real Monthly Cost {#rankings}
 
 | Rank | Platform | Real Monthly Cost | Membership Fee | Notes |
 |------|----------|------------------|----------------|-------|

@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Migraines: Can Semaglutide Reduce Headache Days?"
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "Pilot studies show GLP-1 medications like semaglutide cut migraine days nearly in half — independent of weight loss. Learn how GLP-1 receptor agonists reduce neuroinflammation, their connection to CGRP migraine drugs, the latest research, and how to access treatment affordably."
 summary: "Pilot studies show GLP-1 medications like semaglutide cut migraine days nearly in half — independent of weight loss. Learn how GLP-1 receptor agonists reduce neuroinflammation, their connection to CGRP migraine drugs, the latest research, and how to access treatment affordably."
 keywords: ["GLP-1 for migraines", "semaglutide migraine treatment", "GLP-1 reduce headache days", "semaglutide headaches side effect", "GLP-1 neuroinflammation migraines", "tirzepatide migraine relief", "GLP-1 CGRP connection", "semaglutide chronic migraine", "weight loss medication for migraines", "GLP-1 receptor agonist brain pain", "compounded semaglutide for migraines", "affordable GLP-1 migraine"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,23 +106,32 @@ keywords: ["GLP-1 for migraines", "semaglutide migraine treatment", "GLP-1 reduc
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#what-are-migraines" class="article-nav-pill">What Are Migraines</a>
-<a href="#weight-inflammation" class="article-nav-pill">Weight & Inflammation</a>
-<a href="#how-glp1s-help" class="article-nav-pill">How GLP-1s Help</a>
-<a href="#research" class="article-nav-pill">Research</a>
-<a href="#headache-vs-migraine" class="article-nav-pill">Side Effects</a>
-<a href="#current-treatments" class="article-nav-pill">Treatments</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Pilot studies show GLP-1 medications like semaglutide cut migraine days nearly in half — independent of weight loss.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#what-are-migraines">What Are Migraines</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#weight-inflammation">Weight & Inflammation</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-glp1s-help">How GLP-1s Help</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#research">Research</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#headache-vs-migraine">Side Effects</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#current-treatments">Treatments</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> Pilot study data shows GLP-1 users <strong>cut migraine days nearly in half</strong> — from about 20 per month to 11. The results appeared <strong>independent of weight loss</strong>, pointing to a direct neurological mechanism. GLP-1 receptors in the brain's pain centers may reduce the neuroinflammation that triggers migraines, through pathways related to <strong>CGRP — the same molecule targeted by newer migraine drugs</strong> like Aimovig. GLP-1s are not FDA-approved for migraines, but headaches are also a common (temporary) side effect — read on to understand the difference. Telehealth access starts at <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** Pilot study data shows GLP-1 users **cut migraine days nearly in half** — from about 20 per month to 11. The results appeared **independent of weight loss**, pointing to a direct neurological mechanism. GLP-1 receptors in the brain's pain centers may reduce the neuroinflammation that triggers migraines, through pathways related to **CGRP — the same molecule targeted by newer migraine drugs** like Aimovig. GLP-1s are not FDA-approved for migraines, but headaches are also a common (temporary) side effect — read on to understand the difference. Telehealth access starts at **$129/month**.
+
 </div>
 
 If you're one of the **39 million Americans** who live with migraines, you know these aren't just bad headaches. A migraine can erase an entire day — sometimes two or three. The throbbing pain, the nausea, the sensitivity to light and sound so intense you retreat to a dark room and wait for it to pass.
@@ -132,7 +142,9 @@ So when patients on GLP-1 medications for weight loss started reporting, often a
 
 ---
 
-<h2 id="what-are-migraines" class="h2-accent h2-accent--amber">What Are Migraines (and Why They're More Than Headaches)</h2>
+<p class="section-label">The basics</p>
+
+## What Are Migraines (and Why They're More Than Headaches) {#what-are-migraines}
 
 Migraines are a complex neurological disorder — not simply a severe headache. They involve abnormal brain activity that affects nerve signaling, blood flow, and neurochemistry. Understanding this distinction matters for understanding why GLP-1 medications might help.
 
@@ -161,7 +173,9 @@ The underlying biology involves a cascade: neuronal hyperexcitability triggers c
 
 ---
 
-<h2 id="weight-inflammation" class="h2-accent h2-accent--red">Why Weight and Inflammation Matter for Migraines</h2>
+<p class="section-label">Why Weight</p>
+
+## Why Weight and Inflammation Matter for Migraines {#weight-inflammation}
 
 The relationship between obesity and migraines is well-established — and it's not just coincidence.
 
@@ -183,7 +197,9 @@ The pilot study data showed migraine improvement that was **independent of weigh
 
 ---
 
-<h2 id="how-glp1s-help" class="h2-accent">How GLP-1 Medications May Help Migraines: Neuroinflammation and CGRP</h2>
+<p class="section-label">Interactions</p>
+
+## How GLP-1 Medications May Help Migraines: Neuroinflammation and CGRP {#how-glp1s-help}
 
 The potential migraine benefits of GLP-1 medications come from at least three overlapping mechanisms.
 
@@ -225,7 +241,9 @@ The power of GLP-1 medications for migraines likely comes from all three mechani
 
 ---
 
-<h2 id="research" class="h2-accent h2-accent--blue">What the Research Says: Clinical Evidence for GLP-1s and Migraines</h2>
+<p class="section-label">The research</p>
+
+## What the Research Says: Clinical Evidence for GLP-1s and Migraines {#research}
 
 Let's examine the data we have so far.
 
@@ -271,7 +289,9 @@ The clinical observations are supported by laboratory research:
 
 ---
 
-<h2 id="headache-vs-migraine" class="h2-accent h2-accent--purple">The Paradox: Headaches as a Side Effect vs. Migraine Relief</h2>
+<p class="section-label">Side effects</p>
+
+## The Paradox: Headaches as a Side Effect vs. Migraine Relief {#headache-vs-migraine}
 
 Here's something that understandably confuses many patients: **headache is listed as a common side effect of GLP-1 medications**, yet these same drugs may reduce migraines. How can both be true?
 
@@ -306,7 +326,9 @@ The answer lies in the distinction between different types of headaches and thei
 
 ---
 
-<h2 id="current-treatments" class="h2-accent h2-accent--sky">How GLP-1s Compare to Current Migraine Treatments</h2>
+<p class="section-label">Comparison</p>
+
+## How GLP-1s Compare to Current Migraine Treatments {#current-treatments}
 
 For context, here's how GLP-1 medications fit into the existing migraine treatment landscape.
 
@@ -330,7 +352,9 @@ For patients already on a CGRP inhibitor, the question of whether GLP-1 medicati
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications for Migraines</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Medications for Migraines {#how-to-get}
 
 <div class="callout callout--amber">
 

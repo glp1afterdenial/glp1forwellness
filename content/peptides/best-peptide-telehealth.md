@@ -1,10 +1,11 @@
 ---
 title: "Best Telehealth Platforms for Peptide Therapy (2026)"
 date: 2026-07-27
-lastmod: 2026-07-27
+lastmod: 2026-07-28
 description: "Compare telehealth platforms offering sermorelin, NAD+, PT-141, and GLP-1 microdosing. Real pricing, what each platform carries, and how to choose — from $99/month."
 summary: "Compare telehealth platforms offering sermorelin, NAD+, PT-141, and GLP-1 microdosing. Real pricing, what each platform carries, and how to choose — from $99/month."
 keywords: ["peptide therapy telehealth", "best peptide therapy online", "where to buy sermorelin online", "NAD+ therapy telehealth", "peptide therapy cost", "sermorelin telehealth", "PT-141 online", "peptide therapy near me", "legal peptide therapy", "compounded peptides online", "peptide clinic online", "sermorelin prescription online", "NAD+ nasal spray online", "oral sermorelin", "peptide therapy subscription", "best peptide clinic 2026", "telehealth peptide prescription", "peptide therapy without insurance"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -89,27 +90,35 @@ keywords: ["peptide therapy telehealth", "best peptide therapy online", "where t
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#comparison" class="article-nav-pill">Comparison</a>
-<a href="#platforms" class="article-nav-pill">Platforms</a>
-<a href="#how-it-works" class="article-nav-pill">How It Works</a>
-<a href="#how-to-choose" class="article-nav-pill">How to Choose</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Compare telehealth platforms offering sermorelin, NAD+, PT-141, and GLP-1 microdosing.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#comparison">Comparison</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#platforms">Platforms</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-it-works">How It Works</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-choose">How to Choose</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> Four telehealth platforms offer legitimate peptide therapy (sermorelin, NAD+, PT-141, GLP-1 microdosing) from licensed US compounding pharmacies. <strong>Bodybuilding Health+</strong> has the widest menu (from $129/mo). <strong>Telos Rx</strong> is cheapest for NAD+ ($116/mo) and microdosed tirzepatide ($116/mo). <strong>Strut Health</strong> is cheapest overall — oral sermorelin at <strong>$99/mo</strong>, no needles. <strong>ShedRx</strong> has a 120-day money-back guarantee. All include provider evaluation, licensed pharmacy, and home delivery. No insurance needed.</span>
-</div>
+
+**TL;DR:** Four telehealth platforms offer legitimate peptide therapy (sermorelin, NAD+, PT-141, GLP-1 microdosing) from licensed US compounding pharmacies. **Bodybuilding Health+** has the widest menu (from $129/mo). **Telos Rx** is cheapest for NAD+ ($116/mo) and microdosed tirzepatide ($116/mo). **Strut Health** is cheapest overall — oral sermorelin at **$99/mo**, no needles. **ShedRx** has a 120-day money-back guarantee. All include provider evaluation, licensed pharmacy, and home delivery. No insurance needed.
+
 </div>
 
 Peptide therapy used to require an anti-aging clinic charging $500-3,000/month. Now telehealth platforms offer the same compounded peptides — from the same types of licensed pharmacies — at a fraction of the cost. Here's what each platform actually offers and what it costs.
 
 ---
 
-<h2 id="comparison" class="h2-accent h2-accent--blue">Side-by-Side Comparison</h2>
+<p class="section-label">Comparison</p>
+
+## Side-by-Side Comparison {#comparison}
 
 | Platform | Sermorelin | NAD+ | GLP-1 / Microdosing | PT-141 | Cheapest Entry | Key Feature |
 |---|---|---|---|---|---|---|
@@ -120,7 +129,9 @@ Peptide therapy used to require an anti-aging clinic charging $500-3,000/month. 
 
 ---
 
-<h2 id="platforms" class="h2-accent h2-accent--blue">Platform Breakdown</h2>
+<p class="section-label">Platforms</p>
+
+## Platform Breakdown {#platforms}
 
 ### Bodybuilding Health+ — Widest Peptide Menu
 
@@ -228,7 +239,9 @@ ShedRx is primarily a GLP-1 platform, but they also carry sermorelin and longevi
 
 ---
 
-<h2 id="how-it-works" class="h2-accent h2-accent--blue">How Telehealth Peptide Therapy Works</h2>
+<p class="section-label">How it works</p>
+
+## How Telehealth Peptide Therapy Works {#how-it-works}
 
 All four platforms follow the same basic model:
 
@@ -248,7 +261,9 @@ No clinic visits. No waiting rooms. No insurance paperwork. The provider evaluat
 
 ---
 
-<h2 id="how-to-choose" class="h2-accent h2-accent--blue">How to Choose</h2>
+<p class="section-label">How to Choose</p>
+
+## How to Choose {#how-to-choose}
 
 **Start with what you want:**
 
@@ -269,7 +284,9 @@ No clinic visits. No waiting rooms. No insurance paperwork. The provider evaluat
 
 ---
 
-<h2 id="faq" class="h2-accent h2-accent--slate">Frequently Asked Questions</h2>
+<p class="section-label">FAQ</p>
+
+## Frequently Asked Questions {#faq}
 
 <div class="callout">
 
@@ -327,7 +344,9 @@ If you're not sure, read our [beginner's guide to peptides](/peptides/what-are-p
 
 ---
 
-<h2 class="h2-accent">Related Guides</h2>
+<p class="section-label">Keep reading</p>
+
+## Related Guides
 
 <div class="related-grid">
 <a href="/peptides/what-are-peptides/" class="link-card">What Are Peptides? The Beginner's Guide <span class="tx-green">→</span></a>

@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Aging: Can Semaglutide Slow Biological Aging?"
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "A July 2026 UC San Diego study found semaglutide reduced biological aging speed by 9% and lowered biological age by 3.1 years. Learn what biological aging means, how GLP-1s target inflammaging, and the honest caveats about this brand-new research."
 summary: "A July 2026 UC San Diego study found semaglutide reduced biological aging speed by 9% and lowered biological age by 3.1 years. Learn what biological aging means, how GLP-1s target inflammaging, and the honest caveats about this brand-new research."
 keywords: ["semaglutide biological aging study", "GLP-1 slow aging research 2026", "semaglutide reduce biological age", "GLP-1 anti-aging epigenetic clock", "semaglutide inflammaging reduction", "DunedinPACE semaglutide study", "GLP-1 longevity healthspan", "tirzepatide aging clinical trial", "semaglutide DNA methylation age", "GLP-1 cellular aging inflammation", "UC San Diego semaglutide aging", "compounded semaglutide anti-aging"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,23 +106,32 @@ keywords: ["semaglutide biological aging study", "GLP-1 slow aging research 2026
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#biological-aging" class="article-nav-pill">Biological Aging</a>
-<a href="#inflammaging" class="article-nav-pill">Inflammaging</a>
-<a href="#ucsd-study" class="article-nav-pill">The Study</a>
-<a href="#how-glp1s-slow-aging" class="article-nav-pill">How GLP-1s Help</a>
-<a href="#what-this-means" class="article-nav-pill">What It Means</a>
-<a href="#honest-caveats" class="article-nav-pill">Caveats</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">A July 2026 UC San Diego study found semaglutide reduced biological aging speed by 9% and lowered biological age by 3...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#biological-aging">Biological Aging</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#inflammaging">Inflammaging</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#ucsd-study">The Study</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-glp1s-slow-aging">How GLP-1s Help</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#what-this-means">What It Means</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#honest-caveats">Caveats</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> A July 2026 UC San Diego study published in <em>Nature Communications</em> found that semaglutide <strong>reduced the speed of biological aging by 9%</strong> and lowered biological age by <strong>3.1 years</strong> over just 32 weeks. The mechanism appears to center on reducing chronic inflammation ("inflammaging") and improving metabolic health. This is a brand-new finding that needs replication, and GLP-1s are <strong>not FDA-approved for aging</strong>. But it is one of the most exciting developments in longevity research this decade. Telehealth platforms offer access starting at <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** A July 2026 UC San Diego study published in *Nature Communications* found that semaglutide **reduced the speed of biological aging by 9%** and lowered biological age by **3.1 years** over just 32 weeks. The mechanism appears to center on reducing chronic inflammation ("inflammaging") and improving metabolic health. This is a brand-new finding that needs replication, and GLP-1s are **not FDA-approved for aging**. But it is one of the most exciting developments in longevity research this decade. Telehealth platforms offer access starting at **$129/month**.
+
 </div>
 
 What if the most significant thing about GLP-1 medications is not what they do for your weight, your blood sugar, or even your heart — but what they do for how fast you age?
@@ -134,7 +144,9 @@ Let me explain what they found, why it matters, and why you should be excited bu
 
 ---
 
-<h2 id="biological-aging" class="h2-accent h2-accent--amber">What Is Biological Aging (and Why Your Birthday Doesn't Tell the Whole Story)</h2>
+<p class="section-label">The basics</p>
+
+## What Is Biological Aging (and Why Your Birthday Doesn't Tell the Whole Story) {#biological-aging}
 
 You have two ages. Your **chronological age** is the one on your driver's license — how many years since you were born. It ticks forward at exactly the same rate for everyone. One year per year. No exceptions.
 
@@ -173,7 +185,9 @@ These are not theoretical abstractions. Epigenetic age has been validated as a p
 
 ---
 
-<h2 id="inflammaging" class="h2-accent h2-accent--red">The Inflammation-Aging Connection: Inflammaging</h2>
+<p class="section-label">The Inflammation-Aging</p>
+
+## The Inflammation-Aging Connection: Inflammaging {#inflammaging}
 
 If biological aging can be measured, what drives it? Increasingly, the answer points to one central process: **chronic, low-grade inflammation** — a phenomenon researchers call **"inflammaging."**
 
@@ -198,7 +212,9 @@ This is where the GLP-1 connection becomes clear. We already know from extensive
 
 ---
 
-<h2 id="ucsd-study" class="h2-accent">The UC San Diego Study: What They Found</h2>
+<p class="section-label">The research</p>
+
+## The UC San Diego Study: What They Found {#ucsd-study}
 
 In July 2026, researchers at the University of California San Diego published findings in *Nature Communications* that measured, for the first time, the effect of semaglutide on biological aging using validated epigenetic clocks.
 
@@ -239,7 +255,9 @@ This is consistent with what we know about GLP-1 medications from other research
 
 ---
 
-<h2 id="how-glp1s-slow-aging" class="h2-accent h2-accent--blue">How GLP-1 Medications May Slow Aging: The Mechanisms</h2>
+<p class="section-label">How it works</p>
+
+## How GLP-1 Medications May Slow Aging: The Mechanisms {#how-glp1s-slow-aging}
 
 Based on the UC San Diego study and the broader body of GLP-1 research, several mechanisms likely contribute to the biological age reduction:
 
@@ -280,7 +298,9 @@ While GLP-1 medications have not been definitively shown to lengthen telomeres (
 
 ---
 
-<h2 id="what-this-means" class="h2-accent h2-accent--purple">What This Means Practically: Healthspan, Not Just Lifespan</h2>
+<p class="section-label">The basics</p>
+
+## What This Means Practically: Healthspan, Not Just Lifespan {#what-this-means}
 
 The longevity field has shifted its focus from **lifespan** (how long you live) to **healthspan** (how long you live in good health). The distinction matters profoundly.
 
@@ -302,7 +322,9 @@ The point is not that GLP-1 medications would make you immortal. It is that they
 
 ---
 
-<h2 id="honest-caveats" class="h2-accent h2-accent--sky">The Honest Caveats: What We Don't Know Yet</h2>
+<p class="section-label">The Honest</p>
+
+## The Honest Caveats: What We Don't Know Yet {#honest-caveats}
 
 I want to be direct about the limitations of this research, because the anti-aging space is plagued by hype that outpaces evidence.
 
@@ -333,7 +355,9 @@ In science, the appropriate response to an exciting initial finding is *controll
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Medications {#how-to-get}
 
 <div class="callout callout--amber">
 

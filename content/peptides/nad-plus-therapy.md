@@ -1,10 +1,11 @@
 ---
 title: "NAD+ Therapy: What It Is, What the Science Says, and How to Get It (2026)"
 date: 2026-07-26
-lastmod: 2026-07-27
+lastmod: 2026-07-28
 description: "NAD+ declines with age — by some estimates 50% between 40 and 60. What NAD+ therapy actually does, injection vs nasal spray vs tablets, what the research supports (and doesn't), and how to get it from $116/month via telehealth."
 summary: "NAD+ declines with age — by some estimates 50% between 40 and 60. What NAD+ therapy actually does, injection vs nasal spray vs tablets, what the research supports (and doesn't), and how to get it from $116/month via telehealth."
 keywords: ["NAD+ therapy", "NAD+ injections", "NAD+ benefits", "NAD+ nasal spray", "NAD+ supplement vs injection", "NAD+ weight loss", "NAD+ energy", "NAD+ anti-aging", "how to increase NAD+", "NAD+ cost", "NAD+ telehealth", "NAD+ and GLP-1"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -89,21 +90,28 @@ keywords: ["NAD+ therapy", "NAD+ injections", "NAD+ benefits", "NAD+ nasal spray
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#what-is-nad" class="article-nav-pill">What Is NAD+</a>
-<a href="#evidence" class="article-nav-pill">The Evidence</a>
-<a href="#formats" class="article-nav-pill">Injection vs Spray vs Tablet</a>
-<a href="#glp1" class="article-nav-pill">NAD+ & GLP-1s</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">NAD+ declines with age — by some estimates 50% between 40 and 60.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#what-is-nad">What Is NAD+</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#evidence">The Evidence</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#formats">Injection vs Spray vs Tablet</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#glp1">NAD+ & GLP-1s</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> NAD+ is the coenzyme your cells use to <strong>make energy and repair DNA</strong>, and levels fall substantially with age. Supplementation — injection, nasal spray, or tablets — <strong>reliably raises blood NAD+ levels</strong> in human studies. The honest caveat: downstream benefits (energy, metabolism, longevity) are <strong>promising but not yet proven</strong> in large trials. IV clinics charge $300-1,000 per infusion; telehealth programs deliver injections, spray, or tablets from <strong>$129/month</strong> with a licensed provider consult included.</span>
-</div>
+
+**TL;DR:** NAD+ is the coenzyme your cells use to **make energy and repair DNA**, and levels fall substantially with age. Supplementation — injection, nasal spray, or tablets — **reliably raises blood NAD+ levels** in human studies. The honest caveat: downstream benefits (energy, metabolism, longevity) are **promising but not yet proven** in large trials. IV clinics charge $300-1,000 per infusion; telehealth programs deliver injections, spray, or tablets from **$129/month** with a licensed provider consult included.
+
 </div>
 
 Walk into any longevity clinic and NAD+ is on the menu. Scroll wellness social media and someone's hooked up to a drip. NAD+ has become the flagship molecule of the longevity movement — which makes it exactly the kind of topic that deserves a sober look at what's proven, what's plausible, and what's marketing.
@@ -112,7 +120,9 @@ Here's the honest breakdown.
 
 ---
 
-<h2 id="what-is-nad" class="h2-accent h2-accent--amber">What NAD+ Actually Is</h2>
+<p class="section-label">The basics</p>
+
+## What NAD+ Actually Is {#what-is-nad}
 
 NAD+ (nicotinamide adenine dinucleotide) is not exotic. It's one of the most abundant molecules in your body — a coenzyme found in every living cell, required for:
 
@@ -125,7 +135,9 @@ The reason anyone cares: **NAD+ declines with age.** Estimates vary by tissue, b
 
 ---
 
-<h2 id="evidence" class="h2-accent h2-accent--amber">What the Research Shows (and Doesn't)</h2>
+<p class="section-label">The research</p>
+
+## What the Research Shows (and Doesn't) {#evidence}
 
 **Well-established:**
 
@@ -153,7 +165,9 @@ The reason anyone cares: **NAD+ declines with age.** Estimates vary by tissue, b
 
 ---
 
-<h2 id="formats" class="h2-accent h2-accent--amber">Injection vs Nasal Spray vs Tablets</h2>
+<p class="section-label">Comparison</p>
+
+## Injection vs Nasal Spray vs Tablets {#formats}
 
 NAD+ therapy comes in three practical formats (IV infusions being the expensive clinic-only fourth):
 
@@ -177,7 +191,9 @@ Several telehealth programs offer a **bundle with all three formats** — inject
 
 ---
 
-<h2 id="glp1" class="h2-accent h2-accent--amber">NAD+ and GLP-1s: Why People Combine Them</h2>
+<p class="section-label">NAD+ and</p>
+
+## NAD+ and GLP-1s: Why People Combine Them {#glp1}
 
 This site exists because of GLP-1s, so the natural question: does NAD+ fit alongside semaglutide or tirzepatide?
 
@@ -191,7 +207,9 @@ To be clear: **no clinical trial has tested the GLP-1 + NAD+ combination.** The 
 
 ---
 
-<h2 id="how-to-get" class="h2-accent h2-accent--amber">How to Get NAD+ Therapy</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get NAD+ Therapy {#how-to-get}
 
 <div class="callout callout--amber">
 
@@ -243,7 +261,9 @@ To be clear: **no clinical trial has tested the GLP-1 + NAD+ combination.** The 
 
 ---
 
-<h2 id="faq" class="h2-accent h2-accent--slate">Frequently Asked Questions</h2>
+<p class="section-label">FAQ</p>
+
+## Frequently Asked Questions {#faq}
 
 <div class="callout">
 
@@ -299,7 +319,9 @@ NAD+ sits in an unusual spot: the biology is real and important, the level-raisi
 
 ---
 
-<h2 class="h2-accent">Related Guides</h2>
+<p class="section-label">Keep reading</p>
+
+## Related Guides
 
 <div class="related-grid">
 <a href="/peptides/sermorelin-guide/" class="link-card">Sermorelin: The Growth Hormone Peptide Guide <span class="tx-green">→</span></a>

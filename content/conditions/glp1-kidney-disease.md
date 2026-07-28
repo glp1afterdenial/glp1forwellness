@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Kidney Disease: The FLOW Trial and CKD Protection"
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "The landmark FLOW trial showed semaglutide cut major kidney disease events by 24% in people with type 2 diabetes and CKD, leading to FDA approval of Ozempic for kidney protection in January 2025. Learn how GLP-1s protect kidneys, who benefits, and how to access treatment affordably."
 summary: "The landmark FLOW trial showed semaglutide cut major kidney disease events by 24% in people with type 2 diabetes and CKD, leading to FDA approval of Ozempic for kidney protection in January 2025. Learn how GLP-1s protect kidneys, who benefits, and how to access treatment affordably."
 keywords: ["GLP-1 kidney disease", "FLOW trial semaglutide", "Ozempic kidney protection", "semaglutide chronic kidney disease", "GLP-1 CKD FDA approval", "semaglutide albuminuria reduction", "GLP-1 eGFR decline", "Ozempic FDA approved CKD 2025", "GLP-1 diabetic kidney disease", "semaglutide kidney failure prevention", "GLP-1 lupus nephritis", "affordable GLP-1 kidney health"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,23 +106,32 @@ keywords: ["GLP-1 kidney disease", "FLOW trial semaglutide", "Ozempic kidney pro
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#what-is-ckd" class="article-nav-pill">What Is CKD</a>
-<a href="#flow-trial" class="article-nav-pill">FLOW Trial</a>
-<a href="#fda-approval" class="article-nav-pill">FDA Approval</a>
-<a href="#mechanisms" class="article-nav-pill">Mechanisms</a>
-<a href="#lupus-nephritis" class="article-nav-pill">Lupus Nephritis</a>
-<a href="#egfr-safety" class="article-nav-pill">eGFR & Safety</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">The landmark FLOW trial showed semaglutide cut major kidney disease events by 24% in people with type 2 diabetes and ...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#what-is-ckd">What Is CKD</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#flow-trial">FLOW Trial</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#fda-approval">FDA Approval</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#mechanisms">Mechanisms</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#lupus-nephritis">Lupus Nephritis</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#egfr-safety">eGFR & Safety</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> The landmark <strong>FLOW trial (2024)</strong> proved semaglutide reduces major kidney disease events by <strong>24%</strong> in people with type 2 diabetes and chronic kidney disease — and cut cardiovascular death by 29%. On <strong>January 28, 2025</strong>, the FDA approved Ozempic for kidney protection, making it the first GLP-1 ever approved for CKD. The benefits come from reduced albuminuria, lower blood pressure, and direct anti-inflammatory effects on kidney tissue — not just blood sugar control. Insurance covers Ozempic for diabetic CKD; for prevention or non-diabetic use, telehealth platforms offer compounded semaglutide from <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** The landmark **FLOW trial (2024)** proved semaglutide reduces major kidney disease events by **24%** in people with type 2 diabetes and chronic kidney disease — and cut cardiovascular death by 29%. On **January 28, 2025**, the FDA approved Ozempic for kidney protection, making it the first GLP-1 ever approved for CKD. The benefits come from reduced albuminuria, lower blood pressure, and direct anti-inflammatory effects on kidney tissue — not just blood sugar control. Insurance covers Ozempic for diabetic CKD; for prevention or non-diabetic use, telehealth platforms offer compounded semaglutide from **$129/month**.
+
 </div>
 
 Kidney disease is quiet. It rarely hurts, rarely announces itself, and by the time symptoms appear, significant function is often already gone. An estimated **35.5 million American adults** have chronic kidney disease (CKD), and most don't know it.
@@ -132,7 +142,9 @@ This is one of the best-proven benefits of GLP-1 medications outside of weight l
 
 ---
 
-<h2 id="what-is-ckd" class="h2-accent h2-accent--amber">What Is Chronic Kidney Disease (and Why It Matters So Much)</h2>
+<p class="section-label">The basics</p>
+
+## What Is Chronic Kidney Disease (and Why It Matters So Much) {#what-is-ckd}
 
 Chronic kidney disease means your kidneys are damaged and gradually losing their ability to filter blood. It's measured two main ways:
 
@@ -155,7 +167,9 @@ The stakes are enormous: dialysis costs the U.S. healthcare system over $50 bill
 
 ---
 
-<h2 id="flow-trial" class="h2-accent h2-accent--blue">The FLOW Trial: The Study That Changed Kidney Care</h2>
+<p class="section-label">The research</p>
+
+## The FLOW Trial: The Study That Changed Kidney Care {#flow-trial}
 
 The **FLOW trial** (Evaluate Renal Function with Semaglutide Once Weekly) is the landmark study of GLP-1 medications and kidney disease — and its results were dramatic enough that the trial was stopped early.
 
@@ -183,7 +197,9 @@ A few things make FLOW especially convincing. First, participants were already o
 
 ---
 
-<h2 id="fda-approval" class="h2-accent">FDA Approval: Ozempic for Kidney Protection (January 2025)</h2>
+<p class="section-label">FDA Approval:</p>
+
+## FDA Approval: Ozempic for Kidney Protection (January 2025) {#fda-approval}
 
 On **January 28, 2025**, the FDA approved a new indication for Ozempic (semaglutide): **reducing the risk of worsening kidney disease, kidney failure, and cardiovascular death in adults with type 2 diabetes and chronic kidney disease**.
 
@@ -201,7 +217,9 @@ This made Ozempic the **first and only GLP-1 receptor agonist approved for kidne
 
 ---
 
-<h2 id="mechanisms" class="h2-accent h2-accent--purple">How GLP-1s Protect the Kidneys: Four Mechanisms</h2>
+<p class="section-label">How it works</p>
+
+## How GLP-1s Protect the Kidneys: Four Mechanisms {#mechanisms}
 
 The kidney benefit is not just a side effect of better blood sugar. FLOW's benefit exceeded what glucose control alone would predict, and researchers have identified several overlapping mechanisms.
 
@@ -229,7 +247,9 @@ Obesity forces kidneys into hyperfiltration — working overtime to serve a larg
 
 ---
 
-<h2 id="lupus-nephritis" class="h2-accent h2-accent--red">A Note for Lupus Nephritis Patients</h2>
+<p class="section-label">A Note</p>
+
+## A Note for Lupus Nephritis Patients {#lupus-nephritis}
 
 Lupus nephritis — kidney inflammation caused by systemic lupus erythematosus — affects roughly 40% of people with lupus and is one of the disease's most serious complications.
 
@@ -244,7 +264,9 @@ Early observational research in lupus patients on GLP-1s is encouraging, but no 
 
 ---
 
-<h2 id="egfr-safety" class="h2-accent h2-accent--sky">eGFR Considerations and Safety With Reduced Kidney Function</h2>
+<p class="section-label">Safety</p>
+
+## eGFR Considerations and Safety With Reduced Kidney Function {#egfr-safety}
 
 A common worry: "My kidney function is already reduced — is a GLP-1 even safe for me?"
 
@@ -266,7 +288,9 @@ A common worry: "My kidney function is already reduced — is a GLP-1 even safe 
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications for Kidney Health</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Medications for Kidney Health {#how-to-get}
 
 <div class="callout callout--amber">
 

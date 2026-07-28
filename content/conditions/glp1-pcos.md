@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and PCOS: Insulin Resistance, Weight, and Hormones"
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "GLP-1 medications like semaglutide target the insulin resistance driving PCOS. New research shows restored menstrual cycles, lower androgens, and improved fertility markers. Learn how semaglutide compares to metformin and how to access treatment affordably."
 summary: "GLP-1 medications like semaglutide target the insulin resistance driving PCOS. New research shows restored menstrual cycles, lower androgens, and improved fertility markers. Learn how semaglutide compares to metformin and how to access treatment affordably."
 keywords: ["GLP-1 for PCOS", "semaglutide PCOS treatment", "PCOS insulin resistance medication", "semaglutide vs metformin PCOS", "GLP-1 restore ovulation PCOS", "semaglutide menstrual cycle regularity", "PCOS weight loss medication", "tirzepatide PCOS research", "GLP-1 lower androgens PCOS", "semaglutide PCOS fertility", "compounded semaglutide for PCOS", "affordable GLP-1 PCOS"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,23 +106,32 @@ keywords: ["GLP-1 for PCOS", "semaglutide PCOS treatment", "PCOS insulin resista
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#what-is-pcos" class="article-nav-pill">What Is PCOS</a>
-<a href="#insulin-resistance" class="article-nav-pill">Insulin Resistance</a>
-<a href="#how-glp1s-help" class="article-nav-pill">How GLP-1s Help</a>
-<a href="#research" class="article-nav-pill">Research</a>
-<a href="#vs-metformin" class="article-nav-pill">vs. Metformin</a>
-<a href="#fertility" class="article-nav-pill">Fertility</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">GLP-1 medications like semaglutide target the insulin resistance driving PCOS.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#what-is-pcos">What Is PCOS</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#insulin-resistance">Insulin Resistance</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-glp1s-help">How GLP-1s Help</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#research">Research</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#vs-metformin">vs. Metformin</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#fertility">Fertility</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> PCOS affects roughly <strong>1 in 10 women</strong>, and insulin resistance drives the condition in <strong>65-70% of cases</strong>. GLP-1 medications like semaglutide attack that root cause: a 2025 randomized trial found semaglutide plus metformin <strong>restored regular menstrual cycles within about 12 weeks</strong> while lowering androgens and insulin resistance. GLP-1s outperform metformin for weight loss (15% vs. 2-5%), but must be <strong>stopped 2 months before trying to conceive</strong>. Insurance rarely covers GLP-1s for PCOS alone — telehealth platforms offer access from <strong>$129/month</strong>, and PCOS usually counts as a qualifying comorbidity at BMI 27+.</span>
-</div>
+
+**TL;DR:** PCOS affects roughly **1 in 10 women**, and insulin resistance drives the condition in **65-70% of cases**. GLP-1 medications like semaglutide attack that root cause: a 2025 randomized trial found semaglutide plus metformin **restored regular menstrual cycles within about 12 weeks** while lowering androgens and insulin resistance. GLP-1s outperform metformin for weight loss (15% vs. 2-5%), but must be **stopped 2 months before trying to conceive**. Insurance rarely covers GLP-1s for PCOS alone — telehealth platforms offer access from **$129/month**, and PCOS usually counts as a qualifying comorbidity at BMI 27+.
+
 </div>
 
 If you have PCOS, you've probably heard some version of "just lose weight" from every doctor you've seen. What they often don't explain is *why* losing weight with PCOS feels nearly impossible: the same insulin resistance that disrupts your cycles and drives your symptoms also pushes your body to store fat and fight every diet you try.
@@ -134,7 +144,9 @@ Here's what the research actually says.
 
 ---
 
-<h2 id="what-is-pcos" class="h2-accent h2-accent--amber">What Is PCOS (and Why It's More Than an Ovary Problem)</h2>
+<p class="section-label">The basics</p>
+
+## What Is PCOS (and Why It's More Than an Ovary Problem) {#what-is-pcos}
 
 Despite its name, polycystic ovary syndrome is fundamentally a **metabolic and hormonal disorder**, not simply an ovary problem. It's diagnosed when at least two of three criteria are present: irregular or absent ovulation, elevated androgens ("male" hormones like testosterone), and polycystic-appearing ovaries on ultrasound.
 
@@ -162,7 +174,9 @@ This is why treating the underlying metabolic dysfunction matters — not just m
 
 ---
 
-<h2 id="insulin-resistance" class="h2-accent h2-accent--red">Insulin Resistance: The Engine Driving PCOS</h2>
+<p class="section-label">Insulin Resistance:</p>
+
+## Insulin Resistance: The Engine Driving PCOS {#insulin-resistance}
 
 Here's the fact that reframes everything: **insulin resistance affects an estimated 65-70% of women with PCOS** — including many who are lean. It's not a side effect of PCOS; for most women, it's the engine.
 
@@ -184,7 +198,9 @@ The clinical implication is direct: **if you lower insulin resistance, androgens
 
 ---
 
-<h2 id="how-glp1s-help" class="h2-accent">How GLP-1 Medications Help PCOS: Three Mechanisms</h2>
+<p class="section-label">How it works</p>
+
+## How GLP-1 Medications Help PCOS: Three Mechanisms {#how-glp1s-help}
 
 GLP-1 receptor agonists like semaglutide address PCOS from multiple directions at once — which is why researchers are increasingly interested in them as PCOS therapy, not just weight loss therapy.
 
@@ -217,7 +233,9 @@ Together, these mechanisms explain why GLP-1s in PCOS studies don't just move th
 
 ---
 
-<h2 id="research" class="h2-accent h2-accent--blue">What the Research Says: Restored Cycles and Falling Androgens</h2>
+<p class="section-label">The research</p>
+
+## What the Research Says: Restored Cycles and Falling Androgens {#research}
 
 PCOS-specific GLP-1 research has accelerated dramatically since 2024. Here are the most important findings.
 
@@ -250,7 +268,9 @@ Researchers at the **University of Colorado Anschutz Medical Campus** are runnin
 
 ---
 
-<h2 id="vs-metformin" class="h2-accent h2-accent--purple">Semaglutide vs. Metformin for PCOS</h2>
+<p class="section-label">Comparison</p>
+
+## Semaglutide vs. Metformin for PCOS {#vs-metformin}
 
 Metformin has been the default insulin-sensitizing drug for PCOS for over two decades. How does semaglutide compare?
 
@@ -274,7 +294,9 @@ If cost is the deciding factor, metformin remains a legitimate first step. If yo
 
 ---
 
-<h2 id="fertility" class="h2-accent h2-accent--sky">Fertility Considerations: Read This Before Starting</h2>
+<p class="section-label">Fertility</p>
+
+## Fertility Considerations: Read This Before Starting {#fertility}
 
 This section matters for every woman with PCOS considering a GLP-1 — whether or not pregnancy is currently on your radar.
 
@@ -292,7 +314,9 @@ The flip side is genuinely hopeful: for women with PCOS-related infertility, a p
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications for PCOS</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Medications for PCOS {#how-to-get}
 
 <div class="callout callout--amber">
 

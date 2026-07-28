@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Sexual Health: Libido, ED, and Peptide Solutions"
 date: 2026-07-26
-lastmod: 2026-07-27
+lastmod: 2026-07-28
 description: "GLP-1 weight-loss drugs can improve or worsen sexual function. How semaglutide affects libido and ED, plus peptide treatments like PT-141 (bremelanotide), tadalafil, and sexual wellness programs that work alongside GLP-1 therapy."
 summary: "GLP-1 weight-loss drugs can improve or worsen sexual function. How semaglutide affects libido and ED, plus peptide treatments like PT-141 (bremelanotide), tadalafil, and sexual wellness programs that work alongside GLP-1 therapy."
 keywords: ["GLP-1 libido", "Ozempic sex drive", "semaglutide erectile dysfunction", "GLP-1 ED", "PT-141 peptide", "bremelanotide", "Ozempic low libido", "tirzepatide sexual side effects", "GLP-1 testosterone", "weight loss libido", "peptides for sexual health", "tadalafil GLP-1", "Ozempic sexual dysfunction"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -89,21 +90,28 @@ keywords: ["GLP-1 libido", "Ozempic sex drive", "semaglutide erectile dysfunctio
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#glp1-effects" class="article-nav-pill">GLP-1 Effects</a>
-<a href="#why-it-happens" class="article-nav-pill">Why It Happens</a>
-<a href="#peptide-solutions" class="article-nav-pill">Peptide Solutions</a>
-<a href="#who-benefits" class="article-nav-pill">Who Benefits</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">GLP-1 weight-loss drugs can improve or worsen sexual function.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#glp1-effects">GLP-1 Effects</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#why-it-happens">Why It Happens</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#peptide-solutions">Peptide Solutions</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#who-benefits">Who Benefits</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> GLP-1 medications have mixed effects on sexual health — <strong>~40% of users report improvement</strong> (from weight loss, better hormones, more confidence), <strong>~15% report worsening</strong> (usually temporary, during dose escalation), and the rest notice no change. Long-term, GLP-1s generally <strong>help</strong> sexual function because obesity is the #1 modifiable risk factor for ED and low libido. For those experiencing desire or performance issues — whether GLP-1-related or pre-existing — <strong>PT-141 (bremelanotide)</strong> works in the brain to stimulate desire, while <strong>tadalafil</strong> addresses blood flow. Both are safe alongside GLP-1 therapy with no interactions.</span>
-</div>
+
+**TL;DR:** GLP-1 medications have mixed effects on sexual health — **~40% of users report improvement** (from weight loss, better hormones, more confidence), **~15% report worsening** (usually temporary, during dose escalation), and the rest notice no change. Long-term, GLP-1s generally **help** sexual function because obesity is the #1 modifiable risk factor for ED and low libido. For those experiencing desire or performance issues — whether GLP-1-related or pre-existing — **PT-141 (bremelanotide)** works in the brain to stimulate desire, while **tadalafil** addresses blood flow. Both are safe alongside GLP-1 therapy with no interactions.
+
 </div>
 
 "Ozempic killed my sex drive" and "Ozempic saved my sex life" show up in equal measure online. Both are real experiences — and the difference usually comes down to where someone is in their GLP-1 journey, their starting hormonal status, and whether the caloric deficit is still acute.
@@ -112,7 +120,9 @@ Here's what the data actually shows, and what to do if you're on the wrong side 
 
 ---
 
-<h2 id="glp1-effects" class="h2-accent h2-accent--amber">How GLP-1s Affect Sexual Function</h2>
+<p class="section-label">How GLP-1s</p>
+
+## How GLP-1s Affect Sexual Function {#glp1-effects}
 
 **The short version:** the net effect is usually positive, but the timeline matters.
 
@@ -140,7 +150,9 @@ Once stabilized, the weight loss itself drives improvements:
 
 ---
 
-<h2 id="why-it-happens" class="h2-accent h2-accent--amber">The Obesity-Sexual Health Connection</h2>
+<p class="section-label">The Obesity-Sexual</p>
+
+## The Obesity-Sexual Health Connection {#why-it-happens}
 
 Obesity is the strongest modifiable risk factor for both ED and low libido. The mechanisms:
 
@@ -161,7 +173,9 @@ Obesity is the strongest modifiable risk factor for both ED and low libido. The 
 
 ---
 
-<h2 id="peptide-solutions" class="h2-accent h2-accent--amber">Peptide Solutions for Sexual Health</h2>
+<p class="section-label">Peptide Solutions</p>
+
+## Peptide Solutions for Sexual Health {#peptide-solutions}
 
 For those who need help now — during GLP-1 titration, or with pre-existing issues — several peptide and pharmaceutical options work alongside GLP-1 therapy with no interactions.
 
@@ -197,7 +211,9 @@ Many telehealth platforms now offer sexual health programs designed to work alon
 
 ---
 
-<h2 id="who-benefits" class="h2-accent h2-accent--amber">Who Benefits from Adding Sexual Health Treatment</h2>
+<p class="section-label">Benefits</p>
+
+## Who Benefits from Adding Sexual Health Treatment {#who-benefits}
 
 **Consider adding PT-141 or tadalafil if:**
 - You're in GLP-1 dose escalation and experiencing libido loss that's affecting your relationship or quality of life
@@ -216,7 +232,9 @@ Many telehealth platforms now offer sexual health programs designed to work alon
 
 ---
 
-<h2 id="how-to-get" class="h2-accent h2-accent--amber">How to Get Treatment</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get Treatment {#how-to-get}
 
 <div class="callout callout--amber">
 
@@ -282,7 +300,9 @@ Many telehealth platforms now offer sexual health programs designed to work alon
 
 ---
 
-<h2 id="faq" class="h2-accent h2-accent--amber">Frequently Asked Questions</h2>
+<p class="section-label">FAQ</p>
+
+## Frequently Asked Questions {#faq}
 
 <div class="callout">
 

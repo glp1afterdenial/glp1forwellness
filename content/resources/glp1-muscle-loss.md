@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Muscle Loss: How to Preserve Muscle on Semaglutide (The Complete Guide)"
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "Up to 40% of weight lost on GLP-1 medications can be muscle. Learn exactly how to preserve lean mass with protein targets, resistance training, and supplementation — backed by 2025 research showing muscle loss can be limited to just 3%."
 summary: "Up to 40% of weight lost on GLP-1 medications can be muscle. Learn exactly how to preserve lean mass with protein targets, resistance training, and supplementation — backed by 2025 research showing muscle loss can be limited to just 3%."
 keywords: ["GLP-1 muscle loss", "semaglutide muscle preservation", "how to prevent muscle loss on Ozempic", "protein intake GLP-1", "resistance training semaglutide", "Wegovy lean mass loss", "creatine GLP-1 medications", "tirzepatide muscle wasting", "DEXA scan weight loss", "GLP-1 sarcopenia prevention", "semaglutide body composition", "preserve muscle on Wegovy"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,24 +106,34 @@ keywords: ["GLP-1 muscle loss", "semaglutide muscle preservation", "how to preve
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#the-muscle-problem" class="article-nav-pill">The Problem</a>
-<a href="#why-glp1s-cause-muscle-loss" class="article-nav-pill">Why It Happens</a>
-<a href="#protein-solution" class="article-nav-pill">Protein</a>
-<a href="#resistance-training" class="article-nav-pill">Training</a>
-<a href="#supplements" class="article-nav-pill">Supplements</a>
-<a href="#how-to-monitor" class="article-nav-pill">Monitor</a>
-<a href="#slower-titration" class="article-nav-pill">Titration</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Up to 40% of weight lost on GLP-1 medications can be muscle.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#the-muscle-problem">The Problem</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#why-glp1s-cause-muscle-loss">Why It Happens</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#protein-solution">Protein</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#resistance-training">Training</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#supplements">Supplements</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-monitor">Monitor</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#slower-titration">Titration</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> Up to <strong>25-40% of weight lost</strong> on GLP-1 medications can be lean mass (muscle) — but this is not inevitable. A 2025 study showed that resistance training plus adequate protein limited muscle loss to <strong>just 3%</strong> while participants lost 13% body weight. The formula is straightforward: eat <strong>1.0-1.2g protein per kg of goal weight</strong> daily, lift weights <strong>2-3x per week</strong>, consider <strong>creatine (3-5g/day)</strong>, and ask your provider about <strong>slower titration</strong>. Monitor with DEXA scans every 3-6 months. Telehealth platforms offer affordable access starting at <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** Up to **25-40% of weight lost** on GLP-1 medications can be lean mass (muscle) — but this is not inevitable. A 2025 study showed that resistance training plus adequate protein limited muscle loss to **just 3%** while participants lost 13% body weight. The formula is straightforward: eat **1.0-1.2g protein per kg of goal weight** daily, lift weights **2-3x per week**, consider **creatine (3-5g/day)**, and ask your provider about **slower titration**. Monitor with DEXA scans every 3-6 months. Telehealth platforms offer affordable access starting at **$129/month**.
+
 </div>
 
 This is the most common practical question GLP-1 users ask — and for good reason. You started semaglutide or tirzepatide to get healthier, not to trade fat for muscle loss. The scale is going down, which feels great. But how much of that number is fat, and how much is the muscle your body needs?
@@ -133,7 +144,9 @@ This guide gives you the specific numbers, the exact protocols, and the practica
 
 ---
 
-<h2 id="the-muscle-problem" class="h2-accent h2-accent--amber">The Muscle Problem: What the Data Actually Shows</h2>
+<p class="section-label">The Muscle</p>
+
+## The Muscle Problem: What the Data Actually Shows {#the-muscle-problem}
 
 Let's start with the numbers that concern people — and then put them in context.
 
@@ -166,7 +179,9 @@ The message is clear: muscle loss on GLP-1s is not destiny. It's a solvable prob
 
 ---
 
-<h2 id="why-glp1s-cause-muscle-loss" class="h2-accent h2-accent--red">Why GLP-1 Medications Cause Muscle Loss</h2>
+<p class="section-label">Interactions</p>
+
+## Why GLP-1 Medications Cause Muscle Loss {#why-glp1s-cause-muscle-loss}
 
 Understanding why GLP-1s lead to muscle loss helps you understand how to prevent it. There are three main mechanisms at work.
 
@@ -200,7 +215,9 @@ Before diving into solutions, it's worth understanding why preserving muscle is 
 
 ---
 
-<h2 id="protein-solution" class="h2-accent">The Protein Solution: Specific Targets, Timing, and Sources</h2>
+<p class="section-label">The Protein</p>
+
+## The Protein Solution: Specific Targets, Timing, and Sources {#protein-solution}
 
 Protein is the single most important nutritional factor for preserving muscle during GLP-1 treatment. Here are the specific numbers.
 
@@ -253,7 +270,9 @@ Some days, especially early in treatment, you won't be able to eat enough. That'
 
 ---
 
-<h2 id="resistance-training" class="h2-accent h2-accent--blue">Resistance Training: The Non-Negotiable for Muscle Preservation</h2>
+<p class="section-label">Resistance Training:</p>
+
+## Resistance Training: The Non-Negotiable for Muscle Preservation {#resistance-training}
 
 If protein is the raw material, resistance training is the signal that tells your body: **keep this muscle; I'm using it.**
 
@@ -313,7 +332,9 @@ The ideal approach: prioritize your 2-3 resistance training sessions per week, t
 
 ---
 
-<h2 id="supplements" class="h2-accent h2-accent--purple">Supplements That Actually Help</h2>
+<p class="section-label">Supplements That</p>
+
+## Supplements That Actually Help {#supplements}
 
 Most supplements are marketing, not science. But a few have solid evidence for muscle preservation during weight loss.
 
@@ -352,7 +373,9 @@ If you're struggling to hit your protein target through food alone, a protein po
 
 ---
 
-<h2 id="how-to-monitor" class="h2-accent h2-accent--sky">How to Monitor Your Muscle During GLP-1 Treatment</h2>
+<p class="section-label">Treatment</p>
+
+## How to Monitor Your Muscle During GLP-1 Treatment {#how-to-monitor}
 
 You can't manage what you can't measure. Here are the tools, from most to least precise.
 
@@ -400,7 +423,9 @@ Waist circumference going down while thigh and arm circumference stays stable is
 
 ---
 
-<h2 id="slower-titration" class="h2-accent h2-accent--slate">The Slower Titration Strategy</h2>
+<p class="section-label">The Slower</p>
+
+## The Slower Titration Strategy {#slower-titration}
 
 The standard GLP-1 titration schedule increases your dose every 4 weeks to reach the target dose as quickly as possible. But there's growing recognition that slower titration may help preserve muscle.
 
@@ -426,7 +451,9 @@ These conversations are easier through telehealth platforms where you have ongoi
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications Affordably</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Medications Affordably {#how-to-get}
 
 <div class="callout callout--amber">
 

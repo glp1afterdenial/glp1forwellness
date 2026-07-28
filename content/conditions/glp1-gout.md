@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Gout: Can Weight Loss Lower Uric Acid and Flares?"
 date: 2026-07-20
-lastmod: 2026-07-20
+lastmod: 2026-07-28
 description: "Obesity doubles to triples gout risk, and weight loss lowers uric acid. New cohort data suggest GLP-1 users have fewer gout flares. What semaglutide and tirzepatide can (and can't) do for gout — plus affordable access options."
 summary: "Obesity doubles to triples gout risk, and weight loss lowers uric acid. New cohort data suggest GLP-1 users have fewer gout flares. What semaglutide and tirzepatide can (and can't) do for gout — plus affordable access options."
 keywords: ["GLP-1 gout", "semaglutide gout", "does Ozempic help gout", "tirzepatide uric acid", "weight loss gout flares", "obesity gout risk", "lower uric acid naturally", "GLP-1 uric acid", "gout flare weight loss", "Mounjaro gout", "affordable GLP-1 gout", "GLP-1 telehealth gout"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -89,21 +90,28 @@ keywords: ["GLP-1 gout", "semaglutide gout", "does Ozempic help gout", "tirzepat
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#obesity-gout" class="article-nav-pill">Weight & Gout</a>
-<a href="#evidence" class="article-nav-pill">The Evidence</a>
-<a href="#mechanisms" class="article-nav-pill">How It Works</a>
-<a href="#who-benefits" class="article-nav-pill">Who Benefits</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Obesity doubles to triples gout risk, and weight loss lowers uric acid.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#obesity-gout">Weight & Gout</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#evidence">The Evidence</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#mechanisms">How It Works</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#who-benefits">Who Benefits</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> Obesity roughly <strong>doubles to triples gout risk</strong>, and insulin resistance makes kidneys hold onto uric acid. Sustained weight loss lowers serum urate and flare frequency, and <strong>recent cohort studies (2024-2025) found fewer gout flares among GLP-1 users</strong> than similar patients on other drugs. Caveats: GLP-1s are <strong>not gout treatments</strong>, don't replace allopurinol, and <strong>rapid weight loss can transiently trigger flares</strong> early on. Gout rarely travels alone — the hypertension, prediabetes, or high cholesterol beside it usually qualifies you for GLP-1 therapy at BMI 27+, via telehealth from <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** Obesity roughly **doubles to triples gout risk**, and insulin resistance makes kidneys hold onto uric acid. Sustained weight loss lowers serum urate and flare frequency, and **recent cohort studies (2024-2025) found fewer gout flares among GLP-1 users** than similar patients on other drugs. Caveats: GLP-1s are **not gout treatments**, don't replace allopurinol, and **rapid weight loss can transiently trigger flares** early on. Gout rarely travels alone — the hypertension, prediabetes, or high cholesterol beside it usually qualifies you for GLP-1 therapy at BMI 27+, via telehealth from **$129/month**.
+
 </div>
 
 Gout has a branding problem. It's still joked about as the "disease of kings" — too much wine and rich food — when in reality it's a metabolic disease tightly wired to body weight, insulin resistance, and kidney function. That's why decades of "avoid purines" dietary advice disappoints so many patients: diet is only one input, and often not the biggest one.
@@ -112,7 +120,9 @@ The rise of GLP-1 medications has created new interest in treating gout's metabo
 
 ---
 
-<h2 id="obesity-gout" class="h2-accent h2-accent--amber">Why Excess Weight Drives Gout</h2>
+<p class="section-label">Why Excess</p>
+
+## Why Excess Weight Drives Gout {#obesity-gout}
 
 Gout happens when uric acid builds up in the blood (hyperuricemia) and crystallizes in joints — classically the big toe, but also ankles, knees, and hands. Excess weight pushes uric acid up from multiple directions:
 
@@ -132,7 +142,9 @@ The epidemiology matches: people with obesity have roughly **2-3x the gout risk*
 
 ---
 
-<h2 id="evidence" class="h2-accent h2-accent--blue">What the Evidence Shows</h2>
+<p class="section-label">The research</p>
+
+## What the Evidence Shows {#evidence}
 
 ### Weight loss lowers uric acid and flares
 
@@ -158,7 +170,9 @@ Direct GLP-1-and-gout research is younger, but pointing the same direction:
 
 ---
 
-<h2 id="mechanisms" class="h2-accent h2-accent--purple">How GLP-1s Help: The Mechanisms</h2>
+<p class="section-label">How it works</p>
+
+## How GLP-1s Help: The Mechanisms {#mechanisms}
 
 1. **Weight loss itself** — semaglutide averages ~15% body weight lost (STEP trials), tirzepatide ~21% (SURMOUNT-1). Less tissue mass means less urate production and less inflamed visceral fat.
 
@@ -172,7 +186,9 @@ Direct GLP-1-and-gout research is younger, but pointing the same direction:
 
 ---
 
-<h2 id="who-benefits" class="h2-accent">Who Is (and Isn't) a Good Candidate</h2>
+<p class="section-label">Who it's for</p>
+
+## Who Is (and Isn't) a Good Candidate {#who-benefits}
 
 **Most likely to benefit:**
 
@@ -195,7 +211,9 @@ Direct GLP-1-and-gout research is younger, but pointing the same direction:
 
 ---
 
-<h2 id="how-to-get" class="h2-accent h2-accent--amber">How to Get GLP-1 Treatment</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Treatment {#how-to-get}
 
 <div class="callout callout--amber">
 

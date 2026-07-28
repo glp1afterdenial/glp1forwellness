@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Mental Health: Depression, Anxiety & Brain Health (2026)"
 date: 2026-07-16
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "What the research says about GLP-1 medications and mental health — depression, anxiety, brain health, and Alzheimer's. Benefits, risks, suicidality concerns, and how to access treatment safely."
 summary: "What the research says about GLP-1 medications and mental health — depression, anxiety, brain health, and Alzheimer's. Benefits, risks, suicidality concerns, and how to access treatment safely."
 keywords: ["GLP-1 mental health", "semaglutide depression", "GLP-1 anxiety", "Ozempic mental health", "GLP-1 brain health", "semaglutide Alzheimer's", "GLP-1 suicidality", "tirzepatide depression", "GLP-1 neuroprotection", "weight loss medication mental health", "GLP-1 dopamine", "Wegovy depression risk"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -97,15 +98,25 @@ keywords: ["GLP-1 mental health", "semaglutide depression", "GLP-1 anxiety", "Oz
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#research" class="article-nav-pill article-nav-pill--active">Research</a>
-<a href="#brain" class="article-nav-pill">Brain Science</a>
-<a href="#risks" class="article-nav-pill">Risks</a>
-<a href="#alzheimers" class="article-nav-pill">Alzheimer's</a>
-<a href="#which-glp1" class="article-nav-pill">Which GLP-1</a>
-<a href="#access" class="article-nav-pill">Access</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">What the research says about GLP-1 medications and mental health — depression, anxiety, brain health, and Alzheimer's.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#research">Research</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#brain">Brain Science</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#risks">Risks</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#alzheimers">Alzheimer's</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#which-glp1">Which GLP-1</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#access">Access</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div class="tldr-box">
 <div class="tldr-box__row">
@@ -127,7 +138,9 @@ This article breaks down both the potential benefits and the real risks, because
 
 ---
 
-<h2 id="research" class="h2-accent">What the Research Says: GLP-1s and Depression/Anxiety</h2>
+<p class="section-label">The research</p>
+
+## What the Research Says: GLP-1s and Depression/Anxiety {#research}
 
 The largest and most cited study on this topic is a **2024 analysis published in *The Lancet Psychiatry*** that examined health records of over 1.6 million patients. The key findings:
 
@@ -166,7 +179,9 @@ The bottom line: **population-level data is encouraging, but individual experien
 
 ---
 
-<h2 id="brain" class="h2-accent h2-accent--purple">GLP-1 Receptors in the Brain: Why This Makes Biological Sense</h2>
+<p class="section-label">GLP-1 Receptors</p>
+
+## GLP-1 Receptors in the Brain: Why This Makes Biological Sense {#brain}
 
 GLP-1 receptors aren't just in your gut and pancreas. They're found throughout the brain, including regions critical to mental health:
 
@@ -207,7 +222,9 @@ In many patients, it may be impossible to separate the direct neurological effec
 
 ---
 
-<h2 id="risks" class="h2-accent h2-accent--red">Risks, Side Effects & the Suicidality Question</h2>
+<p class="section-label">Side effects</p>
+
+## Risks, Side Effects & the Suicidality Question {#risks}
 
 This section requires honesty and care. There are real concerns, and dismissing them serves no one.
 
@@ -260,7 +277,9 @@ Several mechanisms could explain why a minority of patients experience worsened 
 
 ---
 
-<h2 id="alzheimers" class="h2-accent h2-accent--blue">GLP-1s and Alzheimer's: The Neuroprotection Research</h2>
+<p class="section-label">The research</p>
+
+## GLP-1s and Alzheimer's: The Neuroprotection Research {#alzheimers}
 
 Beyond mood disorders, some of the most exciting GLP-1 research involves **neurodegenerative diseases**, particularly Alzheimer's disease.
 
@@ -294,7 +313,9 @@ GLP-1 receptor agonists are also being studied for **Parkinson's disease**:
 
 ---
 
-<h2 id="which-glp1" class="h2-accent h2-accent--amber">Which GLP-1 for Mental Health Considerations?</h2>
+<p class="section-label">Which GLP-1</p>
+
+## Which GLP-1 for Mental Health Considerations? {#which-glp1}
 
 No GLP-1 medication is FDA-approved for mental health, but there are some differences worth noting:
 
@@ -324,7 +345,9 @@ Always provide your full medication list to both your prescribing provider and y
 
 ---
 
-<h2 id="access" class="h2-accent h2-accent--sky">How to Access GLP-1 Medications for Mental Health Support</h2>
+<p class="section-label">Interactions</p>
+
+## How to Access GLP-1 Medications for Mental Health Support {#access}
 
 Here is the reality: **GLP-1 medications are not covered by insurance for mental health conditions.** They are only approved for type 2 diabetes and chronic weight management. If you want to explore GLP-1 medications for their potential mental health benefits alongside weight management, telehealth platforms offer the most accessible path.
 

@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Cancer Risk: What the 2025-2026 Studies Show"
 date: 2026-07-26
-lastmod: 2026-07-26
+lastmod: 2026-07-28
 description: "Large studies show GLP-1 users have 17-41% lower cancer risk — including 30% lower breast cancer, 58% lower endometrial cancer. What the research shows, what it means, and what it doesn't prove yet."
 summary: "Large studies show GLP-1 users have 17-41% lower cancer risk — including 30% lower breast cancer, 58% lower endometrial cancer. What the research shows, what it means, and what it doesn't prove yet."
 keywords: ["GLP-1 cancer risk", "semaglutide cancer prevention", "Ozempic cancer", "does Ozempic prevent cancer", "GLP-1 breast cancer", "tirzepatide cancer risk", "obesity cancer risk", "weight loss cancer prevention", "GLP-1 endometrial cancer", "semaglutide colon cancer", "GLP-1 anti-inflammatory cancer"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -89,21 +90,28 @@ keywords: ["GLP-1 cancer risk", "semaglutide cancer prevention", "Ozempic cancer
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#the-data" class="article-nav-pill">The Data</a>
-<a href="#mechanisms" class="article-nav-pill">Why It Happens</a>
-<a href="#thyroid" class="article-nav-pill">Thyroid Concern</a>
-<a href="#who-benefits" class="article-nav-pill">Who Benefits</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Large studies show GLP-1 users have 17-41% lower cancer risk — including 30% lower breast cancer, 58% lower endometri...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#the-data">The Data</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#mechanisms">Why It Happens</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#thyroid">Thyroid Concern</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#who-benefits">Who Benefits</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> Multiple large studies (2025-2026) show GLP-1 users have significantly lower cancer rates: <strong>17% lower overall, 41% lower for obesity-related cancers, 30% lower breast cancer, 58% lower endometrial cancer</strong>. Men with obesity on GLP-1s saw nearly 70% lower obesity-related cancer risk. ASCO 2026 data showed these drugs cut cancer risk <strong>more than diet and exercise alone</strong> — suggesting mechanisms beyond weight loss (anti-inflammatory effects, reduced insulin/IGF-1). Caveat: this is observational data, not a randomized cancer prevention trial. GLP-1s are not prescribed for cancer prevention, but the signal is large enough to be a compelling bonus for anyone already qualifying for treatment.</span>
-</div>
+
+**TL;DR:** Multiple large studies (2025-2026) show GLP-1 users have significantly lower cancer rates: **17% lower overall, 41% lower for obesity-related cancers, 30% lower breast cancer, 58% lower endometrial cancer**. Men with obesity on GLP-1s saw nearly 70% lower obesity-related cancer risk. ASCO 2026 data showed these drugs cut cancer risk **more than diet and exercise alone** — suggesting mechanisms beyond weight loss (anti-inflammatory effects, reduced insulin/IGF-1). Caveat: this is observational data, not a randomized cancer prevention trial. GLP-1s are not prescribed for cancer prevention, but the signal is large enough to be a compelling bonus for anyone already qualifying for treatment.
+
 </div>
 
 Cancer is obesity's quietest consequence. Excess body fat is now recognized as a risk factor for at least 13 cancer types — endometrial, breast (post-menopausal), colon, kidney, liver, pancreatic, and more. The mechanisms are well-established: chronic inflammation, elevated insulin and IGF-1 (growth signals that tumor cells exploit), and excess estrogen production from fat tissue.
@@ -112,7 +120,9 @@ GLP-1 medications entered this picture as weight-loss drugs. But the cancer data
 
 ---
 
-<h2 id="the-data" class="h2-accent h2-accent--amber">What the Studies Show</h2>
+<p class="section-label">The research</p>
+
+## What the Studies Show {#the-data}
 
 **JAMA Oncology, August 2025 (Dai et al.)**
 - Adults with obesity prescribed GLP-1 medications had **17% lower overall cancer risk** compared to matched nonusers
@@ -140,7 +150,9 @@ GLP-1 medications entered this picture as weight-loss drugs. But the cancer data
 
 ---
 
-<h2 id="mechanisms" class="h2-accent h2-accent--amber">Why GLP-1s Might Reduce Cancer Risk</h2>
+<p class="section-label">Side effects</p>
+
+## Why GLP-1s Might Reduce Cancer Risk {#mechanisms}
 
 Three pathways likely work together:
 
@@ -163,7 +175,9 @@ The ASCO 2026 finding — that GLP-1 drugs outperformed equivalent weight loss f
 
 ---
 
-<h2 id="thyroid" class="h2-accent h2-accent--amber">The Thyroid Cancer Question</h2>
+<p class="section-label">The Thyroid</p>
+
+## The Thyroid Cancer Question {#thyroid}
 
 Every GLP-1 medication carries a boxed warning about thyroid C-cell tumors. This causes justified concern. Here's the full picture:
 
@@ -176,7 +190,9 @@ Every GLP-1 medication carries a boxed warning about thyroid C-cell tumors. This
 
 ---
 
-<h2 id="who-benefits" class="h2-accent h2-accent--amber">Who Benefits Most</h2>
+<p class="section-label">Benefits</p>
+
+## Who Benefits Most {#who-benefits}
 
 The cancer risk reduction is largest for people with:
 
@@ -190,7 +206,9 @@ The cancer risk reduction is largest for people with:
 
 ---
 
-<h2 id="how-to-get" class="h2-accent h2-accent--amber">How to Get GLP-1 Treatment</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Treatment {#how-to-get}
 
 <div class="callout callout--amber">
 

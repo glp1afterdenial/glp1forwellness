@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications & Fatty Liver Disease (NAFLD/MASH): What the Research Shows"
 date: 2026-07-16
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "Semaglutide is now FDA-approved for MASH with liver fibrosis. Learn how GLP-1 medications reduce liver fat, inflammation, and scarring — plus how to access treatment with or without insurance."
 summary: "Semaglutide is now FDA-approved for MASH with liver fibrosis. Learn how GLP-1 medications reduce liver fat, inflammation, and scarring — plus how to access treatment with or without insurance."
 keywords: ["GLP-1 fatty liver", "semaglutide MASH", "semaglutide NAFLD", "GLP-1 liver disease", "MASH treatment 2025", "fatty liver medication", "semaglutide liver fibrosis", "ESSENCE trial semaglutide", "GLP-1 hepatic steatosis", "NAFLD treatment options", "semaglutide FDA approval MASH"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,15 +106,25 @@ keywords: ["GLP-1 fatty liver", "semaglutide MASH", "semaglutide NAFLD", "GLP-1 
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#what-is-fatty-liver" class="article-nav-pill">What Is It</a>
-<a href="#how-glp1s-help" class="article-nav-pill article-nav-pill--active">How GLP-1s Help</a>
-<a href="#research" class="article-nav-pill">Research</a>
-<a href="#fda-approval" class="article-nav-pill">FDA Approval</a>
-<a href="#insurance" class="article-nav-pill">Insurance</a>
-<a href="#access" class="article-nav-pill">How to Access</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Semaglutide is now FDA-approved for MASH with liver fibrosis.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#what-is-fatty-liver">What Is It</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-glp1s-help">How GLP-1s Help</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#research">Research</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#fda-approval">FDA Approval</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#insurance">Insurance</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#access">How to Access</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div class="tldr-box">
 <strong class="tx-blue">TL;DR</strong>
@@ -139,7 +150,9 @@ Here's what the science actually shows and what your real options are.
 
 ---
 
-<h2 id="what-is-fatty-liver" class="h2-accent h2-accent--amber">What Is Fatty Liver Disease?</h2>
+<p class="section-label">The basics</p>
+
+## What Is Fatty Liver Disease? {#what-is-fatty-liver}
 
 Fatty liver disease is exactly what it sounds like: too much fat stored in your liver cells. Your liver naturally contains some fat, but when fat makes up more than 5-10% of the liver's weight, it crosses into disease territory.
 
@@ -184,7 +197,9 @@ Not everyone progresses. Many people with simple NAFLD stay at that stage foreve
 
 ---
 
-<h2 id="how-glp1s-help" class="h2-accent">How GLP-1 Medications Help the Liver</h2>
+<p class="section-label">Interactions</p>
+
+## How GLP-1 Medications Help the Liver {#how-glp1s-help}
 
 GLP-1 receptor agonists like semaglutide don't just help with weight loss -- they appear to benefit the liver through multiple distinct pathways. This is important because the liver improvements seen in clinical trials go beyond what weight loss alone would predict.
 
@@ -205,7 +220,9 @@ The combination of these effects is what makes GLP-1s particularly promising for
 
 ---
 
-<h2 id="research" class="h2-accent h2-accent--blue">What the Research Shows</h2>
+<p class="section-label">The research</p>
+
+## What the Research Shows {#research}
 
 The evidence base for GLP-1s and liver disease has grown rapidly. Here are the key studies:
 
@@ -249,7 +266,9 @@ Tirzepatide, the dual GIP/GLP-1 agonist, has also shown liver benefits in clinic
 
 ---
 
-<h2 id="fda-approval" class="h2-accent h2-accent--purple">The FDA Approval: What It Means</h2>
+<p class="section-label">The FDA</p>
+
+## The FDA Approval: What It Means {#fda-approval}
 
 In **August 2025**, the FDA approved semaglutide 2.4mg (marketed as Wegovy) for the treatment of MASH with moderate-to-advanced liver fibrosis (stages F2-F3). Here's why this matters:
 
@@ -274,7 +293,9 @@ In **August 2025**, the FDA approved semaglutide 2.4mg (marketed as Wegovy) for 
 
 ---
 
-<h2 id="insurance" class="h2-accent">Insurance Coverage: Better Than You Might Expect</h2>
+<p class="section-label">Benefits</p>
+
+## Insurance Coverage: Better Than You Might Expect {#insurance}
 
 Here's the genuinely good news. If you've followed the GLP-1 conversation at all, you know that insurance coverage for these medications has been a nightmare for most people. Weight loss indications are routinely denied. Prior authorizations are byzantine. Appeals go nowhere.
 
@@ -307,7 +328,9 @@ To maximize your chances of getting insurance to cover semaglutide for MASH:
 
 ---
 
-<h2 id="safety" class="h2-accent h2-accent--red">Safety Considerations for Liver Patients</h2>
+<p class="section-label">Safety</p>
+
+## Safety Considerations for Liver Patients {#safety}
 
 If you have liver disease, safety questions around any new medication are especially important. Here's what you should know:
 
@@ -328,7 +351,9 @@ If you have liver disease, safety questions around any new medication are especi
 
 ---
 
-<h2 id="which-glp1" class="h2-accent h2-accent--sky">Which GLP-1 Medication for Liver Disease?</h2>
+<p class="section-label">Interactions</p>
+
+## Which GLP-1 Medication for Liver Disease? {#which-glp1}
 
 <div class="callout">
 
@@ -347,7 +372,9 @@ If you have fatty liver concerns but don't have a formal MASH diagnosis, or if i
 
 ---
 
-<h2 id="access" class="h2-accent">How to Access GLP-1 Medications</h2>
+<p class="section-label">Interactions</p>
+
+## How to Access GLP-1 Medications {#access}
 
 You have two main paths, and they're not mutually exclusive:
 

@@ -1,10 +1,11 @@
 ---
 title: "Lupus and GLP-1s: Can Semaglutide Help With Inflammation and Weight Gain?"
 date: 2026-07-16
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "Living with lupus and struggling with prednisone weight gain? Here's what the research says about GLP-1 medications for lupus patients — anti-inflammatory effects, safety, and how to access them affordably."
 summary: "Living with lupus and struggling with prednisone weight gain? Here's what the research says about GLP-1 medications for lupus patients — anti-inflammatory effects, safety, and how to access them affordably."
 keywords: ["lupus ozempic", "lupus semaglutide", "glp-1 lupus", "lupus weight gain", "prednisone weight gain", "can I take ozempic with lupus", "semaglutide lupus inflammation", "lupus tirzepatide", "lupus weight loss", "glp-1 autoimmune disease", "ozempic lupus nephritis", "semaglutide anti-inflammatory"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,14 +106,21 @@ keywords: ["lupus ozempic", "lupus semaglutide", "glp-1 lupus", "lupus weight ga
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--blue">Quick Answer</a>
-<a href="#why-weight-loss-hard" class="article-nav-pill">Why It's Hard</a>
-<a href="#research" class="article-nav-pill">Research</a>
-<a href="#safety" class="article-nav-pill">Safety</a>
-<a href="#how-to-get" class="article-nav-pill article-nav-pill--active">How to Get It</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Living with lupus and struggling with prednisone weight gain? Here's what the research says about GLP-1 medications f...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#why-weight-loss-hard">Why It's Hard</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#research">Research</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#safety">Safety</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get It</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="callout callout--study">
 <h4 class="h-blue">The Short Answer</h4>
@@ -129,7 +137,9 @@ You've heard that GLP-1 medications like Ozempic and Wegovy can help with weight
 
 ---
 
-<h2 id="why-weight-loss-hard" class="h2-accent h2-accent--amber">Why Weight Loss Is So Hard With Lupus</h2>
+<p class="section-label">Why Weight</p>
+
+## Why Weight Loss Is So Hard With Lupus {#why-weight-loss-hard}
 
 It's not you. It's not a lack of willpower. Lupus creates a perfect storm of factors that make weight management genuinely harder than it is for most people.
 
@@ -155,7 +165,9 @@ This is why GLP-1 medications are so promising for lupus patients. They don't ju
 
 ---
 
-<h2 id="how-glp1s-help" class="h2-accent">How GLP-1 Medications Help Lupus Patients</h2>
+<p class="section-label">Interactions</p>
+
+## How GLP-1 Medications Help Lupus Patients {#how-glp1s-help}
 
 GLP-1s do more than help you lose weight. They have direct anti-inflammatory effects that are particularly relevant for autoimmune conditions like lupus.
 
@@ -190,7 +202,9 @@ GLP-1s do more than help you lose weight. They have direct anti-inflammatory eff
 
 ---
 
-<h2 id="research" class="h2-accent h2-accent--blue">What the Research Says</h2>
+<p class="section-label">The research</p>
+
+## What the Research Says {#research}
 
 The research on GLP-1s in lupus patients is still early, but the results so far are striking.
 
@@ -243,7 +257,9 @@ The research on GLP-1s in lupus patients is still early, but the results so far 
 
 ---
 
-<h2 id="safety" class="h2-accent h2-accent--red">Safety: What Lupus Patients Need to Know</h2>
+<p class="section-label">Safety</p>
+
+## Safety: What Lupus Patients Need to Know {#safety}
 
 <div class="callout callout--green">
 <h4 class="h-green">The good news</h4>
@@ -276,7 +292,9 @@ The research on GLP-1s in lupus patients is still early, but the results so far 
 
 ---
 
-<h2 id="which-glp1" class="h2-accent h2-accent--purple">Which GLP-1 Is Best for Lupus?</h2>
+<p class="section-label">Which GLP-1</p>
+
+## Which GLP-1 Is Best for Lupus? {#which-glp1}
 
 <div class="callout table-wrap">
 
@@ -295,7 +313,9 @@ The research on GLP-1s in lupus patients is still early, but the results so far 
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get GLP-1s for Lupus (Through Telehealth)</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1s for Lupus (Through Telehealth) {#how-to-get}
 
 Insurance almost never covers GLP-1s for lupus — it's not an FDA-approved indication. In the NYU study, **50% of patients were initially denied**. Telehealth with compounded semaglutide is the fastest, most reliable path.
 

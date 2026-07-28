@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Fertility: 'Ozempic Babies,' PCOS, and What You Need to Know"
 date: 2026-07-26
-lastmod: 2026-07-26
+lastmod: 2026-07-28
 description: "GLP-1 medications like semaglutide are restoring ovulation in women with PCOS and obesity — leading to unexpected 'Ozempic babies.' How GLP-1s affect fertility, when to stop before pregnancy, and birth control interactions."
 summary: "GLP-1 medications like semaglutide are restoring ovulation in women with PCOS and obesity — leading to unexpected 'Ozempic babies.' How GLP-1s affect fertility, when to stop before pregnancy, and birth control interactions."
 keywords: ["Ozempic babies", "GLP-1 fertility", "semaglutide pregnancy", "semaglutide fertility", "Ozempic PCOS fertility", "tirzepatide pregnancy", "GLP-1 ovulation", "weight loss fertility", "semaglutide birth control", "GLP-1 trying to conceive", "Ozempic unplanned pregnancy", "stop Ozempic before pregnancy"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -89,21 +90,28 @@ keywords: ["Ozempic babies", "GLP-1 fertility", "semaglutide pregnancy", "semagl
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#ozempic-babies" class="article-nav-pill">Ozempic Babies</a>
-<a href="#how-it-works" class="article-nav-pill">How It Works</a>
-<a href="#birth-control" class="article-nav-pill">Birth Control</a>
-<a href="#trying-to-conceive" class="article-nav-pill">Trying to Conceive</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">GLP-1 medications like semaglutide are restoring ovulation in women with PCOS and obesity — leading to unexpected 'Oz...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#ozempic-babies">Ozempic Babies</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-it-works">How It Works</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#birth-control">Birth Control</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#trying-to-conceive">Trying to Conceive</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> GLP-1 medications restore ovulation by <strong>fixing insulin resistance and reducing body weight</strong> — the two biggest barriers to fertility in women with PCOS and obesity. This has led to a wave of unexpected <strong>"Ozempic babies"</strong> in women who thought they couldn't conceive. Critical safety info: <strong>stop semaglutide 2 months before planned pregnancy</strong>, switch to non-oral birth control during GLP-1 dose changes (pills may absorb poorly), and if you discover an unplanned pregnancy, stop immediately. GLP-1s are <strong>not fertility drugs</strong> — but they remove the metabolic barriers that were preventing fertility.</span>
-</div>
+
+**TL;DR:** GLP-1 medications restore ovulation by **fixing insulin resistance and reducing body weight** — the two biggest barriers to fertility in women with PCOS and obesity. This has led to a wave of unexpected **"Ozempic babies"** in women who thought they couldn't conceive. Critical safety info: **stop semaglutide 2 months before planned pregnancy**, switch to non-oral birth control during GLP-1 dose changes (pills may absorb poorly), and if you discover an unplanned pregnancy, stop immediately. GLP-1s are **not fertility drugs** — but they remove the metabolic barriers that were preventing fertility.
+
 </div>
 
 The "Ozempic baby" phenomenon caught the medical world off guard — and caught many patients even more off guard. Women who'd been told they might need IVF, who'd struggled for years, who weren't even trying, suddenly found themselves pregnant within months of starting a GLP-1 medication.
@@ -112,7 +120,9 @@ This isn't a side effect. It's a restoration of normal function that obesity and
 
 ---
 
-<h2 id="ozempic-babies" class="h2-accent h2-accent--amber">The "Ozempic Babies" Phenomenon</h2>
+<p class="section-label">The "Ozempic</p>
+
+## The "Ozempic Babies" Phenomenon {#ozempic-babies}
 
 Starting in late 2024 and accelerating through 2025-2026, clinicians and social media filled with reports of unexpected pregnancies in GLP-1 users. The pattern:
 
@@ -129,7 +139,9 @@ This isn't a fluke or coincidence — it's the predictable result of fixing the 
 
 ---
 
-<h2 id="how-it-works" class="h2-accent h2-accent--amber">How GLP-1s Restore Fertility</h2>
+<p class="section-label">Fertility</p>
+
+## How GLP-1s Restore Fertility {#how-it-works}
 
 GLP-1 medications aren't fertility drugs — they don't stimulate the ovaries directly like Clomid or gonadotropins. They work upstream, fixing the metabolic problems that were *preventing* normal ovarian function:
 
@@ -160,7 +172,9 @@ GLP-1 medications aren't fertility drugs — they don't stimulate the ovaries di
 
 ---
 
-<h2 id="birth-control" class="h2-accent h2-accent--amber">GLP-1s and Birth Control: A Double Problem</h2>
+<p class="section-label">GLP-1s and</p>
+
+## GLP-1s and Birth Control: A Double Problem {#birth-control}
 
 If you're on a GLP-1 and don't want to get pregnant, you face a two-sided issue:
 
@@ -181,7 +195,9 @@ If you're on a GLP-1 and don't want to get pregnant, you face a two-sided issue:
 
 ---
 
-<h2 id="trying-to-conceive" class="h2-accent h2-accent--amber">If You're Trying to Conceive</h2>
+<p class="section-label">If You're</p>
+
+## If You're Trying to Conceive {#trying-to-conceive}
 
 For women who *want* the fertility benefit, here's the approach most reproductive endocrinologists recommend:
 
@@ -208,7 +224,9 @@ For women who *want* the fertility benefit, here's the approach most reproductiv
 
 ---
 
-<h2 id="how-to-get" class="h2-accent h2-accent--amber">How to Get GLP-1 Treatment</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Treatment {#how-to-get}
 
 <div class="callout callout--amber">
 
@@ -257,7 +275,9 @@ For women who *want* the fertility benefit, here's the approach most reproductiv
 
 ---
 
-<h2 id="faq" class="h2-accent h2-accent--slate">Frequently Asked Questions</h2>
+<p class="section-label">FAQ</p>
+
+## Frequently Asked Questions {#faq}
 
 <div class="callout">
 
@@ -313,7 +333,9 @@ Not "instead of" — potentially "before." If your infertility is driven by obes
 
 ---
 
-<h2 class="h2-accent">Related Guides</h2>
+<p class="section-label">Keep reading</p>
+
+## Related Guides
 
 <div class="related-grid">
 <a href="/conditions/glp1-pcos/" class="link-card">GLP-1s & PCOS: Insulin Resistance, Cycles, and Androgens <span class="tx-green">→</span></a>

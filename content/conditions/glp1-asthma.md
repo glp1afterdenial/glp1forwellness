@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Asthma: Airway Inflammation, COPD, and Respiratory Benefits"
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "Emerging research shows GLP-1 medications like semaglutide may reduce asthma risk by 14-18%, decrease COPD exacerbations, and directly target airway inflammation through GLP-1 receptors in the lungs. Learn about the obesity-asthma connection and affordable access."
 summary: "Emerging research shows GLP-1 medications like semaglutide may reduce asthma risk by 14-18%, decrease COPD exacerbations, and directly target airway inflammation through GLP-1 receptors in the lungs. Learn about the obesity-asthma connection and affordable access."
 keywords: ["GLP-1 for asthma", "semaglutide asthma research", "GLP-1 COPD exacerbations", "semaglutide airway inflammation", "GLP-1 receptors in lungs", "obesity asthma phenotype", "tirzepatide respiratory benefits", "GLP-1 eosinophilic inflammation", "semaglutide breathing improvement", "GATA-3 semaglutide trial", "compounded semaglutide for asthma", "affordable GLP-1 respiratory"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,24 +106,34 @@ keywords: ["GLP-1 for asthma", "semaglutide asthma research", "GLP-1 COPD exacer
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#obesity-asthma" class="article-nav-pill">Obesity-Asthma Link</a>
-<a href="#weight-breathing" class="article-nav-pill">Weight & Breathing</a>
-<a href="#receptors-in-lungs" class="article-nav-pill">GLP-1 in Lungs</a>
-<a href="#how-glp1s-help" class="article-nav-pill">How GLP-1s Help</a>
-<a href="#copd" class="article-nav-pill">COPD</a>
-<a href="#research" class="article-nav-pill">Research</a>
-<a href="#safety" class="article-nav-pill">Safety</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Emerging research shows GLP-1 medications like semaglutide may reduce asthma risk by 14-18%, decrease COPD exacerbati...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#obesity-asthma">Obesity-Asthma Link</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#weight-breathing">Weight & Breathing</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#receptors-in-lungs">GLP-1 in Lungs</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-glp1s-help">How GLP-1s Help</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#copd">COPD</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#research">Research</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#safety">Safety</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> GLP-1 medications like semaglutide are showing unexpected promise for respiratory conditions. Research shows they <strong>reduce the risk of respiratory diseases by 14-18%</strong>, and semaglutide is associated with decreased asthma risk in observational studies. The mechanism goes beyond weight loss — <strong>GLP-1 receptors exist directly in lung tissue</strong>, suggesting these drugs can reduce airway inflammation at the source. The GATA-3 trial is currently testing semaglutide in symptomatic asthma patients. GLP-1s are not FDA-approved for asthma or COPD, but telehealth platforms offer affordable access starting at <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** GLP-1 medications like semaglutide are showing unexpected promise for respiratory conditions. Research shows they **reduce the risk of respiratory diseases by 14-18%**, and semaglutide is associated with decreased asthma risk in observational studies. The mechanism goes beyond weight loss — **GLP-1 receptors exist directly in lung tissue**, suggesting these drugs can reduce airway inflammation at the source. The GATA-3 trial is currently testing semaglutide in symptomatic asthma patients. GLP-1s are not FDA-approved for asthma or COPD, but telehealth platforms offer affordable access starting at **$129/month**.
+
 </div>
 
 More than **25 million Americans** have asthma. Over **16 million** have COPD. And for millions of people living with these conditions, there's a frustrating overlap that rarely gets the attention it deserves: the relationship between excess weight and breathing difficulty.
@@ -135,7 +146,9 @@ Here's what we know so far.
 
 ---
 
-<h2 id="obesity-asthma" class="h2-accent h2-accent--amber">The Obesity-Asthma Connection: A Recognized Medical Phenotype</h2>
+<p class="section-label">Interactions</p>
+
+## The Obesity-Asthma Connection: A Recognized Medical Phenotype {#obesity-asthma}
 
 The relationship between obesity and asthma is not coincidental. It is so well-established that pulmonologists now recognize a distinct clinical subtype called the **obesity-asthma phenotype**. This is not just "asthma in someone who happens to be overweight." It is a specific pattern where excess weight actively drives and worsens airway disease.
 
@@ -156,7 +169,9 @@ Not every person with asthma has weight-related breathing problems, and not ever
 
 ---
 
-<h2 id="weight-breathing" class="h2-accent h2-accent--red">How Weight Affects Breathing: The Mechanics and The Inflammation</h2>
+<p class="section-label">How Weight</p>
+
+## How Weight Affects Breathing: The Mechanics and The Inflammation {#weight-breathing}
 
 Excess weight compromises respiratory function through two distinct pathways, and understanding both is key to understanding why GLP-1 medications are relevant.
 
@@ -192,7 +207,9 @@ These inflammatory pathways mean that obesity doesn't just squeeze the lungs mec
 
 ---
 
-<h2 id="receptors-in-lungs" class="h2-accent">GLP-1 Receptors in the Lungs: A Direct Pathway</h2>
+<p class="section-label">GLP-1 Receptors</p>
+
+## GLP-1 Receptors in the Lungs: A Direct Pathway {#receptors-in-lungs}
 
 Here's the discovery that changes the conversation entirely: **GLP-1 receptors are present in lung tissue**. They've been identified in alveolar cells, airway epithelial cells, and smooth muscle cells in the respiratory tract.
 
@@ -216,7 +233,9 @@ This is analogous to the discovery of GLP-1 receptors in heart tissue, which hel
 
 ---
 
-<h2 id="how-glp1s-help" class="h2-accent h2-accent--blue">How GLP-1 Medications May Help Asthma</h2>
+<p class="section-label">Interactions</p>
+
+## How GLP-1 Medications May Help Asthma {#how-glp1s-help}
 
 Given the obesity-asthma connection and the presence of GLP-1 receptors in the lungs, here's how GLP-1 medications appear to improve respiratory outcomes through multiple pathways.
 
@@ -254,7 +273,9 @@ This is the most novel pathway and the focus of ongoing research:
 
 ---
 
-<h2 id="copd" class="h2-accent h2-accent--purple">COPD: The Emerging Evidence</h2>
+<p class="section-label">The research</p>
+
+## COPD: The Emerging Evidence {#copd}
 
 While asthma gets the most attention in GLP-1 respiratory research, COPD — chronic obstructive pulmonary disease — is showing equally interesting signals. With over **16 million Americans** diagnosed with COPD (and millions more undiagnosed), this is a massive public health concern.
 
@@ -286,7 +307,9 @@ The relationship between weight and COPD is more complex than with asthma. While
 
 ---
 
-<h2 id="research" class="h2-accent h2-accent--sky">The Research: What We Know and What's Coming</h2>
+<p class="section-label">The research</p>
+
+## The Research: What We Know and What's Coming {#research}
 
 Let's look at the specific evidence and ongoing trials.
 
@@ -332,7 +355,9 @@ The breadth of GLP-1 receptor expression in the lungs suggests that these medica
 
 ---
 
-<h2 id="safety" class="h2-accent h2-accent--purple">Safety: Inhalers, Medications, and What to Watch</h2>
+<p class="section-label">Safety</p>
+
+## Safety: Inhalers, Medications, and What to Watch {#safety}
 
 For people with asthma or COPD considering GLP-1 medications, there are specific safety considerations beyond the standard GLP-1 side effect profile.
 
@@ -388,7 +413,9 @@ Gastroesophageal reflux disease (GERD) is a common asthma trigger. GLP-1 medicat
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications for Respiratory Improvement</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Medications for Respiratory Improvement {#how-to-get}
 
 <div class="callout callout--amber">
 

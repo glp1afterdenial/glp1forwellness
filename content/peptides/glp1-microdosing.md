@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Microdosing: Lower Doses, Fewer Side Effects, Same Benefits?"
 date: 2026-07-26
-lastmod: 2026-07-27
+lastmod: 2026-07-28
 description: "GLP-1 microdosing uses lower semaglutide or tirzepatide doses for gentler weight loss with fewer side effects. Who it's for, how protocols work, what research supports it, and where to get it from $139/month."
 summary: "GLP-1 microdosing uses lower semaglutide or tirzepatide doses for gentler weight loss with fewer side effects. Who it's for, how protocols work, what research supports it, and where to get it from $139/month."
 keywords: ["GLP-1 microdosing", "semaglutide low dose", "microdose Ozempic", "semaglutide side effects", "GLP-1 lower dose", "semaglutide maintenance dose", "tirzepatide microdose", "GLP-1 tolerability", "GLP-1 without nausea", "semaglutide half dose", "compounded semaglutide microdose", "affordable GLP-1"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -89,21 +90,28 @@ keywords: ["GLP-1 microdosing", "semaglutide low dose", "microdose Ozempic", "se
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#what-is-it" class="article-nav-pill">What Is It</a>
-<a href="#who-its-for" class="article-nav-pill">Who It's For</a>
-<a href="#evidence" class="article-nav-pill">The Evidence</a>
-<a href="#protocols" class="article-nav-pill">Protocols</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">GLP-1 microdosing uses lower semaglutide or tirzepatide doses for gentler weight loss with fewer side effects.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#what-is-it">What Is It</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#who-its-for">Who It's For</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#evidence">The Evidence</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#protocols">Protocols</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> GLP-1 microdosing means using semaglutide or tirzepatide at <strong>lower-than-standard doses</strong> — either as a gentler starting ramp or as a long-term maintenance strategy. You trade maximum weight loss for <strong>dramatically fewer side effects</strong> (nausea, GI issues). Research shows GLP-1 benefits are dose-dependent but <strong>even low doses produce meaningful appetite suppression and metabolic improvement</strong>. Best for: people sensitive to side effects, those needing only modest weight loss, and post-loss maintenance. Compounded microdosing options start at <strong>$139/month</strong>.</span>
-</div>
+
+**TL;DR:** GLP-1 microdosing means using semaglutide or tirzepatide at **lower-than-standard doses** — either as a gentler starting ramp or as a long-term maintenance strategy. You trade maximum weight loss for **dramatically fewer side effects** (nausea, GI issues). Research shows GLP-1 benefits are dose-dependent but **even low doses produce meaningful appetite suppression and metabolic improvement**. Best for: people sensitive to side effects, those needing only modest weight loss, and post-loss maintenance. Compounded microdosing options start at **$139/month**.
+
 </div>
 
 The standard GLP-1 narrative goes: start low, titrate up every 4 weeks, push to the maximum tolerated dose, lose 15-20% of body weight. It's effective. It also makes a lot of people miserable — nausea, vomiting, constipation, and fatigue are dose-dependent, and some people simply can't tolerate high doses.
@@ -112,7 +120,9 @@ Enter microdosing: the recognition that the "right" dose isn't always the highes
 
 ---
 
-<h2 id="what-is-it" class="h2-accent h2-accent--amber">What GLP-1 Microdosing Means</h2>
+<p class="section-label">Dosing</p>
+
+## What GLP-1 Microdosing Means {#what-is-it}
 
 There's no official clinical definition of "microdosing" a GLP-1. In practice, it means:
 
@@ -134,7 +144,9 @@ The philosophy: **find your minimum effective dose** — the amount that control
 
 ---
 
-<h2 id="who-its-for" class="h2-accent h2-accent--amber">Who GLP-1 Microdosing Is For</h2>
+<p class="section-label">Dosing</p>
+
+## Who GLP-1 Microdosing Is For {#who-its-for}
 
 **The side-effect sensitive**
 - People who've tried standard doses and couldn't tolerate the nausea or GI symptoms
@@ -158,7 +170,9 @@ The philosophy: **find your minimum effective dose** — the amount that control
 
 ---
 
-<h2 id="evidence" class="h2-accent h2-accent--amber">What the Research Shows</h2>
+<p class="section-label">The research</p>
+
+## What the Research Shows {#evidence}
 
 GLP-1 effects are **dose-dependent** — this is established:
 
@@ -176,7 +190,9 @@ Key insight from the data: **you don't need maximum dose for meaningful benefit.
 
 ---
 
-<h2 id="protocols" class="h2-accent h2-accent--amber">Common Microdosing Protocols</h2>
+<p class="section-label">Dosing</p>
+
+## Common Microdosing Protocols {#protocols}
 
 **Gentle ramp (for sensitive starters):**
 - Semaglutide: 0.125mg × 4-6 weeks → 0.25mg × 4-6 weeks → hold or advance only if needed
@@ -196,7 +212,9 @@ Key insight from the data: **you don't need maximum dose for meaningful benefit.
 
 ---
 
-<h2 id="how-to-get" class="h2-accent h2-accent--amber">How to Get GLP-1 Microdosing</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Microdosing {#how-to-get}
 
 <div class="callout callout--amber">
 

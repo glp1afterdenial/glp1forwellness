@@ -1,10 +1,11 @@
 ---
 title: "How GLP-1 Medications Fight Inflammation: The Science Behind the Benefits"
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "GLP-1 medications like semaglutide do far more than suppress appetite. They reduce TNF-alpha, IL-6, and IL-1-beta, suppress the NF-kB pathway, and promote anti-inflammatory macrophage polarization. Here's how the anti-inflammatory science works — and why it matters for conditions from arthritis to heart disease."
 summary: "GLP-1 medications like semaglutide do far more than suppress appetite. They reduce TNF-alpha, IL-6, and IL-1-beta, suppress the NF-kB pathway, and promote anti-inflammatory macrophage polarization. Here's how the anti-inflammatory science works — and why it matters for conditions from arthritis to heart disease."
 keywords: ["GLP-1 anti-inflammatory", "semaglutide inflammation", "GLP-1 NF-kB pathway", "GLP-1 TNF-alpha reduction", "GLP-1 IL-6", "GLP-1 macrophage polarization", "GLP-1 receptors immune cells", "semaglutide CRP reduction", "GLP-1 beyond weight loss", "GLP-1 immunomodulatory effects", "tirzepatide anti-inflammatory", "GLP-1 cytokine reduction"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,22 +106,30 @@ keywords: ["GLP-1 anti-inflammatory", "semaglutide inflammation", "GLP-1 NF-kB p
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#beyond-appetite" class="article-nav-pill">Beyond Appetite</a>
-<a href="#nfkb" class="article-nav-pill">NF-kB Pathway</a>
-<a href="#cytokines" class="article-nav-pill">Cytokines</a>
-<a href="#macrophages" class="article-nav-pill">Macrophages</a>
-<a href="#receptors" class="article-nav-pill">Where Receptors Are</a>
-<a href="#conditions" class="article-nav-pill">Conditions</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">GLP-1 medications like semaglutide do far more than suppress appetite.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#beyond-appetite">Beyond Appetite</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#nfkb">NF-kB Pathway</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#cytokines">Cytokines</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#macrophages">Macrophages</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#receptors">Where Receptors Are</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#conditions">Conditions</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> GLP-1 medications fight inflammation through at least four distinct mechanisms: <strong>suppressing the NF-kB pathway</strong> (the master switch for inflammation), <strong>reducing pro-inflammatory cytokines</strong> (TNF-alpha, IL-6, IL-1-beta), <strong>promoting M2 macrophage polarization</strong> (switching immune cells from attack to repair mode), and <strong>reducing oxidative stress</strong>. These effects happen through GLP-1 receptors found directly on immune cells — not just as a side effect of weight loss. CRP drops ~40% on semaglutide. This anti-inflammatory biology explains why GLP-1s show benefits for <strong>heart disease, arthritis, fatty liver, lupus, psoriasis, IBD, kidney disease, and mental health</strong>.</span>
-</div>
+
+**TL;DR:** GLP-1 medications fight inflammation through at least four distinct mechanisms: **suppressing the NF-kB pathway** (the master switch for inflammation), **reducing pro-inflammatory cytokines** (TNF-alpha, IL-6, IL-1-beta), **promoting M2 macrophage polarization** (switching immune cells from attack to repair mode), and **reducing oxidative stress**. These effects happen through GLP-1 receptors found directly on immune cells — not just as a side effect of weight loss. CRP drops ~40% on semaglutide. This anti-inflammatory biology explains why GLP-1s show benefits for **heart disease, arthritis, fatty liver, lupus, psoriasis, IBD, kidney disease, and mental health**.
+
 </div>
 
 When GLP-1 medications like semaglutide and tirzepatide made headlines, the story was simple: they suppress appetite, you eat less, you lose weight.
@@ -133,7 +142,9 @@ This article explains the science behind those anti-inflammatory mechanisms. Not
 
 ---
 
-<h2 id="beyond-appetite" class="h2-accent h2-accent--amber">Beyond Appetite Suppression: Why GLP-1s Affect So Many Conditions</h2>
+<p class="section-label">Beyond Appetite</p>
+
+## Beyond Appetite Suppression: Why GLP-1s Affect So Many Conditions {#beyond-appetite}
 
 To understand why a "weight loss drug" can help with heart disease, arthritis, fatty liver, and autoimmune conditions, you need to understand one key fact:
 
@@ -160,7 +171,9 @@ This receptor distribution is why a single medication can show benefits for such
 
 ---
 
-<h2 id="nfkb" class="h2-accent h2-accent--red">Mechanism 1: Suppressing the NF-kB Pathway</h2>
+<p class="section-label">How it works</p>
+
+## Mechanism 1: Suppressing the NF-kB Pathway {#nfkb}
 
 If inflammation is a fire, NF-kB is the match that lights it.
 
@@ -192,7 +205,9 @@ The result: GLP-1 medications don't just reduce one inflammatory molecule — th
 
 ---
 
-<h2 id="cytokines" class="h2-accent h2-accent--blue">Mechanism 2: Reducing Pro-Inflammatory Cytokines</h2>
+<p class="section-label">How it works</p>
+
+## Mechanism 2: Reducing Pro-Inflammatory Cytokines {#cytokines}
 
 Cytokines are the inflammatory messengers — small proteins that cells use to communicate "there's a problem here, send reinforcements." In chronic disease, the problem signal never stops.
 
@@ -236,7 +251,9 @@ GLP-1 medications reduce three cytokines that are central to chronic inflammatio
 
 ---
 
-<h2 id="macrophages" class="h2-accent">Mechanism 3: Macrophage Reprogramming (M1 to M2 Polarization)</h2>
+<p class="section-label">How it works</p>
+
+## Mechanism 3: Macrophage Reprogramming (M1 to M2 Polarization) {#macrophages}
 
 This mechanism may be the most important — and it's the one least discussed in popular media.
 
@@ -275,7 +292,9 @@ GLP-1 receptor agonists promote M2 macrophage polarization — essentially repro
 
 ---
 
-<h2 id="receptors" class="h2-accent h2-accent--purple">GLP-1 Receptors on Immune Cells: The Direct Pathway</h2>
+<p class="section-label">GLP-1 Receptors</p>
+
+## GLP-1 Receptors on Immune Cells: The Direct Pathway {#receptors}
 
 A critical question in GLP-1 research has been: are the anti-inflammatory effects just a downstream consequence of weight loss and metabolic improvement, or are they direct?
 
@@ -308,7 +327,9 @@ As GLP-1 medications reduce visceral fat, they remove a major ongoing source of 
 
 ---
 
-<h2 id="conditions" class="h2-accent h2-accent--sky">Why This Matters: Conditions Where GLP-1 Anti-Inflammatory Effects Are Relevant</h2>
+<p class="section-label">Why This</p>
+
+## Why This Matters: Conditions Where GLP-1 Anti-Inflammatory Effects Are Relevant {#conditions}
 
 The anti-inflammatory mechanisms described above explain why GLP-1 medications show benefits across a remarkably wide range of conditions. Here's how the science connects:
 
@@ -355,7 +376,9 @@ This trial was the basis for Wegovy's FDA approval for cardiovascular risk reduc
 
 ---
 
-<h2 id="faq" class="h2-accent h2-accent--slate">Frequently Asked Questions</h2>
+<p class="section-label">FAQ</p>
+
+## Frequently Asked Questions {#faq}
 
 <div class="callout">
 
@@ -425,7 +448,9 @@ We're still early in understanding the full scope. But the science is no longer 
 
 ---
 
-<h2 class="h2-accent">Condition-Specific Guides</h2>
+<p class="section-label">Condition-Specific Guides</p>
+
+## Condition-Specific Guides
 
 <div class="related-grid">
 <a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health: The Cardiovascular Benefits <span class="tx-green">&rarr;</span></a>

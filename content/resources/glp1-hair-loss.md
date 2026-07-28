@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Hair Loss: Why It Happens and How to Prevent It"
 date: 2026-07-17
-lastmod: 2026-07-27
+lastmod: 2026-07-28
 description: "A 2025 meta-analysis of 84,000+ participants found GLP-1 users are 3.4x more likely to experience hair loss. Learn why it happens (telogen effluvium from rapid weight loss), the exact timeline, prevention strategies, and when it will grow back."
 summary: "A 2025 meta-analysis of 84,000+ participants found GLP-1 users are 3.4x more likely to experience hair loss. Learn why it happens (telogen effluvium from rapid weight loss), the exact timeline, prevention strategies, and when it will grow back."
 keywords: ["GLP-1 hair loss", "semaglutide hair loss", "Ozempic hair thinning", "telogen effluvium weight loss", "does Wegovy cause hair loss", "hair loss on tirzepatide", "how to prevent hair loss on semaglutide", "GLP-1 hair regrowth", "Mounjaro hair thinning", "biotin for GLP-1 hair loss", "weight loss hair shedding timeline", "semaglutide telogen effluvium", "hair loss treatment online", "minoxidil finasteride telehealth", "spironolactone hair loss women", "ShedRx hair treatment"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -113,24 +114,34 @@ keywords: ["GLP-1 hair loss", "semaglutide hair loss", "Ozempic hair thinning", 
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#why-hair-loss" class="article-nav-pill">Why It Happens</a>
-<a href="#telogen-effluvium" class="article-nav-pill">Telogen Effluvium</a>
-<a href="#the-timeline" class="article-nav-pill">Timeline</a>
-<a href="#prevention" class="article-nav-pill">Prevention</a>
-<a href="#not-normal" class="article-nav-pill">When It's Not Normal</a>
-<a href="#will-it-grow-back" class="article-nav-pill">Regrowth</a>
-<a href="#treatment" class="article-nav-pill">Treatment</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">A 2025 meta-analysis of 84,000+ participants found GLP-1 users are 3.4x more likely to experience hair loss.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#why-hair-loss">Why It Happens</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#telogen-effluvium">Telogen Effluvium</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#the-timeline">Timeline</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#prevention">Prevention</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#not-normal">When It's Not Normal</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#will-it-grow-back">Regrowth</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#treatment">Treatment</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> A 2025 meta-analysis of <strong>84,000+ participants</strong> confirmed that GLP-1 users are <strong>3.4x more likely</strong> to experience hair loss. But this is NOT a direct drug side effect — it's <strong>telogen effluvium</strong>, a temporary condition caused by the physiological stress of rapid weight loss. Hair shedding typically starts <strong>2-4 months</strong> after beginning treatment, peaks around <strong>6 months</strong>, and <strong>regrows within 6-12 months</strong> after weight stabilizes. Prevention strategies: adequate protein, iron/ferritin monitoring, biotin supplementation, and slower weight loss pace. If weight loss unmasks pattern hair loss, <strong>prescription treatment</strong> (minoxidil, finasteride, spironolactone) is available online from <strong>$25/month</strong>. Telehealth platforms offer affordable GLP-1 access starting at <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** A 2025 meta-analysis of **84,000+ participants** confirmed that GLP-1 users are **3.4x more likely** to experience hair loss. But this is NOT a direct drug side effect — it's **telogen effluvium**, a temporary condition caused by the physiological stress of rapid weight loss. Hair shedding typically starts **2-4 months** after beginning treatment, peaks around **6 months**, and **regrows within 6-12 months** after weight stabilizes. Prevention strategies: adequate protein, iron/ferritin monitoring, biotin supplementation, and slower weight loss pace. If weight loss unmasks pattern hair loss, **prescription treatment** (minoxidil, finasteride, spironolactone) is available online from **$25/month**. Telehealth platforms offer affordable GLP-1 access starting at **$129/month**.
+
 </div>
 
 You noticed it in the shower first. More hair in the drain than usual. Then on your pillow. Then your ponytail felt thinner, or you could see more scalp in the mirror. You searched "semaglutide hair loss" at 2 AM and now you're wondering if the medication that's finally helping you lose weight is also taking your hair.
@@ -141,7 +152,9 @@ Hair thinning is one of the most distressing side effects reported by GLP-1 user
 
 ---
 
-<h2 id="why-hair-loss" class="h2-accent h2-accent--amber">Why GLP-1 Users Lose Hair: The Research</h2>
+<p class="section-label">The research</p>
+
+## Why GLP-1 Users Lose Hair: The Research {#why-hair-loss}
 
 Let's start with the data, because the scale of this issue is now well-documented.
 
@@ -177,7 +190,9 @@ The common thread is not a specific drug — it's **physiological stress and nut
 
 ---
 
-<h2 id="telogen-effluvium" class="h2-accent h2-accent--red">Telogen Effluvium Explained: What's Actually Happening to Your Hair</h2>
+<p class="section-label">Telogen Effluvium</p>
+
+## Telogen Effluvium Explained: What's Actually Happening to Your Hair {#telogen-effluvium}
 
 To understand why your hair is falling out, you need to understand the hair growth cycle.
 
@@ -227,7 +242,9 @@ Most GLP-1-related hair loss is telogen effluvium. But if your hair loss follows
 
 ---
 
-<h2 id="the-timeline" class="h2-accent">The Timeline: When Hair Loss Starts, Peaks, and Stops</h2>
+<p class="section-label">Timeline</p>
+
+## The Timeline: When Hair Loss Starts, Peaks, and Stops {#the-timeline}
 
 Understanding the timeline helps you know what to expect and when to stop worrying.
 
@@ -253,7 +270,9 @@ This delay also means that actions you take **now** won't show immediate results
 
 ---
 
-<h2 id="prevention" class="h2-accent h2-accent--blue">Prevention Strategies: What Actually Works</h2>
+<p class="section-label">Prevention Strategies:</p>
+
+## Prevention Strategies: What Actually Works {#prevention}
 
 You cannot completely eliminate the risk of telogen effluvium during significant weight loss, but you can meaningfully reduce its severity with targeted strategies.
 
@@ -340,7 +359,9 @@ You're better off taking the specific nutrients listed above at the researched d
 
 ---
 
-<h2 id="not-normal" class="h2-accent h2-accent--purple">When Hair Loss Is NOT Normal: Red Flags to Watch For</h2>
+<p class="section-label">When Hair</p>
+
+## When Hair Loss Is NOT Normal: Red Flags to Watch For {#not-normal}
 
 Most hair loss during GLP-1 treatment is telogen effluvium and will resolve on its own. But certain patterns warrant a visit to a dermatologist.
 
@@ -371,7 +392,9 @@ This is particularly important for GLP-1 users: thyroid disorders cause hair los
 
 ---
 
-<h2 id="will-it-grow-back" class="h2-accent h2-accent--sky">Will It Grow Back? What to Expect During Regrowth</h2>
+<p class="section-label">Benefits</p>
+
+## Will It Grow Back? What to Expect During Regrowth {#will-it-grow-back}
 
 The short answer: **yes, in the vast majority of cases.**
 
@@ -402,7 +425,9 @@ If you're still actively losing weight on your GLP-1 medication, your hair shedd
 
 ---
 
-<h2 id="treatment" class="h2-accent h2-accent--slate">Prescription Treatment: When You Don't Want to Just Wait It Out</h2>
+<p class="section-label">Treatment</p>
+
+## Prescription Treatment: When You Don't Want to Just Wait It Out {#treatment}
 
 For straightforward telogen effluvium, the honest answer is that nutrition and patience are usually enough — the follicles aren't damaged, and the hair comes back on its own. **But there are two situations where prescription treatment makes sense:**
 
@@ -473,7 +498,9 @@ The process is fully online: health intake → licensed provider review → medi
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications Affordably</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Medications Affordably {#how-to-get}
 
 <div class="callout callout--amber">
 

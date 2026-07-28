@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Heart Health: The Cardiovascular Benefits"
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "The landmark SELECT trial showed semaglutide cuts major cardiovascular events by 20% — leading to FDA approval of Wegovy for heart risk reduction in March 2024. Learn how GLP-1s protect the heart beyond weight loss, who benefits most, and how to access treatment affordably."
 summary: "The landmark SELECT trial showed semaglutide cuts major cardiovascular events by 20% — leading to FDA approval of Wegovy for heart risk reduction in March 2024. Learn how GLP-1s protect the heart beyond weight loss, who benefits most, and how to access treatment affordably."
 keywords: ["GLP-1 heart health", "semaglutide cardiovascular benefits", "SELECT trial results", "Wegovy heart disease FDA approval", "GLP-1 reduce heart attack risk", "semaglutide stroke prevention", "GLP-1 blood pressure reduction", "semaglutide anti-inflammatory CRP", "Wegovy cardiovascular risk reduction", "GLP-1 for heart disease without diabetes", "tirzepatide heart benefits", "affordable GLP-1 cardiovascular"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,23 +106,32 @@ keywords: ["GLP-1 heart health", "semaglutide cardiovascular benefits", "SELECT 
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#obesity-heart" class="article-nav-pill">Obesity & Heart Risk</a>
-<a href="#select-trial" class="article-nav-pill">SELECT Trial</a>
-<a href="#fda-approval" class="article-nav-pill">FDA Approval</a>
-<a href="#mechanisms" class="article-nav-pill">Mechanisms</a>
-<a href="#who-benefits" class="article-nav-pill">Who Benefits</a>
-<a href="#insurance" class="article-nav-pill">Insurance</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">The landmark SELECT trial showed semaglutide cuts major cardiovascular events by 20% — leading to FDA approval of Weg...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#obesity-heart">Obesity & Heart Risk</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#select-trial">SELECT Trial</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#fda-approval">FDA Approval</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#mechanisms">Mechanisms</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#who-benefits">Who Benefits</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#insurance">Insurance</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> The landmark <strong>SELECT trial</strong> (17,604 participants, published November 2023) found semaglutide reduced <strong>major cardiovascular events by 20%</strong> in people with obesity and heart disease — <strong>without diabetes</strong>. The FDA approved Wegovy for cardiovascular risk reduction in <strong>March 2024</strong>, the first weight-loss drug ever approved for that purpose. Only about a third of the benefit is explained by weight loss — GLP-1s also lower blood pressure, improve lipids, cut inflammation (CRP down ~40%), and directly protect blood vessels. Insurance coverage is improving for the CV indication but gaps remain; telehealth access starts at <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** The landmark **SELECT trial** (17,604 participants, published November 2023) found semaglutide reduced **major cardiovascular events by 20%** in people with obesity and heart disease — **without diabetes**. The FDA approved Wegovy for cardiovascular risk reduction in **March 2024**, the first weight-loss drug ever approved for that purpose. Only about a third of the benefit is explained by weight loss — GLP-1s also lower blood pressure, improve lipids, cut inflammation (CRP down ~40%), and directly protect blood vessels. Insurance coverage is improving for the CV indication but gaps remain; telehealth access starts at **$129/month**.
+
 </div>
 
 For decades, cardiologists have known that obesity drives heart disease — and had almost nothing to offer beyond "lose weight" and statins. Diet programs failed most patients. No weight-loss drug had ever been proven to prevent heart attacks or strokes. Some had even been pulled from the market for *causing* cardiovascular harm.
@@ -134,7 +144,9 @@ Here's what the evidence shows, how the protection works, and how to access thes
 
 ---
 
-<h2 id="obesity-heart" class="h2-accent h2-accent--amber">Why Excess Weight Strains the Heart</h2>
+<p class="section-label">Why Excess</p>
+
+## Why Excess Weight Strains the Heart {#obesity-heart}
 
 Cardiovascular disease remains the **leading cause of death in the United States**, and excess weight is one of its most powerful drivers. The connection runs far deeper than "carrying extra pounds makes the heart work harder."
 
@@ -158,7 +170,9 @@ The SELECT trial was designed to answer the question cardiology had been asking 
 
 ---
 
-<h2 id="select-trial" class="h2-accent h2-accent--red">The SELECT Trial: A Landmark in Cardiology</h2>
+<p class="section-label">The SELECT</p>
+
+## The SELECT Trial: A Landmark in Cardiology {#select-trial}
 
 SELECT (Semaglutide Effects on Cardiovascular Outcomes in People with Overweight or Obesity) was the **largest cardiovascular outcomes trial ever conducted in people with obesity** — and its results reshaped both cardiology and obesity medicine.
 
@@ -186,7 +200,9 @@ A prespecified analysis published in *The Lancet* (2025) quantified this: **only
 
 ---
 
-<h2 id="fda-approval" class="h2-accent h2-accent--purple">March 2024: FDA Approves Wegovy for Cardiovascular Risk Reduction</h2>
+<p class="section-label">Side effects</p>
+
+## March 2024: FDA Approves Wegovy for Cardiovascular Risk Reduction {#fda-approval}
 
 On **March 8, 2024**, the FDA expanded Wegovy's label to include **reducing the risk of cardiovascular death, heart attack, and stroke** in adults with established cardiovascular disease and either obesity or overweight.
 
@@ -205,7 +221,9 @@ Since then, the evidence base has kept expanding: tirzepatide has shown benefits
 
 ---
 
-<h2 id="mechanisms" class="h2-accent">How GLP-1s Protect the Heart: Five Mechanisms Beyond Weight Loss</h2>
+<p class="section-label">How it works</p>
+
+## How GLP-1s Protect the Heart: Five Mechanisms Beyond Weight Loss {#mechanisms}
 
 If weight loss explains only about a third of the benefit, what explains the rest? Research points to a stack of direct cardiovascular effects.
 
@@ -241,7 +259,9 @@ Research summarized in cardiology statements (including a 2025 ANMCO review) des
 
 ---
 
-<h2 id="who-benefits" class="h2-accent h2-accent--sky">Who Benefits Most from GLP-1 Cardiovascular Protection?</h2>
+<p class="section-label">Benefits</p>
+
+## Who Benefits Most from GLP-1 Cardiovascular Protection? {#who-benefits}
 
 <div class="callout">
 
@@ -265,7 +285,9 @@ If you have excess weight plus any cardiovascular risk factors, this conversatio
 
 ---
 
-<h2 id="insurance" class="h2-accent h2-accent--red">Insurance Coverage: Better Than Before, Still Full of Gaps</h2>
+<p class="section-label">Insurance Coverage:</p>
+
+## Insurance Coverage: Better Than Before, Still Full of Gaps {#insurance}
 
 The March 2024 cardiovascular indication genuinely changed the coverage landscape — but not as much as headlines suggested.
 
@@ -283,7 +305,9 @@ The March 2024 cardiovascular indication genuinely changed the coverage landscap
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications If You've Been Denied</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Medications If You've Been Denied {#how-to-get}
 
 <div class="callout callout--amber">
 

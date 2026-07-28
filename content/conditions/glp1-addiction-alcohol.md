@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Addiction: How Semaglutide Reduces Alcohol Cravings"
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "Groundbreaking research shows GLP-1 medications like semaglutide significantly reduce alcohol cravings and heavy drinking days. Learn how GLP-1 receptor agonists affect the brain's reward system, the latest 2026 clinical trials, and how to access treatment affordably."
 summary: "Groundbreaking research shows GLP-1 medications like semaglutide significantly reduce alcohol cravings and heavy drinking days. Learn how GLP-1 receptor agonists affect the brain's reward system, the latest 2026 clinical trials, and how to access treatment affordably."
 keywords: ["GLP-1 for alcohol cravings", "semaglutide alcohol addiction", "GLP-1 reduce drinking", "semaglutide addiction treatment", "GLP-1 reward system brain", "semaglutide heavy drinking study", "GLP-1 dopamine alcohol", "tirzepatide alcohol cravings", "compounded semaglutide addiction", "GLP-1 alcohol use disorder", "semaglutide craving reduction", "affordable GLP-1 alcohol"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,23 +106,32 @@ keywords: ["GLP-1 for alcohol cravings", "semaglutide alcohol addiction", "GLP-1
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#what-is-aud" class="article-nav-pill">What Is AUD</a>
-<a href="#brain-reward" class="article-nav-pill">Brain Reward</a>
-<a href="#how-glp1s-affect-cravings" class="article-nav-pill">How GLP-1s Help</a>
-<a href="#research" class="article-nav-pill">Research</a>
-<a href="#current-treatments" class="article-nav-pill">Treatments</a>
-<a href="#safety" class="article-nav-pill">Safety</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Groundbreaking research shows GLP-1 medications like semaglutide significantly reduce alcohol cravings and heavy drin...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#what-is-aud">What Is AUD</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#brain-reward">Brain Reward</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-glp1s-affect-cravings">How GLP-1s Help</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#research">Research</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#current-treatments">Treatments</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#safety">Safety</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> GLP-1 medications like semaglutide are showing remarkable potential for reducing alcohol cravings and heavy drinking. A <strong>2026 Lancet RCT</strong> found semaglutide significantly reduced heavy drinking days, and a massive <strong>VA study of 600,000+ patients</strong> linked GLP-1 use to lower addiction rates broadly. The mechanism: GLP-1 receptors in the brain's <strong>reward circuits modulate dopamine signaling</strong>, dampening the pleasurable pull of alcohol. GLP-1s are not FDA-approved for addiction, but telehealth platforms offer affordable access starting at <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** GLP-1 medications like semaglutide are showing remarkable potential for reducing alcohol cravings and heavy drinking. A **2026 Lancet RCT** found semaglutide significantly reduced heavy drinking days, and a massive **VA study of 600,000+ patients** linked GLP-1 use to lower addiction rates broadly. The mechanism: GLP-1 receptors in the brain's **reward circuits modulate dopamine signaling**, dampening the pleasurable pull of alcohol. GLP-1s are not FDA-approved for addiction, but telehealth platforms offer affordable access starting at **$129/month**.
+
 </div>
 
 If you've ever tried to cut back on drinking and found it maddeningly difficult — not because you lack willpower, but because something deep in your brain keeps pulling you toward the next drink — you are not imagining things. That pull is neurochemistry, and it's powerful.
@@ -134,7 +144,9 @@ Researchers took notice. And now, the clinical data is catching up to the anecdo
 
 ---
 
-<h2 id="what-is-aud" class="h2-accent h2-accent--amber">What Is Alcohol Use Disorder (and Why It's So Hard to Treat)</h2>
+<p class="section-label">The basics</p>
+
+## What Is Alcohol Use Disorder (and Why It's So Hard to Treat) {#what-is-aud}
 
 Alcohol use disorder (AUD) is a medical condition characterized by an impaired ability to stop or control alcohol use despite negative consequences. It's not a character flaw. It's a brain disorder — one driven by changes in the brain's reward, stress, and executive function circuits.
 
@@ -160,7 +172,9 @@ Current FDA-approved medications for AUD include naltrexone (blocks opioid recep
 
 ---
 
-<h2 id="brain-reward" class="h2-accent h2-accent--red">The Brain's Reward System: Why Alcohol Hooks You</h2>
+<p class="section-label">The Brain's</p>
+
+## The Brain's Reward System: Why Alcohol Hooks You {#brain-reward}
 
 To understand why GLP-1 medications might help with alcohol cravings, you need to understand the system they're acting on.
 
@@ -184,7 +198,9 @@ The same mechanism that makes food less obsessively appealing on semaglutide —
 
 ---
 
-<h2 id="how-glp1s-affect-cravings" class="h2-accent">How GLP-1 Medications Affect Alcohol Cravings</h2>
+<p class="section-label">Interactions</p>
+
+## How GLP-1 Medications Affect Alcohol Cravings {#how-glp1s-affect-cravings}
 
 The mechanism is elegant, and it's different from how existing addiction medications work.
 
@@ -216,7 +232,9 @@ This is not abstinence through willpower. It's the reward signal being turned do
 
 ---
 
-<h2 id="research" class="h2-accent h2-accent--blue">What the Research Says: Clinical Evidence for GLP-1s and Alcohol</h2>
+<p class="section-label">The research</p>
+
+## What the Research Says: Clinical Evidence for GLP-1s and Alcohol {#research}
 
 The evidence has moved well beyond anecdotes. Let's walk through the key studies.
 
@@ -282,7 +300,9 @@ The common thread is the mesolimbic dopamine system. If GLP-1s can turn down the
 
 ---
 
-<h2 id="current-treatments" class="h2-accent h2-accent--sky">How GLP-1s Compare to Current AUD Treatments</h2>
+<p class="section-label">Comparison</p>
+
+## How GLP-1s Compare to Current AUD Treatments {#current-treatments}
 
 If you or someone you love is struggling with alcohol use, understanding how GLP-1s fit into the existing treatment landscape is important.
 
@@ -302,7 +322,9 @@ If you or someone you love is struggling with alcohol use, understanding how GLP
 
 ---
 
-<h2 id="safety" class="h2-accent h2-accent--purple">Safety: Alcohol and GLP-1 Medications Together</h2>
+<p class="section-label">Safety</p>
+
+## Safety: Alcohol and GLP-1 Medications Together {#safety}
 
 If you're currently drinking and considering a GLP-1 medication — or if you're already on one and still consuming alcohol — there are important safety considerations.
 
@@ -338,7 +360,9 @@ GLP-1s are not appropriate for everyone:
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Medications {#how-to-get}
 
 <div class="callout callout--amber">
 

@@ -1,10 +1,11 @@
 ---
 title: "GLP-1s and Sleep Apnea: How Zepbound Became the First FDA-Approved Drug for OSA"
 date: 2026-07-16
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "Zepbound (tirzepatide) is the first FDA-approved medication for obstructive sleep apnea. Learn how GLP-1s reduce AHI, why CPAP compliance is so hard, and how to get treatment — with or without insurance."
 summary: "Zepbound (tirzepatide) is the first FDA-approved medication for obstructive sleep apnea. Learn how GLP-1s reduce AHI, why CPAP compliance is so hard, and how to get treatment — with or without insurance."
 keywords: ["GLP-1 sleep apnea", "Zepbound sleep apnea FDA approval", "tirzepatide obstructive sleep apnea", "ozempic sleep apnea", "can GLP-1 replace CPAP", "sleep apnea medication instead of CPAP", "semaglutide sleep apnea treatment", "GLP-1 AHI reduction", "sleep apnea weight loss medication", "tirzepatide OSA treatment", "Zepbound for sleep apnea insurance coverage", "obstructive sleep apnea drug treatment"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -97,16 +98,25 @@ keywords: ["GLP-1 sleep apnea", "Zepbound sleep apnea FDA approval", "tirzepatid
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--blue">Quick Answer</a>
-<a href="#what-is-osa" class="article-nav-pill">What Is OSA</a>
-<a href="#why-cpap-hard" class="article-nav-pill">Why CPAP Is Hard</a>
-<a href="#how-glp1s-help" class="article-nav-pill">How GLP-1s Help</a>
-<a href="#research" class="article-nav-pill">Research</a>
-<a href="#safety" class="article-nav-pill">Safety</a>
-<a href="#how-to-get" class="article-nav-pill article-nav-pill--active">How to Get It</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Zepbound (tirzepatide) is the first FDA-approved medication for obstructive sleep apnea.</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#what-is-osa">What Is OSA</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#why-cpap-hard">Why CPAP Is Hard</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-glp1s-help">How GLP-1s Help</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#research">Research</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#safety">Safety</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get It</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="callout callout--study">
 <h4 class="h-blue">The Short Answer</h4>
@@ -121,7 +131,9 @@ For decades, the treatment options for obstructive sleep apnea have been limited
 
 ---
 
-<h2 id="what-is-osa" class="h2-accent h2-accent--blue">What Is Obstructive Sleep Apnea?</h2>
+<p class="section-label">The basics</p>
+
+## What Is Obstructive Sleep Apnea? {#what-is-osa}
 
 Obstructive sleep apnea (OSA) is a condition where the muscles in the back of your throat relax during sleep, causing the airway to collapse or become blocked. This leads to repeated pauses in breathing throughout the night — sometimes hundreds of times.
 
@@ -153,7 +165,9 @@ The connection between weight and sleep apnea is well established. Excess weight
 
 ---
 
-<h2 id="why-cpap-hard" class="h2-accent h2-accent--amber">Why CPAP Compliance Is So Hard</h2>
+<p class="section-label">Why CPAP</p>
+
+## Why CPAP Compliance Is So Hard {#why-cpap-hard}
 
 CPAP (continuous positive airway pressure) is the gold standard treatment for OSA. It works by blowing air through a mask to keep your airway open during sleep. When used correctly, it's highly effective.
 
@@ -182,7 +196,9 @@ This is exactly why a medication-based treatment is such a big deal. Not as a re
 
 ---
 
-<h2 id="how-glp1s-help" class="h2-accent">How GLP-1 Medications Help Sleep Apnea</h2>
+<p class="section-label">Interactions</p>
+
+## How GLP-1 Medications Help Sleep Apnea {#how-glp1s-help}
 
 GLP-1s improve sleep apnea through two pathways — and this is important, because it's not just about weight loss.
 
@@ -217,7 +233,9 @@ GLP-1s improve sleep apnea through two pathways — and this is important, becau
 
 ---
 
-<h2 id="research" class="h2-accent h2-accent--blue">What the Research Says</h2>
+<p class="section-label">The research</p>
+
+## What the Research Says {#research}
 
 This is one of the strongest evidence bases for GLP-1s in any condition beyond diabetes and obesity — strong enough for an FDA approval.
 
@@ -269,7 +287,9 @@ This is one of the strongest evidence bases for GLP-1s in any condition beyond d
 
 ---
 
-<h2 id="safety" class="h2-accent h2-accent--red">Safety: What Sleep Apnea Patients Need to Know</h2>
+<p class="section-label">Safety</p>
+
+## Safety: What Sleep Apnea Patients Need to Know {#safety}
 
 <div class="callout callout--green">
 <h4 class="h-green">The good news</h4>
@@ -317,7 +337,9 @@ This is particularly relevant for sleep apnea patients, since some may need proc
 
 ---
 
-<h2 id="which-glp1" class="h2-accent h2-accent--purple">Which GLP-1 Is Best for Sleep Apnea?</h2>
+<p class="section-label">Which GLP-1</p>
+
+## Which GLP-1 Is Best for Sleep Apnea? {#which-glp1}
 
 <div class="callout table-wrap">
 
@@ -337,7 +359,9 @@ This is particularly relevant for sleep apnea patients, since some may need proc
 
 ---
 
-<h2 id="insurance" class="h2-accent">Insurance Coverage: This One Is Different</h2>
+<p class="section-label">Insurance Coverage:</p>
+
+## Insurance Coverage: This One Is Different {#insurance}
 
 Here's where sleep apnea has an advantage over almost every other condition on this site: **this is an FDA-approved indication.**
 
@@ -363,7 +387,9 @@ Unlike lupus, arthritis, or fatty liver — where GLP-1s are used off-label and 
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get GLP-1s for Sleep Apnea</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1s for Sleep Apnea {#how-to-get}
 
 You have two paths, and the right one depends on your situation.
 

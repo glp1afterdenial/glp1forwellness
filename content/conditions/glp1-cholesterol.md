@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and High Cholesterol: What They Do (and Don't Do)"
 date: 2026-07-20
-lastmod: 2026-07-20
+lastmod: 2026-07-28
 description: "GLP-1 medications lower triglycerides 15-20%, modestly reduce LDL, and cut inflammation ~40% — but they don't replace statins. An honest look at how semaglutide and tirzepatide affect cholesterol, and who actually benefits."
 summary: "GLP-1 medications lower triglycerides 15-20%, modestly reduce LDL, and cut inflammation ~40% — but they don't replace statins. An honest look at how semaglutide and tirzepatide affect cholesterol, and who actually benefits."
 keywords: ["GLP-1 cholesterol", "semaglutide lower cholesterol", "does Ozempic lower cholesterol", "tirzepatide triglycerides", "GLP-1 LDL reduction", "semaglutide triglycerides", "GLP-1 vs statin", "high cholesterol weight loss medication", "metabolic syndrome GLP-1", "semaglutide lipid panel", "affordable GLP-1 cholesterol", "GLP-1 dyslipidemia"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -89,21 +90,28 @@ keywords: ["GLP-1 cholesterol", "semaglutide lower cholesterol", "does Ozempic l
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#lipid-pattern" class="article-nav-pill">The Lipid Pattern</a>
-<a href="#evidence" class="article-nav-pill">The Evidence</a>
-<a href="#vs-statins" class="article-nav-pill">vs. Statins</a>
-<a href="#who-benefits" class="article-nav-pill">Who Benefits</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">GLP-1 medications lower triglycerides 15-20%, modestly reduce LDL, and cut inflammation ~40% — but they don't replace...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#lipid-pattern">The Lipid Pattern</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#evidence">The Evidence</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#vs-statins">vs. Statins</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#who-benefits">Who Benefits</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> GLP-1s improve the <strong>metabolic-syndrome lipid pattern</strong>: triglycerides fall <strong>~15-20%</strong>, post-meal lipid spikes flatten, HDL edges up, and inflammation (CRP) drops <strong>~40%</strong>. LDL falls only modestly — <strong>statins remain first-line for LDL</strong> and GLP-1s complement rather than replace them. The combination is powerful: in the SELECT trial, semaglutide cut cardiovascular events <strong>20% on top of statin therapy</strong>. Dyslipidemia + BMI 27+ qualifies for treatment via telehealth from <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** GLP-1s improve the **metabolic-syndrome lipid pattern**: triglycerides fall **~15-20%**, post-meal lipid spikes flatten, HDL edges up, and inflammation (CRP) drops **~40%**. LDL falls only modestly — **statins remain first-line for LDL** and GLP-1s complement rather than replace them. The combination is powerful: in the SELECT trial, semaglutide cut cardiovascular events **20% on top of statin therapy**. Dyslipidemia + BMI 27+ qualifies for treatment via telehealth from **$129/month**.
+
 </div>
 
 If your lipid panel shows high triglycerides, low HDL, and borderline LDL — the classic signature of insulin resistance — you've probably been told to "watch your diet" while being handed a statin. That helps, but it treats one number while the metabolic engine underneath keeps running.
@@ -112,7 +120,9 @@ GLP-1 medications work on that engine. They won't match a statin's LDL-lowering 
 
 ---
 
-<h2 id="lipid-pattern" class="h2-accent h2-accent--amber">The Lipid Pattern Excess Weight Creates</h2>
+<p class="section-label">The Lipid</p>
+
+## The Lipid Pattern Excess Weight Creates {#lipid-pattern}
 
 Insulin resistance and visceral fat produce a recognizable dyslipidemia — often called **atherogenic dyslipidemia**:
 
@@ -126,7 +136,9 @@ A statin lowers LDL powerfully but leaves most of this pattern intact. Weight lo
 
 ---
 
-<h2 id="evidence" class="h2-accent h2-accent--red">The Evidence: What GLP-1s Do to a Lipid Panel</h2>
+<p class="section-label">The research</p>
+
+## The Evidence: What GLP-1s Do to a Lipid Panel {#evidence}
 
 <div class="callout callout--danger">
 
@@ -146,7 +158,9 @@ Tirzepatide shows the same directional pattern with generally larger triglycerid
 
 ---
 
-<h2 id="vs-statins" class="h2-accent h2-accent--purple">GLP-1s vs. Statins: An Honest Comparison</h2>
+<p class="section-label">Comparison</p>
+
+## GLP-1s vs. Statins: An Honest Comparison {#vs-statins}
 
 <div class="callout">
 
@@ -168,7 +182,9 @@ Tirzepatide shows the same directional pattern with generally larger triglycerid
 
 ---
 
-<h2 id="who-benefits" class="h2-accent h2-accent--sky">Who Benefits Most?</h2>
+<p class="section-label">Benefits</p>
+
+## Who Benefits Most? {#who-benefits}
 
 <div class="callout">
 
@@ -186,7 +202,9 @@ Tirzepatide shows the same directional pattern with generally larger triglycerid
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get a GLP-1 If You Have High Cholesterol</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get a GLP-1 If You Have High Cholesterol {#how-to-get}
 
 <div class="callout callout--amber">
 

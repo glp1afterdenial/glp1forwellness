@@ -1,10 +1,11 @@
 ---
 title: "GLP-1 Medications and Psoriasis: Can Semaglutide Calm Skin Inflammation?"
 date: 2026-07-17
-lastmod: 2026-07-17
+lastmod: 2026-07-28
 description: "Studies show GLP-1 medications like semaglutide improved psoriasis PASI scores by 20-75%, with the biggest gains in patients losing 10%+ body weight. Learn how weight loss boosts biologic effectiveness, the immune mechanisms involved, and how to access GLP-1s affordably."
 summary: "Studies show GLP-1 medications like semaglutide improved psoriasis PASI scores by 20-75%, with the biggest gains in patients losing 10%+ body weight. Learn how weight loss boosts biologic effectiveness, the immune mechanisms involved, and how to access GLP-1s affordably."
 keywords: ["GLP-1 psoriasis", "semaglutide psoriasis improvement", "GLP-1 PASI score", "does Ozempic help psoriasis", "semaglutide skin inflammation", "weight loss psoriasis improvement", "obesity psoriasis biologics", "GLP-1 psoriatic arthritis", "semaglutide IL-17 inflammation", "tirzepatide psoriasis", "GLP-1 immune cells", "affordable GLP-1 psoriasis"]
+layout: "simple"
 ---
 
 <script type="application/ld+json">
@@ -105,23 +106,32 @@ keywords: ["GLP-1 psoriasis", "semaglutide psoriasis improvement", "GLP-1 PASI s
 }
 </script>
 
-<div class="article-nav-sticky">
-<a href="#tldr" class="article-nav-pill article-nav-pill--active">TL;DR</a>
-<a href="#what-is-psoriasis" class="article-nav-pill">What Is Psoriasis</a>
-<a href="#obesity-link" class="article-nav-pill">Obesity Link</a>
-<a href="#research" class="article-nav-pill">Research</a>
-<a href="#mechanisms" class="article-nav-pill">Mechanisms</a>
-<a href="#psoriatic-arthritis" class="article-nav-pill">Psoriatic Arthritis</a>
-<a href="#limitations" class="article-nav-pill">Limitations</a>
-<a href="#how-to-get" class="article-nav-pill">How to Get</a>
-<a href="#faq" class="article-nav-pill">FAQ</a>
-</div>
+<p class="page-subtitle">Studies show GLP-1 medications like semaglutide improved psoriasis PASI scores by 20-75%, with the biggest gains in p...</p>
+
+
+<nav class="jump-nav">
+<span class="jump-nav__label">On this page</span>
+<a href="#what-is-psoriasis">What Is Psoriasis</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#obesity-link">Obesity Link</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#research">Research</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#mechanisms">Mechanisms</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#psoriatic-arthritis">Psoriatic Arthritis</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#limitations">Limitations</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#how-to-get">How to Get</a>
+<span aria-hidden="true">&middot;</span>
+<a href="#faq">FAQ</a>
+</nav>
 
 <div id="tldr" class="tldr-box">
-<div class="tldr-box__row">
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tldr-box__icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
-<span class="tldr-box__text"><strong>TL;DR:</strong> Psoriasis is an immune-mediated disease, and obesity pours fuel on the fire — fat tissue produces the same inflammatory signals (TNF-alpha, IL-6, IL-17 pathway) that drive plaques, and excess weight makes biologics work worse. Studies show GLP-1 medications improved <strong>PASI scores by 20-75%</strong>, with the biggest gains in patients losing 10%+ of body weight; one 6-month semaglutide study showed a <strong>48% PASI reduction</strong>. GLP-1 receptors sit on immune cells, and some skin improvement appears independent of weight loss. GLP-1s are <strong>not FDA-approved for psoriasis</strong> and don't replace biologics — but telehealth access starts at <strong>$129/month</strong>.</span>
-</div>
+
+**TL;DR:** Psoriasis is an immune-mediated disease, and obesity pours fuel on the fire — fat tissue produces the same inflammatory signals (TNF-alpha, IL-6, IL-17 pathway) that drive plaques, and excess weight makes biologics work worse. Studies show GLP-1 medications improved **PASI scores by 20-75%**, with the biggest gains in patients losing 10%+ of body weight; one 6-month semaglutide study showed a **48% PASI reduction**. GLP-1 receptors sit on immune cells, and some skin improvement appears independent of weight loss. GLP-1s are **not FDA-approved for psoriasis** and don't replace biologics — but telehealth access starts at **$129/month**.
+
 </div>
 
 Psoriasis isn't "just a skin condition." It's a systemic, immune-mediated disease affecting more than **7.5 million American adults** — one where inflammation smolders throughout the body, raising risks for arthritis, heart disease, and metabolic syndrome along with the visible plaques.
@@ -132,7 +142,9 @@ The early research is genuinely encouraging. Here's what we know.
 
 ---
 
-<h2 id="what-is-psoriasis" class="h2-accent h2-accent--amber">What Psoriasis Actually Is: An Immune System Problem</h2>
+<p class="section-label">The basics</p>
+
+## What Psoriasis Actually Is: An Immune System Problem {#what-is-psoriasis}
 
 Psoriasis happens when the immune system mistakenly attacks healthy skin, sending skin cell production into overdrive. Cells that should mature over a month pile up in days, creating the raised, scaly plaques that define the disease.
 
@@ -152,7 +164,9 @@ Modern biologics are remarkably effective at blocking these signals. But they're
 
 ---
 
-<h2 id="obesity-link" class="h2-accent h2-accent--red">The Obesity-Psoriasis Connection: A Two-Way Street</h2>
+<p class="section-label">The Obesity-Psoriasis</p>
+
+## The Obesity-Psoriasis Connection: A Two-Way Street {#obesity-link}
 
 The relationship between weight and psoriasis runs in both directions, and it's stronger than most people realize.
 
@@ -174,7 +188,9 @@ The clinical implication is well established: **weight loss improves psoriasis**
 
 ---
 
-<h2 id="research" class="h2-accent h2-accent--blue">What the Research Shows: GLP-1s and PASI Scores</h2>
+<p class="section-label">The research</p>
+
+## What the Research Shows: GLP-1s and PASI Scores {#research}
 
 Direct evidence on GLP-1 medications in psoriasis has grown rapidly.
 
@@ -195,7 +211,9 @@ One detail worth underlining: in several studies, skin improvement appeared **at
 
 ---
 
-<h2 id="mechanisms" class="h2-accent h2-accent--purple">How GLP-1s Might Calm Psoriatic Inflammation</h2>
+<p class="section-label">How GLP-1s</p>
+
+## How GLP-1s Might Calm Psoriatic Inflammation {#mechanisms}
 
 ### 1. Draining the Inflammatory Reservoir (Weight Loss)
 
@@ -215,7 +233,9 @@ Psoriasis independently raises cardiovascular risk — severe psoriasis is assoc
 
 ---
 
-<h2 id="psoriatic-arthritis" class="h2-accent h2-accent--sky">The Psoriatic Arthritis Overlap</h2>
+<p class="section-label">The Psoriatic</p>
+
+## The Psoriatic Arthritis Overlap {#psoriatic-arthritis}
 
 Roughly **30% of people with psoriasis develop psoriatic arthritis (PsA)** — joint inflammation that can become erosive and permanent if untreated.
 
@@ -229,7 +249,9 @@ Rheumatologists increasingly discuss GLP-1s as an adjunct for PsA patients with 
 
 ---
 
-<h2 id="limitations" class="h2-accent h2-accent--amber">Honest Limitations: What GLP-1s Are Not</h2>
+<p class="section-label">The basics</p>
+
+## Honest Limitations: What GLP-1s Are Not {#limitations}
 
 <div class="callout callout--amber">
 
@@ -247,7 +269,9 @@ If you're on a biologic, methotrexate, or phototherapy: **stay on it**, and trea
 
 ---
 
-<h2 id="how-to-get" class="h2-accent">How to Get GLP-1 Medications With Psoriasis</h2>
+<p class="section-label">Getting started</p>
+
+## How to Get GLP-1 Medications With Psoriasis {#how-to-get}
 
 <div class="callout callout--amber">
 
