@@ -69,10 +69,6 @@ Every guide page MUST have:
 |----------|-----|-------|
 | Bodybuilding Health+ | `https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095` | Widest peptide menu |
 | Strut Health (sermorelin) | `https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=11666` | Oral lozenge $99/mo |
-| Telos Rx (NAD+) | `https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12370` | Nasal spray $116/mo |
-| Telos Rx (microdose tirz) | `https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12373` | Flat $116/mo |
-| Telos Rx (sermorelin) | `https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12375` | $125/mo |
-| Telos Rx (PT-141) | `https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12374` | <$5/day |
 | Strut Health (men's hair) | `https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=6349` | From $25/mo |
 | Strut Health (women's hair) | `https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=6350` | From $59/mo |
 

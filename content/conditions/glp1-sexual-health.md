@@ -274,13 +274,6 @@ Many telehealth platforms now offer sexual health programs designed to work alon
 <div class="offer-card__desc">GLP-1 + sexual health peptides under one roof. PT-141, tadalafil, and GLP-1 prescribed together.</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12374" target="_blank" class="offer-card offer-card--amber">
-<div class="offer-card__badge">PT-141 Specialist</div>
-<div class="offer-card__name">Telos Rx</div>
-<div class="offer-card__price">PT-141 for less than $5/day</div>
-<div class="offer-card__desc">As-needed PT-141 for men & women — clinician-prescribed, FSA/HSA eligible, free 48-hour shipping</div>
-</a>
-
 <a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
 <div class="offer-card__badge">Sexual Wellness Programs</div>
 <div class="offer-card__name">ShedRx</div>

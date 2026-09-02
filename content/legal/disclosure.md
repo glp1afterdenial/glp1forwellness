@@ -17,7 +17,6 @@ We currently have affiliate relationships with:
 - YourEra Health
 - Bodybuilding Health+
 - Strut Health
-- Telos Rx
 
 These relationships are managed through RevOffers.
 

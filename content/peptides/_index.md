@@ -91,11 +91,11 @@ Message your provider to adjust dosing or report side effects
 <div class="offer-card__price">NAD+ & Sermorelin from $129/mo</div>
 <div class="offer-card__desc">GLP-1s, NAD+, sermorelin, and specialty peptides — microdosing options and multi-month bundles</div>
 </a>
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12375" target="_blank" class="offer-card offer-card--amber">
-<div class="offer-card__badge">$0 If Not Approved</div>
-<div class="offer-card__name">Telos Rx</div>
-<div class="offer-card__price">Sermorelin from $125/mo</div>
-<div class="offer-card__desc">Also NAD+ nasal spray ($116/mo) and microdosed tirzepatide — FSA/HSA eligible, free 2-day shipping</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
+<div class="offer-card__badge">Coaching Included</div>
+<div class="offer-card__name">ShedRx</div>
+<div class="offer-card__price">GLP-1 from $159/mo</div>
+<div class="offer-card__desc">GLP-1 + longevity peptides with health coaching and a 120-day money-back guarantee</div>
 </a>
 <a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=11666" target="_blank" class="offer-card offer-card--purple">
 <div class="offer-card__badge">No Needles</div>
@@ -153,7 +153,7 @@ Message your provider to adjust dosing or report side effects
 <div class="guide-card__icon guide-card__icon--green">⭐</div>
 <div>
 <div class="guide-card__title">Compare Peptide Telehealth Platforms</div>
-<p class="guide-card__desc">Side-by-side: Bodybuilding Health+, Telos Rx, Strut Health, ShedRx — pricing, what each carries, how to choose</p>
+<p class="guide-card__desc">Side-by-side: Bodybuilding Health+, ShedRx, Strut Health — pricing, what each carries, how to choose</p>
 <span class="guide-card__arrow">Compare platforms →</span>
 </div>
 </a>

@@ -201,7 +201,7 @@ NAD+ therapy comes in three practical formats (IV infusions being the expensive 
 - Needle-free, absorbed through nasal mucosa
 - Convenient for daily or as-needed use; some users like it for mid-day energy
 - Absorption is faster than oral, less complete than injection
-- The cheapest dedicated nasal-spray program we've found is [Telos Rx](https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12370) at $116/month, FSA/HSA eligible
+- [Bodybuilding Health+](https://track.revoffers.com/aff_c?offer_id=1584&aff_id=13095) offers nasal spray, injection, and tablets — or a bundle with all three — from $129/month
 
 **Tablets (NAD+ precursors)**
 - Easiest option, and ironically the **best-studied in humans** — most clinical trials used oral precursors
@@ -234,7 +234,7 @@ To be clear: **no clinical trial has tested the GLP-1 + NAD+ combination.** The 
 
 <div class="callout callout--amber">
 
-**The access reality:** insurance doesn't cover NAD+ — it's wellness/longevity care. IV clinics charge $300-1,000+ per infusion, which adds up brutally fast. Telehealth subscription programs are the affordable route: injections, nasal spray, or tablets from **$116/month**, prescribed after an online evaluation with a licensed provider.
+**The access reality:** insurance doesn't cover NAD+ — it's wellness/longevity care. IV clinics charge $300-1,000+ per infusion, which adds up brutally fast. Telehealth subscription programs are the affordable route: injections, nasal spray, or tablets from **$129/month**, prescribed after an online evaluation with a licensed provider.
 
 </div>
 
@@ -247,13 +247,6 @@ To be clear: **no clinical trial has tested the GLP-1 + NAD+ combination.** The 
 <div class="offer-card__name">Bodybuilding Health+</div>
 <div class="offer-card__price">NAD+ from $129/mo</div>
 <div class="offer-card__desc">Nasal spray, injection, or tablets — or a bundle with all three. Licensed U.S. providers and pharmacies.</div>
-</a>
-
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12370" target="_blank" class="offer-card offer-card--amber">
-<div class="offer-card__badge">Nasal Spray Specialist</div>
-<div class="offer-card__name">Telos Rx</div>
-<div class="offer-card__price">NAD+ spray from $116/mo</div>
-<div class="offer-card__desc">Intranasal NAD+ for daily energy & clarity — clinician-prescribed, FSA/HSA eligible, free 48-hour shipping</div>
 </a>
 
 <a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">

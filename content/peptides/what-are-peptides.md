@@ -351,11 +351,11 @@ No clinic visits. No waiting rooms. No insurance required.
 <div class="offer-card__desc">Full peptide menu — GLP-1s, NAD+, sermorelin, and specialty peptides. Microdosing options and multi-month bundles. Licensed US providers and pharmacies.</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12375" target="_blank" class="offer-card offer-card--amber">
-<div class="offer-card__badge">$0 If Not Approved</div>
-<div class="offer-card__name">Telos Rx</div>
-<div class="offer-card__price">NAD+ spray $116 · Sermorelin $125/mo</div>
-<div class="offer-card__desc">NAD+ nasal spray, sermorelin, microdosed tirzepatide, PT-141 — FSA/HSA eligible, free 2-day shipping, pay nothing if not approved</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
+<div class="offer-card__badge">Coaching Included</div>
+<div class="offer-card__name">ShedRx</div>
+<div class="offer-card__price">GLP-1 from $159/mo</div>
+<div class="offer-card__desc">GLP-1 + longevity peptides with health coaching and a 120-day money-back guarantee</div>
 </a>
 
 <a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=11666" target="_blank" class="offer-card offer-card--purple">
@@ -363,13 +363,6 @@ No clinic visits. No waiting rooms. No insurance required.
 <div class="offer-card__name">Strut Health</div>
 <div class="offer-card__price">Oral sermorelin from $99/mo</div>
 <div class="offer-card__desc">Once-daily sermorelin lozenge (5 days on, 2 off) — no injections, provider-prescribed, monthly delivery</div>
-</a>
-
-<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
-<div class="offer-card__badge">GLP-1 + Peptides</div>
-<div class="offer-card__name">ShedRx</div>
-<div class="offer-card__price">GLP-1 from $159/mo</div>
-<div class="offer-card__desc">Health coaching, 120-day money-back guarantee — GLP-1s, sermorelin, and longevity peptides under one roof</div>
 </a>
 
 <a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
@@ -432,7 +425,7 @@ It varies by peptide. GLP-1s: appetite changes within days, weight loss becomes 
 
 **Can I stack multiple peptides?**
 
-Yes, and it's common. GLP-1 + sermorelin is one of the most popular combinations — the GLP-1 handles appetite and weight loss while sermorelin preserves lean muscle and supports recovery. GLP-1 + NAD+ targets weight and cellular energy. Multi-peptide programs are available from platforms like Bodybuilding Health+ and Telos Rx. A provider should review any stack for interactions — don't self-prescribe combinations.
+Yes, and it's common. GLP-1 + sermorelin is one of the most popular combinations — the GLP-1 handles appetite and weight loss while sermorelin preserves lean muscle and supports recovery. GLP-1 + NAD+ targets weight and cellular energy. Multi-peptide programs are available from platforms like Bodybuilding Health+ and ShedRx. A provider should review any stack for interactions — don't self-prescribe combinations.
 
 </div>
 

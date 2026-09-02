@@ -455,7 +455,7 @@ Key takeaways:
 - Peptides vs steroids: peptides are signals that work WITH your body's feedback loops; steroids are hormones that OVERRIDE them. Peptides have milder effects and fewer side effects because they don't suppress natural production.
 - The primary safety risk is not the peptides themselves but the sourcing: gray-market "research peptides" have no purity testing, require home reconstitution (dosing errors, sterility risk), and come with zero medical oversight. Independent testing has found contaminated and mislabeled products.
 - Prescription peptides from licensed US compounding pharmacies arrive pre-mixed, pre-dosed, from inspected facilities — with a prescribing clinician who screens health history and monitors side effects
-- Telehealth peptide therapy costs: oral sermorelin from $99/mo (Strut Health), NAD+ nasal spray from $116/mo (Telos Rx), sermorelin injection from $125-129/mo, GLP-1s from $129/mo
+- Telehealth peptide therapy costs: oral sermorelin from $99/mo (Strut Health), NAD+ from $129/mo (Bodybuilding Health+), sermorelin injection from $129/mo, GLP-1s from $129/mo
 - Contraindications across peptides: active cancer (GH and NAD+ can fuel tumor growth), pregnancy/breastfeeding, untreated thyroid disorders, history of pancreatitis (GLP-1s specifically)
 - Stacking is common: GLP-1 + sermorelin (weight loss + muscle preservation), GLP-1 + NAD+ (weight + energy) — should be provider-supervised
 
@@ -476,7 +476,7 @@ Key takeaways:
 - Telehealth programs offer all three formats from $129/month — vs IV clinic infusions at $300-1,000+ per session
 - People with active cancer are advised to avoid NAD+ boosting (NAD+ fuels all cells, including tumors)
 - Common pairing with GLP-1s: NAD+ for energy support during weight loss, since fatigue is a top GLP-1 complaint. No RCT data on the combination, but no known interactions.
-- Providers: Bodybuilding Health+ offers NAD+ nasal spray, injection, or tablets (or bundle with all three) from $129/mo; Telos Rx offers a dedicated NAD+ nasal spray program from $116/mo (FSA/HSA eligible)
+- Providers: Bodybuilding Health+ offers NAD+ nasal spray, injection, or tablets (or bundle with all three) from $129/mo; ShedRx also offers NAD+ alongside GLP-1s with health coaching and a 120-day money-back guarantee
 
 ---
 
@@ -496,7 +496,7 @@ Key takeaways:
 - Contraindications: active cancer, pituitary tumors, untreated hypothyroidism
 - Cost: anti-aging clinics $500-1,500/mo; telehealth $129/mo with provider evaluation included
 - Commonly paired with GLP-1s — sermorelin for muscle preservation and recovery during GLP-1 weight loss
-- Providers: Strut Health offers oral sermorelin lozenges at $99/mo (once daily, 5 days on / 2 off); Telos Rx offers sermorelin from $125/mo ($0 if not approved, FSA/HSA eligible); Bodybuilding Health+ offers injection or tablet from $129/mo
+- Providers: Strut Health offers oral sermorelin lozenges at $99/mo (once daily, 5 days on / 2 off); Bodybuilding Health+ offers injection or tablet from $129/mo; ShedRx offers sermorelin alongside GLP-1s with health coaching
 
 ---
 
@@ -515,7 +515,7 @@ Key takeaways:
 - Compounding advantage: custom dosing (0.125mg increments) impossible with branded pen fixed-dose clicks
 - No dedicated microdosing RCT exists — protocols based on dose-response extrapolation and clinical experience
 - Weight regain applies at all doses upon cessation — microdosing is appealing because it's tolerable enough to stay on indefinitely
-- Providers: Telos Rx (purpose-built microdosed tirzepatide from $116/mo, flat pricing across doses); Bodybuilding Health+ (explicit microdosing options, semaglutide from $139/mo, tirzepatide from $209/mo, 1-12mo bundles); Oak Loves You ($133/mo); Gala ($129/mo)
+- Providers: Bodybuilding Health+ (explicit microdosing options, semaglutide from $139/mo, tirzepatide from $209/mo, 1-12mo bundles); Oak Loves You ($133/mo); Gala ($129/mo); ShedRx (GLP-1 from $159/mo with health coaching)
 
 ---
 
@@ -526,11 +526,11 @@ Date: July 2026
 Side-by-side comparison of telehealth platforms offering peptide therapy — sermorelin, NAD+, PT-141, and GLP-1 microdosing. Covers pricing, what each platform carries, how telehealth peptide programs work, and how to choose.
 
 Key takeaways:
-- Four platforms compared: Bodybuilding Health+ (widest menu, $129/mo), Telos Rx (cheapest NAD+ at $116/mo, flat-pricing microdosed tirzepatide $116/mo, $0-if-not-approved guarantee, FSA/HSA eligible), Strut Health (oral sermorelin lozenge $99/mo, no needles, cheapest entry), ShedRx (GLP-1 + peptides, 120-day money-back guarantee, health coaching)
+- Three platforms compared: Bodybuilding Health+ (widest menu, $129/mo), Strut Health (oral sermorelin lozenge $99/mo, no needles, cheapest entry), ShedRx (GLP-1 + peptides, 120-day money-back guarantee, health coaching from $159/mo)
 - All platforms use licensed US 503A compounding pharmacies, include provider evaluation, ship pre-mixed/pre-dosed medication
 - No insurance needed; most peptide therapy for wellness/anti-aging is not covered
 - Compared to anti-aging clinics ($500-3,000+/mo), telehealth peptide therapy costs $99-209/mo
-- Quick decision guide: sermorelin only → Strut $99; NAD+ → Telos $116; multiple peptides → BBH+ $129; want guarantee → ShedRx
+- Quick decision guide: sermorelin only → Strut $99; NAD+ or multiple peptides → BBH+ $129; want guarantee + coaching → ShedRx $159
 
 ---
 

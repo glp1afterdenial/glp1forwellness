@@ -18,7 +18,7 @@ layout: "simple"
       "name": "Where can I get peptide therapy online?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Several licensed telehealth platforms offer peptide therapy with provider evaluation, prescriptions from US compounding pharmacies, and home delivery. Bodybuilding Health+ has the widest menu (GLP-1s, NAD+, sermorelin, PT-141, and specialty peptides from $129/month). Telos Rx offers sermorelin ($125/month), NAD+ nasal spray ($116/month), microdosed tirzepatide ($116/month), and PT-141 with a $0-if-not-approved guarantee. Strut Health offers oral sermorelin lozenges from $99/month — the cheapest entry point with no injections. ShedRx offers GLP-1s plus sermorelin and longevity peptides with health coaching and a 120-day guarantee."
+        "text": "Several licensed telehealth platforms offer peptide therapy with provider evaluation, prescriptions from US compounding pharmacies, and home delivery. Bodybuilding Health+ has the widest menu (GLP-1s, NAD+, sermorelin, PT-141, and specialty peptides from $129/month). ShedRx offers GLP-1s plus sermorelin and longevity peptides with health coaching and a 120-day money-back guarantee from $159/month. Strut Health offers oral sermorelin lozenges from $99/month — the cheapest entry point with no injections."
       }
     },
     {
@@ -26,7 +26,7 @@ layout: "simple"
       "name": "How much does peptide therapy cost through telehealth?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Telehealth peptide therapy ranges from $99 to $209 per month depending on the peptide and platform. Oral sermorelin lozenges start at $99/month (Strut Health). NAD+ nasal spray starts at $116/month (Telos Rx). Sermorelin injections start at $125/month. GLP-1 microdosing starts at $116/month. Standard GLP-1 medications start at $129/month. PT-141 (sexual health peptide) costs less than $5/day on longer plans. Compare this to anti-aging clinics which charge $500-3,000+ per month for similar programs."
+        "text": "Telehealth peptide therapy ranges from $99 to $209 per month depending on the peptide and platform. Oral sermorelin lozenges start at $99/month (Strut Health). NAD+ starts at $129/month (Bodybuilding Health+). Sermorelin injections start at $129/month. Standard GLP-1 medications start at $129/month. PT-141 (sexual health peptide) starts at $129/month. Compare this to anti-aging clinics which charge $500-3,000+ per month for similar programs."
       }
     },
     {
@@ -42,7 +42,7 @@ layout: "simple"
       "name": "Can I get peptide therapy without insurance?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — all telehealth peptide platforms are cash-pay. No insurance needed, no prior authorizations, no denials. Most peptide therapy for wellness and anti-aging purposes is not covered by insurance anyway. Some platforms accept HSA/FSA cards (Telos Rx explicitly does). Prices range from $99-209/month with the provider evaluation included."
+        "text": "Yes — all telehealth peptide platforms are cash-pay. No insurance needed, no prior authorizations, no denials. Most peptide therapy for wellness and anti-aging purposes is not covered by insurance anyway. Prices range from $99-209/month with the provider evaluation included."
       }
     },
     {
@@ -58,7 +58,7 @@ layout: "simple"
       "name": "Which peptide telehealth platform is best?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It depends on what you need. For the widest peptide selection (GLP-1 + sermorelin + NAD+ + PT-141 in one place): Bodybuilding Health+. For the cheapest entry into peptide therapy (oral sermorelin, no needles): Strut Health at $99/month. For NAD+ specifically: Telos Rx has the cheapest NAD+ nasal spray at $116/month. For GLP-1 microdosing: Telos Rx offers purpose-built flat-pricing microdosed tirzepatide at $116/month. For a money-back guarantee: ShedRx with their 120-day guarantee."
+        "text": "It depends on what you need. For the widest peptide selection (GLP-1 + sermorelin + NAD+ + PT-141 in one place): Bodybuilding Health+. For the cheapest entry into peptide therapy (oral sermorelin, no needles): Strut Health at $99/month. For NAD+ specifically: Bodybuilding Health+ offers nasal spray, injection, and tablets from $129/month. For a money-back guarantee: ShedRx with their 120-day guarantee and health coaching from $159/month."
       }
     }
   ]
@@ -95,8 +95,8 @@ layout: "simple"
 <div class="peptide-highlights">
 <div class="peptide-highlight">
 <div class="peptide-highlight__icon">⭐</div>
-<div class="peptide-highlight__stat">4 Platforms</div>
-<div class="peptide-highlight__label">Bodybuilding Health+, Telos Rx, Strut, ShedRx</div>
+<div class="peptide-highlight__stat">3 Platforms</div>
+<div class="peptide-highlight__label">Bodybuilding Health+, ShedRx, Strut Health</div>
 </div>
 <div class="peptide-highlight">
 <div class="peptide-highlight__icon">💊</div>
@@ -129,7 +129,7 @@ layout: "simple"
 
 <div id="tldr" class="tldr-box">
 
-**TL;DR:** Four telehealth platforms offer legitimate peptide therapy (sermorelin, NAD+, PT-141, GLP-1 microdosing) from licensed US compounding pharmacies. **Bodybuilding Health+** has the widest menu (from $129/mo). **Telos Rx** is cheapest for NAD+ ($116/mo) and microdosed tirzepatide ($116/mo). **Strut Health** is cheapest overall — oral sermorelin at **$99/mo**, no needles. **ShedRx** has a 120-day money-back guarantee. All include provider evaluation, licensed pharmacy, and home delivery. No insurance needed.
+**TL;DR:** Three telehealth platforms offer legitimate peptide therapy (sermorelin, NAD+, PT-141, GLP-1 microdosing) from licensed US compounding pharmacies. **Bodybuilding Health+** has the widest menu (from $129/mo). **Strut Health** is cheapest overall — oral sermorelin at **$99/mo**, no needles. **ShedRx** has a 120-day money-back guarantee with health coaching (from $159/mo). All include provider evaluation, licensed pharmacy, and home delivery. No insurance needed.
 
 </div>
 
@@ -144,7 +144,6 @@ Peptide therapy used to require an anti-aging clinic charging $500-3,000/month. 
 | Platform | Sermorelin | NAD+ | GLP-1 / Microdosing | PT-141 | Cheapest Entry | Key Feature |
 |---|---|---|---|---|---|---|
 | **Bodybuilding Health+** | $129/mo (injection/tablet) | $129/mo (spray/injection/tablet) | $139-209/mo (microdosing available) | $129/mo | $129/mo | Widest menu, bundles |
-| **Telos Rx** | $125/mo | $116/mo (nasal spray) | $116/mo (microdosed tirz) | <$5/day | $116/mo | $0 if not approved, FSA/HSA |
 | **Strut Health** | $99/mo (oral lozenge) | — | — | — | **$99/mo** | No needles, cheapest |
 | **ShedRx** | Available | Available | $159/mo | Available | $159/mo | 120-day guarantee, coaching |
 
@@ -173,43 +172,6 @@ The only platform where you can get GLP-1s, sermorelin, NAD+, PT-141, and specia
 <div class="offer-card__name">Bodybuilding Health+</div>
 <div class="offer-card__price">From $129/mo</div>
 <div class="offer-card__desc">GLP-1s, NAD+, sermorelin, PT-141, and specialty peptides — microdosing options and multi-month bundles</div>
-</a>
-</div>
-
----
-
-### Telos Rx — Best Value for NAD+ and Microdosing
-
-Telos stands out for two things: flat pricing (your cost doesn't go up as your dose titrates) and a "$0 if not approved" guarantee — if the provider doesn't approve your prescription, you pay nothing.
-
-**What they offer:**
-- **NAD+ nasal spray** — $116/mo (list $249). Intranasal delivery for daily energy and cognitive clarity. The cheapest dedicated NAD+ program we've found
-- **Sermorelin** — $125/mo (list $299). Injectable, provider-prescribed
-- **Microdosed tirzepatide** — $116/mo (list $279). Purpose-built microdosing protocol with flat pricing — your cost stays $116 even as your dose increases
-- **PT-141** — less than $5/day on longer-term plans. As-needed for men and women
-
-**All Telos programs:** FSA/HSA eligible, free 2-day shipping, clinician-reviewed intake.
-
-**Best for:** People who want NAD+ or GLP-1 microdosing at the lowest price, or anyone who wants to try peptide therapy with zero financial risk (the $0 guarantee).
-
-<div class="offer-grid">
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12370" target="_blank" class="offer-card offer-card--amber">
-<div class="offer-card__badge">Cheapest NAD+</div>
-<div class="offer-card__name">Telos Rx — NAD+ Spray</div>
-<div class="offer-card__price">$116/mo</div>
-<div class="offer-card__desc">Intranasal NAD+ for daily energy & clarity — clinician-prescribed, FSA/HSA eligible</div>
-</a>
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12375" target="_blank" class="offer-card offer-card--amber">
-<div class="offer-card__badge">$0 If Not Approved</div>
-<div class="offer-card__name">Telos Rx — Sermorelin</div>
-<div class="offer-card__price">$125/mo</div>
-<div class="offer-card__desc">Provider-reviewed intake, FSA/HSA eligible, free 2-day shipping</div>
-</a>
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12373" target="_blank" class="offer-card offer-card--amber">
-<div class="offer-card__badge">Flat Pricing</div>
-<div class="offer-card__name">Telos Rx — Microdosed Tirzepatide</div>
-<div class="offer-card__price">$116/mo</div>
-<div class="offer-card__desc">Purpose-built microdosing protocol — price stays flat as your dose titrates</div>
 </a>
 </div>
 
@@ -264,10 +226,10 @@ ShedRx is primarily a GLP-1 platform, but they also carry sermorelin and longevi
 
 ## How Telehealth Peptide Therapy Works {#how-it-works}
 
-All four platforms follow the same basic model:
+All three platforms follow the same basic model:
 
 1. **Online intake** — health questionnaire covering your medical history, current medications, goals, and any contraindications
-2. **Provider review** — a licensed clinician evaluates your case. They approve, suggest adjustments, or decline (Telos: you pay $0 if declined)
+2. **Provider review** — a licensed clinician evaluates your case. They approve, suggest adjustments, or decline
 3. **Prescription fills** — at a licensed US 503A compounding pharmacy, tested for purity and potency
 4. **Medication ships** — pre-mixed, pre-dosed, to your door (typically 2-day shipping)
 5. **Ongoing access** — message your provider to adjust dosing, report side effects, or add therapies
@@ -289,13 +251,12 @@ No clinic visits. No waiting rooms. No insurance paperwork. The provider evaluat
 **Start with what you want:**
 
 - **Sermorelin only (cheapest possible)** → Strut Health, $99/mo oral lozenge
-- **Sermorelin injection** → Telos Rx $125/mo or Bodybuilding Health+ $129/mo
-- **NAD+** → Telos Rx $116/mo nasal spray, or Bodybuilding Health+ $129/mo (injection/spray/tablet options)
-- **GLP-1 microdosing** → Telos Rx $116/mo (flat pricing), or Bodybuilding Health+ (more dose flexibility)
-- **PT-141 (sexual health)** → Telos Rx (<$5/day) or Bodybuilding Health+ ($129/mo)
+- **Sermorelin injection** → Bodybuilding Health+ $129/mo
+- **NAD+** → Bodybuilding Health+ $129/mo (nasal spray, injection, or tablets)
+- **GLP-1 microdosing** → Bodybuilding Health+ (explicit microdosing options, from $139/mo)
+- **PT-141 (sexual health)** → Bodybuilding Health+ ($129/mo)
 - **Multiple peptides from one provider** → Bodybuilding Health+ (widest menu)
-- **Want a guarantee** → ShedRx (120 days, full refund)
-- **FSA/HSA payment** → Telos Rx (explicitly eligible)
+- **Want a guarantee** → ShedRx (120 days, full refund, health coaching included)
 
 **Things to verify with any platform:**
 - Pharmacy is a licensed US 503A compounding pharmacy
@@ -313,7 +274,7 @@ No clinic visits. No waiting rooms. No insurance paperwork. The provider evaluat
 
 **Are these platforms legitimate?**
 
-Yes. All four platforms work with licensed US compounding pharmacies and employ licensed clinicians (MDs, DOs, NPs, PAs) who review patient intakes and write prescriptions. This is standard telehealth medicine — the same regulatory framework that covers telehealth prescriptions for any other medication. It's fundamentally different from buying "research peptides" online.
+Yes. All three platforms work with licensed US compounding pharmacies and employ licensed clinicians (MDs, DOs, NPs, PAs) who review patient intakes and write prescriptions. This is standard telehealth medicine — the same regulatory framework that covers telehealth prescriptions for any other medication. It's fundamentally different from buying "research peptides" online.
 
 </div>
 
@@ -353,7 +314,7 @@ The medication is the same — compounded peptides from licensed pharmacies. The
 
 ## The Bottom Line
 
-Peptide therapy is no longer a luxury reserved for $2,000/month anti-aging clinics. Four legitimate telehealth platforms make it accessible from $99-129/month — with real providers, licensed pharmacies, and home delivery. The hardest part isn't finding access anymore; it's choosing which peptide to start with.
+Peptide therapy is no longer a luxury reserved for $2,000/month anti-aging clinics. Three legitimate telehealth platforms make it accessible from $99-159/month — with real providers, licensed pharmacies, and home delivery. The hardest part isn't finding access anymore; it's choosing which peptide to start with.
 
 If you're not sure, read our [beginner's guide to peptides](/peptides/what-are-peptides/) first, then come back here to pick a platform.
 

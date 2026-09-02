@@ -249,11 +249,11 @@ All three work. Injection is considered the gold standard; tablets and lozenges 
 <div class="offer-card__desc">Injection or tablet, 1-month and 3-month bundles. Licensed U.S. providers and pharmacies.</div>
 </a>
 
-<a href="https://track.revoffers.com/aff_c?offer_id=1612&aff_id=13095&url_id=12375" target="_blank" class="offer-card offer-card--amber">
-<div class="offer-card__badge">$0 If Not Approved</div>
-<div class="offer-card__name">Telos Rx</div>
-<div class="offer-card__price">Sermorelin from $125/mo</div>
-<div class="offer-card__desc">Provider-reviewed intake — pay nothing if not approved. FSA/HSA eligible, free 2-day shipping</div>
+<a href="https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095" target="_blank" class="offer-card offer-card--cyan">
+<div class="offer-card__badge">Coaching Included</div>
+<div class="offer-card__name">ShedRx</div>
+<div class="offer-card__price">GLP-1 + Sermorelin available</div>
+<div class="offer-card__desc">Health coaching, 120-day money-back guarantee, GLP-1 and longevity peptides under one roof</div>
 </a>
 
 <a href="https://track.revoffers.com/aff_c?offer_id=384&aff_id=13095&url_id=11666" target="_blank" class="offer-card offer-card--purple">
