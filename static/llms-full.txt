@@ -387,6 +387,23 @@ Key takeaways:
 
 ---
 
+## Ozempic Face: What Causes It and How to Prevent Facial Volume Loss on GLP-1s
+URL: https://glp1forwellness.com/resources/ozempic-face/
+Date: October 2026
+
+Comprehensive guide on "Ozempic face" — the facial volume loss, hollowing, and skin sagging that can accompany rapid weight loss on GLP-1 medications. Covers risk factors, prevention strategies, and treatment options.
+
+Key takeaways:
+- "Ozempic face" is NOT a side effect of semaglutide specifically — it happens with any rapid weight loss. GLP-1s cause faster, more dramatic weight loss (15-25%), making the phenomenon more visible
+- Google Trends: searches for "Ozempic face" rose 4,600%
+- Most common in patients over 40 — collagen production drops ~1% per year after 30, reducing skin snap-back
+- Prevention (more effective than treatment): adequate protein (1g/lb lean body mass), hydration (64oz+/day), daily sunscreen, gradual dose titration, strength training, collagen supplements
+- Treatment options: dermal fillers ($600-2,000/session), microneedling ($200-700/session), radiofrequency tightening ($1,000-4,000/session), fat transfer (surgical)
+- Best approach: continue GLP-1, optimize nutrition, wait until weight stabilizes before cosmetic procedures
+- Telehealth access from $129/month
+
+---
+
 ## GLP-1 Muscle Loss: How to Preserve Muscle on Semaglutide
 URL: https://glp1forwellness.com/resources/glp1-muscle-loss/
 Date: July 2026
@@ -419,6 +436,26 @@ Key takeaways:
 - Prevention: adequate protein (1.0-1.2g/kg/day), ferritin levels >40 ng/mL, biotin (2,500-5,000 mcg), zinc, vitamin D, slower weight loss pace
 - Two types: TE (temporary, weight-loss-related) vs androgenetic alopecia (hormonal, less clear GLP-1 connection)
 - Red flags requiring dermatologist: patchy loss, scalp changes, persistence beyond 12 months
+
+---
+
+## Oral Wegovy Pill: The First GLP-1 Weight Loss Pill (2026 Guide)
+URL: https://glp1forwellness.com/articles/oral-wegovy-pill/
+Date: October 2026
+
+Guide to the first FDA-approved oral GLP-1 pill for weight loss — covering clinical results, cost comparisons, dosing, and how it stacks up against injectable and compounded alternatives.
+
+Key takeaways:
+- FDA approved oral semaglutide (Wegovy pill) for chronic weight management in late 2025; US launch January 2026
+- OASIS 4 trial: 16.6% mean body weight loss at 64 weeks with full treatment adherence (vs 2.7% placebo)
+- List price ~$149/month without insurance — far cheaper than injectable Wegovy ($1,300+/mo) but more than compounded semaglutide ($129/mo via telehealth)
+- Hit 2 million total prescriptions by mid-April 2026, just 14 weeks after launch
+- Uses SNAC absorption enhancer (same tech as Rybelsus); only ~1% bioavailability but higher pill dose (25mg daily) compensates
+- Must be taken on empty stomach with ≤4oz water, wait 30 minutes before eating. Daily dosing vs weekly injection
+- Dose titration: 3mg (wk 1-4) → 7mg (wk 5-8) → 14mg (wk 9-12) → 25mg (wk 13+)
+- Side effects similar to injectable: nausea (40-50%), constipation (25-30%), diarrhea (15-20%)
+- Best for: needle phobia, insurance-covered patients. Compounded injectable better for: lowest price, weekly convenience
+- Telehealth platforms prescribe compounded semaglutide from $129/mo as an alternative
 
 ---
 

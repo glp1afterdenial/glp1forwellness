@@ -526,7 +526,7 @@ These platforms connect you with licensed providers who can prescribe compounded
 <div class="related-grid">
 <a href="/resources/glp1-hair-loss/" class="link-card">GLP-1s & Hair Loss Prevention <span class="tx-green">→</span></a>
 <a href="/articles/best-telehealth-glp1/" class="link-card">Compare GLP-1 Telehealth Platforms <span class="tx-green">→</span></a>
-<a href="/peptides/what-are-peptides/" class="link-card">What Are Peptides? Beginner's Guide <span class="tx-green">→</span></a>
+<a href="/resources/ozempic-face/" class="link-card">Ozempic Face: Prevention & Treatment <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>

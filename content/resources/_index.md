@@ -1,6 +1,6 @@
 ---
 title: "Resources & Guides"
-description: "Practical guides on GLP-1 side effects and solutions — muscle loss prevention, hair loss recovery, and 30 condition-specific research guides."
+description: "Practical guides on GLP-1 side effects and solutions — muscle loss prevention, hair loss recovery, Ozempic face, and 30 condition-specific research guides."
 layout: "simple"
 ---
 
@@ -14,7 +14,7 @@ layout: "simple"
 </div>
 <div class="peptide-highlight">
 <div class="peptide-highlight__icon">📋</div>
-<div class="peptide-highlight__stat">35+ Guides</div>
+<div class="peptide-highlight__stat">37+ Guides</div>
 <div class="peptide-highlight__label">Conditions, peptides, side effects, access, and the science</div>
 </div>
 <div class="peptide-highlight">
@@ -48,6 +48,15 @@ layout: "simple"
 </div>
 </a>
 
+<a href="/articles/oral-wegovy-pill/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--green">💊</div>
+<div>
+<div class="guide-card__title">Oral Wegovy Pill: The First GLP-1 Weight Loss Pill</div>
+<p class="guide-card__desc">FDA-approved oral semaglutide at $149/mo — 16.6% weight loss, how it compares to injections and compounded options</p>
+<span class="guide-card__arrow">Read guide →</span>
+</div>
+</a>
+
 <a href="/peptides/best-peptide-telehealth/" class="guide-card">
 <div class="guide-card__icon guide-card__icon--blue">🧬</div>
 <div>
@@ -77,6 +86,15 @@ layout: "simple"
 <div>
 <div class="guide-card__title">GLP-1 Hair Loss: Prevention, Treatment & Regrowth</div>
 <p class="guide-card__desc">Why it happens (telogen effluvium), timeline, prevention strategies, and prescription treatment from $25/mo</p>
+<span class="guide-card__arrow">Read guide →</span>
+</div>
+</a>
+
+<a href="/resources/ozempic-face/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--amber">😮</div>
+<div>
+<div class="guide-card__title">Ozempic Face: Prevention & Treatment</div>
+<p class="guide-card__desc">Facial volume loss from rapid weight loss — who's at risk, how to prevent it, and treatment options if it's already happened</p>
 <span class="guide-card__arrow">Read guide →</span>
 </div>
 </a>

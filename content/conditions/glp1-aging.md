@@ -430,7 +430,7 @@ These platforms connect you with licensed providers who prescribe compounded GLP
 <a href="/conditions/glp1-cancer-risk/" class="link-card">GLP-1s & Cancer Risk <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-bone-health/" class="link-card">GLP-1s & Bone Health <span class="tx-green">→</span></a>
-<a href="/articles/glp1-anti-inflammatory-mechanisms/" class="link-card">How GLP-1s Fight Inflammation <span class="tx-green">→</span></a>
+<a href="/resources/ozempic-face/" class="link-card">Ozempic Face: Prevention & Treatment <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>

@@ -230,7 +230,7 @@ A well-known name with flat-rate pricing commonly around $297/month for compound
 <div class="related-grid">
 <a href="/articles/best-telehealth-glp1/" class="link-card">Compare GLP-1 Telehealth Platforms <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s & Heart Health <span class="tx-green">→</span></a>
-<a href="/peptides/what-are-peptides/" class="link-card">What Are Peptides? Beginner's Guide <span class="tx-green">→</span></a>
+<a href="/articles/oral-wegovy-pill/" class="link-card">Oral Wegovy Pill: FDA-Approved at $149/mo <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>

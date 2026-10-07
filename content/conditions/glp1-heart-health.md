@@ -381,7 +381,7 @@ You'll typically need a BMI of 27+ with a comorbidity (hypertension, high choles
 <a href="/conditions/glp1-blood-pressure/" class="link-card">GLP-1s & Blood Pressure <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-kidney-disease/" class="link-card">GLP-1s & Kidney Disease <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-stroke/" class="link-card">GLP-1s & Stroke Prevention <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-type2-diabetes/" class="link-card">GLP-1s & Type 2 Diabetes <span class="tx-green">→</span></a>
+<a href="/articles/oral-wegovy-pill/" class="link-card">Oral Wegovy Pill: The First GLP-1 Weight Loss Pill <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>
