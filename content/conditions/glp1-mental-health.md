@@ -377,7 +377,7 @@ Here is the reality: **GLP-1 medications are not covered by insurance for mental
 <a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
 <div class="offer-card__badge">Top Pick</div>
 <div class="offer-card__name">Oak Loves You</div>
-<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__price">From $159/mo</div>
 <div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 <a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--blue">

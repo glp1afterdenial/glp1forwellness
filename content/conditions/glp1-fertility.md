@@ -262,7 +262,7 @@ For women who *want* the fertility benefit, here's the approach most reproductiv
 <a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
 <div class="offer-card__badge">Top Pick</div>
 <div class="offer-card__name">Oak Loves You</div>
-<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__price">From $159/mo</div>
 <div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 
@@ -354,7 +354,7 @@ Not "instead of" — potentially "before." If your infertility is driven by obes
 
 <div class="cta-box">
 <div class="cta-box__title">Ready to Address the Root Cause?</div>
-<p class="cta-box__desc">Oak Loves You — $133/mo, free coaching and price matching</p>
+<p class="cta-box__desc">Oak Loves You — $159/mo, B12 included, only charged if approved</p>
 <a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="btn btn--primary">Get Started Today</a>
 </div>
 

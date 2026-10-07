@@ -162,8 +162,8 @@ Every platform below passes the same vetting: a licensed clinician reviews your 
 <a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
 <div class="offer-card__badge">Top Pick</div>
 <div class="offer-card__name">Oak Loves You</div>
-<div class="offer-card__price">From $133/mo</div>
-<div class="offer-card__desc">Free coaching, same-day approval, price matching, all 50 states</div>
+<div class="offer-card__price">From $159/mo</div>
+<div class="offer-card__desc">B12 included, ships 1-2 days, only charged if approved</div>
 </a>
 
 <a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
@@ -191,7 +191,7 @@ Every platform below passes the same vetting: a licensed clinician reviews your 
 
 | Platform | Starting Price | Medication | Best For |
 |----------|---------------|------------|----------|
-| **[Oak Loves You](https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095)** | $133/mo (sema), $199/mo (tirz) | Compounded semaglutide & tirzepatide | Free coaching, same-day approval, price matching, all 50 states |
+| **[Oak Loves You](https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095)** | $159/mo (sema), $199/mo (tirz) | Compounded semaglutide & tirzepatide | B12 included, ships 1-2 days, only charged if approved |
 | **[Gala](https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095)** | $129/mo sema, $179/mo tirz | Compounded semaglutide & tirzepatide | Cheapest tirzepatide, free coaching & dietitian, $0 membership |
 | **[ShedRx](https://track.revoffers.com/aff_c?offer_id=1516&aff_id=13095)** | $159/mo | Compounded semaglutide & tirzepatide (injections, drops, lozenges) | Health coaching included, 120-day money-back guarantee |
 | **[YourEra Health](https://track.revoffers.com/aff_c?offer_id=1602&aff_id=13095)** | From $99/mo (6-month plan) | Compounded semaglutide & tirzepatide | Own pharmacy, physician-led, LegitScript certified, Klarna |

@@ -488,7 +488,7 @@ Side-by-side comparison of telehealth platforms offering compounded GLP-1 prescr
 
 | Provider | Medication | Starting Price | Key Feature |
 |----------|-----------|---------------|-------------|
-| Oak Loves You | Semaglutide | $133/mo | Free coaching, same-day approval, price matching |
+| Oak Loves You | Semaglutide + B12 | $159/mo (12-mo plan) | Ships 1-2 days, only charged if approved, LegitScript certified |
 | Oak Loves You | Tirzepatide | $199/mo | FSA/HSA eligible, 24/7 support |
 | Gala | Semaglutide | $129/mo (annual) | Free coaching + dietitian, $0 membership |
 | Gala | Tirzepatide | $179/mo (annual) | Cheapest tirzepatide available |
@@ -573,7 +573,7 @@ Key takeaways:
 - Compounding advantage: custom dosing (0.125mg increments) impossible with branded pen fixed-dose clicks
 - No dedicated microdosing RCT exists — protocols based on dose-response extrapolation and clinical experience
 - Weight regain applies at all doses upon cessation — microdosing is appealing because it's tolerable enough to stay on indefinitely
-- Providers: Bodybuilding Health+ (explicit microdosing options, semaglutide from $139/mo, tirzepatide from $209/mo, 1-12mo bundles); Oak Loves You ($133/mo); Gala ($129/mo); ShedRx (GLP-1 from $159/mo with health coaching)
+- Providers: Bodybuilding Health+ (explicit microdosing options, semaglutide from $139/mo, tirzepatide from $209/mo, 1-12mo bundles); Oak Loves You ($159/mo); Gala ($129/mo); ShedRx (GLP-1 from $159/mo with health coaching)
 
 ---
 
@@ -766,7 +766,7 @@ Head-to-head price comparison of 7 telehealth platforms offering compounded sema
 
 Key takeaways:
 - Cheapest: Gala at $129/mo (annual plan), $0 membership fee, includes coaching + dietitian
-- Runner-up: Oak Loves You at $133/mo with price matching and same-day approval
+- Runner-up: Oak Loves You at $159/mo (12-month plan) with B12 included and same-day approval
 - Mid-range: Ro ($149-249/mo depending on dose), ShedRx ($159/mo with 120-day money-back guarantee)
 - Higher-end: Mochi Health ($178/mo effective — $99 med + $79 membership), YourEra Health (from $99/mo, owned pharmacy)
 - Most expensive: Henry Meds ($297/mo — $197 medication + $99 membership)

@@ -18,7 +18,7 @@ layout: "simple"
       "name": "What is the cheapest compounded semaglutide online in 2026?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "As of July 2026, the cheapest compounded semaglutide from platforms we've researched is Gala at $129/month (annual plan) with no membership fee, followed closely by Oak Loves You at $133/month with price matching. Mid-range options include Ro ($149-249/month), ShedRx ($159/month with a 120-day money-back guarantee), and Mochi Health ($178/month effective — $99 medication plus $79 membership). Prices change frequently, so verify at checkout."
+        "text": "As of July 2026, the cheapest compounded semaglutide from platforms we've researched is Gala at $129/month (annual plan) with no membership fee, followed by Oak Loves You at $159/month (12-month plan, includes B12). Mid-range options include Ro ($149-249/month), ShedRx ($159/month with a 120-day money-back guarantee), and Mochi Health ($178/month effective — $99 medication plus $79 membership). Prices change frequently, so verify at checkout."
       }
     },
     {
@@ -128,7 +128,7 @@ layout: "simple"
 
 <div id="tldr" class="tldr-box">
 
-**TL;DR:** The cheapest compounded semaglutide we've found in 2026 is **Gala at $129/month** (annual plan, no membership fee), followed by **Oak Loves You at $133/month** with price matching. Mid-range: Ro ($149-249), ShedRx ($159, 120-day guarantee), Mochi ($178 effective). Watch for the three price traps: **membership fees, dose-based price increases, and intro rates that reset**. All prices verified July 2026 — always confirm at checkout.
+**TL;DR:** The cheapest compounded semaglutide we've found in 2026 is **Gala at $129/month** (annual plan, no membership fee), followed by **Oak Loves You at $159/month** (12-month plan). Mid-range: Ro ($149-249), ShedRx ($159, 120-day guarantee), Mochi ($178 effective). Watch for the three price traps: **membership fees, dose-based price increases, and intro rates that reset**. All prices verified July 2026 — always confirm at checkout.
 
 </div>
 
@@ -147,7 +147,7 @@ We ranked seven platforms by **realistic ongoing monthly cost** — not the teas
 | Rank | Platform | Real Monthly Cost | Membership Fee | Notes |
 |------|----------|------------------|----------------|-------|
 | 1 | **Gala** | $129 | $0 | Annual plan; tirzepatide $179 |
-| 2 | **Oak Loves You** | $133 | $0 | Price matching, same-day approval |
+| 2 | **Oak Loves You** | $159 | $0 | Ships 1-2 days, B12 included, same-day approval |
 | 3 | **Ro** | $149-249 | $0 | Price rises with dose |
 | 4 | **ShedRx** | $159 | $0 | 120-day money-back guarantee, coaching included |
 | 5 | **Mochi Health** | $178 | $79 (included in total) | $99 med, flat across all doses |
@@ -158,7 +158,7 @@ We ranked seven platforms by **realistic ongoing monthly cost** — not the teas
 
 Gala's $129/month semaglutide (on the annual plan) is the lowest ongoing price we've verified, with no membership fee and free coaching plus dietitian access included. Their tirzepatide at $179/month is also the cheapest we've seen. The catch: the lowest rate requires the annual commitment — month-to-month runs higher.
 
-### 2. Oak Loves You — $133/month (Best Overall Value)
+### 2. Oak Loves You — $159/month (Best Overall Value)
 
 Four dollars more than Gala, but with month-to-month flexibility, same-day approval, free coaching, and — notably — **price matching**: if you find a lower legitimate price, they'll match it. This is our top overall pick when flexibility matters.
 
@@ -202,7 +202,7 @@ A well-known name with flat-rate pricing commonly around $297/month for compound
 <a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
 <div class="offer-card__badge">Best Value</div>
 <div class="offer-card__name">Oak Loves You</div>
-<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__price">From $159/mo</div>
 <div class="offer-card__desc">Price matching, same-day approval, month-to-month flexibility</div>
 </a>
 

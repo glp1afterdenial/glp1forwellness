@@ -69,8 +69,8 @@ layout: "simple"
 {
   "@context": "https://schema.org",
   "@type": "MedicalWebPage",
-  "headline": "Oak Loves You Review: GLP-1 Prescriptions From $133/mo (2026)",
-  "description": "Oak Loves You review — same-day GLP-1 approval, $133/mo compounded semaglutide, free coaching, price matching, and all 50 states. How the signup quiz works.",
+  "headline": "Oak Loves You Review: GLP-1 Prescriptions From $159/mo (2026)",
+  "description": "Oak Loves You review — semaglutide from $159/mo with Vitamin B12, ships in 1-2 days. Take the 5-minute quiz for a free medical review.",
   "url": "https://glp1forwellness.com/articles/oak-loves-you-review/",
   "datePublished": "2026-10-07",
   "dateModified": "2026-10-07",
@@ -90,7 +90,7 @@ layout: "simple"
 }
 </script>
 
-<p class="page-subtitle">Oak Loves You is a telehealth platform that prescribes compounded GLP-1 medications starting at $133/mo — with same-day approval, free coaching, and price matching across all 50 states.</p>
+<p class="page-subtitle">Oak Loves You is a telehealth platform that prescribes compounded GLP-1 medications starting at $159/mo — with Vitamin B12 included, free shipping in 1-2 days, and LegitScript certification across all 50 states.</p>
 
 <div class="peptide-highlights">
 <div class="peptide-highlight">

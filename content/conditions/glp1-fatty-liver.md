@@ -155,7 +155,7 @@ layout: "simple"
 <li>Semaglutide received <strong>FDA approval in August 2025</strong> for MASH with moderate-to-advanced liver fibrosis</li>
 <li>GLP-1s reduce liver fat, inflammation, and fibrosis through multiple mechanisms</li>
 <li>Because this is an FDA-approved indication, <strong>insurance coverage is more likely</strong> than for weight loss alone</li>
-<li>Even without insurance, telehealth platforms offer compounded semaglutide from $133/mo</li>
+<li>Even without insurance, telehealth platforms offer compounded semaglutide from $159/mo</li>
 </ul>
 </div>
 
@@ -416,7 +416,7 @@ If you want to start GLP-1 therapy while pursuing a formal diagnosis, or if insu
 <a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
 <div class="offer-card__badge">Top Pick</div>
 <div class="offer-card__name">Oak Loves You</div>
-<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__price">From $159/mo</div>
 <div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 <a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--blue">

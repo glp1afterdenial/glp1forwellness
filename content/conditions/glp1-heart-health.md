@@ -74,7 +74,7 @@ layout: "simple"
       "name": "Can I get a GLP-1 for heart health if my insurance denied it?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. If you've been denied coverage, telehealth platforms like Oak Loves You ($133/month) and Gala ($129/month) offer compounded semaglutide with no insurance required. You typically need a BMI of 27+ with a comorbidity (cardiovascular risk factors like hypertension or high cholesterol count) or a BMI of 30+."
+        "text": "Yes. If you've been denied coverage, telehealth platforms like Oak Loves You ($159/month) and Gala ($129/month) offer compounded semaglutide with no insurance required. You typically need a BMI of 27+ with a comorbidity (cardiovascular risk factors like hypertension or high cholesterol count) or a BMI of 30+."
       }
     }
   ]
@@ -345,7 +345,7 @@ You'll typically need a BMI of 27+ with a comorbidity (hypertension, high choles
 <a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
 <div class="offer-card__badge">Top Pick</div>
 <div class="offer-card__name">Oak Loves You</div>
-<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__price">From $159/mo</div>
 <div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 

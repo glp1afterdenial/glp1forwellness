@@ -368,7 +368,7 @@ No clinic visits. No waiting rooms. No insurance required.
 <a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Best GLP-1 Value</div>
 <div class="offer-card__name">Oak Loves You</div>
-<div class="offer-card__price">GLP-1 from $133/mo</div>
+<div class="offer-card__price">GLP-1 from $159/mo</div>
 <div class="offer-card__desc">Compounded semaglutide or tirzepatide, licensed US pharmacy, provider included</div>
 </a>
 

@@ -347,7 +347,7 @@ Beyond Weight Loss
 <tbody>
 <tr class="row--highlight">
 <td><span class="provider-name">Oak Loves You</span> <span class="provider-tag tag--top">Top Pick</span></td>
-<td class="price-cell">$133<small>/mo</small></td>
+<td class="price-cell">$159<small>/mo</small></td>
 <td><ul class="features-list"><li><span class="check-icon">✓</span> Free coaching</li><li><span class="check-icon">✓</span> Same-day approval</li><li><span class="check-icon">✓</span> Price matching</li></ul></td>
 <td><div class="best-for">Best overall value with coaching support</div></td>
 <td class="cta-cell"><a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="btn--table">Visit Oak</a></td>

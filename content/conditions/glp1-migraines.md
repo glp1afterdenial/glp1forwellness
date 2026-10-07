@@ -74,7 +74,7 @@ layout: "simple"
       "name": "Can I get GLP-1 medications for migraines without insurance?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Telehealth platforms like Oak Loves You offer compounded semaglutide starting at $133/month with no insurance needed. You'll need to qualify based on BMI (typically 27+ with comorbidities or 30+), but your migraines and overall health concerns are part of your complete profile. The migraine-reduction effect would be an additional benefit alongside weight management."
+        "text": "Telehealth platforms like Oak Loves You offer compounded semaglutide starting at $159/month with no insurance needed. You'll need to qualify based on BMI (typically 27+ with comorbidities or 30+), but your migraines and overall health concerns are part of your complete profile. The migraine-reduction effect would be an additional benefit alongside weight management."
       }
     }
   ]
@@ -394,7 +394,7 @@ These platforms connect you with licensed providers who can prescribe compounded
 <a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
 <div class="offer-card__badge">Top Pick</div>
 <div class="offer-card__name">Oak Loves You</div>
-<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__price">From $159/mo</div>
 <div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 

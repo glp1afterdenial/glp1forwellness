@@ -257,7 +257,7 @@ Key insight from the data: **you don't need maximum dose for meaningful benefit.
 <a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--amber">
 <div class="offer-card__badge">Flexible Dosing</div>
 <div class="offer-card__name">Oak Loves You</div>
-<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__price">From $159/mo</div>
 <div class="offer-card__desc">Custom compounded doses, free coaching, same-day approval, price matching</div>
 </a>
 

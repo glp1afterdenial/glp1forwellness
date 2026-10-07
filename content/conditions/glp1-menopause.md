@@ -66,7 +66,7 @@ layout: "simple"
       "name": "How much do GLP-1 medications cost for menopausal women without insurance?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Telehealth platforms offer compounded semaglutide starting at $129-$199 per month without insurance. Oak Loves You starts at $133/month with free coaching, and Gala starts at $129/month. No insurance is needed — you qualify based on BMI and health profile."
+        "text": "Telehealth platforms offer compounded semaglutide starting at $129-$199 per month without insurance. Oak Loves You starts at $159/month (12-month plan), and Gala starts at $129/month. No insurance is needed — you qualify based on BMI and health profile."
       }
     },
     {
@@ -430,7 +430,7 @@ These platforms connect you with licensed providers who can prescribe compounded
 <a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
 <div class="offer-card__badge">Top Pick</div>
 <div class="offer-card__name">Oak Loves You</div>
-<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__price">From $159/mo</div>
 <div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 

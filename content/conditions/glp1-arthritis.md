@@ -58,7 +58,7 @@ layout: "simple"
       "name": "Can I get GLP-1 medications for joint pain without insurance?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Telehealth platforms like Oak Loves You offer compounded semaglutide starting at $133/month with no insurance needed. You'll need to qualify based on BMI (typically 27+ with comorbidities or 30+), but your joint pain and mobility concerns are part of your overall health profile."
+        "text": "Yes. Telehealth platforms like Oak Loves You offer compounded semaglutide starting at $159/month with no insurance needed. You'll need to qualify based on BMI (typically 27+ with comorbidities or 30+), but your joint pain and mobility concerns are part of your overall health profile."
       }
     },
     {
@@ -143,7 +143,7 @@ layout: "simple"
 
 <div id="tldr" class="tldr-box">
 
-**TL;DR:** GLP-1 medications like semaglutide are showing remarkable results for arthritis and joint pain. A clinical trial found a **41.7-point pain reduction** in knee osteoarthritis. The benefits come from both weight loss (less stress on joints) and **direct anti-inflammatory effects** — researchers discovered GLP-1 receptors in joint tissue itself. GLP-1s are not FDA-approved for arthritis, but telehealth platforms offer affordable access starting at **$133/month**.
+**TL;DR:** GLP-1 medications like semaglutide are showing remarkable results for arthritis and joint pain. A clinical trial found a **41.7-point pain reduction** in knee osteoarthritis. The benefits come from both weight loss (less stress on joints) and **direct anti-inflammatory effects** — researchers discovered GLP-1 receptors in joint tissue itself. GLP-1s are not FDA-approved for arthritis, but telehealth platforms offer affordable access starting at **$159/month**.
 
 </div>
 
@@ -383,7 +383,7 @@ These platforms connect you with licensed providers who can prescribe compounded
 <a href="https://track.revoffers.com/aff_c?offer_id=1581&aff_id=13095" target="_blank" class="offer-card offer-card--green">
 <div class="offer-card__badge">Top Pick</div>
 <div class="offer-card__name">Oak Loves You</div>
-<div class="offer-card__price">From $133/mo</div>
+<div class="offer-card__price">From $159/mo</div>
 <div class="offer-card__desc">Free coaching, same-day approval, price matching</div>
 </a>
 <a href="https://track.revoffers.com/aff_c?offer_id=1576&aff_id=13095" target="_blank" class="offer-card offer-card--blue">
