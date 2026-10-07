@@ -1,7 +1,7 @@
 ---
 title: "NAD+ Therapy: What It Is, What the Science Says, and How to Get It (2026)"
 date: 2026-07-26
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "NAD+ declines ~50% between ages 40-60. What NAD+ therapy does, injection vs spray vs tablets, what research supports, and telehealth from $116/month."
 summary: "NAD+ declines ~50% between ages 40-60. What NAD+ therapy does, injection vs spray vs tablets, what research supports, and telehealth from $116/month."
 keywords: ["NAD+ therapy", "NAD+ injections", "NAD+ benefits", "NAD+ nasal spray", "NAD+ supplement vs injection", "NAD+ weight loss", "NAD+ energy", "NAD+ anti-aging", "how to increase NAD+", "NAD+ cost", "NAD+ telehealth", "NAD+ and GLP-1"]

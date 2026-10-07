@@ -1,7 +1,7 @@
 ---
 title: "Lupus and GLP-1s: Can Semaglutide Help With Inflammation and Weight Gain?"
 date: 2026-07-16
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "What the research says about GLP-1 medications for lupus — anti-inflammatory effects, safety with immunosuppressants, and how to access them affordably."
 summary: "What the research says about GLP-1 medications for lupus — anti-inflammatory effects, safety with immunosuppressants, and how to access them affordably."
 keywords: ["lupus ozempic", "lupus semaglutide", "glp-1 lupus", "lupus weight gain", "prednisone weight gain", "can I take ozempic with lupus", "semaglutide lupus inflammation", "lupus tirzepatide", "lupus weight loss", "glp-1 autoimmune disease", "ozempic lupus nephritis", "semaglutide anti-inflammatory"]

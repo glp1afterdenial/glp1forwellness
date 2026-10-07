@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Parkinson's Disease: Neuroprotection Beyond Weight Loss"
 date: 2026-07-28
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1 use is linked to 40-60% lower Parkinson's risk, and clinical trials show motor benefits. The neuroprotection science and honest caveats."
 summary: "GLP-1 use is linked to 40-60% lower Parkinson's risk, and clinical trials show motor benefits. The neuroprotection science and honest caveats."
 keywords: ["GLP-1 for Parkinson's disease", "semaglutide neuroprotection", "GLP-1 Parkinson's risk reduction", "semaglutide brain protection", "GLP-1 dopamine neurons", "tirzepatide Parkinson's", "GLP-1 alpha-synuclein", "semaglutide neuroinflammation", "GLP-1 receptor agonist brain", "Parkinson's disease prevention", "compounded semaglutide neuroprotection", "affordable GLP-1 brain health"]

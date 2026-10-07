@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Mental Health: Depression, Anxiety & Brain Health (2026)"
 date: 2026-07-16
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "What the research says about GLP-1 medications and mental health — depression, anxiety, neuroprotection, suicidality data, and safe access options."
 summary: "What the research says about GLP-1 medications and mental health — depression, anxiety, neuroprotection, suicidality data, and safe access options."
 keywords: ["GLP-1 mental health", "semaglutide depression", "GLP-1 anxiety", "Ozempic mental health", "GLP-1 brain health", "semaglutide Alzheimer's", "GLP-1 suicidality", "tirzepatide depression", "GLP-1 neuroprotection", "weight loss medication mental health", "GLP-1 dopamine", "Wegovy depression risk"]

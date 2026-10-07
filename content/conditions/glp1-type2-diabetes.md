@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications for Type 2 Diabetes: The Complete Guide"
 date: 2026-07-28
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1 medications reduce HbA1c by 1.5-2.0%, cut cardiovascular death 26%, and drive 10-15% weight loss. The evidence-based guide to GLP-1 therapy."
 summary: "GLP-1 medications reduce HbA1c by 1.5-2.0%, cut cardiovascular death 26%, and drive 10-15% weight loss. The evidence-based guide to GLP-1 therapy."
 keywords: ["GLP-1 for type 2 diabetes", "semaglutide diabetes", "GLP-1 HbA1c reduction", "semaglutide type 2 diabetes", "tirzepatide diabetes", "GLP-1 blood sugar control", "Ozempic diabetes", "GLP-1 cardiovascular diabetes", "semaglutide diabetes outcomes", "GLP-1 diabetes weight loss", "compounded semaglutide diabetes", "affordable GLP-1 diabetes treatment"]

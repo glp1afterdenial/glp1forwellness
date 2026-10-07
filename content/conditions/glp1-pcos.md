@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and PCOS: Insulin Resistance, Weight, and Hormones"
 date: 2026-07-17
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1 medications target the insulin resistance driving PCOS — restoring cycles, lowering androgens, and improving fertility markers. Evidence and access."
 summary: "GLP-1 medications target the insulin resistance driving PCOS — restoring cycles, lowering androgens, and improving fertility markers. Evidence and access."
 keywords: ["GLP-1 for PCOS", "semaglutide PCOS treatment", "PCOS insulin resistance medication", "semaglutide vs metformin PCOS", "GLP-1 restore ovulation PCOS", "semaglutide menstrual cycle regularity", "PCOS weight loss medication", "tirzepatide PCOS research", "GLP-1 lower androgens PCOS", "semaglutide PCOS fertility", "compounded semaglutide for PCOS", "affordable GLP-1 PCOS"]

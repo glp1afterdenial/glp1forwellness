@@ -1,7 +1,7 @@
 ---
 title: "GLP-1s and Sleep Apnea: How Zepbound Became the First FDA-Approved Drug for OSA"
 date: 2026-07-16
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "Zepbound is the first FDA-approved drug for obstructive sleep apnea. How GLP-1s reduce AHI, CPAP alternatives, and how to get treatment affordably."
 summary: "Zepbound is the first FDA-approved drug for obstructive sleep apnea. How GLP-1s reduce AHI, CPAP alternatives, and how to get treatment affordably."
 keywords: ["GLP-1 sleep apnea", "Zepbound sleep apnea FDA approval", "tirzepatide obstructive sleep apnea", "ozempic sleep apnea", "can GLP-1 replace CPAP", "sleep apnea medication instead of CPAP", "semaglutide sleep apnea treatment", "GLP-1 AHI reduction", "sleep apnea weight loss medication", "tirzepatide OSA treatment", "Zepbound for sleep apnea insurance coverage", "obstructive sleep apnea drug treatment"]

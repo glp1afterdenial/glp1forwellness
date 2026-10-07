@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Stroke Prevention: What SELECT and SUSTAIN 6 Show"
 date: 2026-07-28
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "SUSTAIN 6 showed semaglutide reduced nonfatal stroke by 39%. How GLP-1 medications protect against stroke, who benefits most, and affordable access."
 summary: "SUSTAIN 6 showed semaglutide reduced nonfatal stroke by 39%. How GLP-1 medications protect against stroke, who benefits most, and affordable access."
 keywords: ["GLP-1 for stroke prevention", "semaglutide stroke risk", "GLP-1 stroke reduction", "SELECT trial stroke", "semaglutide cardiovascular", "tirzepatide stroke", "GLP-1 blood clot prevention", "semaglutide atherosclerosis", "GLP-1 carotid plaque", "stroke prevention medication", "compounded semaglutide stroke", "affordable GLP-1 stroke risk"]

@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Peripheral Neuropathy: Reversing Nerve Damage"
 date: 2026-07-28
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1 medications may reverse diabetic nerve damage — 86% showed nerve improvement within one month. The breakthrough science and access options."
 summary: "GLP-1 medications may reverse diabetic nerve damage — 86% showed nerve improvement within one month. The breakthrough science and access options."
 keywords: ["GLP-1 for neuropathy", "semaglutide nerve damage", "GLP-1 peripheral neuropathy", "semaglutide diabetic neuropathy", "GLP-1 nerve regeneration", "tirzepatide neuropathy", "GLP-1 neuropathic pain", "semaglutide nerve repair", "GLP-1 nerve protection", "diabetic neuropathy treatment", "compounded semaglutide neuropathy", "affordable GLP-1 nerve health"]

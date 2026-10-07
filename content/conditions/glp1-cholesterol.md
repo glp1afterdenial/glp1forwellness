@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and High Cholesterol: What They Do (and Don't Do)"
 date: 2026-07-20
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1 medications lower triglycerides 15-20% and cut inflammation ~40% — but don't replace statins. How semaglutide affects cholesterol and who benefits."
 summary: "GLP-1 medications lower triglycerides 15-20% and cut inflammation ~40% — but don't replace statins. How semaglutide affects cholesterol and who benefits."
 keywords: ["GLP-1 cholesterol", "semaglutide lower cholesterol", "does Ozempic lower cholesterol", "tirzepatide triglycerides", "GLP-1 LDL reduction", "semaglutide triglycerides", "GLP-1 vs statin", "high cholesterol weight loss medication", "metabolic syndrome GLP-1", "semaglutide lipid panel", "affordable GLP-1 cholesterol", "GLP-1 dyslipidemia"]

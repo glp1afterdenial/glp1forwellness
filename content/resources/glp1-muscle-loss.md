@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Muscle Loss: How to Preserve Muscle on Semaglutide (The Complete Guide)"
 date: 2026-07-17
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "Up to 40% of weight lost on GLP-1s can be muscle. How to preserve lean mass with protein, resistance training, and supplementation — 2025 research."
 summary: "Up to 40% of weight lost on GLP-1s can be muscle. How to preserve lean mass with protein, resistance training, and supplementation — 2025 research."
 keywords: ["GLP-1 muscle loss", "semaglutide muscle preservation", "how to prevent muscle loss on Ozempic", "protein intake GLP-1", "resistance training semaglutide", "Wegovy lean mass loss", "creatine GLP-1 medications", "tirzepatide muscle wasting", "DEXA scan weight loss", "GLP-1 sarcopenia prevention", "semaglutide body composition", "preserve muscle on Wegovy"]

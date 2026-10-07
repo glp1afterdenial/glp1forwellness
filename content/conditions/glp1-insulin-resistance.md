@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Insulin Resistance: Treating the Root Cause"
 date: 2026-07-20
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1 medications improve insulin sensitivity dramatically — HOMA-IR falls 30-50% in trials. The signs, the science, and affordable treatment access."
 summary: "GLP-1 medications improve insulin sensitivity dramatically — HOMA-IR falls 30-50% in trials. The signs, the science, and affordable treatment access."
 keywords: ["GLP-1 insulin resistance", "semaglutide insulin sensitivity", "tirzepatide insulin resistance", "HOMA-IR improvement GLP-1", "insulin resistance weight gain", "insulin resistance treatment medication", "semaglutide HOMA-IR", "insulin resistance belly fat", "GLP-1 metabolic syndrome", "insulin resistance PCOS treatment", "affordable GLP-1 insulin resistance", "insulin resistance telehealth"]

@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Gout: Can Weight Loss Lower Uric Acid and Flares?"
 date: 2026-07-20
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "Obesity doubles to triples gout risk. New cohort data show GLP-1 users have fewer flares. What semaglutide can and can't do for gout — plus access."
 summary: "Obesity doubles to triples gout risk. New cohort data show GLP-1 users have fewer flares. What semaglutide can and can't do for gout — plus access."
 keywords: ["GLP-1 gout", "semaglutide gout", "does Ozempic help gout", "tirzepatide uric acid", "weight loss gout flares", "obesity gout risk", "lower uric acid naturally", "GLP-1 uric acid", "gout flare weight loss", "Mounjaro gout", "affordable GLP-1 gout", "GLP-1 telehealth gout"]

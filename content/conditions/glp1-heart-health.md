@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Heart Health: The Cardiovascular Benefits"
 date: 2026-07-17
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "The SELECT trial showed semaglutide cuts cardiovascular events by 20%, earning FDA approval for heart risk reduction. How GLP-1s protect the heart."
 summary: "The SELECT trial showed semaglutide cuts cardiovascular events by 20%, earning FDA approval for heart risk reduction. How GLP-1s protect the heart."
 keywords: ["GLP-1 heart health", "semaglutide cardiovascular benefits", "SELECT trial results", "Wegovy heart disease FDA approval", "GLP-1 reduce heart attack risk", "semaglutide stroke prevention", "GLP-1 blood pressure reduction", "semaglutide anti-inflammatory CRP", "Wegovy cardiovascular risk reduction", "GLP-1 for heart disease without diabetes", "tirzepatide heart benefits", "affordable GLP-1 cardiovascular"]

@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Cancer Risk: What the 2025-2026 Studies Show"
 date: 2026-07-26
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "Large studies show GLP-1 users have 17-41% lower cancer risk — including 30% lower breast and 58% lower endometrial. What it means and doesn't prove."
 summary: "Large studies show GLP-1 users have 17-41% lower cancer risk — including 30% lower breast and 58% lower endometrial. What it means and doesn't prove."
 keywords: ["GLP-1 cancer risk", "semaglutide cancer prevention", "Ozempic cancer", "does Ozempic prevent cancer", "GLP-1 breast cancer", "tirzepatide cancer risk", "obesity cancer risk", "weight loss cancer prevention", "GLP-1 endometrial cancer", "semaglutide colon cancer", "GLP-1 anti-inflammatory cancer"]

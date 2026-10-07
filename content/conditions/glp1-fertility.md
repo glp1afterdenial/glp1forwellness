@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Fertility: 'Ozempic Babies,' PCOS, and What You Need to Know"
 date: 2026-07-26
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1 medications restore ovulation in women with PCOS and obesity — causing unexpected 'Ozempic babies.' When to stop and birth control interactions."
 summary: "GLP-1 medications restore ovulation in women with PCOS and obesity — causing unexpected 'Ozempic babies.' When to stop and birth control interactions."
 keywords: ["Ozempic babies", "GLP-1 fertility", "semaglutide pregnancy", "semaglutide fertility", "Ozempic PCOS fertility", "tirzepatide pregnancy", "GLP-1 ovulation", "weight loss fertility", "semaglutide birth control", "GLP-1 trying to conceive", "Ozempic unplanned pregnancy", "stop Ozempic before pregnancy"]

@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Aging: Can Semaglutide Slow Biological Aging?"
 date: 2026-07-17
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "A 2026 UC San Diego study found semaglutide reduced biological age by 3.1 years. How GLP-1s target inflammaging — and the honest caveats."
 summary: "A 2026 UC San Diego study found semaglutide reduced biological age by 3.1 years. How GLP-1s target inflammaging — and the honest caveats."
 keywords: ["semaglutide biological aging study", "GLP-1 slow aging research 2026", "semaglutide reduce biological age", "GLP-1 anti-aging epigenetic clock", "semaglutide inflammaging reduction", "DunedinPACE semaglutide study", "GLP-1 longevity healthspan", "tirzepatide aging clinical trial", "semaglutide DNA methylation age", "GLP-1 cellular aging inflammation", "UC San Diego semaglutide aging", "compounded semaglutide anti-aging"]

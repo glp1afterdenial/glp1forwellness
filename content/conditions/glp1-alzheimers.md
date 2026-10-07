@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Alzheimer's: Neuroprotection, Prevention, and What the Trials Show"
 date: 2026-07-17
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "Observational studies show 40-70% lower Alzheimer's risk with semaglutide, but Phase 3 trials failed for existing disease. Prevention vs treatment."
 summary: "Observational studies show 40-70% lower Alzheimer's risk with semaglutide, but Phase 3 trials failed for existing disease. Prevention vs treatment."
 keywords: ["GLP-1 for Alzheimer's prevention", "semaglutide brain health neuroprotection", "GLP-1 Alzheimer's disease risk reduction", "semaglutide dementia prevention research", "GLP-1 receptor agonist brain insulin resistance", "tirzepatide Alzheimer's neuroprotective", "semaglutide neuroinflammation reduction", "GLP-1 amyloid beta pathology", "type 3 diabetes Alzheimer's hypothesis", "semaglutide cerebral blood flow", "GLP-1 Parkinson's disease risk", "compounded semaglutide brain health"]

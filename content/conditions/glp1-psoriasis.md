@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Psoriasis: Can Semaglutide Calm Skin Inflammation?"
 date: 2026-07-17
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1 medications improved psoriasis PASI scores 20-75% in studies. How weight loss boosts biologics, the immune mechanisms, and affordable access."
 summary: "GLP-1 medications improved psoriasis PASI scores 20-75% in studies. How weight loss boosts biologics, the immune mechanisms, and affordable access."
 keywords: ["GLP-1 psoriasis", "semaglutide psoriasis improvement", "GLP-1 PASI score", "does Ozempic help psoriasis", "semaglutide skin inflammation", "weight loss psoriasis improvement", "obesity psoriasis biologics", "GLP-1 psoriatic arthritis", "semaglutide IL-17 inflammation", "tirzepatide psoriasis", "GLP-1 immune cells", "affordable GLP-1 psoriasis"]

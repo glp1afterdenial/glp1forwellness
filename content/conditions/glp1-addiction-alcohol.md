@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Addiction: How Semaglutide Reduces Alcohol Cravings"
 date: 2026-07-17
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "A 2026 Lancet RCT shows semaglutide reduces alcohol cravings and heavy drinking days. How GLP-1s affect the brain's reward system and access options."
 summary: "A 2026 Lancet RCT shows semaglutide reduces alcohol cravings and heavy drinking days. How GLP-1s affect the brain's reward system and access options."
 keywords: ["GLP-1 for alcohol cravings", "semaglutide alcohol addiction", "GLP-1 reduce drinking", "semaglutide addiction treatment", "GLP-1 reward system brain", "semaglutide heavy drinking study", "GLP-1 dopamine alcohol", "tirzepatide alcohol cravings", "compounded semaglutide addiction", "GLP-1 alcohol use disorder", "semaglutide craving reduction", "affordable GLP-1 alcohol"]

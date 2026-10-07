@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Asthma: Airway Inflammation, COPD, and Respiratory Benefits"
 date: 2026-07-17
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1 medications may reduce asthma risk 14-18% and decrease COPD exacerbations through GLP-1 receptors in lung tissue. The evidence and access options."
 summary: "GLP-1 medications may reduce asthma risk 14-18% and decrease COPD exacerbations through GLP-1 receptors in lung tissue. The evidence and access options."
 keywords: ["GLP-1 for asthma", "semaglutide asthma research", "GLP-1 COPD exacerbations", "semaglutide airway inflammation", "GLP-1 receptors in lungs", "obesity asthma phenotype", "tirzepatide respiratory benefits", "GLP-1 eosinophilic inflammation", "semaglutide breathing improvement", "GATA-3 semaglutide trial", "compounded semaglutide for asthma", "affordable GLP-1 respiratory"]

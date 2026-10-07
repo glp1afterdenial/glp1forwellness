@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Prediabetes: Stopping Diabetes Before It Starts"
 date: 2026-07-20
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "Semaglutide and tirzepatide reversed prediabetes in 80-90% of trial participants. How GLP-1s restore normal blood sugar and affordable access options."
 summary: "Semaglutide and tirzepatide reversed prediabetes in 80-90% of trial participants. How GLP-1s restore normal blood sugar and affordable access options."
 keywords: ["GLP-1 prediabetes", "semaglutide prediabetes reversal", "tirzepatide prevent diabetes", "GLP-1 blood sugar A1C", "prediabetes treatment medication", "reverse prediabetes", "SURMOUNT-1 diabetes prevention", "semaglutide A1C reduction", "GLP-1 insulin sensitivity", "prediabetes weight loss medication", "affordable GLP-1 prediabetes", "prediabetes telehealth"]

@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and High Blood Pressure: What the Trials Show"
 date: 2026-07-20
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1 medications lower systolic blood pressure 3-8 mmHg in major trials. How semaglutide and tirzepatide affect hypertension and access options."
 summary: "GLP-1 medications lower systolic blood pressure 3-8 mmHg in major trials. How semaglutide and tirzepatide affect hypertension and access options."
 keywords: ["GLP-1 blood pressure", "semaglutide lower blood pressure", "tirzepatide hypertension", "does Ozempic lower blood pressure", "Wegovy blood pressure reduction", "GLP-1 hypertension treatment", "weight loss lower blood pressure", "SURMOUNT-1 blood pressure substudy", "semaglutide systolic reduction", "obesity hypertension medication", "affordable GLP-1 blood pressure", "GLP-1 telehealth hypertension"]

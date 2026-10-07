@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications & Fatty Liver Disease (NAFLD/MASH): What the Research Shows"
 date: 2026-07-16
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "Semaglutide is FDA-approved for MASH with liver fibrosis. How GLP-1 medications reduce liver fat, inflammation, and scarring — plus access options."
 summary: "Semaglutide is FDA-approved for MASH with liver fibrosis. How GLP-1 medications reduce liver fat, inflammation, and scarring — plus access options."
 keywords: ["GLP-1 fatty liver", "semaglutide MASH", "semaglutide NAFLD", "GLP-1 liver disease", "MASH treatment 2025", "fatty liver medication", "semaglutide liver fibrosis", "ESSENCE trial semaglutide", "GLP-1 hepatic steatosis", "NAFLD treatment options", "semaglutide FDA approval MASH"]

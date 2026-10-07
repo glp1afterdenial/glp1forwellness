@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Menopause: Weight Gain, Hormones, and What Women Need to Know"
 date: 2026-07-17
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1 medications help menopausal women lose weight and reduce visceral fat. HRT + GLP-1 synergy, bone considerations, and affordable access options."
 summary: "GLP-1 medications help menopausal women lose weight and reduce visceral fat. HRT + GLP-1 synergy, bone considerations, and affordable access options."
 keywords: ["GLP-1 for menopause weight gain", "semaglutide menopause", "GLP-1 and HRT together", "menopause weight loss medication", "semaglutide postmenopausal women", "GLP-1 hot flashes", "tirzepatide menopause", "menopause visceral fat GLP-1", "GLP-1 bone density menopause", "compounded semaglutide for women over 50", "menopause hormone therapy and GLP-1", "affordable GLP-1 menopause"]

@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Sexual Health: Libido, ED, and Peptide Solutions"
 date: 2026-07-26
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1s can improve or worsen sexual function. How semaglutide affects libido and ED, plus PT-141, tadalafil, and sexual wellness program options."
 summary: "GLP-1s can improve or worsen sexual function. How semaglutide affects libido and ED, plus PT-141, tadalafil, and sexual wellness program options."
 keywords: ["GLP-1 libido", "Ozempic sex drive", "semaglutide erectile dysfunction", "GLP-1 ED", "PT-141 peptide", "bremelanotide", "Ozempic low libido", "tirzepatide sexual side effects", "GLP-1 testosterone", "weight loss libido", "peptides for sexual health", "tadalafil GLP-1", "Ozempic sexual dysfunction"]

@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Migraines: Can Semaglutide Reduce Headache Days?"
 date: 2026-07-17
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1 medications cut migraine days nearly in half — independent of weight loss. The neuroinflammation science, CGRP connection, and access options."
 summary: "GLP-1 medications cut migraine days nearly in half — independent of weight loss. The neuroinflammation science, CGRP connection, and access options."
 keywords: ["GLP-1 for migraines", "semaglutide migraine treatment", "GLP-1 reduce headache days", "semaglutide headaches side effect", "GLP-1 neuroinflammation migraines", "tirzepatide migraine relief", "GLP-1 CGRP connection", "semaglutide chronic migraine", "weight loss medication for migraines", "GLP-1 receptor agonist brain pain", "compounded semaglutide for migraines", "affordable GLP-1 migraine"]

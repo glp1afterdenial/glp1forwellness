@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Kidney Disease: The FLOW Trial and CKD Protection"
 date: 2026-07-17
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "The FLOW trial showed semaglutide cut major kidney events by 24%, leading to FDA approval for CKD. How GLP-1s protect kidneys and access options."
 summary: "The FLOW trial showed semaglutide cut major kidney events by 24%, leading to FDA approval for CKD. How GLP-1s protect kidneys and access options."
 keywords: ["GLP-1 kidney disease", "FLOW trial semaglutide", "Ozempic kidney protection", "semaglutide chronic kidney disease", "GLP-1 CKD FDA approval", "semaglutide albuminuria reduction", "GLP-1 eGFR decline", "Ozempic FDA approved CKD 2025", "GLP-1 diabetic kidney disease", "semaglutide kidney failure prevention", "GLP-1 lupus nephritis", "affordable GLP-1 kidney health"]

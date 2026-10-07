@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and IBD: Crohn's, Ulcerative Colitis, and Gut Inflammation"
 date: 2026-07-17
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1 users with IBD had fewer hospitalizations with no increased flare risk. What semaglutide means for Crohn's and ulcerative colitis."
 summary: "GLP-1 users with IBD had fewer hospitalizations with no increased flare risk. What semaglutide means for Crohn's and ulcerative colitis."
 keywords: ["GLP-1 IBD", "semaglutide Crohn's disease", "GLP-1 ulcerative colitis", "Ozempic inflammatory bowel disease", "GLP-1 IBD flares", "semaglutide gut inflammation", "GLP-2 intestinal healing", "GLP-1 safe with Crohn's", "tirzepatide IBD", "GLP-1 nausea IBD flare", "weight loss medication ulcerative colitis", "GLP-1 IBD hospitalization study"]

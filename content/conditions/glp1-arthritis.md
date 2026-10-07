@@ -1,7 +1,7 @@
 ---
 title: "GLP-1 Medications and Arthritis: Can Semaglutide Help Joint Pain?"
 date: 2026-07-16
-lastmod: 2026-07-28
+lastmod: 2026-10-07
 description: "GLP-1 medications reduce joint pain through weight loss AND direct anti-inflammatory effects in joint tissue. The research and affordable access options."
 summary: "GLP-1 medications reduce joint pain through weight loss AND direct anti-inflammatory effects in joint tissue. The research and affordable access options."
 keywords: ["GLP-1 for arthritis", "semaglutide joint pain relief", "GLP-1 osteoarthritis treatment", "does semaglutide help knee pain", "GLP-1 anti-inflammatory effects joints", "tirzepatide arthritis research", "GLP-1 for knee osteoarthritis", "semaglutide reduce joint inflammation", "weight loss medication for arthritis pain", "GLP-1 receptor agonist joint tissue", "compounded semaglutide for joint pain", "affordable GLP-1 arthritis"]
