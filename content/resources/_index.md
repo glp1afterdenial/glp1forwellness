@@ -57,6 +57,15 @@ layout: "simple"
 </div>
 </a>
 
+<a href="/articles/oak-loves-you-review/" class="guide-card">
+<div class="guide-card__icon guide-card__icon--green">⭐</div>
+<div>
+<div class="guide-card__title">Oak Loves You Review: GLP-1 From $159/mo</div>
+<p class="guide-card__desc">Same-day approval, free coaching, price matching — take a 5-minute quiz for a free medical review</p>
+<span class="guide-card__arrow">Read review →</span>
+</div>
+</a>
+
 <a href="/peptides/best-peptide-telehealth/" class="guide-card">
 <div class="guide-card__icon guide-card__icon--blue">🧬</div>
 <div>

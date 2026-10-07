@@ -324,7 +324,7 @@ Oral Wegovy is FDA-approved and manufactured by Novo Nordisk — it's brand-name
 <a href="/articles/best-telehealth-glp1/" class="link-card">Best Telehealth for GLP-1 Prescriptions (2026) <span class="tx-green">→</span></a>
 <a href="/articles/cheapest-compounded-semaglutide/" class="link-card">Cheapest Compounded Semaglutide Online <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-heart-health/" class="link-card">GLP-1s and Heart Health <span class="tx-green">→</span></a>
-<a href="/resources/glp1-muscle-loss/" class="link-card">Preventing Muscle Loss on GLP-1s <span class="tx-green">→</span></a>
+<a href="/articles/oak-loves-you-review/" class="link-card">Oak Loves You Review: GLP-1 From $159/mo <span class="tx-green">→</span></a>
 </div>
 
 <p class="section-label">Sources</p>

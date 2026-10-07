@@ -478,7 +478,7 @@ Yes. Telehealth providers prescribe based on your overall health profile. If you
 <div class="related-grid">
 <a href="/articles/cheapest-compounded-semaglutide/" class="link-card">Cheapest Compounded Semaglutide: 7 Platforms Ranked by Price <span class="tx-green">→</span></a>
 <a href="/conditions/glp1-sleep-apnea/" class="link-card">GLP-1s & Sleep Apnea: The First FDA-Approved Drug for OSA <span class="tx-green">→</span></a>
-<a href="/conditions/glp1-fatty-liver/" class="link-card">GLP-1s & Fatty Liver (MASH): FDA-Approved Treatment <span class="tx-green">→</span></a>
+<a href="/articles/oak-loves-you-review/" class="link-card">Oak Loves You Review: GLP-1 From $159/mo <span class="tx-green">→</span></a>
 <a href="/articles/oral-wegovy-pill/" class="link-card">Oral Wegovy Pill: The First GLP-1 Weight Loss Pill <span class="tx-green">→</span></a>
 </div>
 
